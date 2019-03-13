@@ -12,6 +12,7 @@
 9. 深度学习如何优化神经网络结构|架构 [link](https://www.zhihu.com/question/19743656/answer/609887575)
 10. 计算机视觉知识点总结 [link](https://zhuanlan.zhihu.com/p/58776542)
 11. pytorch图卷积库 [github](https://github.com/rusty1s/pytorch_geometric)
+12. AI实战-practicalAI 中文版 [github](https://github.com/MLEveryday/practicalAI-cn)
 
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
@@ -156,7 +157,9 @@
 2. cefpython  [github](https://github.com/cztomczak/cefpython)
 3. pyqt5 示例 [github](https://github.com/maicss/PyQt5-Chinese-tutorial)
 4. pyqt5 DOC [link](http://pyqt.sourceforge.net/Docs/PyQt5/)
+
 ### 其他
 1. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)
 2. 逆向 [link](http://www.520monkey.com/)
 3. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
+4. 坐标旋转变换公式的推导 [link](https://blog.csdn.net/roslei/article/details/72956020)
