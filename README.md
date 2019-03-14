@@ -88,7 +88,7 @@
 2. Hourglass+heatmap解决掌纹回归问题  [link](http://blog.sina.com.cn/s/blog_1450ac3c60102xb0c.html)
 3. FaceDetection-DSFD  CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 4. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
-
+5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
 
 ###  人脸识别
 0. 人脸识别攻击 [link](https://zhuanlan.zhihu.com/p/52127314)
@@ -158,7 +158,8 @@
 8. PyOD异常检测库 [doc](https://pyod.readthedocs.io/en/latest/)
 9. requests文档 [doc](http://docs.python-requests.org/zh_CN/latest/user/advanced.html)
 11. numba 加速库
-
+12 albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
+13. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
