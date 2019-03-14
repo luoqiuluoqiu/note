@@ -96,6 +96,7 @@
 2. 人脸检测加识别  [github](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 3. face_recognition.pytorch [github](https://github.com/grib0ed0v/face_recognition.pytorch) 
 4. 人脸识别基础介绍 [link](https://zhuanlan.zhihu.com/p/58362396)
+5. A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018 [github](https://github.com/AlfredXiangWu/LightCNN)
 
 ###  人脸融合
 1. Faceswap pytorch  [github](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
