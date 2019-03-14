@@ -110,6 +110,16 @@
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
 3. 
 
+### 去水印 inpaint
+0. Context Encoders: Feature Learning by Inpainting 2016[github](https://github.com/BoyuanJiang/context_encoder_pytorch)
+1. High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis 2017 [github](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
+1. siggraph2017_inpainting 2017 [github](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+1. pytorch-inpainting-with-partial-conv  2018 [github](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)
+2. Generative Image Inpainting with Contextual Attention, CVPR 2018   [github](https://github.com/JiahuiYu/generative_inpainting)
+3. EdgeConnect 2019   [github](https://github.com/knazeri/edge-connect)
+4. Anime-InPainting 基于EdgeConnect的pytorch代码工具 [github](https://github.com/youyuge34/Anime-InPainting)
+4. Fully convolutional deep neural network to remove transparent overlays from images  [github](https://github.com/marcbelmont/cnn-watermark-removal)
+5. Exemplar_GAN_Eye_Inpainting [github](https://github.com/zhangqianhui/Exemplar-GAN-Eye-Inpainting-Tensorflow)
 ###  图像超分辨率与去噪
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
