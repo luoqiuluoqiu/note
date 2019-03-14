@@ -13,6 +13,8 @@
 10. 计算机视觉知识点总结 [link](https://zhuanlan.zhihu.com/p/58776542)
 11. pytorch图卷积库 [github](https://github.com/rusty1s/pytorch_geometric)
 12. AI实战-practicalAI 中文版 [github](https://github.com/MLEveryday/practicalAI-cn)
+13.  TensorFlow 2.0 Tutorials [github](https://github.com/dragen1860/TensorFlow2.0Tutorials)
+14. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
 
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
@@ -52,6 +54,7 @@
 
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
+2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 
 ###  跟踪Tracking
 0. SiamFC
@@ -154,7 +157,6 @@
 7. python各大网站登陆方式 [github](https://github.com/CriseLYJ/awesome-python-login-model)
 8. PyOD异常检测库 [doc](https://pyod.readthedocs.io/en/latest/)
 9. requests文档 [doc](http://docs.python-requests.org/zh_CN/latest/user/advanced.html)
-10. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
 11. numba 加速库
 
 ### C/C++
