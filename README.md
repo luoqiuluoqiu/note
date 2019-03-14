@@ -155,7 +155,7 @@
 8. PyOD异常检测库 [doc](https://pyod.readthedocs.io/en/latest/)
 9. requests文档 [doc](http://docs.python-requests.org/zh_CN/latest/user/advanced.html)
 10. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
-
+11. numba 加速库
 
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
