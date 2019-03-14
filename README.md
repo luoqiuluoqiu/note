@@ -19,6 +19,7 @@
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
 3. 细粒度图像分析综述 [link](https://zhuanlan.zhihu.com/p/57643009)
 4. 人脸识别损失函数综述 [link](https://zhuanlan.zhihu.com/p/51324547)
+5. AI技术三大应用领域：智能医疗、自动驾驶、智慧营销产业发展现状分析 [link](https://zhuanlan.zhihu.com/p/54444483)
 
 ### 分类 
 1. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
