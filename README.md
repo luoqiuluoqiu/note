@@ -120,6 +120,7 @@
 4. Anime-InPainting 基于EdgeConnect的pytorch代码工具 [github](https://github.com/youyuge34/Anime-InPainting)
 4. Fully convolutional deep neural network to remove transparent overlays from images  [github](https://github.com/marcbelmont/cnn-watermark-removal)
 5. Exemplar_GAN_Eye_Inpainting [github](https://github.com/zhangqianhui/Exemplar-GAN-Eye-Inpainting-Tensorflow)
+6. deep-image-prior [github](https://github.com/DmitryUlyanov/deep-image-prior)
 ###  图像超分辨率与去噪
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
