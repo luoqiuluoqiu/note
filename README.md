@@ -161,10 +161,11 @@
 11. numba 加速库
 12 albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
 13. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
+
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
-
+3. NumCpp C++版本的numpy[github](https://github.com/dpilger26/NumCpp)
 
 ### 浏览器定制：
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
