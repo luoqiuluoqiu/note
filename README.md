@@ -45,6 +45,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. Semantic Segmentation Suite图像分割开源工程 [github](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)
 1. awesome-semantic-segmentation [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 1. Context Encoding for Semantic Segmentation 2018_CVPR pytorch  [github](https://github.com/zhanghang1989/PyTorch-Encoding)  模型讲解[link](http://blog.prince2015.club/2018/06/07/Context-Encoding-for-Semantic-Segmentation/ )
 2. CCNet  CVPR2018 pytorch  [github](https://github.com/speedinghzl/CCNet)
