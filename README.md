@@ -168,6 +168,9 @@
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
 3. NumCpp C++版本的numpy[github](https://github.com/dpilger26/NumCpp)
 
+
+### dlib
+1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
 ### 浏览器定制：
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
 2. CEF 文档中文 [github](https://github.com/fanfeilong/cefutil)
