@@ -16,7 +16,7 @@
 13.  TensorFlow 2.0 Tutorials [github](https://github.com/dragen1860/TensorFlow2.0Tutorials)
 14. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
 15. 深度学习课程(第四梯)所设计的课程实作 [github](https://github.com/AllanYiin/https://github.com/AllanYiin/DeepBelief_Course4_Examples)
-
+16. CAM和Grad-CAM 模型解释 [link](https://bindog.github.io/blog/2018/02/10/model-explanation/)
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
