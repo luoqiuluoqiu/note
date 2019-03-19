@@ -18,6 +18,7 @@
 14. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
 15. 深度学习课程(第四梯)所设计的课程实作 [github](https://github.com/AllanYiin/https://github.com/AllanYiin/DeepBelief_Course4_Examples)
 16. CAM和Grad-CAM 模型解释 [link](https://bindog.github.io/blog/2018/02/10/model-explanation/)
+
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
@@ -25,11 +26,13 @@
 4. 人脸识别损失函数综述 [link](https://zhuanlan.zhihu.com/p/51324547)
 5. AI技术三大应用领域：智能医疗、自动驾驶、智慧营销产业发展现状分析 [link](https://zhuanlan.zhihu.com/p/54444483)
 6. 图像内容鉴黄算法综述 [link](http://tensorinfinity.com/paper_119.html)
+
 ### 分类 
 1. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
 2. Auto-Keras [link](https://blog.csdn.net/weixin_42499236/article/category/8399753)
 3. 图卷积网络Numpy实现 [link](https://zhuanlan.zhihu.com/p/57235377)
-7. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
+4. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
+5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测 
 0. Yolo系列检测器的pytorch实现 [github](https://github.com/TencentYoutuResearch/ObjectDetection-OneStageDet/tree/master/yolo)
@@ -76,6 +79,9 @@
 6. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
 
 # 业务模型 #
+
+### 小样本（one-shot learning）or 零样本（zero-shot learning）
+0.few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
 ###  NLP
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
@@ -138,6 +144,7 @@
 
 ### Adversarial Attack
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
+2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
 
 ###  其他
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
@@ -174,6 +181,7 @@
 
 ### dlib
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
+
 ### 浏览器定制：
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
 2. CEF 文档中文 [github](https://github.com/fanfeilong/cefutil)
