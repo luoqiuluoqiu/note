@@ -15,6 +15,7 @@
 12. AI实战-practicalAI 中文版 [github](https://github.com/MLEveryday/practicalAI-cn)
 13.  TensorFlow 2.0 Tutorials [github](https://github.com/dragen1860/TensorFlow2.0Tutorials)
 14. PaddlePaddle V2教程 [github](https://github.com/yeyupiaoling/LearnPaddle)
+15. 深度学习课程(第四梯)所设计的课程实作 [github](https://github.com/AllanYiin/https://github.com/AllanYiin/DeepBelief_Course4_Examples)
 
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
@@ -161,7 +162,7 @@
 11. numba 加速库
 12 albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
 13. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
-
+14 python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
