@@ -172,7 +172,7 @@
 12 albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
 13. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
 14 python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
-
+15. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
