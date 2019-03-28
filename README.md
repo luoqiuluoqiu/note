@@ -92,6 +92,7 @@
 1. EAST pytorch  [github](https://github.com/songdejia/EAST)
 2. TextSnake  pytorch [github](https://github.com/princewang1994/TextSnake.pytorch)
 3. AdvancedEAST keras/tensorflow [github](https://github.com/huoyijie/AdvancedEAST)
+4. PSENet 2018
 
 ###  人脸检测
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
