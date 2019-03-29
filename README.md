@@ -20,6 +20,7 @@
 16. CAM和Grad-CAM 模型解释 [link](https://bindog.github.io/blog/2018/02/10/model-explanation/)
 16. Grad-CAM with PyTorch [github](https://github.com/kazuto1011/grad-cam-pytorch)
 17. TensorFlow 内核剖析 [github](https://github.com/horance-liu/tensorflow-internals)
+18. Fast.ai v3 2019课程Notebook Kaggle Kernel 中文版  [link](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
