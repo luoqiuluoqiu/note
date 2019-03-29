@@ -87,6 +87,9 @@
 ###  NLP
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
 
+### 边缘检测算法
+1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
+2. hed_pytorch 2015 [github](https://github.com/BinWang-shu/pytorch_hed)
 ###  文字检测
 0. awesome-deep-text-detection-recognition [github](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 1. EAST pytorch  [github](https://github.com/songdejia/EAST)
