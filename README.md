@@ -37,6 +37,7 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测 
+0. mmdetection  [github](https://github.com/open-mmlab/mmdetection/tree/pytorch-0.4.1)
 0. Rapid satellite imagery object detection  2018 [github](https://github.com/CosmiQ/simrdwn)
 0. Yolo系列检测器的pytorch实现 [github](https://github.com/TencentYoutuResearch/ObjectDetection-OneStageDet/tree/master/yolo)
 0. awesome-object-detection  [github](https://github.com/amusi/awesome-object-detection)
