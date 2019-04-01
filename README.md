@@ -21,6 +21,7 @@
 16. Grad-CAM with PyTorch [github](https://github.com/kazuto1011/grad-cam-pytorch)
 17. TensorFlow 内核剖析 [github](https://github.com/horance-liu/tensorflow-internals)
 18. Fast.ai v3 2019课程Notebook Kaggle Kernel 中文版  [link](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
+19.  手机端高性能卷积神经网络推理引擎概览  [github](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View)
 ### 综述
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
@@ -52,6 +53,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. FastFCN 2019  pytorch  [github](https://github.com/wuhuikai/FastFCN)
 0. Semantic Segmentation Suite图像分割开源工程 [github](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)
 1. awesome-semantic-segmentation [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 1. Context Encoding for Semantic Segmentation 2018_CVPR pytorch  [github](https://github.com/zhanghang1989/PyTorch-Encoding)  模型讲解[link](http://blog.prince2015.club/2018/06/07/Context-Encoding-for-Semantic-Segmentation/ )
