@@ -106,9 +106,10 @@
 ###  人脸检测
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
 2. Hourglass+heatmap解决掌纹回归问题  [link](http://blog.sina.com.cn/s/blog_1450ac3c60102xb0c.html)
-3. FaceDetection-DSFD  CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
+3. FaceDetection-DSFD 腾讯优图 CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 4. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
+腾讯优图开源的人脸检测算法 - DSFD
 
 ###  人脸识别
 0. 人脸识别攻击 [link](https://zhuanlan.zhihu.com/p/52127314)
