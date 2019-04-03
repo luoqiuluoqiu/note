@@ -45,6 +45,7 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测 
+0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
 0. ThunderNet: 轻量级实时检测网络
 0. mmdetection  [github](https://github.com/open-mmlab/mmdetection/tree/pytorch-0.4.1)
 0. Rapid satellite imagery object detection  2018 [github](https://github.com/CosmiQ/simrdwn)
