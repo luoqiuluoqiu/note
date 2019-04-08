@@ -94,9 +94,12 @@
 6. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
 
 # 业务模型 #
+###  TSP or route
+1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
+2. attention-learn-to-route [github](https://github.com/wouterkool/attention-learn-to-route)
 
 ### 小样本（one-shot learning）or 零样本（zero-shot learning）
-0.few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
+0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
 ###  NLP
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
