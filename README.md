@@ -72,6 +72,7 @@
 5. BiSeNet  pytorch [github](https://github.com/ooooverflow/BiSeNet)
 6. ESPNet  速度快，准确率有下降ECCV2018 [link](https://www.ctolib.com/topics-138793.html)
 7. LightNet 轻量级  2018年 [github](https://github.com/ansleliu/LightNet)
+8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
