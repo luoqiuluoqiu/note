@@ -124,6 +124,7 @@
 腾讯优图开源的人脸检测算法 - DSFD
 
 ###  人脸识别
+0. 人脸对齐 [link](https://zhuanlan.zhihu.com/p/61343643)
 0. 人脸识别攻击 [link](https://zhuanlan.zhihu.com/p/52127314)
 1. awesome-Face_Recognition [github](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 2. 人脸检测加识别  [github](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
