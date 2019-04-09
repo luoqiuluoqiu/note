@@ -179,6 +179,7 @@
 4. 光流估计LiteFlowNet pytorch [github](https://github.com/sniklaus/pytorch-liteflownet)
 5. FA-GAN(Face Aging GAN)
 6. 深度学习实践文档检测 [link](https://zhuanlan.zhihu.com/p/56336225)
+7. AI绘画  [link](https://zhuanlan.zhihu.com/p/61761901) [github](https://github.com/hzwer/LearningToPaint)
  
 
 # 语言
