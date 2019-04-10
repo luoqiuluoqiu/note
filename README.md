@@ -203,6 +203,7 @@
 13. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
 14 python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
 15. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
+16. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
