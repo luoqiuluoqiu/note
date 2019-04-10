@@ -38,6 +38,7 @@
 4. PeleeNet   
 
 ### 分类 
+0. Res2Net
 1. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
 2. Auto-Keras [link](https://blog.csdn.net/weixin_42499236/article/category/8399753)
 3. 图卷积网络Numpy实现 [link](https://zhuanlan.zhihu.com/p/57235377)
