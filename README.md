@@ -81,6 +81,7 @@
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 
 ###  跟踪Tracking
+0. ATOM tracker PyTracking  pytorch  2019[github](https://github.com/visionml/pytracking)
 0. SiamFC
 1. DaSiamRPN
 1. SiamMask [github](https://github.com/foolwood/SiamMask)
