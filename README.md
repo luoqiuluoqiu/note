@@ -98,6 +98,8 @@
 6. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
 
 # 业务模型 #
+### 细粒度识别
+0. NTS-Net pytorch  2018 [github](https://github.com/yangze0930/NTS-Net)[link](https://zhuanlan.zhihu.com/p/62106844)
 ###  TSP or route
 1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 2. attention-learn-to-route [github](https://github.com/wouterkool/attention-learn-to-route)
@@ -204,6 +206,7 @@
 14 python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
 15. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
 16. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
+
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
