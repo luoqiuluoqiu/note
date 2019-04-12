@@ -46,6 +46,7 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测 
+0. 2018云从人头技术 冠军方案分享 [github](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector)
 0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
 0. ThunderNet: 轻量级实时检测网络
 0. mmdetection  [github](https://github.com/open-mmlab/mmdetection/tree/pytorch-0.4.1)
