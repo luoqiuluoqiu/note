@@ -92,6 +92,7 @@
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
 ### 工具
+0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
 1. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
 2. netron 网络结构图显示 [github](https://github.com/lutzroeder/netron)
 3. labelImg  [github](https://github.com/tzutalin/labelImg)
