@@ -45,7 +45,10 @@
 4. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
-###  目标检测 
+###  目标检测  从坐标点做目标检测
+
+0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
+0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
 0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)
 0. 2018云从人头技术 冠军方案分享 [github](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector)
 0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
