@@ -38,6 +38,7 @@
 4. PeleeNet   
 
 ### 分类 
+0. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
 0. Res2Net
 1. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
 2. Auto-Keras [link](https://blog.csdn.net/weixin_42499236/article/category/8399753)
@@ -196,7 +197,7 @@
 5. FA-GAN(Face Aging GAN)
 6. 深度学习实践文档检测 [link](https://zhuanlan.zhihu.com/p/56336225)
 7. AI绘画  [link](https://zhuanlan.zhihu.com/p/61761901) [github](https://github.com/hzwer/LearningToPaint)
- 
+8.肖像分割 portrait-demo [github](https://github.com/nizhib/portrait-demo)
 
 # 语言
 
