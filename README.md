@@ -221,7 +221,7 @@
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
 3. NumCpp C++版本的numpy[github](https://github.com/dpilger26/NumCpp)
-
+4. 图像解码库stb single-file public domain libraries for C/C++   [github](https://github.com/nothings/stb)
 
 ### dlib
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
