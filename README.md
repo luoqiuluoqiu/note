@@ -182,7 +182,7 @@
 ### 语音合成与识别
 1. 基于深度学习的中文语音识别系统 [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
-
+3. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
 
 ### Adversarial Attack
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
