@@ -30,6 +30,7 @@
 5. AI技术三大应用领域：智能医疗、自动驾驶、智慧营销产业发展现状分析 [link](https://zhuanlan.zhihu.com/p/54444483)
 6. 图像内容鉴黄算法综述 [link](http://tensorinfinity.com/paper_119.html)
 7. CDCS 中国数据竞赛优胜解集锦 [github](https://github.com/geekinglcq/CDCS)
+8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 ### 轻量网络
 0. ThunderNet
 1. mobilenet
@@ -53,8 +54,9 @@
 0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
 0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
-
+0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0.SSD pytorch [github](https://github.com/lufficc/SSD)  [link](https://zhuanlan.zhihu.com/p/62805787)
 0. 2018云从人头技术 冠军方案分享 [github](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector)
 0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
 0. ThunderNet: 轻量级实时检测网络
@@ -85,7 +87,7 @@
 6. ESPNet  速度快，准确率有下降ECCV2018 [link](https://www.ctolib.com/topics-138793.html)
 7. LightNet 轻量级  2018年 [github](https://github.com/ansleliu/LightNet)
 8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
-
+9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
@@ -148,7 +150,7 @@
 3. face_recognition.pytorch [github](https://github.com/grib0ed0v/face_recognition.pytorch) 
 4. 人脸识别基础介绍 [link](https://zhuanlan.zhihu.com/p/58362396)
 5. A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018 [github](https://github.com/AlfredXiangWu/LightCNN)
-
+6.  reid-strong-baseline 2019 pytorch[github](https://github.com/michuanhaohao/reid-strong-baseline)
 ###  人脸融合
 1. Faceswap pytorch  [github](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
 2. FaceAttribute-FAN  人脸特征融合 [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
@@ -184,7 +186,7 @@
 1. 基于深度学习的中文语音识别系统 [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
 3. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
-
+4. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
 ### Adversarial Attack
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
@@ -198,7 +200,7 @@
 6. 深度学习实践文档检测 [link](https://zhuanlan.zhihu.com/p/56336225)
 7. AI绘画  [link](https://zhuanlan.zhihu.com/p/61761901) [github](https://github.com/hzwer/LearningToPaint)
 8.肖像分割 portrait-demo [github](https://github.com/nizhib/portrait-demo)
-
+9. DeepHash [github](https://github.com/thulab/DeepHash)
 # 语言
 
 ###  python
@@ -236,6 +238,9 @@
 3. pyqt5 示例 [github](https://github.com/maicss/PyQt5-Chinese-tutorial)
 4. pyqt5 DOC [link](http://pyqt.sourceforge.net/Docs/PyQt5/)
 
+
+### 爬虫
+1. 拼多多商品信息爬虫  [github](https://github.com/Northxw/Pinduoduo)
 ### 其他
 1. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)
 2. 逆向 [link](http://www.520monkey.com/)
