@@ -75,6 +75,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. DUpsampling [github](https://github.com/LinZhuoChen/DUpsampling)
 0. yolact 2019  pytorch [link](https://www.toutiao.com/a6678064916353516039/) [github](https://github.com/dbolya/yolact)
 0. FastFCN 2019  pytorch  [github](https://github.com/wuhuikai/FastFCN)
 0. Semantic Segmentation Suite图像分割开源工程 [github](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)
