@@ -75,6 +75,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. AutoDeeplab pytorch [github](https://github.com/MenghaoGuo/AutoDeeplab)
 0. DUpsampling [github](https://github.com/LinZhuoChen/DUpsampling)
 0. yolact 2019  pytorch [link](https://www.toutiao.com/a6678064916353516039/) [github](https://github.com/dbolya/yolact)
 0. FastFCN 2019  pytorch  [github](https://github.com/wuhuikai/FastFCN)
@@ -111,6 +112,7 @@
 4. modelsummary [github](https://github.com/graykode/modelsummary)
 5. pytorch-experiments-template  [github](https://github.com/learning-luke/pytorch-experiments-template)
 6. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
+7. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
 
 # 业务模型 #
 ### 细粒度识别
@@ -141,7 +143,9 @@
 3. FaceDetection-DSFD 腾讯优图 CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 4. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
-腾讯优图开源的人脸检测算法 - DSFD
+6. 腾讯优图开源的人脸检测算法 - DSFD
+7. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
+
 
 ###  人脸识别
 0. 人脸对齐 [link](https://zhuanlan.zhihu.com/p/61343643)
@@ -202,6 +206,8 @@
 7. AI绘画  [link](https://zhuanlan.zhihu.com/p/61761901) [github](https://github.com/hzwer/LearningToPaint)
 8.肖像分割 portrait-demo [github](https://github.com/nizhib/portrait-demo)
 9. DeepHash [github](https://github.com/thulab/DeepHash)
+10. 基于CNN的面部表情识别（FER2013和CK +）的pytorch实现  [github](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
+11. Im2Pencil - 用Pytorch实现从照片生成可控制的铅笔插图 pytorch [github](https://github.com/Yijunmaverick/Im2Pencil)
 # 语言
 
 ###  python
