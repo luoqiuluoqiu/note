@@ -36,7 +36,10 @@
 1. mobilenet
 2. shufflenet 
 3. nas 
-4. PeleeNet   
+4. PeleeNet  
+
+### inference
+1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
 
 ### 分类 
 0. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
