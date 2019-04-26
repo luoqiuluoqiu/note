@@ -40,6 +40,10 @@
 
 ### inference
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
+2. ncnn
+3. tvm
+4. ZQCNN
+
 
 ### 分类 
 0. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
@@ -246,6 +250,11 @@
 ### dlib
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
 
+
+
+### matting
+0. Natural-image-matting C++ [github](https://github.com/Rnandani/Natural-image-matting)
+1. global-matting [github](https://github.com/Ewenwan/global-matting)
 ### 浏览器定制：
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
 2. CEF 文档中文 [github](https://github.com/fanfeilong/cefutil)
