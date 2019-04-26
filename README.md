@@ -90,6 +90,7 @@
 7. LightNet 轻量级  2018年 [github](https://github.com/ansleliu/LightNet)
 8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
+10.nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
@@ -192,9 +193,12 @@
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
 3. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
 4. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
+
 ### Adversarial Attack
+0. EYD与机器学习 [github](https://zhuanlan.zhihu.com/c_170476465)
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
+3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
 ###  其他
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
@@ -208,6 +212,8 @@
 9. DeepHash [github](https://github.com/thulab/DeepHash)
 10. 基于CNN的面部表情识别（FER2013和CK +）的pytorch实现  [github](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
 11. Im2Pencil - 用Pytorch实现从照片生成可控制的铅笔插图 pytorch [github](https://github.com/Yijunmaverick/Im2Pencil)
+12. NLP DNN Toolkit：微软发布的模块化深度学习NLP工具集 [github](https://github.com/Microsoft/NeuronBlocks)
+13. 基于深度神经网络和蒙特卡罗树搜索的神经网络搜索  [github](https://github.com/linnanwang/AlphaX-NASBench101)
 # 语言
 
 ###  python
