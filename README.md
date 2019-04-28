@@ -215,7 +215,7 @@
 5. FA-GAN(Face Aging GAN)
 6. 深度学习实践文档检测 [link](https://zhuanlan.zhihu.com/p/56336225)
 7. AI绘画  [link](https://zhuanlan.zhihu.com/p/61761901) [github](https://github.com/hzwer/LearningToPaint)
-8.肖像分割 portrait-demo [github](https://github.com/nizhib/portrait-demo)
+8. 肖像分割 portrait-demo [github](https://github.com/nizhib/portrait-demo)
 9. DeepHash [github](https://github.com/thulab/DeepHash)
 10. 基于CNN的面部表情识别（FER2013和CK +）的pytorch实现  [github](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
 11. Im2Pencil - 用Pytorch实现从照片生成可控制的铅笔插图 pytorch [github](https://github.com/Yijunmaverick/Im2Pencil)
