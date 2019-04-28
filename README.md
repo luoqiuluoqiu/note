@@ -63,7 +63,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
-0.SSD pytorch [github](https://github.com/lufficc/SSD)  [link](https://zhuanlan.zhihu.com/p/62805787)
+0. SSD pytorch [github](https://github.com/lufficc/SSD)  [link](https://zhuanlan.zhihu.com/p/62805787)
 0. 2018云从人头技术 冠军方案分享 [github](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector)
 0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
 0. ThunderNet: 轻量级实时检测网络
