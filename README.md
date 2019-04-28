@@ -151,7 +151,6 @@
 3. FaceDetection-DSFD 腾讯优图 CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 4. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
-6. 腾讯优图开源的人脸检测算法 - DSFD
 7. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
 
 
