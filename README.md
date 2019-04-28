@@ -97,7 +97,7 @@
 7. LightNet 轻量级  2018年 [github](https://github.com/ansleliu/LightNet)
 8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
-10.nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
+10. nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
