@@ -112,6 +112,13 @@
 
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
+
+
+## 深度学习框架
+### pytorch
+0.  pytorch-cpp-inference   包含C++ httpserver  base64[github](https://github.com/Wizaron/pytorch-cpp-inference)
+1. pytorch  2C#  inference   [github](https://github.com/maxest/MaxestFramework) 
+2. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
 ### 工具
 0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
 1. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
