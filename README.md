@@ -36,7 +36,8 @@
 1. mobilenet
 2. shufflenet 
 3. nas 
-4. PeleeNet  
+4. PeleeNet 
+5. 为什么MobileNet及其变体如此之快 [github](https://zhuanlan.zhihu.com/p/64138403)
 
 ### inference
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
