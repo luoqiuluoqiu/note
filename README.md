@@ -43,6 +43,7 @@
 2. ncnn
 3. tvm
 4. ZQCNN
+5.  AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
 
 
 ### 分类 
