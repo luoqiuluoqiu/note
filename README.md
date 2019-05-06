@@ -22,7 +22,9 @@
 17. TensorFlow 内核剖析 [github](https://github.com/horance-liu/tensorflow-internals)
 18. Fast.ai v3 2019课程Notebook Kaggle Kernel 中文版  [link](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 19.  手机端高性能卷积神经网络推理引擎概览  [github](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View)
+20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 ### 综述
+0. MobileFace：移动端人脸算法全栈项目 [link](https://zhuanlan.zhihu.com/p/64371436)  [github](https://github.com/becauseofAI/MobileFace)
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
 3. 细粒度图像分析综述 [link](https://zhuanlan.zhihu.com/p/57643009)
@@ -48,6 +50,7 @@
 
 
 ### 分类 
+0. 推崇的CNN架构 [link](https://zhuanlan.zhihu.com/p/64007515)
 0. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
 0. Res2Net
 1. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
@@ -84,6 +87,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0.  研习U-Net [link](https://zhuanlan.zhihu.com/p/44958351)
 0. 用于语义分割的树形结构Kronecker卷积网络 pytorch  2019 [github](https://github.com/wutianyiRosun/TKCN)
 0. AutoDeeplab pytorch [github](https://github.com/MenghaoGuo/AutoDeeplab)
 0. DUpsampling [github](https://github.com/LinZhuoChen/DUpsampling)
@@ -123,6 +127,7 @@
 1. pytorch  2C#  inference   [github](https://github.com/maxest/MaxestFramework) 
 2. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
 3. torchcv [github](https://github.com/donnyyou/torchcv)
+4.  Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
 ### 工具
 0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
 1. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
@@ -166,6 +171,7 @@
 
 
 ###  人脸识别
+0. Face Recognition Loss on Mnist with Pytorch  [github](https://zhuanlan.zhihu.com/p/64427565)
 0. 人脸对齐 [link](https://zhuanlan.zhihu.com/p/61343643)
 0. 人脸识别攻击 [link](https://zhuanlan.zhihu.com/p/52127314)
 1. awesome-Face_Recognition [github](https://github.com/ChanChiChoi/awesome-Face_Recognition)
