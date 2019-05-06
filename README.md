@@ -33,6 +33,7 @@
 6. 图像内容鉴黄算法综述 [link](http://tensorinfinity.com/paper_119.html)
 7. CDCS 中国数据竞赛优胜解集锦 [github](https://github.com/geekinglcq/CDCS)
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
+9. OCR papernote [github](https://github.com/xwzhong/papernote)
 ### 轻量网络
 0. ThunderNet
 1. mobilenet
@@ -224,6 +225,9 @@
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
 3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
+
+###  TSP
+0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)
 
 ###  其他
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
