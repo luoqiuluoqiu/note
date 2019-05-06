@@ -42,7 +42,7 @@
 4. PeleeNet 
 5. 为什么MobileNet及其变体如此之快 [github](https://zhuanlan.zhihu.com/p/64138403)
 6. dabnn 二值网络 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
-
+7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 ### inference
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
 2. ncnn
