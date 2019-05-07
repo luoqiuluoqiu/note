@@ -53,6 +53,9 @@
 
 
 ### 分类 
+0. Inception 
+0. Network in Network 
+0. pytorch_highway_networks [github](https://github.com/c0nn3r/pytorch_highway_networks)
 0. 推崇的CNN架构 [link](https://zhuanlan.zhihu.com/p/64007515)
 0. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
 0. Res2Net
