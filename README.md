@@ -301,6 +301,10 @@
 
 ### 爬虫
 1. 拼多多商品信息爬虫  [github](https://github.com/Northxw/Pinduoduo)
+
+
+### opencv
+0. learnopencv [link](https://www.learnopencv.com) [github](https://github.com/spmallick/learnopencv)
 ### 其他
 1. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)
 2. 逆向 [link](http://www.520monkey.com/)
