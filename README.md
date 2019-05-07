@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0. conv_arithmetic 卷积的动态描述 [github](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 0. netron 查看网络工具 [github](https://github.com/lutzroeder/Netron)
 1. 论文代码合集  [github](https://github.com/zziz/pwc#2018)
 2. 开源机器人学学习指南 [github](https://github.com/qqfly/how-to-learn-robotics)
@@ -232,6 +233,13 @@
 
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)
+
+
+
+###  matting
+1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
+2. Image Matting代码和算法效果总结 [link](http://blog.leanote.com/post/610167078@qq.com/Image-Matting)
+3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
 
 ###  其他
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
