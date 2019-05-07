@@ -218,6 +218,7 @@
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
 ### 语音合成与识别
+0. RNN-CTC ctc-asr[github](https://github.com/mdangschat/ctc-asr)
 1. 基于深度学习的中文语音识别系统 [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
 3. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
