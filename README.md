@@ -237,6 +237,7 @@
 
 
 ###  matting
+0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
 2. Image Matting代码和算法效果总结 [link](http://blog.leanote.com/post/610167078@qq.com/Image-Matting)
 3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
