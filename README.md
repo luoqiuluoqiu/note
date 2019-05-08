@@ -52,6 +52,8 @@
 5.  AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
 6. MNN 阿里
 
+### 蒸馏 剪枝  量化
+0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 
 ### 分类 
 0. Inception 
@@ -201,7 +203,7 @@
 ###  OCR
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
-3. 
+3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
 
 ### 去水印 inpaint
 0. Context Encoders: Feature Learning by Inpainting 2016[github](https://github.com/BoyuanJiang/context_encoder_pytorch)
