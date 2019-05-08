@@ -196,9 +196,11 @@
 ###  人体姿态估计
 1. 深度高分辨表示学习的姿态估计算法  pytorch  [github](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 2. pose proposal networks [github](https://github.com/wangziren1/pytorch_pose_proposal_networks)
+3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
 
 ## 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
+2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
 
 ###  OCR
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
