@@ -36,6 +36,7 @@
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 9. OCR papernote [github](https://github.com/xwzhong/papernote)
 ### 轻量网络
+0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)
 0. ThunderNet
 1. mobilenet
 2. shufflenet 
@@ -73,10 +74,11 @@
 #### 基于坐标点做目标检测
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
 0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
-0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)
+0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)   FCOS_GluonCV[github](https://github.com/DetectionTeamUCAS/FCOS_GluonCV)
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0. PoolNet pytorch 2019 [github](https://github.com/backseason/PoolNet)
 0. SSD pytorch [github](https://github.com/lufficc/SSD)  [link](https://zhuanlan.zhihu.com/p/62805787)
 0. 2018云从人头技术 冠军方案分享 [github](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector)
 0. 目标检测进化史 [link](https://zhuanlan.zhihu.com/p/60590369)
@@ -119,6 +121,7 @@
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 
 ###  跟踪Tracking
+0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
 0. ATOM tracker PyTracking  pytorch  2019[github](https://github.com/visionml/pytracking)
 0. SiamFC
