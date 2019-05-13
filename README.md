@@ -267,6 +267,7 @@
 # 语言
 
 ###  python
+0. pybind11 [github](https://github.com/pybind/pybind11)
 1. imutils库--图像处理函数
 2. Python 库 [link](https://www.zhihu.com/question/24590883?sort=created)
 1. Pyinstaller打包需要的参数 [link](https://blog.csdn.net/lixiaoyu101/article/details/84634842)
