@@ -244,6 +244,9 @@
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 
 
+### NLP
+0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
+1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 ###  matting
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
