@@ -36,7 +36,7 @@
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 9. OCR papernote [github](https://github.com/xwzhong/papernote)
 ### 轻量网络
-0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)
+0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
 1. mobilenet
 2. shufflenet 
