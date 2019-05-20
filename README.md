@@ -204,6 +204,7 @@
 ## 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
+3. 一个基于PyTorch的开源人群计数框架  [github](https://github.com/gjy3035/C-3-Framework)[link](https://zhuanlan.zhihu.com/p/65650998)
 
 ###  OCR
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
