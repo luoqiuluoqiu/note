@@ -52,6 +52,7 @@
 4. ZQCNN
 5.  AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
 6. MNN 阿里
+7. paddle-mobile 
 
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
