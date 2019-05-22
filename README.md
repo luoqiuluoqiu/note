@@ -47,12 +47,17 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 ### inference
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
-2. ncnn
+2. ncnn  腾讯
 3. tvm
 4. ZQCNN
-5.  AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
+5. AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
 6. MNN 阿里
-7. paddle-mobile 
+7. paddle-mobile  百度
+8. MACE2 小米
+9. TEngine 
+10. tensorflow lite 
+11 QNNPACK
+12 FeatherCNN
 
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
