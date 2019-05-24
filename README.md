@@ -181,6 +181,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
 2. Hourglass+heatmap解决掌纹回归问题  [link](http://blog.sina.com.cn/s/blog_1450ac3c60102xb0c.html)
 3. FaceDetection-DSFD 腾讯优图 CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
