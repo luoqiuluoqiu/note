@@ -181,6 +181,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. FaceKit [github](https://github.com/Jack-CV/FaceKit)
 0. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
 2. Hourglass+heatmap解决掌纹回归问题  [link](http://blog.sina.com.cn/s/blog_1450ac3c60102xb0c.html)
@@ -200,6 +201,7 @@
 4. 人脸识别基础介绍 [link](https://zhuanlan.zhihu.com/p/58362396)
 5. A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018 [github](https://github.com/AlfredXiangWu/LightCNN)
 6.  reid-strong-baseline 2019 pytorch[github](https://github.com/michuanhaohao/reid-strong-baseline)
+
 ###  人脸融合
 1. Faceswap pytorch  [github](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
 2. FaceAttribute-FAN  人脸特征融合 [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
