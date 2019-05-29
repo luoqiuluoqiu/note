@@ -1,6 +1,8 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+
+0. 深度学习算法地图  [link](http://www.tensorinfinity.com/paper_158.html)
 0. conv_arithmetic 卷积的动态描述 [github](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 0. netron 查看网络工具 [github](https://github.com/lutzroeder/Netron)
 1. 论文代码合集  [github](https://github.com/zziz/pwc#2018)
