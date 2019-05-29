@@ -334,6 +334,7 @@
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
 
 ### 其他
+0. 头发分割项目  [github](pytorch-hair-segmentation)
 1. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)
 2. 逆向 [link](http://www.520monkey.com/)
 3. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
