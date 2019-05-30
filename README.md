@@ -143,7 +143,8 @@
 
 
 ## 深度学习框架
-### pytorch
+### pytorch [github](https://zhuanlan.zhihu.com/p/67415439)
+0. 如何优雅的使用pytorch内置torch.nn.CTCLoss的方法 
 0.  pytorch-cpp-inference   包含C++ httpserver  base64[github](https://github.com/Wizaron/pytorch-cpp-inference)
 1. pytorch  2C#  inference   [github](https://github.com/maxest/MaxestFramework) 
 2. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
