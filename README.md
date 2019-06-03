@@ -65,6 +65,8 @@
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 
 ### 分类 
+0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
+0. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
 0. Inception 
 0. Network in Network 
 0. pytorch_highway_networks [github](https://github.com/c0nn3r/pytorch_highway_networks)
