@@ -109,6 +109,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. Lightweight-Segmentation [github](https://github.com/Tramac/Lightweight-Segmentation)
 0.  研习U-Net [link](https://zhuanlan.zhihu.com/p/44958351)
 0. 用于语义分割的树形结构Kronecker卷积网络 pytorch  2019 [github](https://github.com/wutianyiRosun/TKCN)
 0. AutoDeeplab pytorch [github](https://github.com/MenghaoGuo/AutoDeeplab)
