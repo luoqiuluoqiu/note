@@ -63,7 +63,7 @@
 
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
-
+1. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
 ### 分类 
 0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
 0. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
