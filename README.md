@@ -47,6 +47,7 @@
 5. 为什么MobileNet及其变体如此之快 [github](https://zhuanlan.zhihu.com/p/64138403)
 6. dabnn 二值网络 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
+
 ### inference
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
 2. ncnn  腾讯
@@ -64,6 +65,7 @@
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 1. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
+
 ### 分类 
 0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
 0. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
@@ -128,6 +130,7 @@
 8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 10. nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
+
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
@@ -153,6 +156,8 @@
 2. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
 3. torchcv [github](https://github.com/donnyyou/torchcv)
 4.  Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
+
+
 ### 工具
 0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
 1. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
@@ -179,6 +184,8 @@
 ### 边缘检测算法
 1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
 2. hed_pytorch 2015 [github](https://github.com/BinWang-shu/pytorch_hed)
+
+
 ###  文字检测
 0. awesome-deep-text-detection-recognition [github](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 1. EAST pytorch  [github](https://github.com/songdejia/EAST)
@@ -239,6 +246,8 @@
 5. Exemplar_GAN_Eye_Inpainting [github](https://github.com/zhangqianhui/Exemplar-GAN-Eye-Inpainting-Tensorflow)
 6. deep-image-prior [github](https://github.com/DmitryUlyanov/deep-image-prior)
 7. SC-FEGAN [github](https://github.com/JoYoungjoo/SC-FEGAN)
+
+
 ###  图像超分辨率与去噪
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
@@ -255,6 +264,8 @@
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
 3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
+### GAN 对抗神经网络
+0. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
@@ -264,6 +275,7 @@
 ### NLP
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+
 ###  matting
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
