@@ -229,6 +229,9 @@
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
 3. 一个基于PyTorch的开源人群计数框架  [github](https://github.com/gjy3035/C-3-Framework)[link](https://zhuanlan.zhihu.com/p/65650998)
 
+### 时序
+0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
+
 ###  OCR
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
