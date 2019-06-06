@@ -26,6 +26,7 @@
 18. Fast.ai v3 2019课程Notebook Kaggle Kernel 中文版  [link](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 19.  手机端高性能卷积神经网络推理引擎概览  [github](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View)
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
+
 ### 综述
 0. MobileFace：移动端人脸算法全栈项目 [link](https://zhuanlan.zhihu.com/p/64371436)  [github](https://github.com/becauseofAI/MobileFace)
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
@@ -37,6 +38,7 @@
 7. CDCS 中国数据竞赛优胜解集锦 [github](https://github.com/geekinglcq/CDCS)
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 9. OCR papernote [github](https://github.com/xwzhong/papernote)
+
 ### 轻量网络
 0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
@@ -67,6 +69,11 @@
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 1. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
 
+
+
+### Auto ML
+0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
+
 ### 分类 
 0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
 0. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
@@ -91,6 +98,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0. simpledet NAS-FPN 2019 mxnet[github](https://github.com/TuSimple/simpledet)
 0. SSD-PyTorch源码解析 [link](https://zhuanlan.zhihu.com/p/66332452) [github](https://github.com/amdegroot/ssd.pytorch)
 0. PoolNet pytorch 2019 [github](https://github.com/backseason/PoolNet)
 0. SSD pytorch [github](https://github.com/lufficc/SSD)  [link](https://zhuanlan.zhihu.com/p/62805787)
