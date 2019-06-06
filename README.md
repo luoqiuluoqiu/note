@@ -51,6 +51,7 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
 ### inference
+0. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
 0. NNoM [github](https://github.com/majianjia/nnom/blob/master/docs/rt-thread_guide.md)
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
 2. ncnn  腾讯
