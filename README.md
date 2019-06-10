@@ -76,6 +76,9 @@
 0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
 
 ### 分类 
+0.   pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
+0. deeplearning-models[github](https://github.com/rasbt/deeplearning-models)
+0. CNN模型合集  [link](https://zhuanlan.zhihu.com/c_1108736111320555520)
 0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
 0. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
 0. Inception 
@@ -121,6 +124,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. 12篇文章带你逛遍主流分割网络  [link](https://zhuanlan.zhihu.com/p/68456636)
 0. DeepLab 语义分割模型 v1、v2、v3、v3+ 概要（附 Pytorch 实现） [link](https://zhuanlan.zhihu.com/p/68531147)
 0. Lightweight-Segmentation [github](https://github.com/Tramac/Lightweight-Segmentation)
 0.  研习U-Net [link](https://zhuanlan.zhihu.com/p/44958351)
@@ -249,6 +253,7 @@
 3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
 
 ### 去水印 inpaint
+0. Image-Inpainting paper and code [github](https://github.com/geekyutao/Image-Inpainting)
 0. Context Encoders: Feature Learning by Inpainting 2016[github](https://github.com/BoyuanJiang/context_encoder_pytorch)
 1. High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis 2017 [github](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
 1. siggraph2017_inpainting 2017 [github](https://github.com/satoshiiizuka/siggraph2017_inpainting)
@@ -266,6 +271,7 @@
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
 ### 语音合成与识别
+0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
 0. RNN-CTC ctc-asr[github](https://github.com/mdangschat/ctc-asr)
 1. 基于深度学习的中文语音识别系统 [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
@@ -280,6 +286,7 @@
 
 ### GAN 对抗神经网络
 0. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
+
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
