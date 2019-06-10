@@ -121,6 +121,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. DeepLab 语义分割模型 v1、v2、v3、v3+ 概要（附 Pytorch 实现） [link](https://zhuanlan.zhihu.com/p/68531147)
 0. Lightweight-Segmentation [github](https://github.com/Tramac/Lightweight-Segmentation)
 0.  研习U-Net [link](https://zhuanlan.zhihu.com/p/44958351)
 0. 用于语义分割的树形结构Kronecker卷积网络 pytorch  2019 [github](https://github.com/wutianyiRosun/TKCN)
