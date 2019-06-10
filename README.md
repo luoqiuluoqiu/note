@@ -353,7 +353,9 @@
 ### matting
 0. Natural-image-matting C++ [github](https://github.com/Rnandani/Natural-image-matting)
 1. global-matting [github](https://github.com/Ewenwan/global-matting)
+
 ### 浏览器定制：
+0. qutebrowser pyqt5  [github](https://github.com/qutebrowser)
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
 2. CEF 文档中文 [github](https://github.com/fanfeilong/cefutil)
 3. miniblink [github](https://github.com/weolar/miniblink49)
