@@ -94,6 +94,8 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测  
+#### 视频目标检测
+1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
@@ -321,6 +323,7 @@
 # 语言
 
 ###  python
+0. imgviz画图 [github](https://github.com/wkentaro/imgviz)
 0. wxpy: 用 Python 玩微信 [link]()
 0. Waitress [link](https://docs.pylonsproject.org/projects/waitress/en/latest/)
 0. ABuilder python mysql数据库[github](https://github.com/lizhenggan/ABuilder)
