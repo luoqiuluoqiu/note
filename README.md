@@ -76,6 +76,7 @@
 0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
 
 ### 分类 
+0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
 0.   pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
 0. deeplearning-models[github](https://github.com/rasbt/deeplearning-models)
 0. CNN模型合集  [link](https://zhuanlan.zhihu.com/c_1108736111320555520)
