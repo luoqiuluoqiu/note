@@ -206,6 +206,8 @@
 
 
 ###  文字检测
+0. CRAFT-pytorch 2019 [github](https://github.com/clovaai/CRAFT-pytorch)
+0. PSENET keras 2019[github](https://github.com/xiaomaxiao/PSENET)
 0. awesome-deep-text-detection-recognition [github](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 1. EAST pytorch  [github](https://github.com/songdejia/EAST)
 2. TextSnake  pytorch [github](https://github.com/princewang1994/TextSnake.pytorch)
