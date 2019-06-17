@@ -127,6 +127,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0.  ReDO  通过对抗网络 2019 [github](https://github.com/mickaelChen/ReDO)
 0. 12篇文章带你逛遍主流分割网络  [link](https://zhuanlan.zhihu.com/p/68456636)
 0. DeepLab 语义分割模型 v1、v2、v3、v3+ 概要（附 Pytorch 实现） [link](https://zhuanlan.zhihu.com/p/68531147)
 0. Lightweight-Segmentation [github](https://github.com/Tramac/Lightweight-Segmentation)
