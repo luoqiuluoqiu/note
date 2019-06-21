@@ -364,7 +364,7 @@
 
 ### dlib
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
-
+2. 3D人脸重建  轻量级3DMM [github](https://github.com/codeniko/eos)
 
 
 ### matting
