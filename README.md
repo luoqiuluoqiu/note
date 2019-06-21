@@ -153,7 +153,7 @@
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
-
+3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
 ###  跟踪Tracking
 0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
@@ -294,6 +294,10 @@
 
 ### GAN 对抗神经网络
 0. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
+1. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
+2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
+
+
 
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
