@@ -280,6 +280,7 @@
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 
 ### 语音合成与识别
+0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
 0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
 0. RNN-CTC ctc-asr[github](https://github.com/mdangschat/ctc-asr)
 1. 基于深度学习的中文语音识别系统 [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
@@ -307,6 +308,7 @@
 
 
 ### NLP
+0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
@@ -330,6 +332,7 @@
 11. Im2Pencil - 用Pytorch实现从照片生成可控制的铅笔插图 pytorch [github](https://github.com/Yijunmaverick/Im2Pencil)
 12. NLP DNN Toolkit：微软发布的模块化深度学习NLP工具集 [github](https://github.com/Microsoft/NeuronBlocks)
 13. 基于深度神经网络和蒙特卡罗树搜索的神经网络搜索  [github](https://github.com/linnanwang/AlphaX-NASBench101)
+14.  Exploring the Limits of Compact Model for Age Estimation. CVPR2019  [github](https://github.com/vicwer/C3AE_Age_Estimation)
 # 语言
 
 ###  python
