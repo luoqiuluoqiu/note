@@ -401,3 +401,4 @@
 2. 逆向 [link](http://www.520monkey.com/)
 3. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
 4. 坐标旋转变换公式的推导 [link](https://blog.csdn.net/roslei/article/details/72956020)
+5. 自动红眼移除算法 附c++完整代码   [link](https://www.cnblogs.com/cpuimage/p/9000203.html)
