@@ -99,6 +99,7 @@
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
+0. ExtremeNet pytorch  2019 [link](https://zhuanlan.zhihu.com/p/71249684) [github](https://github.com/xingyizhou/ExtremeNet)
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
 0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
 0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)   FCOS_GluonCV[github](https://github.com/DetectionTeamUCAS/FCOS_GluonCV)
