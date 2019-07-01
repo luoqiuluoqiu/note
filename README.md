@@ -105,6 +105,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0.  对YOLOv3做模型剪枝  pytorch 2019 [github](https://github.com/Lam1360/YOLOv3-model-pruning)
 0. simpledet NAS-FPN 2019 mxnet[github](https://github.com/TuSimple/simpledet)
 0. SSD-PyTorch源码解析 [link](https://zhuanlan.zhihu.com/p/66332452) [github](https://github.com/amdegroot/ssd.pytorch)
 0. PoolNet pytorch 2019 [github](https://github.com/backseason/PoolNet)
@@ -308,6 +309,7 @@
 
 
 ### NLP
+0.  BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
 0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
@@ -319,6 +321,7 @@
 3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
 
 ###  其他
+0.  基于CNN+Bi-LSTM+Attention 的自动对对联系统  pytorch  [github](https://github.com/WiseDoge/CoupletAI)
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
 2. 图像增强 [github](https://github.com/aleju/imgaug)
 3. 黄图5分类 tensorflow [github](https://github.com/rockyzhengwu/nsfw)
