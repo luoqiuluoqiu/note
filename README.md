@@ -1,7 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
-
+0.  numpy-ml  [github](https://github.com/ddbourgin/numpy-ml)
 0. 深度学习算法地图  [link](http://www.tensorinfinity.com/paper_158.html)
 0. conv_arithmetic 卷积的动态描述 [github](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 0. netron 查看网络工具 [github](https://github.com/lutzroeder/Netron)
@@ -74,6 +74,8 @@
 
 ### Auto ML
 0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
+1. FairNAS 2019 [github](https://github.com/fairnas/FairNAS)
+
 
 ### 分类 
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
