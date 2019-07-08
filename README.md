@@ -131,6 +131,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0.  实时语义分割模型集合  [github](https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation）
 0. 无监督和超像素语义分割  [link](https://zhuanlan.zhihu.com/p/68528056)[github](https://github.com/kanezaki/pytorch-unsupervised-segmentation)  [github](https://github.com/Yonv1943/Unsupervised-Segmentation/tree/master)
 0.  ReDO  通过对抗网络 2019 [github](https://github.com/mickaelChen/ReDO)
 0. 12篇文章带你逛遍主流分割网络  [link](https://zhuanlan.zhihu.com/p/68456636)
@@ -342,6 +343,7 @@
 # 语言
 
 ###  python
+0. pyqt5 examples  [github](https://github.com/pyqt/examples)
 0. imgviz画图 [github](https://github.com/wkentaro/imgviz)
 0. wxpy: 用 Python 玩微信 [link]()
 0. Waitress [link](https://docs.pylonsproject.org/projects/waitress/en/latest/)
