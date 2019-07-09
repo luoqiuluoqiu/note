@@ -40,6 +40,7 @@
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 9. OCR papernote [github](https://github.com/xwzhong/papernote)
 10.  图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
+
 ### 轻量网络
 0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
@@ -64,8 +65,9 @@
 8. MACE2 小米
 9. TEngine 
 10. tensorflow lite 
-11 QNNPACK
-12 FeatherCNN
+11. QNNPACK
+12. FeatherCNN
+13. ArmNN  [github](https://github.com/ARM-software/armnn)
 
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
