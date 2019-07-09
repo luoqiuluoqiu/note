@@ -109,6 +109,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0.  Double-Head RCNN  通过增加多个head提升准确率[github](https://zhuanlan.zhihu.com/p/72796246)
 0.  对YOLOv3做模型剪枝  pytorch 2019 [github](https://github.com/Lam1360/YOLOv3-model-pruning)
 0. simpledet NAS-FPN 2019 mxnet[github](https://github.com/TuSimple/simpledet)
 0. SSD-PyTorch源码解析 [link](https://zhuanlan.zhihu.com/p/66332452) [github](https://github.com/amdegroot/ssd.pytorch)
