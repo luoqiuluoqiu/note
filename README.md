@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
 0.  numpy-ml  [github](https://github.com/ddbourgin/numpy-ml)
 0. 深度学习算法地图  [link](http://www.tensorinfinity.com/paper_158.html)
 0. conv_arithmetic 卷积的动态描述 [github](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
