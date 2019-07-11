@@ -187,7 +187,8 @@
 2. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
 3. torchcv [github](https://github.com/donnyyou/torchcv)
 4.  Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
-
+5.  二进制模型 [github](https://github.com/wonnado/binary-nets)
+6. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
 
 ### 工具
 0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
@@ -235,7 +236,7 @@
 4. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
 7. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
-
+8. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
 
 ###  人脸识别
 0. Face Recognition Loss on Mnist with Pytorch  [github](https://zhuanlan.zhihu.com/p/64427565)
