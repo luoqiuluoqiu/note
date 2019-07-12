@@ -136,6 +136,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0.  常用的语义分割架构结构综述以及代码复现  [github](https://github.com/guanfuchen/semseg)
 0.  实时语义分割模型集合  [github](https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation）
 0. 无监督和超像素语义分割  [link](https://zhuanlan.zhihu.com/p/68528056)[github](https://github.com/kanezaki/pytorch-unsupervised-segmentation)  [github](https://github.com/Yonv1943/Unsupervised-Segmentation/tree/master)
 0.  ReDO  通过对抗网络 2019 [github](https://github.com/mickaelChen/ReDO)
