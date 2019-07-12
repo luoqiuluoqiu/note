@@ -207,7 +207,7 @@
 ###  TSP or route
 1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 2. attention-learn-to-route [github](https://github.com/wouterkool/attention-learn-to-route)
-
+3.  最新的细粒度图像分析资源  [link](https://zhuanlan.zhihu.com/p/73075939)
 ### 小样本（one-shot learning）or 零样本（zero-shot learning）
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
@@ -349,6 +349,7 @@
 # 语言
 
 ###  python
+0. 怎么样发布你的 Python 代码给别人 “pip install” [link](https://zhuanlan.zhihu.com/p/73199573)
 0. pyqt5 examples  [github](https://github.com/pyqt/examples)
 0. imgviz画图 [github](https://github.com/wkentaro/imgviz)
 0. wxpy: 用 Python 玩微信 [link]()
