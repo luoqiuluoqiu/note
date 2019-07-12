@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+
 0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
 0.  numpy-ml  [github](https://github.com/ddbourgin/numpy-ml)
 0. 深度学习算法地图  [link](http://www.tensorinfinity.com/paper_158.html)
@@ -408,6 +409,7 @@
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
 
 ### 其他
+0. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
 0. examples-of-web-crawlers python 爬虫的一些例子
 0. 头发分割项目  [github](pytorch-hair-segmentation)
 1. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)
