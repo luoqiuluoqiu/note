@@ -83,7 +83,7 @@
 
 ### 分类 
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
-0.   pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
+0. pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
 0. deeplearning-models[github](https://github.com/rasbt/deeplearning-models)
 0. CNN模型合集  [link](https://zhuanlan.zhihu.com/c_1108736111320555520)
 0. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
@@ -138,6 +138,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. Code awesome-semantic-segmentation  [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 0.  常用的语义分割架构结构综述以及代码复现  [github](https://github.com/guanfuchen/semseg)
 0.  实时语义分割模型集合  [github](https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation）
 0. 无监督和超像素语义分割  [link](https://zhuanlan.zhihu.com/p/68528056)[github](https://github.com/kanezaki/pytorch-unsupervised-segmentation)  [github](https://github.com/Yonv1943/Unsupervised-Segmentation/tree/master)
