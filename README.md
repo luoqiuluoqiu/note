@@ -206,6 +206,7 @@
 
 # 业务模型 #
 ### 细粒度识别
+0. 细粒度分类网络之WS-DAN论文阅读附代码 [link](https://zhuanlan.zhihu.com/p/73416902)
 0. NTS-Net pytorch  2018 [github](https://github.com/yangze0930/NTS-Net)[link](https://zhuanlan.zhihu.com/p/62106844)
 ###  TSP or route
 1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
