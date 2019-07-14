@@ -1,7 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
-0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497)
+0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497) [github](https://github.com/ming71/toolbox)
 0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
 0.  numpy-ml  [github](https://github.com/ddbourgin/numpy-ml)
 0. 深度学习算法地图  [link](http://www.tensorinfinity.com/paper_158.html)
@@ -105,6 +105,7 @@
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
+0. CenterNet——Objects as Points论文解读 2019  [link](https://zhuanlan.zhihu.com/p/66048276)
 0. ExtremeNet pytorch  2019 [link](https://zhuanlan.zhihu.com/p/71249684) [github](https://github.com/xingyizhou/ExtremeNet)
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
 0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
