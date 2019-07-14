@@ -349,9 +349,11 @@
 12. NLP DNN Toolkit：微软发布的模块化深度学习NLP工具集 [github](https://github.com/Microsoft/NeuronBlocks)
 13. 基于深度神经网络和蒙特卡罗树搜索的神经网络搜索  [github](https://github.com/linnanwang/AlphaX-NASBench101)
 14.  Exploring the Limits of Compact Model for Age Estimation. CVPR2019  [github](https://github.com/vicwer/C3AE_Age_Estimation)
+15. 如何处理regression中的imbalanced data问题 [link](https://zhuanlan.zhihu.com/p/69105942)
 # 语言
 
 ###  python
+0. 图解NumPy [link](https://zhuanlan.zhihu.com/p/73295997)
 0. 怎么样发布你的 Python 代码给别人 “pip install” [link](https://zhuanlan.zhihu.com/p/73199573)
 0. pyqt5 examples  [github](https://github.com/pyqt/examples)
 0. imgviz画图 [github](https://github.com/wkentaro/imgviz)
