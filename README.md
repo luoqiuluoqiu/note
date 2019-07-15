@@ -234,7 +234,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
-0. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)
+0. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)  [link](https://blog.csdn.net/shanglianlm/article/details/95809339)
 0. FaceKit [github](https://github.com/Jack-CV/FaceKit)
 0. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
@@ -354,6 +354,9 @@
 13. 基于深度神经网络和蒙特卡罗树搜索的神经网络搜索  [github](https://github.com/linnanwang/AlphaX-NASBench101)
 14.  Exploring the Limits of Compact Model for Age Estimation. CVPR2019  [github](https://github.com/vicwer/C3AE_Age_Estimation)
 15. 如何处理regression中的imbalanced data问题 [link](https://zhuanlan.zhihu.com/p/69105942)
+16. 表面缺陷检测  Defect Eye[github](https://github.com/sundyCoder/DEye)
+
+
 # 语言
 
 ###  python
