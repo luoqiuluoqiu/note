@@ -234,6 +234,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)
 0. FaceKit [github](https://github.com/Jack-CV/FaceKit)
 0. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
 1. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
