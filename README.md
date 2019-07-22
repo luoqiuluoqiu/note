@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+
 0.  STN-空间变换网络  [link](https://blog.csdn.net/weixin_38708130/article/details/83616554)
 0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497) [github](https://github.com/ming71/toolbox)
 0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
@@ -31,6 +32,7 @@
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 
 ### 综述
+0.  深度学习500问  [github](https://github.com/scutan90/DeepLearning-500-questions)
 0. 常见的模型算法评估指标 [link](https://zhuanlan.zhihu.com/p/74493056)
 0. MobileFace：移动端人脸算法全栈项目 [link](https://zhuanlan.zhihu.com/p/64371436)  [github](https://github.com/becauseofAI/MobileFace)
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
