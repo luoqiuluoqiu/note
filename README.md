@@ -284,6 +284,7 @@
 0. Advanced_Lane_Detection 车道检测项目的复现 [github](https://github.com/chiyukunpeng/Tradition_Lane_Detection)
 
 ### 车牌识别
+0. LPRNet_Pytorch  [github](https://github.com/sirius-ai/LPRNet_Pytorch)  [link](https://www.52cv.net/?p=854)
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 
 ###  OCR
