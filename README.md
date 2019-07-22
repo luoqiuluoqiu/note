@@ -30,6 +30,7 @@
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 
 ### 综述
+0. 常见的模型算法评估指标 [link](https://zhuanlan.zhihu.com/p/74493056)
 0. MobileFace：移动端人脸算法全栈项目 [link](https://zhuanlan.zhihu.com/p/64371436)  [github](https://github.com/becauseofAI/MobileFace)
 1. GAN万字长文综述 [link](https://zhuanlan.zhihu.com/p/58812258)
 2. 神经网络压缩综述 [link](https://zhuanlan.zhihu.com/p/58705979)
@@ -73,7 +74,7 @@
 ### 蒸馏 剪枝  量化
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 1. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
-
+2. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
 
 
 ### Auto ML
@@ -138,6 +139,7 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+0. Fast-SCNN的PyTorch实现：快速语义分割网络 [github](https://github.com/Tramac/Fast-SCNN-pytorch)
 0. Code awesome-semantic-segmentation  [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 0.  常用的语义分割架构结构综述以及代码复现  [github](https://github.com/guanfuchen/semseg)
 0.  实时语义分割模型集合  [github](https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation）
@@ -206,6 +208,7 @@
 7. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
 
 # 业务模型 #
+
 ### 细粒度识别
 0. 细粒度分类网络之WS-DAN论文阅读附代码 [link](https://zhuanlan.zhihu.com/p/73416902)
 0. NTS-Net pytorch  2018 [github](https://github.com/yangze0930/NTS-Net)[link](https://zhuanlan.zhihu.com/p/62106844)
@@ -213,6 +216,8 @@
 1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 2. attention-learn-to-route [github](https://github.com/wouterkool/attention-learn-to-route)
 3.  最新的细粒度图像分析资源  [link](https://zhuanlan.zhihu.com/p/73075939)
+
+
 ### 小样本（one-shot learning）or 零样本（zero-shot learning）
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
@@ -234,6 +239,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. Dual Shot Face Detector 人脸检测的一个PyTorch实现  [github](https://github.com/yxlijun/DSFD.pytorch)
 0. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)  [link](https://blog.csdn.net/shanglianlm/article/details/95809339)
 0. FaceKit [github](https://github.com/Jack-CV/FaceKit)
 0. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
@@ -265,7 +271,7 @@
 1. 深度高分辨表示学习的姿态估计算法  pytorch  [github](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 2. pose proposal networks [github](https://github.com/wangziren1/pytorch_pose_proposal_networks)
 3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
-
+4. 包含手和身体姿势估计openpose的pytorch实现  [github](https://github.com/Hzzone/pytorch-openpose)
 ## 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
@@ -274,7 +280,14 @@
 ### 时序
 0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
 
+### 车道检测
+0. Advanced_Lane_Detection 车道检测项目的复现 [github](https://github.com/chiyukunpeng/Tradition_Lane_Detection)
+
+### 车牌识别
+0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
+
 ###  OCR
+0. 增值税发票识别系统(OCR System of Invoice) [link](https://github.com/JelfPann/ocr_invoice)
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
 3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
@@ -297,7 +310,7 @@
 
 ###  图像超分辨率与去噪
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
-
+2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
 ### 语音合成与识别
 0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
 0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
@@ -319,7 +332,6 @@
 2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
 
 
-
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
@@ -339,6 +351,7 @@
 3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
 
 ###  其他
+0. TriangleGAN,一种新的手势到手势翻译框架 [github](https://github.com/yhlleo/TriangleGAN)
 0.  基于CNN+Bi-LSTM+Attention 的自动对对联系统  pytorch  [github](https://github.com/WiseDoge/CoupletAI)
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
 2. 图像增强 [github](https://github.com/aleju/imgaug)
