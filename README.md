@@ -282,6 +282,7 @@
 
 ### 车道检测
 0. Advanced_Lane_Detection 车道检测项目的复现 [github](https://github.com/chiyukunpeng/Tradition_Lane_Detection)
+1. 车道检测合集  [github](https://github.com/amusi/awesome-lane-detection)
 
 ### 车牌识别
 0. LPRNet_Pytorch  [github](https://github.com/sirius-ai/LPRNet_Pytorch)  [link](https://www.52cv.net/?p=854)
