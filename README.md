@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0.  STN-空间变换网络  [link](https://blog.csdn.net/weixin_38708130/article/details/83616554)
 0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497) [github](https://github.com/ming71/toolbox)
 0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
 0.  numpy-ml  [github](https://github.com/ddbourgin/numpy-ml)
