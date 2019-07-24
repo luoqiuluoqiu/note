@@ -58,6 +58,7 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
 ### inference
+0. onnxruntime [github](https://github.com/Microsoft/onnxruntime)
 0. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
 0. NNoM [github](https://github.com/majianjia/nnom/blob/master/docs/rt-thread_guide.md)
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
@@ -149,7 +150,7 @@
 1. Deep Extreme Cut   [tensorflow github](https://github.com/scaelles/DEXTR-KerasTensorflow)   [pytorch github](https://github.com/scaelles/DEXTR-PyTorch)
 2. U-Net-Interactive-Object-Selection [github](https://github.com/StanwieCB/U-Net-Interactive-Object-Selection)
 3. Interactive Image Segmentation with Latent Diversity [github](https://github.com/intel-isl/Intseg)
-4.深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
+4. 深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
 
 
 ##### 正常
@@ -210,6 +211,7 @@
 4.  Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
 5.  二进制模型 [github](https://github.com/wonnado/binary-nets)
 6. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
+7. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
 
 ### 工具
 0. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
@@ -327,6 +329,7 @@
 ###  图像超分辨率与去噪
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
+
 ### 语音合成与识别
 0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
 0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
