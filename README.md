@@ -142,6 +142,16 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 
 ###  语义分割
+
+####交互式语义分割
+0. Interactive_Segmentation_Models [github](https://github.com/horvitzs/Interactive_Segmentation_Models)
+0. DeepGrabCut-PyTorch [github](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
+1. Deep Extreme Cut   [tensorflow github](https://github.com/scaelles/DEXTR-KerasTensorflow)   [pytorch github](https://github.com/scaelles/DEXTR-PyTorch)
+
+2. U-Net-Interactive-Object-Selection [github](https://github.com/StanwieCB/U-Net-Interactive-Object-Selection)
+3. Interactive Image Segmentation with Latent Diversity [github](https://github.com/intel-isl/Intseg)
+
+##### 正常
 0. Fast-SCNN的PyTorch实现：快速语义分割网络 [github](https://github.com/Tramac/Fast-SCNN-pytorch)
 0. Code awesome-semantic-segmentation  [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 0.  常用的语义分割架构结构综述以及代码复现  [github](https://github.com/guanfuchen/semseg)
