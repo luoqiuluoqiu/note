@@ -143,13 +143,14 @@
 
 ###  语义分割
 
-####交互式语义分割
+#### 交互式语义分割
 0. Interactive_Segmentation_Models [github](https://github.com/horvitzs/Interactive_Segmentation_Models)
 0. DeepGrabCut-PyTorch [github](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
 1. Deep Extreme Cut   [tensorflow github](https://github.com/scaelles/DEXTR-KerasTensorflow)   [pytorch github](https://github.com/scaelles/DEXTR-PyTorch)
-
 2. U-Net-Interactive-Object-Selection [github](https://github.com/StanwieCB/U-Net-Interactive-Object-Selection)
 3. Interactive Image Segmentation with Latent Diversity [github](https://github.com/intel-isl/Intseg)
+4.深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
+
 
 ##### 正常
 0. Fast-SCNN的PyTorch实现：快速语义分割网络 [github](https://github.com/Tramac/Fast-SCNN-pytorch)
