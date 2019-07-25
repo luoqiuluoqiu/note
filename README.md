@@ -202,6 +202,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper)
+0. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
 0. TorchSnooper [github](https://zhuanlan.zhihu.com/p/67415439)   [link](https://www.toutiao.com/a6703740788762739213/)
 0. 画网络图等tensorwatch [link](https://zhuanlan.zhihu.com/p/68613993) [github](https://github.com/microsoft/tensorwatch)
 0. 如何优雅的使用pytorch内置torch.nn.CTCLoss的方法 
