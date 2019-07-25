@@ -154,6 +154,7 @@
 
 
 ##### 正常
+0. 12篇文章带你逛遍主流分割网络  [link](https://www.toutiao.com/a6717221469463511566/)
 0. Fast-SCNN的PyTorch实现：快速语义分割网络 [github](https://github.com/Tramac/Fast-SCNN-pytorch)
 0. Code awesome-semantic-segmentation  [github](https://github.com/mrgloom/awesome-semantic-segmentation)
 0.  常用的语义分割架构结构综述以及代码复现  [github](https://github.com/guanfuchen/semseg)
