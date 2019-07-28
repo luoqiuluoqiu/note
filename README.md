@@ -291,6 +291,7 @@
 2. pose proposal networks [github](https://github.com/wangziren1/pytorch_pose_proposal_networks)
 3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
 4. 包含手和身体姿势估计openpose的pytorch实现  [github](https://github.com/Hzzone/pytorch-openpose)
+
 ## 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
@@ -358,7 +359,7 @@
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
-
+3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
 ### NLP
 0.  BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
