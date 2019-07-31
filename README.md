@@ -402,6 +402,7 @@
 # 语言
 
 ###  python
+0. Python代码加密混淆 [link](https://zhuanlan.zhihu.com/p/71892833)
 0. 图解NumPy [link](https://zhuanlan.zhihu.com/p/73295997)
 0. 怎么样发布你的 Python 代码给别人 “pip install” [link](https://zhuanlan.zhihu.com/p/73199573)
 0. pyqt5 examples  [github](https://github.com/pyqt/examples)
