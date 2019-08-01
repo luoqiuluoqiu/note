@@ -47,6 +47,7 @@
 10.  图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
 
 ### 轻量网络
+0. MixNet-Pytorch [github](https://github.com/romulus0914/MixNet-Pytorch)
 0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
 1. mobilenet
@@ -154,6 +155,7 @@
 
 
 ##### 正常
+0. FSS-1000, A 1000-class Dataset For Few-shot Segmentation [github](https://github.com/HKUSTCV/FSS-1000)
 0. 12篇文章带你逛遍主流分割网络  [link](https://www.toutiao.com/a6717221469463511566/)
 0. Fast-SCNN的PyTorch实现：快速语义分割网络 [github](https://github.com/Tramac/Fast-SCNN-pytorch)
 0. Code awesome-semantic-segmentation  [github](https://github.com/mrgloom/awesome-semantic-segmentation)
@@ -188,6 +190,7 @@
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
 ###  跟踪Tracking
+
 0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
 0. ATOM tracker PyTracking  pytorch  2019[github](https://github.com/visionml/pytracking)
@@ -245,6 +248,7 @@
 ###  NLP
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
 2. xlnet 2019 [github](https://github.com/zihangdai/xlnet)
+
 ### 边缘检测算法
 1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
 2. hed_pytorch 2015 [github](https://github.com/BinWang-shu/pytorch_hed)
@@ -289,6 +293,7 @@
 2. FaceAttribute-FAN  人脸特征融合 [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 
 ###  人体姿态估计
+0. A lightweight network for body/hand action recognition [github](https://github.com/fandulu/DD-Net)
 1. 深度高分辨表示学习的姿态估计算法  pytorch  [github](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 2. pose proposal networks [github](https://github.com/wangziren1/pytorch_pose_proposal_networks)
 3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
@@ -333,6 +338,7 @@
 
 
 ###  图像超分辨率与去噪
+0. FixRes [github](https://github.com/facebookresearch/FixRes)
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
 
@@ -380,6 +386,7 @@
 0.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 
 ###  其他
+0. 使用YOLOv3演示行人跟踪卡尔曼滤波器 [github](https://github.com/afunTW/pytorch-mot-tracking)
 0. TriangleGAN,一种新的手势到手势翻译框架 [github](https://github.com/yhlleo/TriangleGAN)
 0.  基于CNN+Bi-LSTM+Attention 的自动对对联系统  pytorch  [github](https://github.com/WiseDoge/CoupletAI)
 1. AI写诗 pytorch  [github](https://github.com/braveryCHR/LSTM_poem)
