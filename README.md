@@ -202,6 +202,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper)
+0. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
 0. 《动手学深度学习》例子的PyTorch实现 [github](https://www.ctolib.com/dsgiitr-d2l-pytorch.html)
 0. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
 0. TorchSnooper [github](https://zhuanlan.zhihu.com/p/67415439)   [link](https://www.toutiao.com/a6703740788762739213/)
