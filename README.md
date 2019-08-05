@@ -320,6 +320,7 @@
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
 3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
+4. aster.pytorch   [github](https://github.com/ayumiymk/aster.pytorch)
 
 ### 去水印 inpaint
 0.  pytorch-inpainting-with-partial-conv [github](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)[kerasgithub](https://github.com/MathiasGruber/PConv-Keras) [link](https://medium.com/@xiaosean5408/partial-convolution-%E5%9C%96%E5%83%8F%E4%BF%AE%E5%BE%A9%E4%BB%BB%E5%8B%99pconv%E7%B0%A1%E4%BB%8B-image-inpainting-for-irregular-holes-using-partial-convolutions-81e6259b8e5f)
