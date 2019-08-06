@@ -88,6 +88,7 @@
 
 
 ### 分类 
+0. 让CNN有了平移不变性  [link](https://mp.weixin.qq.com/s/trWBJHEn45gs6vBIoGk4lg)
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
 0. pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
 0. deeplearning-models[github](https://github.com/rasbt/deeplearning-models)
@@ -482,3 +483,4 @@
 3. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
 4. 坐标旋转变换公式的推导 [link](https://blog.csdn.net/roslei/article/details/72956020)
 5. 自动红眼移除算法 附c++完整代码   [link](https://www.cnblogs.com/cpuimage/p/9000203.html)
+6. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
