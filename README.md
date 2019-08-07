@@ -383,6 +383,9 @@
 2. Image Matting代码和算法效果总结 [link](http://blog.leanote.com/post/610167078@qq.com/Image-Matting)
 3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
 
+### 表面检测
+0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
+1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
 
 ###  NAS
 0.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
