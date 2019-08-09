@@ -88,6 +88,7 @@
 
 
 ### 分类 
+0. 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺 [link](https://zhuanlan.zhihu.com/p/77221549) [link](https://www.paperswithcode.com/sota/image-classification-on-imagenet)
 0. 让CNN有了平移不变性  [link](https://mp.weixin.qq.com/s/trWBJHEn45gs6vBIoGk4lg)
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
 0. pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
@@ -120,6 +121,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0. 十分钟训好SSD416进行钢筋检测 [link](https://zhuanlan.zhihu.com/p/77034373) [github](https://github.com/songwsx/steel-detect)
 0. Why anchor [link](http://bbs.cvmart.net/topics/498/Why%20anchor?from=timeline)
 0.  Double-Head RCNN  通过增加多个head提升准确率[github](https://zhuanlan.zhihu.com/p/72796246)
 0.  对YOLOv3做模型剪枝  pytorch 2019 [github](https://github.com/Lam1360/YOLOv3-model-pruning)
