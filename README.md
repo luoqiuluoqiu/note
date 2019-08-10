@@ -1,7 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
-
+0. combo:「Python机器学习模型合并工具库」 [github](https://zhuanlan.zhihu.com/p/75584326)
 0.  STN-空间变换网络  [link](https://blog.csdn.net/weixin_38708130/article/details/83616554)
 0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497) [github](https://github.com/ming71/toolbox)
 0.  深度学习 论文解读 CV_PaperDaily [github](https://github.com/ming71/CV_PaperDaily)
@@ -192,8 +192,8 @@
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
-###  跟踪Tracking
 
+###  跟踪Tracking
 0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
 0. ATOM tracker PyTracking  pytorch  2019[github](https://github.com/visionml/pytracking)
@@ -207,7 +207,7 @@
 
 
 ## 深度学习框架
-### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper)
+### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html)
 0. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
 0. 《动手学深度学习》例子的PyTorch实现 [github](https://www.ctolib.com/dsgiitr-d2l-pytorch.html)
 0. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
