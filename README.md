@@ -210,6 +210,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
+0. 在PyTorch中实现的语义分割模型，数据集和损失  [github](https://github.com/yassouali/pytorch_segmentation)
 0. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
 0. 《动手学深度学习》例子的PyTorch实现 [github](https://www.ctolib.com/dsgiitr-d2l-pytorch.html)
 0. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
