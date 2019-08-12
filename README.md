@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0. 深度学习入门之激活层及其选择的建议  [link](https://zhuanlan.zhihu.com/p/75919809)
 0. combo:「Python机器学习模型合并工具库」 [github](https://zhuanlan.zhihu.com/p/75584326)
 0.  STN-空间变换网络  [link](https://blog.csdn.net/weixin_38708130/article/details/83616554)
 0.  Learning Data Augmentation Strategies  数据增强、[link](https://zhuanlan.zhihu.com/p/73314497) [github](https://github.com/ming71/toolbox)
@@ -194,6 +195,7 @@
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
 
 ###  跟踪Tracking
+0.  再谈多目标追踪--快速应用部署  [link](https://zhuanlan.zhihu.com/p/77111218)
 0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
 0. ATOM tracker PyTracking  pytorch  2019[github](https://github.com/visionml/pytracking)
