@@ -253,8 +253,14 @@
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
 ###  NLP
+0. ERNIE  [github](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
 2. xlnet 2019 [github](https://github.com/zihangdai/xlnet)
+0. Attention和Transformer [link](https://zhuanlan.zhihu.com/p/38485843)
+0. BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
+0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
+0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
+1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
 ### 边缘检测算法
 1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
@@ -376,13 +382,6 @@
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
-
-### NLP
-0. Attention和Transformer [link](https://zhuanlan.zhihu.com/p/38485843)
-0. BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
-0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
-0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
-1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
 ###  matting
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
