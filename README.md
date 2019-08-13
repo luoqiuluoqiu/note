@@ -146,7 +146,8 @@
 6. kaggle  大白鲸目标检测 [github](https://github.com/earhian/Humpback-Whale-Identification-1st-)
 8. R-FCN+ResNet-50用自己的数据集训练模型  [link](https://blog.csdn.net/sinat_30071459/article/details/53202977)  
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
-
+####
+0. 单级目标检测：YOLO与SSD，我选SSD！！！ [link](https://zhuanlan.zhihu.com/p/35394369)
 ###  语义分割
 
 #### 交互式语义分割
