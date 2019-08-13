@@ -329,6 +329,7 @@
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 
 ###  OCR
+0. PyTorch实现的DenseBox多任务学习目标检测/关键点定位 [github](https://github.com/CaptainEven/DenseBox)
 0. 增值税发票识别系统(OCR System of Invoice) [link](https://github.com/JelfPann/ocr_invoice)
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
