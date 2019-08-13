@@ -378,7 +378,8 @@
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
 ### NLP
-0.  BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
+0. Attention和Transformer [link](https://zhuanlan.zhihu.com/p/38485843)
+0. BERT模型从训练到部署   [github](https://github.com/xmxoxo/BERT-train2deploy)
 0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
