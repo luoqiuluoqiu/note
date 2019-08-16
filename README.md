@@ -61,6 +61,7 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
 ### inference
+0. AoE  滴滴推断框架   [link](https://didi.github.io/AoE/)
 0. onnxruntime [github](https://github.com/Microsoft/onnxruntime)
 0. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
 0. NNoM [github](https://github.com/majianjia/nnom/blob/master/docs/rt-thread_guide.md)
