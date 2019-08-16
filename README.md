@@ -385,6 +385,9 @@
 2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
 3. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
 
+
+###  GCN图卷积网络
+0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
 ###  TSP
 0. Pointer network 凸包，三角剖分，甚至是TSP [link](https://arxiv.org/pdf/1506.03134.pdf)  [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
@@ -395,8 +398,7 @@
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
 2. Image Matting代码和算法效果总结 [link](http://blog.leanote.com/post/610167078@qq.com/Image-Matting)
-3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/)
-
+3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python
 ### 表面检测
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
