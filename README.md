@@ -362,6 +362,7 @@
 0. FixRes [github](https://github.com/facebookresearch/FixRes)
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
+3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
 
 ### 语音合成与识别
 0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
@@ -425,6 +426,9 @@
 16. 表面缺陷检测  Defect Eye[github](https://github.com/sundyCoder/DEye)
 
 
+### 非常规损失函数
+0. SSIM  图像质量等 [github]()
+1. dice  图像分割
 # 语言
 
 ###  python
