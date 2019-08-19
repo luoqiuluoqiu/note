@@ -295,6 +295,7 @@
 8. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
 
 ###  人脸识别
+0. SeetaFace2 2019  全C++[github](https://github.com/seetafaceengine/SeetaFace2)
 0. 适用于复杂场景的人脸识别身份认证系统 [github](https://github.com/1996scarlet/ArcFace-Multiplex-Recognition)
 0. 谷歌公布亚毫秒级人脸检测算法BlazeFace，面向移动GPU  2019 [link](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247483937&idx=1&sn=dd6a70b2e7dac850c188a22c675e607c&chksm=fad12d77cda6a461cb74437a5d811bffac17252cad11615a8b91c67fcba80aaf1c48f4a45118&mpshare=1&scene=1&srcid=0712t2cPIWi8bL9mzDRsMI2z&key=3595941dc072a5e653d5091a414ba123e080d642a86184c0d054be585caf22abef10b2fe287933b65ef48b793483f307978dc592bc0e10f2c84f3a0aed9e1727192606658c8706dff96bf7695e046028&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=YEDjmLWvkJokdiQ7Q7gzTBjFHKpHtdWgS%2FzcMaWysXY8hyJN19e9Jx4R2HW6Sp1W)
 0. Face Recognition Loss on Mnist with Pytorch  [github](https://zhuanlan.zhihu.com/p/64427565)
