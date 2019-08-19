@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0. tinynn A lightweight deep learning libaray  [link](https://zhuanlan.zhihu.com/p/78713744) [github](https://github.com/borgwang/tinynn)
 0. 百面机器学习之模型评估  [link](https://zhuanlan.zhihu.com/p/78603645)
 0. 周志华：「深」为什么重要，以及还有什么深的网络 [link](https://zhuanlan.zhihu.com/p/78229753)
 0. 深度学习入门之激活层及其选择的建议  [link](https://zhuanlan.zhihu.com/p/75919809)
