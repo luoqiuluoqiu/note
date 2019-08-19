@@ -439,6 +439,7 @@
 # 语言
 
 ###  python
+0. PyCharm配置black，代码格式化工具 [link](https://blog.csdn.net/u011510825/article/details/82287022)
 0. Python代码加密混淆 [link](https://zhuanlan.zhihu.com/p/71892833)
 0. 图解NumPy [link](https://zhuanlan.zhihu.com/p/73295997)
 0. 怎么样发布你的 Python 代码给别人 “pip install” [link](https://zhuanlan.zhihu.com/p/73199573)
