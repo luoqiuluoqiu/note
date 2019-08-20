@@ -283,6 +283,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. S3FD代码及论文解读 2017 [link](https://zhuanlan.zhihu.com/p/78923965)  [github](https://github.com/yxlijun/S3FD.pytorch)
 0. Dual Shot Face Detector 人脸检测的一个PyTorch实现  [github](https://github.com/yxlijun/DSFD.pytorch)
 0. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)  [link](https://blog.csdn.net/shanglianlm/article/details/95809339)
 0. FaceKit [github](https://github.com/Jack-CV/FaceKit)
