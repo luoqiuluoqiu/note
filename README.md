@@ -56,7 +56,7 @@
 0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
 1. mobilenet
-2. shufflenet 
+2. ShuffleNet    官方开源[github](https://github.com/megvii-model/ShuffleNet-Series)
 3. nas 
 4. PeleeNet 
 5. 为什么MobileNet及其变体如此之快 [github](https://zhuanlan.zhihu.com/p/64138403)
