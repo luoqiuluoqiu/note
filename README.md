@@ -383,6 +383,7 @@
 4. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
 
 ### Adversarial Attack
+0. 可迁移对抗样本攻击目标检测 [link](https://zhuanlan.zhihu.com/p/79356064)
 0. EYD与机器学习 [github](https://zhuanlan.zhihu.com/c_170476465)
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
