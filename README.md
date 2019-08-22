@@ -351,6 +351,7 @@
 4. aster.pytorch   [github](https://github.com/ayumiymk/aster.pytorch)
 
 ### 去水印 inpaint
+0. deepfill2  [github](https://github.com/avalonstrel/GatedConvolution_pytorch)
 0.  pytorch-inpainting-with-partial-conv [github](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)[kerasgithub](https://github.com/MathiasGruber/PConv-Keras) [link](https://medium.com/@xiaosean5408/partial-convolution-%E5%9C%96%E5%83%8F%E4%BF%AE%E5%BE%A9%E4%BB%BB%E5%8B%99pconv%E7%B0%A1%E4%BB%8B-image-inpainting-for-irregular-holes-using-partial-convolutions-81e6259b8e5f)
 0. Image-Inpainting paper and code [github](https://github.com/geekyutao/Image-Inpainting)
 0. Context Encoders: Feature Learning by Inpainting 2016[github](https://github.com/BoyuanJiang/context_encoder_pytorch)
