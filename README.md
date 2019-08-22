@@ -127,6 +127,7 @@
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于候选框做目标检测
+0. faster-rcnn pytorch [github](https://github.com/Liu-Yicheng/Faster-rcnn)
 0. 十分钟训好SSD416进行钢筋检测 [link](https://zhuanlan.zhihu.com/p/77034373) [github](https://github.com/songwsx/steel-detect)
 0. Why anchor [link](http://bbs.cvmart.net/topics/498/Why%20anchor?from=timeline)
 0.  Double-Head RCNN  通过增加多个head提升准确率[github](https://zhuanlan.zhihu.com/p/72796246)
