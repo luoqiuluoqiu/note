@@ -52,6 +52,7 @@
 10.  图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
 
 ### 轻量网络
+0. PyTorch_BlazeFace  [github](https://github.com/tkat0/PyTorch_BlazeFace)
 0. MixNet-Pytorch [github](https://github.com/romulus0914/MixNet-Pytorch)
 0. MobileNetV3 pytorch 2019 [github](https://github.com/kuan-wang/pytorch-mobilenet-v3)  [link](https://zhuanlan.zhihu.com/p/65875440)[link](https://www.zhihu.com/question/323419310)[github](https://github.com/SpikeKing/mobilenet_v3/blob/master/mn3_model.py)
 0. ThunderNet
