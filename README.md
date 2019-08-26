@@ -286,6 +286,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测
+0. Multi-task face recognition framework based on PyTorch [github](https://github.com/XiaohangZhan/face_recognition_framework)
 0. A-Light-and-Fast-Face-Detector-for-Edge-Devices 2019 [github](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 0. S3FD代码及论文解读 2017 [link](https://zhuanlan.zhihu.com/p/78923965)  [github](https://github.com/yxlijun/S3FD.pytorch)
 0. Dual Shot Face Detector 人脸检测的一个PyTorch实现  [github](https://github.com/yxlijun/DSFD.pytorch)
@@ -439,7 +440,7 @@
 14.  Exploring the Limits of Compact Model for Age Estimation. CVPR2019  [github](https://github.com/vicwer/C3AE_Age_Estimation)
 15. 如何处理regression中的imbalanced data问题 [link](https://zhuanlan.zhihu.com/p/69105942)
 16. 表面缺陷检测  Defect Eye[github](https://github.com/sundyCoder/DEye)
-
+17. 手势识别  [link](https://www.ctolib.com/topics-142302.html) [github](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
 
 ### 非常规损失函数
 0. SSIM  图像质量等 [github]()
