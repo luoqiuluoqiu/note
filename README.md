@@ -127,6 +127,9 @@
 0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)   FCOS_GluonCV[github](https://github.com/DetectionTeamUCAS/FCOS_GluonCV)
 0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
+#### 基于分割
+0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
+
 #### 基于候选框做目标检测
 0. faster-rcnn pytorch [github](https://github.com/Liu-Yicheng/Faster-rcnn)
 0. 十分钟训好SSD416进行钢筋检测 [link](https://zhuanlan.zhihu.com/p/77034373) [github](https://github.com/songwsx/steel-detect)
