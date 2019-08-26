@@ -388,6 +388,7 @@
 2. Cheetah - 基于深度学习的设备端语音转文本引擎 [github](https://github.com/Picovoice/cheetah)
 3. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
 4. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
+5. 克隆语音Clone a voice in 5 seconds to generate arbitrary speech in real-time  [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 ### Adversarial Attack
 0. 可迁移对抗样本攻击目标检测 [link](https://zhuanlan.zhihu.com/p/79356064)
