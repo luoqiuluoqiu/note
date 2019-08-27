@@ -131,6 +131,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. MXNet的一个开源项目gluoncv里的yolov3代码，写了一份中文注解  [github](https://github.com/szza/yolov3_gluoncv_MXNet)
 0. faster-rcnn pytorch [github](https://github.com/Liu-Yicheng/Faster-rcnn)
 0. 十分钟训好SSD416进行钢筋检测 [link](https://zhuanlan.zhihu.com/p/77034373) [github](https://github.com/songwsx/steel-detect)
 0. Why anchor [link](http://bbs.cvmart.net/topics/498/Why%20anchor?from=timeline)
@@ -354,6 +355,7 @@
 2. 深度学习与OCR论文合集  [link]( http://xiaofengshi.com/2019/01/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-OCR/)
 3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
 4. aster.pytorch   [github](https://github.com/ayumiymk/aster.pytorch)
+5. Seq2Seq+Attention 中文OCR文字识别   pytorch  [github](https://github.com/bai-shang/crnn_seq2seq_ocr.Pytorch)
 
 ### 去水印 inpaint
 0. deepfill2  [github](https://github.com/avalonstrel/GatedConvolution_pytorch)
@@ -373,6 +375,7 @@
 
 
 ###  图像超分辨率与去噪
+0. MMSR：基于PyTorch的图像/视频超分辨率工具箱 [github](https://github.com/open-mmlab/mmsr)
 0. 去模糊  SRN-Deblur  [github](https://github.com/jiangsutx/SRN-Deblur)  [link](https://zhuanlan.zhihu.com/p/79409958)
 0. FALSR  2019 小米 [github](https://github.com/xiaomi-automl/FALSR)
 0. FixRes [github](https://github.com/facebookresearch/FixRes)
