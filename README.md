@@ -89,6 +89,9 @@
 2. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
 
 
+###  模型网络部署
+0.  service-streamer 加速你的深度学习web服务 [github](https://github.com/ShannonAI/service-streamer/blob/master/README_zh.md)
+
 ### 数据增强
 0. 【SSD算法】史上最全代码解析-数据篇   对比度等调整 pytorch  [link](https://zhuanlan.zhihu.com/p/79933177)
 ### Auto ML
