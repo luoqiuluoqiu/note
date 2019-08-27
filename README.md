@@ -89,6 +89,8 @@
 2. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
 
 
+### 数据增强
+0. 【SSD算法】史上最全代码解析-数据篇   对比度等调整 pytorch  [link](https://zhuanlan.zhihu.com/p/79933177)
 ### Auto ML
 0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
 1. FairNAS 2019 [github](https://github.com/fairnas/FairNAS)
@@ -131,6 +133,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. 【SSD算法】史上最全代码解析-核心篇  [github](https://zhuanlan.zhihu.com/p/79854543)
 0. MXNet的一个开源项目gluoncv里的yolov3代码，写了一份中文注解  [github](https://github.com/szza/yolov3_gluoncv_MXNet)
 0. faster-rcnn pytorch [github](https://github.com/Liu-Yicheng/Faster-rcnn)
 0. 十分钟训好SSD416进行钢筋检测 [link](https://zhuanlan.zhihu.com/p/77034373) [github](https://github.com/songwsx/steel-detect)
