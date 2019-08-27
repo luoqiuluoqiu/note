@@ -423,6 +423,10 @@
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
 2. Image Matting代码和算法效果总结 [link](http://blog.leanote.com/post/610167078@qq.com/Image-Matting)
 3. Alpha Blending using OpenCV [link](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python
+4. mishima-matting 蓝色分割  [github](https://github.com/MarcoForte/mishima-matting)
+5. AlphaMatting C++ [github](https://github.com/np-csu/AlphaMatting)
+6. Image Matting代碼和算法效果總結 [link](https://www.twblogs.net/a/5b7acdd82b7177392c96d843)
+7. portrait_matting [github](https://github.com/takiyu/portrait_matting)  [github2](https://github.com/topics/portrait-matting)
 
 ### 表面检测
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
