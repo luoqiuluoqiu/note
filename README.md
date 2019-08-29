@@ -381,7 +381,7 @@
 
 
 ###  图像超分辨率与去噪
-0. MMSR：基于PyTorch的图像/视频超分辨率工具箱 [github](https://github.com/open-mmlab/mmsr)
+0. Open MMLab Image and Video Super-Resolution Toolbox, , including SRResNet, SRGAN, ESRGAN, EDVR, etc. MMSR：基于PyTorch的图像/视频超分辨率工具箱 [github](https://github.com/open-mmlab/mmsr)
 0. 去模糊  SRN-Deblur  [github](https://github.com/jiangsutx/SRN-Deblur)  [link](https://zhuanlan.zhihu.com/p/79409958)
 0. FALSR  2019 小米 [github](https://github.com/xiaomi-automl/FALSR)
 0. FixRes [github](https://github.com/facebookresearch/FixRes)
