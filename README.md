@@ -99,7 +99,13 @@
 1. FairNAS 2019 [github](https://github.com/fairnas/FairNAS)
 
 
+
+### NAS
+0. 四小时搜索NN结构，厦大提出快速NAS检索方法  2019  [link](https://zhuanlan.zhihu.com/p/80232728)  [github](https://github.com/tanglang96/MDENAS)
+
 ### 分类 
+
+
 0. 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺 [link](https://zhuanlan.zhihu.com/p/77221549) [link](https://www.paperswithcode.com/sota/image-classification-on-imagenet)
 0. 让CNN有了平移不变性  [link](https://mp.weixin.qq.com/s/trWBJHEn45gs6vBIoGk4lg)
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
