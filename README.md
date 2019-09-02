@@ -127,6 +127,8 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测  
+
+![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 #### 视频目标检测
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
