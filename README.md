@@ -138,7 +138,8 @@
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
 0. CenterNet 2019 pytorch  [github](https://github.com/xingyizhou/CenterNet)
 0. FCOS  2019 [github](https://github.com/tianzhi0549/FCOS)   FCOS_GluonCV[github](https://github.com/DetectionTeamUCAS/FCOS_GluonCV)
-0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet)
+0. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet) 
+0. PaperReadingGroup-10-CenterNet之理解 [link](https://zhuanlan.zhihu.com/p/80811439)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于分割
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
