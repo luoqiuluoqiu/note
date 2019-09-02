@@ -343,11 +343,16 @@
 2. pose proposal networks [github](https://github.com/wangziren1/pytorch_pose_proposal_networks)
 3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
 4. 包含手和身体姿势估计openpose的pytorch实现  [github](https://github.com/Hzzone/pytorch-openpose)
+5. 用于人体姿势估计的高分辨率网络（HigherHRNets） [github](https://github.com/hrnet/higher-hrnet-human-pose-estimation)
 
-## 行人重识别
+### 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
 3. 一个基于PyTorch的开源人群计数框架  [github](https://github.com/gjy3035/C-3-Framework)[link](https://zhuanlan.zhihu.com/p/65650998)
+
+
+### 强化学习
+0. 动态环境下基于DRL的无人车自适应路径规划方法  [link](https://zhuanlan.zhihu.com/p/79712897) [github](https://github.com/CoderWangcai/DRL_Path_Planning)
 
 ### 时序
 0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
