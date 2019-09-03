@@ -305,7 +305,7 @@
 3. AdvancedEAST keras/tensorflow [github](https://github.com/huoyijie/AdvancedEAST)
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
-###  人脸检测
+###  人脸检测和特征点定位
 0. Multi-task face recognition framework based on PyTorch [github](https://github.com/XiaohangZhan/face_recognition_framework)
 0. A-Light-and-Fast-Face-Detector-for-Edge-Devices 2019 [github](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 0. S3FD代码及论文解读 2017 [link](https://zhuanlan.zhihu.com/p/78923965)  [github](https://github.com/yxlijun/S3FD.pytorch)
@@ -320,6 +320,7 @@
 5. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
 7. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
 8. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
+9. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
 
 ###  人脸识别
 0. SeetaFace2 2019  全C++[github](https://github.com/seetafaceengine/SeetaFace2)
@@ -480,6 +481,8 @@
 0. SSIM  图像质量等 [github]()
 1. dice  图像分割
 2. ssim和psnr是超分辩主流的评价指标
+3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
+
 
 # 语言
 
