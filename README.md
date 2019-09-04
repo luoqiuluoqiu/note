@@ -238,6 +238,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
+0.  Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
 0. PyTorch 官方中文教程 [github](https://github.com/fendouai/PyTorchDocs)
 0. 在PyTorch中实现的语义分割模型，数据集和损失  [github](https://github.com/yassouali/pytorch_segmentation)
 0. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
@@ -353,7 +354,7 @@
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
 3. 一个基于PyTorch的开源人群计数框架  [github](https://github.com/gjy3035/C-3-Framework)[link](https://zhuanlan.zhihu.com/p/65650998)
-
+4. 小于1MB的行人检测网络 [link/github](https://zhuanlan.zhihu.com/p/76491446)
 
 ### 强化学习
 0. 动态环境下基于DRL的无人车自适应路径规划方法  [link](https://zhuanlan.zhihu.com/p/79712897) [github](https://github.com/CoderWangcai/DRL_Path_Planning)
@@ -561,3 +562,4 @@
 6. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
 7. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
 8. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
+9.  pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
