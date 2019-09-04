@@ -560,3 +560,4 @@
 5. 自动红眼移除算法 附c++完整代码   [link](https://www.cnblogs.com/cpuimage/p/9000203.html)
 6. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
 7. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
+8. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
