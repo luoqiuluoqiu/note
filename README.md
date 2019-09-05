@@ -1,6 +1,8 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0. Image-Level 弱监督图像语义分割汇总简析 [link](https://zhuanlan.zhihu.com/p/80815225)
+0. 模型加速概述与模型裁剪算法技术解析 [link](https://zhuanlan.zhihu.com/p/58566141)
 0. 卷积神经网络的感受野 [link](https://zhuanlan.zhihu.com/p/44106492)
 0. tinynn A lightweight deep learning libaray  [link](https://zhuanlan.zhihu.com/p/78713744) [github](https://github.com/borgwang/tinynn)
 0. 百面机器学习之模型评估  [link](https://zhuanlan.zhihu.com/p/78603645)
@@ -37,6 +39,7 @@
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 
 ### 综述
+0.  NAS论文小结 [link](https://zhuanlan.zhihu.com/p/81126873)
 0.  深度学习500问  [github](https://github.com/scutan90/DeepLearning-500-questions)
 0. 常见的模型算法评估指标 [link](https://zhuanlan.zhihu.com/p/74493056)
 0. MobileFace：移动端人脸算法全栈项目 [link](https://zhuanlan.zhihu.com/p/64371436)  [github](https://github.com/becauseofAI/MobileFace)
@@ -488,6 +491,7 @@
 # 语言
 
 ###  python
+0.  records数据库操作  [github](https://github.com/kennethreitz/records) [link](https://www.zhihu.com/question/24590883/answer/799802849)
 0. Python代码加密混淆 [link](https://zhuanlan.zhihu.com/p/71892833)
 0. 图解NumPy [link](https://zhuanlan.zhihu.com/p/73295997)
 0. 怎么样发布你的 Python 代码给别人 “pip install” [link](https://zhuanlan.zhihu.com/p/73199573)
@@ -551,6 +555,7 @@
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
 
 ### 其他
+0.  适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
 0. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
 0. examples-of-web-crawlers python 爬虫的一些例子
 0. 头发分割项目  [github](pytorch-hair-segmentation)
