@@ -432,6 +432,7 @@
 1. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
 2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
 3. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
+4. Generative Deep Learning 的中文翻译 [code](https://github.com/davidADSP/GDL_code) [github](https://github.com/ythwilam/Generative-Deep-Learning-translate-zh)
 
 
 ###  GCN图卷积网络
