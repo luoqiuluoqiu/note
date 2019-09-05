@@ -444,6 +444,7 @@
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
 ###  matting
+0.  pytorch-deep-image-matting [github](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 0.  portrait_matting  Chainer  [github](https://github.com/takiyu/portrait_matting)
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
 1. AlphaGAN: Natural Image Matting [github](https://github.com/CDOTAD/AlphaGAN-Matting/blob/master/README_c.md)
