@@ -73,7 +73,7 @@
 0. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
 0. NNoM [github](https://github.com/majianjia/nnom/blob/master/docs/rt-thread_guide.md)
 1. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
-2. ncnn  腾讯
+2. ncnn  腾讯  pc_win10_x64安装ncnn，并使用vulkan  [link](https://blog.csdn.net/kai1001/article/details/91043439)
 3. tvm
 4. ZQCNN
 5. AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
@@ -189,6 +189,7 @@
 
 
 ##### 正常
+0.  ICNet 搞笑分割模型 [link](https://zhuanlan.zhihu.com/p/26653218)
 0. 移动设备高性能实时网络/语义分割论文资源列表  [github](https://github.com/wpf535236337/real-time-network)
 0. FSS-1000, A 1000-class Dataset For Few-shot Segmentation [github](https://github.com/HKUSTCV/FSS-1000)
 0. 12篇文章带你逛遍主流分割网络  [link](https://www.toutiao.com/a6717221469463511566/)
