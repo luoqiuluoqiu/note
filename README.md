@@ -242,6 +242,9 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
+
+
+0. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
 0.  Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
 0. PyTorch 官方中文教程 [github](https://github.com/fendouai/PyTorchDocs)
 0. 在PyTorch中实现的语义分割模型，数据集和损失  [github](https://github.com/yassouali/pytorch_segmentation)
@@ -262,7 +265,16 @@
 
 
 ###  ONNX
-[0]  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
+0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
+
+###  openc dnn
+0. OpenCV4.X - DNN模块 Python APIs  [link](https://www.aiuai.cn/aifarm941.html)
+
+### tensorRT
+0. Pytorch通过保存为ONNX模型转TensorRT5 [link](https://blog.csdn.net/qq_38003892/article/details/89314108)
+1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
+2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
+3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
 
 ### 工具
 0. 教程 | 如何使用Keras、Redis、Flask和Apache把深度学习模型部署到生产环境？ [link](https://cloud.tencent.com/developer/article/1120753)
