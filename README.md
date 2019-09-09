@@ -130,12 +130,14 @@
 5. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 
 ###  目标检测  
+0. 详解目标检测中边界框的回归策略  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=1&srcid=&sharer_sharetime=1567986189037&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=c2233ec816eaa9a223f3c567ce38eca92683762db0bc9e5425c4aaf0160e64e7198bda68544d610cfcd297b655611f06fc83e38e4feacb6416cd099481653b73512a33b038fdf9a8b838771d238ba8b2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62060844&lang=zh_CN&pass_ticket=WL7k8v7WWRRIoLd%2FvpHJaEY72Rlc2akPcO7ABfTzNZuQfIzVzr5XKwSLC4v2%2BcfX)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 #### 视频目标检测
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
+0. 用于实时物体检测并且训练时间友好的网络 - TTFNet [github](https://github.com/ZJULearning/ttfnet)
 0. CenterNet——Objects as Points论文解读 2019  [link](https://zhuanlan.zhihu.com/p/66048276)
 0. ExtremeNet pytorch  2019 [link](https://zhuanlan.zhihu.com/p/71249684) [github](https://github.com/xingyizhou/ExtremeNet)
 0. morph-net 2019 keras  [github](https://github.com/google-research/morph-net)
@@ -262,7 +264,7 @@
 5.  二进制模型 [github](https://github.com/wonnado/binary-nets)
 6. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
 7. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
-
+8. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
 
 ###  ONNX
 0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
@@ -536,6 +538,7 @@
 14. python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
 15. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
 16. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
+17. Django + Ansible + Celery 的WEB平台，用以批量处理任务 [github](https://github.com/lotus-dgas/AnsibleUI)
 
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
@@ -575,7 +578,14 @@
 ### 工具：
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
 
+
+### 12306抢票源代码
+0.  12306  [github](https://github.com/testerSunshine/12306)
+1.  py12306  [github](https://github.com/pjialin/py12306)
+2.  12306抢票协议  [github](https://github.com/Henryhaohao/12306_Ticket)
+
 ### 其他
+0.  面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
 0.  适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
 0. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
 0. examples-of-web-crawlers python 爬虫的一些例子
@@ -589,3 +599,4 @@
 7. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
 8. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
 9.  pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
+10. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
