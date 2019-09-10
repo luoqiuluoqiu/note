@@ -150,6 +150,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. 单级目标检测：YOLO与SSD，我选SSD！！！ [link](https://zhuanlan.zhihu.com/p/35394369)
 0. 【SSD算法】史上最全代码解析-核心篇  [github](https://zhuanlan.zhihu.com/p/79854543)
 0. MXNet的一个开源项目gluoncv里的yolov3代码，写了一份中文注解  [github](https://github.com/szza/yolov3_gluoncv_MXNet)
 0. faster-rcnn pytorch [github](https://github.com/Liu-Yicheng/Faster-rcnn)
@@ -178,7 +179,7 @@
 8. R-FCN+ResNet-50用自己的数据集训练模型  [link](https://blog.csdn.net/sinat_30071459/article/details/53202977)  
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 ####
-0. 单级目标检测：YOLO与SSD，我选SSD！！！ [link](https://zhuanlan.zhihu.com/p/35394369)
+
 ###  语义分割
 
 #### 交互式语义分割
@@ -245,7 +246,7 @@
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
 
-
+0. FlashTorch 特征可视化 [link](https://zhuanlan.zhihu.com/p/81838126)
 0. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
 0.  Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
 0. PyTorch 官方中文教程 [github](https://github.com/fendouai/PyTorchDocs)
