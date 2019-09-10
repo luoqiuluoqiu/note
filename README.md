@@ -329,6 +329,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测和特征点定位
+0. Deep Convolutional Network Cascade for Facial Point Detection [link](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
 0. Multi-task face recognition framework based on PyTorch [github](https://github.com/XiaohangZhan/face_recognition_framework)
 0. A-Light-and-Fast-Face-Detector-for-Edge-Devices 2019 [github](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 0. S3FD代码及论文解读 2017 [link](https://zhuanlan.zhihu.com/p/78923965)  [github](https://github.com/yxlijun/S3FD.pytorch)
