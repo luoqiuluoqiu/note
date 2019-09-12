@@ -1,6 +1,7 @@
 # 深度学习基础模型 
 ----
 ### 基础教程
+0. 深度度量学习中的损失函数介绍 [link](https://zhuanlan.zhihu.com/p/82199561) 
 0. Image-Level 弱监督图像语义分割汇总简析 [link](https://zhuanlan.zhihu.com/p/80815225)
 0. 模型加速概述与模型裁剪算法技术解析 [link](https://zhuanlan.zhihu.com/p/58566141)
 0. 卷积神经网络的感受野 [link](https://zhuanlan.zhihu.com/p/44106492)
