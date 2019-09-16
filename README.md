@@ -40,6 +40,7 @@
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 
 ### 综述
+0. 这两年的目标检测的综述 [link](https://zhuanlan.zhihu.com/p/82491218)
 0.  NAS论文小结 [link](https://zhuanlan.zhihu.com/p/81126873)
 0.  深度学习500问  [github](https://github.com/scutan90/DeepLearning-500-questions)
 0. 常见的模型算法评估指标 [link](https://zhuanlan.zhihu.com/p/74493056)
@@ -88,6 +89,7 @@
 13. ArmNN  [github](https://github.com/ARM-software/armnn)
 
 ### 蒸馏 剪枝  量化
+0. Tensorflow模型量化(Quantization)原理及其实现方法 [link](https://zhuanlan.zhihu.com/p/79744430)
 0. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 1. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
 2. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
