@@ -140,6 +140,7 @@
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
+0. FreeAnchor: Learning to Match Anchors for Visual Object Detection (NeurIPS 2019)  [github](https://github.com/zhangxiaosong18/FreeAnchor)
 0. 用于实时物体检测并且训练时间友好的网络 - TTFNet [github](https://github.com/ZJULearning/ttfnet)
 0. CenterNet——Objects as Points论文解读 2019  [link](https://zhuanlan.zhihu.com/p/66048276)
 0. ExtremeNet pytorch  2019 [link](https://zhuanlan.zhihu.com/p/71249684) [github](https://github.com/xingyizhou/ExtremeNet)
@@ -248,7 +249,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
-
+0. 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。 [github](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 0. FlashTorch 特征可视化 [link](https://zhuanlan.zhihu.com/p/81838126)
 0. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
 0.  Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
@@ -399,6 +400,7 @@
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 
 ###  OCR
+0.  基于MXNet的CTPN 身份证 [github](https://github.com/chinakook/CTPN.mxnet/blob/master/README_CN.md)
 0. PyTorch实现的DenseBox多任务学习目标检测/关键点定位 [github](https://github.com/CaptainEven/DenseBox)
 0. 增值税发票识别系统(OCR System of Invoice) [link](https://github.com/JelfPann/ocr_invoice)
 1. 文字相似度函数  pytorch [github](https://github.com/pengshuang/Text-Similarity) 
@@ -592,6 +594,7 @@
 2.  12306抢票协议  [github](https://github.com/Henryhaohao/12306_Ticket)
 
 ### 其他
+0. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
 0.  面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
 0.  适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
 0. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
