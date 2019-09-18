@@ -154,6 +154,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. CBNet:一种用于目标检测的复合骨干网络体系结构   2019 [github](https://github.com/PKUbahuangliuhe/CBNet)
 0. 单级目标检测：YOLO与SSD，我选SSD！！！ [link](https://zhuanlan.zhihu.com/p/35394369)
 0. 【SSD算法】史上最全代码解析-核心篇  [github](https://zhuanlan.zhihu.com/p/79854543)
 0. MXNet的一个开源项目gluoncv里的yolov3代码，写了一份中文注解  [github](https://github.com/szza/yolov3_gluoncv_MXNet)
@@ -310,6 +311,7 @@
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
 ###  NLP
+0. 基于RNN的生成手写字体 [github](https://github.com/swechhachoudhary/Handwriting-synthesis)
 0. ERNIE  [github](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
 1. nert-bert pytorch [github](https://github.com/sberbank-ai/ner-bert)
 2. xlnet 2019 [github](https://github.com/zihangdai/xlnet)
@@ -334,6 +336,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测和特征点定位
+0. RetinaFace的PyTorch实现：室外的单阶段密集人脸定位 [github](https://github.com/biubug6/Pytorch_Retinaface)
 0. MTCNN 人脸检测和跟踪 [github](https://github.com/zeusees/HyperFT)  [link](https://blog.csdn.net/relocy/article/details/84075570)
 0. Deep Convolutional Network Cascade for Facial Point Detection [link](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
 0. Multi-task face recognition framework based on PyTorch [github](https://github.com/XiaohangZhan/face_recognition_framework)
@@ -437,6 +440,7 @@
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
 
 ### 语音合成与识别
+0. patter - PyTorch语音识别框架  [github](https://github.com/ryanleary/patter)
 0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
 0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
 0. RNN-CTC ctc-asr[github](https://github.com/mdangschat/ctc-asr)
