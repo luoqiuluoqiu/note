@@ -154,6 +154,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人 [github](https://github.com/songwsx/person_search_demo)
 0. CBNet:一种用于目标检测的复合骨干网络体系结构   2019 [github](https://github.com/PKUbahuangliuhe/CBNet)
 0. 单级目标检测：YOLO与SSD，我选SSD！！！ [link](https://zhuanlan.zhihu.com/p/35394369)
 0. 【SSD算法】史上最全代码解析-核心篇  [github](https://zhuanlan.zhihu.com/p/79854543)
