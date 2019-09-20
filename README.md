@@ -404,6 +404,7 @@
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 
 ###  OCR
+0.  Text_Segmentation_Image_Inpainting  文件检测并修复  [github](https://github.com/yu45020/Text_Segmentation_Image_Inpainting)
 0. 手写公式识别 ：基于深度学习的端到端方法 [github](https://mp.weixin.qq.com/s/tv4FLltSZF1VoHsrPkdb4Q)
 0.  基于MXNet的CTPN 身份证 [github](https://github.com/chinakook/CTPN.mxnet/blob/master/README_CN.md)
 0. PyTorch实现的DenseBox多任务学习目标检测/关键点定位 [github](https://github.com/CaptainEven/DenseBox)
@@ -592,7 +593,7 @@
 
 ### 工具：
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
-
+1. 图片简易标注工具  [github](https://github.com/jayney/dataset_labeling)
 
 ### 12306抢票源代码
 0.  12306  [github](https://github.com/testerSunshine/12306)
