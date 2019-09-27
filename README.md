@@ -252,6 +252,7 @@
 
 ## 深度学习框架
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
+0. 混合精度神经网络训练：理论与实践 [github](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8302.pdf)
 0. 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。 [github](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 0. FlashTorch 特征可视化 [link](https://zhuanlan.zhihu.com/p/81838126)
 0. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
