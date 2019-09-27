@@ -497,6 +497,7 @@
 0.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 
 ###  其他
+0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
 0. 使用YOLOv3演示行人跟踪卡尔曼滤波器 [github](https://github.com/afunTW/pytorch-mot-tracking)
 0. TriangleGAN,一种新的手势到手势翻译框架 [github](https://github.com/yhlleo/TriangleGAN)
 0.  基于CNN+Bi-LSTM+Attention 的自动对对联系统  pytorch  [github](https://github.com/WiseDoge/CoupletAI)
