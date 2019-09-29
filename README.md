@@ -446,6 +446,7 @@
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
 
 ### 语音合成与识别
+0. SpeechBrain  新的语音框架  基于pytorch开发  [link](https://speechbrain.github.io/)
 0. patter - PyTorch语音识别框架  [github](https://github.com/ryanleary/patter)
 0.  masr  中文语音识别，提供预训练模型，高识别率 [github](https://github.com/lukhy/masr)
 0. FastSpeech [github](https://github.com/xcmyz/FastSpeech)
@@ -464,6 +465,7 @@
 3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
 ### GAN 对抗神经网络
+0. Liquid Warping GAN：模仿人体运动，外观转移和新颖视图合成的统一框架 [github](https://github.com/svip-lab/impersonator)
 0. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
 1. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
 2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
@@ -480,6 +482,7 @@
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
 ###  matting
+0.  Deep-Image-Matting-v2  2019  pytorch [github](https://github.com/foamliu/Deep-Image-Matting-v2)
 0.  pytorch-deep-image-matting [github](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 0.  portrait_matting  Chainer  [github](https://github.com/takiyu/portrait_matting)
 0. alphamatting 所有模型统计[link](http://www.alphamatting.com/index.html)
