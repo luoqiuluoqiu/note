@@ -70,6 +70,7 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
 ### inference
+0. XNNPACK  手机浏览器端 [github](https://github.com/google/XNNPACK)
 0. AoE  滴滴推断框架   [link](https://didi.github.io/AoE/)
 0. onnxruntime [github](https://github.com/Microsoft/onnxruntime)
 0. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
@@ -340,6 +341,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测和特征点定位
+0. 利用Keras进行人脸分析的深度学习框架集合 [github](https://github.com/shaoanlu/face_toolbox_keras)
 0. RetinaFace的PyTorch实现：室外的单阶段密集人脸定位 [github](https://github.com/biubug6/Pytorch_Retinaface)
 0. MTCNN 人脸检测和跟踪 [github](https://github.com/zeusees/HyperFT)  [link](https://blog.csdn.net/relocy/article/details/84075570)
 0. Deep Convolutional Network Cascade for Facial Point Detection [link](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
@@ -385,6 +387,7 @@
 3. OpenPose 基于OpenCV DNN 的手部关键点检测 [link](https://www.aiuai.cn/aifarm1111.html)
 4. 包含手和身体姿势估计openpose的pytorch实现  [github](https://github.com/Hzzone/pytorch-openpose)
 5. 用于人体姿势估计的高分辨率网络（HigherHRNets） [github](https://github.com/hrnet/higher-hrnet-human-pose-estimation)
+6. 基于OpenPose的人体骨骼多人动作实时识别 [github](https://github.com/felixchenfy/Realtime-Action-Recognition)
 
 ### 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
@@ -407,6 +410,7 @@
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 
 ###  OCR
+0. MaskTextSpotter - 端到端可训练神经网络，用于发现任意形状文本的一个PyTorch实现 [github](https://github.com/MhLiao/MaskTextSpotter)
 0.  Text_Segmentation_Image_Inpainting  文件检测并修复  [github](https://github.com/yu45020/Text_Segmentation_Image_Inpainting)
 0. 手写公式识别 ：基于深度学习的端到端方法 [github](https://mp.weixin.qq.com/s/tv4FLltSZF1VoHsrPkdb4Q)
 0.  基于MXNet的CTPN 身份证 [github](https://github.com/chinakook/CTPN.mxnet/blob/master/README_CN.md)
@@ -534,6 +538,7 @@
 # 语言
 
 ###  python
+0. imagededup - 让查找重复图像变得容易的Python包 [github](https://github.com/idealo/imagededup)
 0. 图像的仿射变换 [link](https://zhuanlan.zhihu.com/p/80852438)
 0.  records数据库操作  [github](https://github.com/kennethreitz/records) [link](https://www.zhihu.com/question/24590883/answer/799802849)
 0. Python代码加密混淆 [link](https://zhuanlan.zhihu.com/p/71892833)
@@ -607,7 +612,12 @@
 1.  py12306  [github](https://github.com/pjialin/py12306)
 2.  12306抢票协议  [github](https://github.com/Henryhaohao/12306_Ticket)
 
+
+### 逆向
+0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
+
 ### 其他
+0. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
 0. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
 0.  面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
 0.  适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
@@ -625,3 +635,4 @@
 9.  pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
 10. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
 11. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
+
