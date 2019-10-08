@@ -70,6 +70,7 @@
 7. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
 ### inference
+0. The triNNity DNN toolkit (compiler, optimizer, and primitive library)  [home](https://www.scss.tcd.ie/~andersan/projects/live/triNNity.html) [link](https://bitbucket.org/%7Bbc87efde-34d1-4129-bde3-71280b6a3ba8%7D/)
 0. XNNPACK  手机浏览器端 [github](https://github.com/google/XNNPACK)
 0. AoE  滴滴推断框架   [link](https://didi.github.io/AoE/)
 0. onnxruntime [github](https://github.com/Microsoft/onnxruntime)
@@ -485,7 +486,9 @@
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
-###  matting
+###  matting    remove.bg
+0. Semantic Soft Segmentation  [github](https://github.com/yaksoy/SemanticSoftSegmentation) [link讲解](https://zhuanlan.zhihu.com/p/63211300)  [github2](https://github.com/lebronyxm/SSS-semantic-soft-segmentation) [home](http://yaksoy.github.io/sss/)
+0. Semantic Human Matting 2018  阿里 [github](https://github.com/lizhengwei1992/Semantic_Human_Matting) [link](https://blog.csdn.net/WZZ18191171661/article/details/89036596) [dataset](https://github.com/aisegmentcn/matting_human_datasets)
 0.  Deep-Image-Matting-v2  2019  pytorch [github](https://github.com/foamliu/Deep-Image-Matting-v2)
 0.  pytorch-deep-image-matting [github](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 0.  portrait_matting  Chainer  [github](https://github.com/takiyu/portrait_matting)
