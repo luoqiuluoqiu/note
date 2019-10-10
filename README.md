@@ -142,6 +142,7 @@
 1. 基于视频的目标检测算法研究[github](https://github.com/guanfuchen/video_obj)
 
 #### 基于坐标点做目标检测
+0. Centernet相关---尤其有关heatmap相关解释 [link](https://zhuanlan.zhihu.com/p/85194783)
 0. FreeAnchor: Learning to Match Anchors for Visual Object Detection (NeurIPS 2019)  [github](https://github.com/zhangxiaosong18/FreeAnchor)
 0. 用于实时物体检测并且训练时间友好的网络 - TTFNet [github](https://github.com/ZJULearning/ttfnet)
 0. CenterNet——Objects as Points论文解读 2019  [link](https://zhuanlan.zhihu.com/p/66048276)
