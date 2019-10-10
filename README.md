@@ -157,6 +157,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
 
 #### 基于候选框做目标检测
+0. 目标检测新突破！来了解Res2Net深度多尺度目标检测架构  [link](https://www.ctolib.com/topics-142774.html) [github](https://github.com/gasvn/Res2Net)
 0. 目标检测中Anchor的本质分析 [github](https://zhuanlan.zhihu.com/p/84398108)
 0. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人 [github](https://github.com/songwsx/person_search_demo)
 0. CBNet:一种用于目标检测的复合骨干网络体系结构   2019 [github](https://github.com/PKUbahuangliuhe/CBNet)
@@ -471,6 +472,7 @@
 3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
 ### GAN 对抗神经网络
+0. 使用Pytorch实现的各种对抗性生成网络GAN [github](https://github.com/ozanciga/gans-with-pytorch)
 0. Liquid Warping GAN：模仿人体运动，外观转移和新颖视图合成的统一框架 [github](https://github.com/svip-lab/impersonator)
 0. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
 1. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
@@ -542,6 +544,7 @@
 # 语言
 
 ###  python
+0. Reaction：快速便捷的深度学习模型服务部署框架 [github](https://github.com/catalyst-team/reaction)
 0. imagededup - 让查找重复图像变得容易的Python包 [github](https://github.com/idealo/imagededup)
 0. 图像的仿射变换 [link](https://zhuanlan.zhihu.com/p/80852438)
 0.  records数据库操作  [github](https://github.com/kennethreitz/records) [link](https://www.zhihu.com/question/24590883/answer/799802849)
@@ -621,6 +624,7 @@
 0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
 
 ### 其他
+0. 阿里云天池大赛2019——肺部CT多病种智能诊断，参赛代码  [github](https://github.com/Henry-Mike/TianChi2019-lung-CT)
 0. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
 0. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
 0.  面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
