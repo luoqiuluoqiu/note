@@ -241,6 +241,7 @@
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
 
 ###  跟踪Tracking
+0. 基于孪生网络（SiamNet）的单目标跟踪算法 [github](https://github.com/NklausMikealson/SOT_Code_Comment)
 0.  再谈多目标追踪--快速应用部署  [link](https://zhuanlan.zhihu.com/p/77111218)
 0. pysot PyTorch   [github](https://github.com/STVIR/pysot)
 0. SiamDW   pytorch [github](https://github.com/researchmm/SiamDW)
