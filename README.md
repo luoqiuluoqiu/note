@@ -546,6 +546,7 @@
 # 语言
 
 ###  python
+0. Python在cmd上打印彩色文字 [link](https://zhuanlan.zhihu.com/p/85675149)
 0. Reaction：快速便捷的深度学习模型服务部署框架 [github](https://github.com/catalyst-team/reaction)
 0. imagededup - 让查找重复图像变得容易的Python包 [github](https://github.com/idealo/imagededup)
 0. 图像的仿射变换 [link](https://zhuanlan.zhihu.com/p/80852438)
