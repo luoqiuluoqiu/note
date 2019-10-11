@@ -344,6 +344,7 @@
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 
 ###  人脸检测和特征点定位
+0. Ultra-Light-Fast-Generic-Face-Detector-1MB [github](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 0. 利用Keras进行人脸分析的深度学习框架集合 [github](https://github.com/shaoanlu/face_toolbox_keras)
 0. RetinaFace的PyTorch实现：室外的单阶段密集人脸定位 [github](https://github.com/biubug6/Pytorch_Retinaface)
 0. MTCNN 人脸检测和跟踪 [github](https://github.com/zeusees/HyperFT)  [link](https://blog.csdn.net/relocy/article/details/84075570)
