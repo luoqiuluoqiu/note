@@ -491,7 +491,8 @@
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 
-###  matting    remove.bg
+###  matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
+0. indexnet_matting  2019  pytorch  [github](https://github.com/poppinace/indexnet_matting)
 0. Semantic Soft Segmentation  [github](https://github.com/yaksoy/SemanticSoftSegmentation) [link讲解](https://zhuanlan.zhihu.com/p/63211300)  [github2](https://github.com/lebronyxm/SSS-semantic-soft-segmentation) [home](http://yaksoy.github.io/sss/)
 0. Semantic Human Matting 2018  阿里 [github](https://github.com/lizhengwei1992/Semantic_Human_Matting) [link](https://blog.csdn.net/WZZ18191171661/article/details/89036596) [dataset](https://github.com/aisegmentcn/matting_human_datasets)
 0.  Deep-Image-Matting-v2  2019  pytorch [github](https://github.com/foamliu/Deep-Image-Matting-v2)
