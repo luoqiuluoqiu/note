@@ -319,6 +319,7 @@
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 
 ###  NLP
+0. Chinese-Text-Classification-Pytorch 中文文本分类  pytorch [github](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 0. 可解释性（2）—— RNN可视化工具RNNVis  [github](https://zhuanlan.zhihu.com/p/81483592)
 0. 基于RNN的生成手写字体 [github](https://github.com/swechhachoudhary/Handwriting-synthesis)
 0. ERNIE  [github](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
