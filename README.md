@@ -508,6 +508,11 @@
 6. Image Matting代碼和算法效果總結 [link](https://www.twblogs.net/a/5b7acdd82b7177392c96d843)
 7. portrait_matting [github](https://github.com/takiyu/portrait_matting)  [github2](https://github.com/topics/portrait-matting)
 
+
+
+### 行人检测
+0. Pedestrian-Detection [github](https://github.com/xingkongliang/Pedestrian-Detection)
+
 ### 表面检测
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
