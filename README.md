@@ -152,7 +152,7 @@
 0. PaperReadingGroup-10-CenterNet之理解 [link](https://zhuanlan.zhihu.com/p/80811439)
 0. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 #### 基于分割
-0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)
+0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
 
 #### 基于候选框做目标检测
 0. 目标检测新突破！来了解Res2Net深度多尺度目标检测架构  [link](https://www.ctolib.com/topics-142774.html) [github](https://github.com/gasvn/Res2Net)
