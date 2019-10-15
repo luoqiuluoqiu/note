@@ -102,14 +102,12 @@
 
 ### 数据增强
 0. 【SSD算法】史上最全代码解析-数据篇   对比度等调整 pytorch  [link](https://zhuanlan.zhihu.com/p/79933177)
-### Auto ML
+
+### Auto ML  NAS
 0. AutoML pdf [link](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)[github](https://github.com/hibayesian/awesome-automl-papers)
 1. FairNAS 2019 [github](https://github.com/fairnas/FairNAS)
-
-
-
-### NAS
-0. 四小时搜索NN结构，厦大提出快速NAS检索方法  2019  [link](https://zhuanlan.zhihu.com/p/80232728)  [github](https://github.com/tanglang96/MDENAS)
+2. 四小时搜索NN结构，厦大提出快速NAS检索方法  2019  [link](https://zhuanlan.zhihu.com/p/80232728)  [github](https://github.com/tanglang96/MDENAS)
+3. NAS-Projects [github](https://github.com/D-X-Y/NAS-Projects)
 
 ### 分类 
 
@@ -636,6 +634,7 @@
 0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
 
 ### 其他
+0. 京东vearch  [github](https://github.com/vearch/vearch)
 0. 阿里云天池大赛2019——肺部CT多病种智能诊断，参赛代码  [github](https://github.com/Henry-Mike/TianChi2019-lung-CT)
 0. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
 0. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
