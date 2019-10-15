@@ -108,6 +108,7 @@
 1. FairNAS 2019 [github](https://github.com/fairnas/FairNAS)
 2. 四小时搜索NN结构，厦大提出快速NAS检索方法  2019  [link](https://zhuanlan.zhihu.com/p/80232728)  [github](https://github.com/tanglang96/MDENAS)
 3. NAS-Projects [github](https://github.com/D-X-Y/NAS-Projects)
+4.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 
 ### 分类 
 
@@ -506,7 +507,7 @@
 5. AlphaMatting C++ [github](https://github.com/np-csu/AlphaMatting)
 6. Image Matting代碼和算法效果總結 [link](https://www.twblogs.net/a/5b7acdd82b7177392c96d843)
 7. portrait_matting [github](https://github.com/takiyu/portrait_matting)  [github2](https://github.com/topics/portrait-matting)
-
+8. Awesome-Image-Inpainting [github](https://github.com/1900zyh/Awesome-Image-Inpainting#image-inpainting)
 
 
 ### 行人检测
@@ -516,8 +517,6 @@
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
 
-###  NAS
-0.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 
 ###  其他
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
