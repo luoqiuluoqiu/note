@@ -89,6 +89,7 @@
 11. QNNPACK
 12. FeatherCNN
 13. ArmNN  [github](https://github.com/ARM-software/armnn)
+14. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 
 ### 蒸馏 剪枝  量化
 0. Tensorflow模型量化(Quantization)原理及其实现方法 [link](https://zhuanlan.zhihu.com/p/79744430)
