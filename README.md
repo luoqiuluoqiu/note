@@ -521,6 +521,14 @@
 ### 行人检测
 0. Pedestrian-Detection [github](https://github.com/xingkongliang/Pedestrian-Detection)
 
+
+### 肖像分割 portrait-segmentation  Human-Segmentation
+0. unet-resnext50 [github](https://github.com/nizhib/portrait-demo)
+1. Tips for building fast portrait segmentation network with TensorFlow Lite   [link](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html)
+2. Real-time Automatic Deep Matting For Mobile Devices With Mobile-Unet [github](https://github.com/anilsathyan7/Portrait-Segmentation)
+3. Towards Real-Time Automatic Portrait Matting on Mobile Devices  [github](https://github.com/hyperconnect/MMNet)
+4. Human-Segmentation-PyTorch [github](https://github.com/thuyngch/Human-Segmentation-PyTorch)
+
 ### 表面检测
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
