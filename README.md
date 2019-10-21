@@ -90,6 +90,7 @@
 12. FeatherCNN
 13. ArmNN  [github](https://github.com/ARM-software/armnn)
 14. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
+15. cortex [github](https://github.com/cortexlabs/cortex)
 
 ### 蒸馏 剪枝  量化
 0. Tensorflow模型量化(Quantization)原理及其实现方法 [link](https://zhuanlan.zhihu.com/p/79744430)
@@ -189,7 +190,7 @@
 6. kaggle  大白鲸目标检测 [github](https://github.com/earhian/Humpback-Whale-Identification-1st-)
 8. R-FCN+ResNet-50用自己的数据集训练模型  [link](https://blog.csdn.net/sinat_30071459/article/details/53202977)  
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
-####
+9. trident net + refinedet 目标检测 [github](https://github.com/wei-yuma/multitrident)
 
 ###  语义分割
 
@@ -366,6 +367,8 @@
 7. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
 8. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
 9. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
+10. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
+11.CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
 
 ###  人脸识别
 0. SeetaFace2 2019  全C++[github](https://github.com/seetafaceengine/SeetaFace2)
@@ -427,6 +430,7 @@
 3. CCPD  车牌端对端识别及其250k的数据集 [github](https://github.com/detectRecog/CCPD)
 4. aster.pytorch   [github](https://github.com/ayumiymk/aster.pytorch)
 5. Seq2Seq+Attention 中文OCR文字识别   pytorch  [github](https://github.com/bai-shang/crnn_seq2seq_ocr.Pytorch)
+6. A research project for text detection and recognition using PyTorch 1.2 [github](https://github.com/Megvii-CSG/MegReader)
 
 ### 去水印 inpaint
 0. deepfill2  [github](https://github.com/avalonstrel/GatedConvolution_pytorch)
@@ -455,6 +459,9 @@
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
+
+### 质量评估
+0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
 
 ### 语音合成与识别
 0. SpeechBrain  新的语音框架  基于pytorch开发  [link](https://speechbrain.github.io/)
@@ -634,6 +641,7 @@
 0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
 
 ### 其他
+0. 操作系统是如何被加载的 [github](https://zhuanlan.zhihu.com/p/82357200)
 0. 京东vearch  [github](https://github.com/vearch/vearch)
 0. 阿里云天池大赛2019——肺部CT多病种智能诊断，参赛代码  [github](https://github.com/Henry-Mike/TianChi2019-lung-CT)
 0. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
