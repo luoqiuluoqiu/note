@@ -383,6 +383,8 @@
 4. 人脸识别基础介绍 [link](https://zhuanlan.zhihu.com/p/58362396)
 5. A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018 [github](https://github.com/AlfredXiangWu/LightCNN)
 6.  reid-strong-baseline 2019 pytorch[github](https://github.com/michuanhaohao/reid-strong-baseline)
+7. 基于人脸关键区域提取的人脸识别 [github](https://github.com/bleakie/MaskInsightface)
+
 
 ###  人脸融合
 1. Faceswap pytorch  [github](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
