@@ -112,6 +112,10 @@
 3. NAS-Projects [github](https://github.com/D-X-Y/NAS-Projects)
 4.  NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 
+
+###  激活函数
+0. Mish: 一个新的activation function [link](https://zhuanlan.zhihu.com/p/87696023)  [github](https://github.com/lessw2020/mish)
+
 ### 分类 
 
 
@@ -492,6 +496,7 @@
 2. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
 3. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
 4. Generative Deep Learning 的中文翻译 [code](https://github.com/davidADSP/GDL_code) [github](https://github.com/ythwilam/Generative-Deep-Learning-translate-zh)
+5. Jokeriser使用人脸识别+CycleGAN训练的生成器将人脸转换成小丑Joker的脸 [github](https://github.com/junkwhinger/jokerise)
 
 
 ###  GCN图卷积网络
@@ -522,7 +527,7 @@
 
 ### 行人检测
 0. Pedestrian-Detection [github](https://github.com/xingkongliang/Pedestrian-Detection)
-
+1. 行人检测（Pedestrian Detection）论文整理 [link](https://zhuanlan.zhihu.com/p/86285180)
 
 ### 肖像分割 portrait-segmentation  Human-Segmentation
 0. unet-resnext50 [github](https://github.com/nizhib/portrait-demo)
