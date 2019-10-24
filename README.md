@@ -195,6 +195,7 @@
 8. R-FCN+ResNet-50用自己的数据集训练模型  [link](https://blog.csdn.net/sinat_30071459/article/details/53202977)  
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 9. trident net + refinedet 目标检测 [github](https://github.com/wei-yuma/multitrident)
+10. 基于SSD框架在建筑工地上检测安全帽的佩戴并识别安全帽的相应颜色  [link](https://www.ctolib.com/wujixiu-helmet-detection.html)
 
 ###  语义分割
 
@@ -239,6 +240,7 @@
 8. UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 10. nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
+11. 医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
 
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
