@@ -425,6 +425,7 @@
 ### 车牌识别
 0. LPRNet_Pytorch  [github](https://github.com/sirius-ai/LPRNet_Pytorch)  [link](https://www.52cv.net/?p=854)
 0. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
+1. LPRNet - 基于Tensorflow，使用CNN和CTCloss实现轻量级车牌识别的轻型网络  [github](https://github.com/lyl8213/Plate_Recognition-LPRnet)
 
 ###  OCR
 0. MaskTextSpotter - 端到端可训练神经网络，用于发现任意形状文本的一个PyTorch实现 [github](https://github.com/MhLiao/MaskTextSpotter)
