@@ -463,6 +463,8 @@
 6. deep-image-prior [github](https://github.com/DmitryUlyanov/deep-image-prior)
 7. SC-FEGAN [github](https://github.com/JoYoungjoo/SC-FEGAN)
 8. DFNet 2019 [github](https://github.com/hughplay/DFNet)
+9. Pluralistic-Inpainting  pytorch  [github](https://github.com/lyndonzheng/Pluralistic-Inpainting)
+
 
 ###  图像超分辨率与去噪
 0. Lightweight Image Super-Resolution with Information Multi-distillation Network (ACM MM 2019) [github](https://github.com/Zheng222/IMDN)
