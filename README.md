@@ -117,8 +117,6 @@
 0. Mish: 一个新的activation function [link](https://zhuanlan.zhihu.com/p/87696023)  [github](https://github.com/lessw2020/mish)
 
 ### 分类 
-
-
 0. 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺 [link](https://zhuanlan.zhihu.com/p/77221549) [link](https://www.paperswithcode.com/sota/image-classification-on-imagenet)
 0. 让CNN有了平移不变性  [link](https://mp.weixin.qq.com/s/trWBJHEn45gs6vBIoGk4lg)
 0. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
@@ -337,7 +335,8 @@
 0. xlnet-pytorch 2019 [github](https://github.com/pingpong-ai/xlnet-pytorch)
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
-
+2. 中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案 [github](https://github.com/GuidoPaul/CAIL2019)
+ 
 ### 边缘检测算法
 1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
 2. hed_pytorch 2015 [github](https://github.com/BinWang-shu/pytorch_hed)
@@ -375,6 +374,7 @@
 9. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
 10. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
 11.CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
+12. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 
 ###  人脸识别
 0. SeetaFace2 2019  全C++[github](https://github.com/seetafaceengine/SeetaFace2)
@@ -467,6 +467,7 @@
 1. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
+4. High-Quality Self-Supervised Deep Image Denoising  2019  [github](https://github.com/NVlabs/selfsupervised-denoising)
 
 ### 质量评估
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
@@ -679,4 +680,5 @@
 9.  pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
 10. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
 11. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
+12. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
 
