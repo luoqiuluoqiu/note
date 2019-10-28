@@ -38,6 +38,8 @@
 18. Fast.ai v3 2019课程Notebook Kaggle Kernel 中文版  [link](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 19.  手机端高性能卷积神经网络推理引擎概览  [github](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View)
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
+21. 深度学习无限问  [github](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+
 
 ### 综述
 0. 这两年的目标检测的综述 [link](https://zhuanlan.zhihu.com/p/82491218)
@@ -55,6 +57,10 @@
 8. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 9. OCR papernote [github](https://github.com/xwzhong/papernote)
 10.  图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
+
+
+### 图像处理
+0. 图像处理初学者设计的 100 个问题 [github](https://github.com/gzr2017/ImageProcessing100Wen)
 
 ### 轻量网络
 0. PyTorch_BlazeFace  [github](https://github.com/tkat0/PyTorch_BlazeFace)
