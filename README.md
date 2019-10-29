@@ -477,6 +477,7 @@
 2. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
 4. High-Quality Self-Supervised Deep Image Denoising  2019  [github](https://github.com/NVlabs/selfsupervised-denoising)
+5. ABPN pytorch 2019  [github](https://github.com/Holmes-Alan/ABPN)
 
 ### 质量评估
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
