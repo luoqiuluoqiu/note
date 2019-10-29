@@ -667,6 +667,8 @@
 1.  py12306  [github](https://github.com/pjialin/py12306)
 2.  12306抢票协议  [github](https://github.com/Henryhaohao/12306_Ticket)
 
+### mysql
+0. CentOS7安装MySQL  [github](https://blog.csdn.net/qq_36582604/article/details/80526287)
 
 ### 逆向
 0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
