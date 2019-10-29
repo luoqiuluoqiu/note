@@ -620,6 +620,7 @@
 15. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
 16. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
 17. Django + Ansible + Celery 的WEB平台，用以批量处理任务 [github](https://github.com/lotus-dgas/AnsibleUI)
+18.Jupyter安装与部署  [link](https://xiaoyou66.com/archives/1095)[link](https://cloud.tencent.com/developer/article/1147487)
 
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
