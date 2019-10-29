@@ -500,6 +500,7 @@
 1. 对抗样本攻防战 [link](https://zhuanlan.zhihu.com/p/57820763)
 2. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
 3. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
+4. MTCNN可攻破？华为提出一种可复制、可靠的攻击方法 [link](https://flashgene.com/archives/71854.html)  [github](https://github.com/edosedgar/mtcnnattack)
 
 ### GAN 对抗神经网络
 0. 使用Pytorch实现的各种对抗性生成网络GAN [github](https://github.com/ozanciga/gans-with-pytorch)
