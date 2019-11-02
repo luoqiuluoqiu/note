@@ -511,7 +511,8 @@
 3. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
 4. Generative Deep Learning 的中文翻译 [code](https://github.com/davidADSP/GDL_code) [github](https://github.com/ythwilam/Generative-Deep-Learning-translate-zh)
 5. Jokeriser使用人脸识别+CycleGAN训练的生成器将人脸转换成小丑Joker的脸 [github](https://github.com/junkwhinger/jokerise)
-
+6. instagan [link](https://github.com/sangwoomo/instagan) [link](https://blog.csdn.net/qq_33430288/article/details/88742831)
+6. stargan  [github]( https://github.com/yunjey/stargan)
 
 ###  GCN图卷积网络
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
