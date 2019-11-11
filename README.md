@@ -200,6 +200,8 @@
 ![image](https://raw.githubusercontent.com/hoya012/deep_learning_object_detection/master/assets/deep_learning_object_detection_history.PNG)
 9. trident net + refinedet 目标检测 [github](https://github.com/wei-yuma/multitrident)
 10. 基于SSD框架在建筑工地上检测安全帽的佩戴并识别安全帽的相应颜色  [link](https://www.ctolib.com/wujixiu-helmet-detection.html)
+11. 基于 Mask R-CNN 的街景广告检测与模糊   tensorflow [github](https://github.com/WannaFIy/mask_AD)
+
 
 ###  语义分割
 
@@ -245,6 +247,8 @@
 9. segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 10. nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 11. 医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
+
+
 
 ###  实例分割
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
@@ -342,7 +346,10 @@
 0. nlp-tutorial [gitub](https://github.com/graykode/nlp-tutorial)
 1. DeepNLP-models-Pytorch [github](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 2. 中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案 [github](https://github.com/GuidoPaul/CAIL2019)
- 
+3. 新闻分类   LR  SVM [github](https://github.com/imadelh/NLP-news-classification
+4. PyTorch 实现的神经网络协同过滤推荐系统 [github](https://github.com/HarshdeepGupta/recommender_pytorch)
+
+
 ### 边缘检测算法
 1. 文章介绍 [link](https://zhuanlan.zhihu.com/p/56712157)
 2. hed_pytorch 2015 [github](https://github.com/BinWang-shu/pytorch_hed)
@@ -396,6 +403,7 @@
 5. A Light CNN for Deep Face Representation with Noisy Labels, TIFS 2018 [github](https://github.com/AlfredXiangWu/LightCNN)
 6.  reid-strong-baseline 2019 pytorch[github](https://github.com/michuanhaohao/reid-strong-baseline)
 7. 基于人脸关键区域提取的人脸识别 [github](https://github.com/bleakie/MaskInsightface)
+8. MassFace: 使用 triplet loss 进行人脸识别的高效实现  tensorflow [github](https://github.com/yule-li/MassFace)
 
 
 ###  人脸融合
@@ -411,6 +419,7 @@
 4. 包含手和身体姿势估计openpose的pytorch实现  [github](https://github.com/Hzzone/pytorch-openpose)
 5. 用于人体姿势估计的高分辨率网络（HigherHRNets） [github](https://github.com/hrnet/higher-hrnet-human-pose-estimation)
 6. 基于OpenPose的人体骨骼多人动作实时识别 [github](https://github.com/felixchenfy/Realtime-Action-Recognition)
+7. DeepPoseKit - 使用深度学习进行姿势估计的工具包  tensorflow keras [github](https://github.com/jgraving/deepposekit)
 
 ### 行人重识别
 1. SCPNet ACCV2018  pytorch  [github](https://github.com/xfanplus/Open-SCPNet)  知乎作者讲解[link](https://zhuanlan.zhihu.com/p/56418084 )
@@ -481,6 +490,7 @@
 
 ### 质量评估
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
+1. FaceQnet: 基于深度学习的人脸识别质量评估  [github](https://github.com/uam-biometrics/FaceQnet)
 
 ### 语音合成与识别
 0. SpeechBrain  新的语音框架  基于pytorch开发  [link](https://speechbrain.github.io/)
