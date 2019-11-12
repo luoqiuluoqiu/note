@@ -265,6 +265,7 @@
 1. DaSiamRPN
 1. SiamMask [github](https://github.com/foolwood/SiamMask)
 2. SiamRPN++ 
+3. 目标跟踪初探（DeepSORT） [link](https://zhuanlan.zhihu.com/p/90835266)
 
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
