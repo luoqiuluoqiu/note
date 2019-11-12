@@ -39,7 +39,7 @@
 19.  手机端高性能卷积神经网络推理引擎概览  [github](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View)
 20. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 21. 深度学习无限问  [github](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
-
+22. 周志华《机器学习》手推笔记 [github](https://github.com/Sophia-11/Machine-Learning-Notes)
 
 ### 综述
 0. 这两年的目标检测的综述 [link](https://zhuanlan.zhihu.com/p/82491218)
@@ -487,6 +487,9 @@
 3. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
 4. High-Quality Self-Supervised Deep Image Denoising  2019  [github](https://github.com/NVlabs/selfsupervised-denoising)
 5. ABPN pytorch 2019  [github](https://github.com/Holmes-Alan/ABPN)
+6. super-resolution [github](https://github.com/krasserm/super-resolution)
+7. 超分辨率损失函数  [link](https://zhuanlan.zhihu.com/p/91237333)
+
 
 ### 质量评估
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
