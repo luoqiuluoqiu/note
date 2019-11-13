@@ -456,7 +456,7 @@
 4. aster.pytorch   [github](https://github.com/ayumiymk/aster.pytorch)
 5. Seq2Seq+Attention 中文OCR文字识别   pytorch  [github](https://github.com/bai-shang/crnn_seq2seq_ocr.Pytorch)
 6. A research project for text detection and recognition using PyTorch 1.2 [github](https://github.com/Megvii-CSG/MegReader)
-
+7. AttentionOCR  2019  ocr检测和识别冠军  [github](https://github.com/zhang0jhon/AttentionOCR)
 ### 去水印 inpaint
 0. deepfill2  [github](https://github.com/avalonstrel/GatedConvolution_pytorch)
 0.  pytorch-inpainting-with-partial-conv [github](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)[kerasgithub](https://github.com/MathiasGruber/PConv-Keras) [link](https://medium.com/@xiaosean5408/partial-convolution-%E5%9C%96%E5%83%8F%E4%BF%AE%E5%BE%A9%E4%BB%BB%E5%8B%99pconv%E7%B0%A1%E4%BB%8B-image-inpainting-for-irregular-holes-using-partial-convolutions-81e6259b8e5f)
@@ -527,6 +527,7 @@
 5. Jokeriser使用人脸识别+CycleGAN训练的生成器将人脸转换成小丑Joker的脸 [github](https://github.com/junkwhinger/jokerise)
 6. instagan [link](https://github.com/sangwoomo/instagan) [link](https://blog.csdn.net/qq_33430288/article/details/88742831)
 6. stargan  [github]( https://github.com/yunjey/stargan)
+7. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
 
 ###  GCN图卷积网络
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
