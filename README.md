@@ -692,8 +692,8 @@
 
 
 ###  安全
-1. Damn Vulnerable Web Application (DVWA)  [link](http://www.dvwa.co.uk/)
-
+1. Damn Vulnerable Web Application (DVWA)  [link](http://www.dvwa.co.uk/)   
+2. DVWA低级别通关指南 [link](https://zhuanlan.zhihu.com/p/62152766)
 
 ### 其他
 0. 操作系统是如何被加载的 [github](https://zhuanlan.zhihu.com/p/82357200)
