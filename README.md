@@ -536,6 +536,8 @@
 1. np-hard-deep-reinforcement-learning [github](https://github.com/higgsfield/np-hard-deep-reinforcement-learning)
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
+4. PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks,  2019  [github](https://github.com/Megvii-Nanjing/ML_GCN)
+
 
 ###  matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
 0. indexnet_matting  2019  pytorch  [github](https://github.com/poppinace/indexnet_matting)
@@ -719,4 +721,4 @@
 11. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
 12. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
 13. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
-
+14. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
