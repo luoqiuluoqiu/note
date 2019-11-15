@@ -595,6 +595,8 @@
 15. 如何处理regression中的imbalanced data问题 [link](https://zhuanlan.zhihu.com/p/69105942)
 16. 表面缺陷检测  Defect Eye[github](https://github.com/sundyCoder/DEye)
 17. 手势识别  [link](https://www.ctolib.com/topics-142302.html) [github](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
+18. 一些改进模型速度/精度的工程方法 [github](https://zhuanlan.zhihu.com/p/92025012)
+
 
 ### 非常规损失函数
 0. SSIM  图像质量等 [github]()
