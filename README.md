@@ -490,7 +490,7 @@
 5. ABPN pytorch 2019  [github](https://github.com/Holmes-Alan/ABPN)
 6. super-resolution [github](https://github.com/krasserm/super-resolution)
 7. 超分辨率损失函数  [link](https://zhuanlan.zhihu.com/p/91237333)
-
+8. waifu2x  [github](https://github.com/nagadomi/waifu2x)  [link](http://waifu2x.udp.jp/)
 
 ### 质量评估
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
