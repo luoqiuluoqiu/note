@@ -644,6 +644,7 @@
 17. Django + Ansible + Celery 的WEB平台，用以批量处理任务 [github](https://github.com/lotus-dgas/AnsibleUI)
 18.Jupyter安装与部署  [link](https://xiaoyou66.com/archives/1095)[link](https://cloud.tencent.com/developer/article/1147487)
 19. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
+20. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
 
 ### C/C++
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
