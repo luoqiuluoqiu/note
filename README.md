@@ -604,6 +604,7 @@
 1. dice  图像分割
 2. ssim和psnr是超分辩主流的评价指标
 3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
+4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
 
 
 # 语言
