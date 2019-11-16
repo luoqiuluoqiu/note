@@ -364,6 +364,7 @@
 2. TextSnake  pytorch [github](https://github.com/princewang1994/TextSnake.pytorch)
 3. AdvancedEAST keras/tensorflow [github](https://github.com/huoyijie/AdvancedEAST)
 4. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
+5.  Text detection model that combines Retinanet with textboxes++ for OCR  [github](https://github.com/qjadud1994/Text_Detector)
 
 ###  人脸检测和特征点定位
 0. Ultra-Light-Fast-Generic-Face-Detector-1MB [github](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
@@ -537,7 +538,7 @@
 2. neural-combinatorial-rl-pytorch [github](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 3. 基于A*和Neural Network的路线规划  [link](https://zhuanlan.zhihu.com/p/75412517)
 4. PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks,  2019  [github](https://github.com/Megvii-Nanjing/ML_GCN)
-
+5. GPF（Graph Processing Flow）：利用图神经网络处理问题的一般化流程 [github](https://github.com/xchadesi/GPF)
 
 ###  matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
 0. indexnet_matting  2019  pytorch  [github](https://github.com/poppinace/indexnet_matting)
