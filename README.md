@@ -652,6 +652,9 @@
 3. NumCpp C++版本的numpy[github](https://github.com/dpilger26/NumCpp)
 4. 图像解码库stb single-file public domain libraries for C/C++   [github](https://github.com/nothings/stb)
 5. OpenCV-MinGW [github](https://github.com/huihut/OpenCV-MinGW-Build/releases)
+6. 用汇编理解C++  [github](https://blog.csdn.net/wzn491574452/article/details/80036988)
+
+
 
 ### dlib
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
