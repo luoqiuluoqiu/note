@@ -808,3 +808,4 @@
 21. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
 22. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
 23. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
+24. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
