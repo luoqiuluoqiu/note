@@ -43,6 +43,9 @@
 36. 为什么MobileNet及其变体如此之快 [link](https://zhuanlan.zhihu.com/p/64716400)
 37. 深度学习无限问  [github](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
 38. 周志华《机器学习》手推笔记 [github](https://github.com/Sophia-11/Machine-Learning-Notes)
+39. 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL [github](https://github.com/HadXu/ML-From-Scratch)
+40. flask 多并发架构部署   [github](https://github.com/HadXu/machine-learning/tree/master/flask_imageNet/keras%20restful%20API)  
+41. 面向机器学习的特征工程 [github](https://github.com/HadXu/feature-engineering-for-ml-zh)
 
 ### 综述
 
@@ -660,7 +663,7 @@
 19. 表面缺陷检测  Defect Eye[github](https://github.com/sundyCoder/DEye)
 20. 手势识别  [link](https://www.ctolib.com/topics-142302.html) [github](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
 21. 一些改进模型速度/精度的工程方法 [github](https://zhuanlan.zhihu.com/p/92025012)
-
+22. 公交线路准点预测   [github](https://github.com/HadXu/DC-5th)
 
 ### 非常规损失函数
 
