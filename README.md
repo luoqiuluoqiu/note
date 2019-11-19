@@ -455,6 +455,7 @@
 1. Faceswap pytorch  [github](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
 2. FaceAttribute-FAN  人脸特征融合 [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 3. 利用生成对抗网络实现人脸老化  [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
+4. 深度学习换脸检测发展调研 [link1](https://zhuanlan.zhihu.com/p/90316297)  [link2](https://zhuanlan.zhihu.com/p/92474937)
 
 ###  人体姿态估计
 
