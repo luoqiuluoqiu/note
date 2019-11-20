@@ -351,6 +351,7 @@
 6. pytorch-experiments-template  [github](https://github.com/learning-luke/pytorch-experiments-template)
 7. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
 8. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
+9. FLAT - 人脸特征点标注工具 [github](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)
 
 # 业务模型 #
 
