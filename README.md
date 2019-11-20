@@ -715,7 +715,7 @@
     18.Jupyter安装与部署  [link](https://xiaoyou66.com/archives/1095)[link](https://cloud.tencent.com/developer/article/1147487)
 31. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
 32. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
-
+33. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 ### C/C++
 
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
