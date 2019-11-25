@@ -666,6 +666,8 @@
 20. 手势识别  [link](https://www.ctolib.com/topics-142302.html) [github](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
 21. 一些改进模型速度/精度的工程方法 [github](https://zhuanlan.zhihu.com/p/92025012)
 22. 公交线路准点预测   [github](https://github.com/HadXu/DC-5th)
+23. 美发目标分割 + 染发展示 [github](https://github.com/zhaipro/unet)
+24. AI超级美发师 [link](https://ai.baidu.com/forum/topic/show/870371)
 
 ### 非常规损失函数
 
