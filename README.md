@@ -758,6 +758,8 @@
 ###  qt
 
 0. QWebEngineView 无法获取鼠标事件QMouseEvent  [link](https://blog.csdn.net/weinkym/article/details/78501078) [link2](https://stackoverflow.com/questions/30566101/how-can-i-get-paint-events-with-qtwebengine)  [link3](https://codeday.me/bug/20190429/1002887.html) [link4](http://blog.jues.org.cn/post/qwebengineview-shi-xian-mo-ni-shu-biao-hou-tai-dian-ji.html)
+1.  Qt开发经验 [码云](https://gitee.com/feiyangqingyun/qtkaifajingyan)
+2.  Qt编写的一些项目的可执行文件  [码云](https://gitee.com/feiyangqingyun/QWidgetExe)
 
 ### opencv
 
