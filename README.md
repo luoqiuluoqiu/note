@@ -1,3 +1,13 @@
+# 机器学习
+
+### 基础教程(github 仓库名称)
+0. ai-edu
+1. Machine-Learning-for-Beginner-by-Python3
+2. Machine-Learning-From-Scratch
+3. ML-From-Scratch 
+4. numpy-ml 
+
+
 # 深度学习基础模型
 
 ----
@@ -224,7 +234,9 @@
 31. trident net + refinedet 目标检测 [github](https://github.com/wei-yuma/multitrident)
 32. 基于SSD框架在建筑工地上检测安全帽的佩戴并识别安全帽的相应颜色  [link](https://www.ctolib.com/wujixiu-helmet-detection.html)
 33. 基于 Mask R-CNN 的街景广告检测与模糊   tensorflow [github](https://github.com/WannaFIy/mask_AD)
-
+34. yolov3通道和图层修剪 [github](https://github.com/tanluren/yolov3-channel-and-layer-pruning)
+35. YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterNet等 [github](https://github.com/ruinmessi/ASFF)
+36. 使用通道修剪的Stronger-Yolo的Pytorch实现 [github](https://github.com/wlguan/Stronger-yolo-pytorch)
 
 ###  语义分割
 
@@ -432,6 +444,7 @@
 20. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
     11.CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
 21. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
+22. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
 
 ###  人脸识别
 
@@ -468,6 +481,7 @@
 5. 用于人体姿势估计的高分辨率网络（HigherHRNets） [github](https://github.com/hrnet/higher-hrnet-human-pose-estimation)
 6. 基于OpenPose的人体骨骼多人动作实时识别 [github](https://github.com/felixchenfy/Realtime-Action-Recognition)
 7. DeepPoseKit - 使用深度学习进行姿势估计的工具包  tensorflow keras [github](https://github.com/jgraving/deepposekit)
+8. You Only Watch Once：实时人体动作定位网络 [github](https://github.com/wei-tim/YOWO)
 
 ### 行人重识别
 
@@ -548,6 +562,8 @@
 11. super-resolution [github](https://github.com/krasserm/super-resolution)
 12. 超分辨率损失函数  [link](https://zhuanlan.zhihu.com/p/91237333)
 13. waifu2x  [github](https://github.com/nagadomi/waifu2x)  [link](http://waifu2x.udp.jp/)
+14. 使用具有批量重新归一化的深度CNN进行图像去噪   tensorflow 2019 [github](https://github.com/hellloxiaotian/BRDNet)
+15. pytorch 版的 MWCNN 复现  [github](https://github.com/shaonianruntu/MWCNN)   [link](https://blog.csdn.net/gwplovekimi/article/details/84851871)
 
 ### 质量评估
 
@@ -668,6 +684,10 @@
 22. 公交线路准点预测   [github](https://github.com/HadXu/DC-5th)
 23. 美发目标分割 + 染发展示 [github](https://github.com/zhaipro/unet)
 24. AI超级美发师 [link](https://ai.baidu.com/forum/topic/show/870371)
+25. Fashion Recommendation - 用于服装图像的服装检索和视觉推荐模型  [github](https://github.com/khanhnamle1994/fashion-recommendation)
+26. FFA-Net: 用于单图像去雾的特征融合注意力网络 [github](https://github.com/zhilin007/FFA-Net)
+27. 使用PyTorch从单个图像实现3D Ken Burns效果 [github](https://github.com/sniklaus/3d-ken-burns)
+28. 通过深度学习来检测人脸是否被PS过 [github](https://github.com/PeterWang512/FALdetector)
 
 ### 非常规损失函数
 
@@ -718,6 +738,9 @@
 31. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
 32. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
 33. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+
+
 ### C/C++
 
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
@@ -818,3 +841,4 @@
 22. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
 23. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
 24. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
+25. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
