@@ -59,6 +59,7 @@
 39. 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL [github](https://github.com/HadXu/ML-From-Scratch)
 40. flask 多并发架构部署   [github](https://github.com/HadXu/machine-learning/tree/master/flask_imageNet/keras%20restful%20API)  
 41. 面向机器学习的特征工程 [github](https://github.com/HadXu/feature-engineering-for-ml-zh)
+42. 轻量级卷积神经网络的设计技巧 [link](https://flashgene.com/archives/79631.html)
 
 ### 综述
 
@@ -121,6 +122,8 @@
 19. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 20. cortex [github](https://github.com/cortexlabs/cortex)
 
+
+
 ### 蒸馏 剪枝  量化
 
 0. Tensorflow模型量化(Quantization)原理及其实现方法 [link](https://zhuanlan.zhihu.com/p/79744430)
@@ -128,6 +131,8 @@
 2. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
 3. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
 4. 神经网络量化简介 [link](https://jackwish.net/2019/neural-network-quantization-introduction-chn.html)
+5. 模型转换、模型压缩工具汇总 [link](https://blog.csdn.net/WZZ18191171661/article/details/99700992#1PocketFlow_42)
+6. 模型压缩总览 [link](https://www.jianshu.com/p/e73851f32c9f)
 
 
 ###  模型网络部署
