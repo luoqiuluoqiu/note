@@ -127,6 +127,7 @@
 1. 基于Pytorch的卷积神经网络剪枝 [link](https://blog.csdn.net/shi2xian2wei2/article/details/84998166)
 2. 用FPGA加速卷积神经网络CNN运算 [github](https://github.com/WalkerLau/Accelerating-CNN-with-FPGA)
 3. 模型压缩 [link](https://zhuanlan.zhihu.com/p/74559433)
+4. 神经网络量化简介 [link](https://jackwish.net/2019/neural-network-quantization-introduction-chn.html)
 
 
 ###  模型网络部署
