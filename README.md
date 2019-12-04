@@ -6,6 +6,8 @@
 2. Machine-Learning-From-Scratch
 3. ML-From-Scratch 
 4. numpy-ml 
+5. tinynn tinynn是一个轻量级的深度学习框架，用Python3（包括NumPy）编写  [github](https://github.com/borgwang/tinynn)
+![image](https://camo.githubusercontent.com/db055de7a607f53dce1d1d618cffb356b8d1e7f5/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744e633739677931673633746b67646831706a3330746f3066776a736b2e6a7067)
 
 
 # 图像处理
@@ -247,6 +249,8 @@
 34. yolov3通道和图层修剪 [github](https://github.com/tanluren/yolov3-channel-and-layer-pruning)
 35. YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterNet等 [github](https://github.com/ruinmessi/ASFF)
 36. 使用通道修剪的Stronger-Yolo的Pytorch实现 [github](https://github.com/wlguan/Stronger-yolo-pytorch)
+37. Gaussian YOLOv3的PyTorch实现   [github](https://github.com/motokimura/PyTorch_Gaussian_YOLOv3)
+38. PyTorch实现的EfficientDet(可扩展且高效的对象检测) [github](https://github.com/toandaominh1997/EfficientDet.Pytorch)
 
 ###  语义分割
 
@@ -260,7 +264,7 @@
 5. 深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
 
 
-##### 正常
+##### 像素分类分割
 
 0.  ICNet 搞笑分割模型 [link](https://zhuanlan.zhihu.com/p/26653218)
 1.  移动设备高性能实时网络/语义分割论文资源列表  [github](https://github.com/wpf535236337/real-time-network)
@@ -292,9 +296,10 @@
 27.  LightNet 轻量级  2018年 [github](https://github.com/ansleliu/LightNet)
 28.  UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 29.  segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
+30. 用于高效序列建模的Seq-U-Net的官方实现 [github](https://github.com/f90/Seq-U-Net)
 
 
-#### 
+#### 医学分割
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
 1.  nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 2.  医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
@@ -413,6 +418,7 @@
 12. 新闻分类   LR  SVM [github](https://github.com/imadelh/NLP-news-classification
 13. PyTorch 实现的神经网络协同过滤推荐系统 [github](https://github.com/HarshdeepGupta/recommender_pytorch)
 14. 基于CV+NLP使用tf.Keras构建图像搜索引擎 [github](https://github.com/CVxTz/image_search_engine)
+15. 句子级别文本相似度计算(数据/模型/部署) [github](https://github.com/nghuyong/sentence-similarity-zoo)
 
 ### 边缘检测算法
 
@@ -536,7 +542,7 @@
 10. Seq2Seq+Attention 中文OCR文字识别   pytorch  [github](https://github.com/bai-shang/crnn_seq2seq_ocr.Pytorch)
 11. A research project for text detection and recognition using PyTorch 1.2 [github](https://github.com/Megvii-CSG/MegReader)
 12. AttentionOCR  2019  ocr检测和识别冠军  [github](https://github.com/zhang0jhon/AttentionOCR)
-
+13. 差分二值化的实时场景文本检测的pytorch重实   2020  pytorch  [github](https://github.com/WenmuZhou/DBNet.pytorch)   [解读](https://zhuanlan.zhihu.com/p/94677957)
 
 ### 去水印 inpaint
 
