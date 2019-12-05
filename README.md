@@ -623,6 +623,7 @@
 8. instagan [link](https://github.com/sangwoomo/instagan) [link](https://blog.csdn.net/qq_33430288/article/details/88742831)
 9. stargan  [github]( https://github.com/yunjey/stargan)
 10. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
+11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
 
 ###  GCN图卷积网络
 
