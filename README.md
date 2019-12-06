@@ -13,6 +13,8 @@
 # 图像处理
 0. 颜色迁移 [知乎](https://zhuanlan.zhihu.com/p/93671079) [csdn C++ 版](https://blog.csdn.net/sin_geek/article/details/22325229)  [csdn系列](https://blog.csdn.net/lyh03601/category_9264059.html)
 1. facechanging 变脸  [github](https://github.com/opconty/facechanging)
+2. AI美颜系列  [CSDN](https://trent.blog.csdn.net/)
+3. 图像处理算法 [博客园](https://www.cnblogs.com/Imageshop/)
 
 # 深度学习基础模型
 
