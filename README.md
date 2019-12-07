@@ -65,6 +65,8 @@
 40. flask 多并发架构部署   [github](https://github.com/HadXu/machine-learning/tree/master/flask_imageNet/keras%20restful%20API)  
 41. 面向机器学习的特征工程 [github](https://github.com/HadXu/feature-engineering-for-ml-zh)
 42. 轻量级卷积神经网络的设计技巧 [link](https://flashgene.com/archives/79631.html)
+43. Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks. [github](https://github.com/PRBonn/bonnetal)
+
 
 ### 综述
 
@@ -502,6 +504,8 @@
 6. 基于OpenPose的人体骨骼多人动作实时识别 [github](https://github.com/felixchenfy/Realtime-Action-Recognition)
 7. DeepPoseKit - 使用深度学习进行姿势估计的工具包  tensorflow keras [github](https://github.com/jgraving/deepposekit)
 8. You Only Watch Once：实时人体动作定位网络 [github](https://github.com/wei-tim/YOWO)
+9. 用于多人位姿估计和实例细分的PersonLab的Tensorflow实现 [github](https://github.com/scnuhealthy/Tensorflow_PersonLab)
+
 
 ### 行人重识别
 
