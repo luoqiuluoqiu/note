@@ -66,7 +66,7 @@
 41. 面向机器学习的特征工程 [github](https://github.com/HadXu/feature-engineering-for-ml-zh)
 42. 轻量级卷积神经网络的设计技巧 [link](https://flashgene.com/archives/79631.html)
 43. Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks. [github](https://github.com/PRBonn/bonnetal)
-
+44. AI模型序列化总结  [github](https://github.com/aipredict/ai-models-serialization)
 
 ### 综述
 
