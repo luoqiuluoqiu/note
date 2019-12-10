@@ -15,6 +15,7 @@
 1. facechanging 变脸  [github](https://github.com/opconty/facechanging)
 2. AI美颜系列  [CSDN](https://trent.blog.csdn.net/)
 3. 图像处理算法 [博客园](https://www.cnblogs.com/Imageshop/)
+4. Official PyTorch implementation of U-GAT-IT [github](https://github.com/znxlwm/UGATIT-pytorch)
 
 # 深度学习基础模型
 
@@ -67,6 +68,7 @@
 42. 轻量级卷积神经网络的设计技巧 [link](https://flashgene.com/archives/79631.html)
 43. Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks. [github](https://github.com/PRBonn/bonnetal)
 44. AI模型序列化总结  [github](https://github.com/aipredict/ai-models-serialization)
+45. TorchSat 🌏是一个用于卫星图像分析，基于PyTorch的开源深度学习框架 [github](https://github.com/sshuair/torchsat)
 
 ### 综述
 
@@ -85,7 +87,7 @@
 12. Awesome-Mobile-Machine-Learning  [github](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 13. OCR papernote [github](https://github.com/xwzhong/papernote)
 14. 图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
-
+15. 人脸识别手册 [github](https://github.com/jiankangdeng/handbook)
 
 ### 图像处理
 
@@ -517,7 +519,7 @@
 ### 强化学习
 
 0. 动态环境下基于DRL的无人车自适应路径规划方法  [link](https://zhuanlan.zhihu.com/p/79712897) [github](https://github.com/CoderWangcai/DRL_Path_Planning)
-
+1. RecNN - PyTorch强化推荐工具箱 [github](https://github.com/awarebayes/RecNN)
 ### 时序
 
 0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
@@ -606,6 +608,7 @@
 7. kaldi资料集   [github](https://github.com/YoavRamon/awesome-kaldi)
 8. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
 9. 克隆语音Clone a voice in 5 seconds to generate arbitrary speech in real-time  [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+10. 使用PyTorch和CUDA进行E2E语音识别训练的实现用功能 [github](https://github.com/1ytic/pytorch-edit-distance)
 
 ### Adversarial Attack
 
@@ -721,7 +724,7 @@
 2. ssim和psnr是超分辩主流的评价指标
 3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
 4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
-
+5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
 
 # 语言
 
