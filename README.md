@@ -88,6 +88,8 @@
 13. OCR papernote [github](https://github.com/xwzhong/papernote)
 14. 图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
 15. 人脸识别手册 [github](https://github.com/jiankangdeng/handbook)
+16. 各类算法综述 [github](https://github.com/greenfishflying/wzx-Paper-notes)
+
 
 ### 图像处理
 
