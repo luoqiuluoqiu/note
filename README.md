@@ -216,6 +216,8 @@
 #### 基于分割
 
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
+1. 写给小白的YOLO介绍  [link](https://zhuanlan.zhihu.com/p/94986199) 
+
 
 #### 基于候选框做目标检测
 
