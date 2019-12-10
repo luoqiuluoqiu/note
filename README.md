@@ -89,7 +89,7 @@
 14. 图像分割综述  [link](https://mp.weixin.qq.com/s/9F2UB_5ah1nEe3dfyoeRhg)
 15. 人脸识别手册 [github](https://github.com/jiankangdeng/handbook)
 16. 各类算法综述 [github](https://github.com/greenfishflying/wzx-Paper-notes)
-
+17. 深度学习AI产品全栈 [github](https://github.com/alirezadir/Production-Level-Deep-Learning) [点评](https://zhuanlan.zhihu.com/p/96044816)
 
 ### 图像处理
 
