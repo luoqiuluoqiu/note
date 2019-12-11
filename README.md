@@ -720,6 +720,7 @@
 26. FFA-Net: 用于单图像去雾的特征融合注意力网络 [github](https://github.com/zhilin007/FFA-Net)
 27. 使用PyTorch从单个图像实现3D Ken Burns效果 [github](https://github.com/sniklaus/3d-ken-burns)
 28. 通过深度学习来检测人脸是否被PS过 [github](https://github.com/PeterWang512/FALdetector)
+29. ASM-Net：可解释的美学评分及图像剪裁 [link](https://zhuanlan.zhihu.com/p/95429523)
 
 ### 非常规损失函数
 
@@ -781,7 +782,7 @@
 4. 图像解码库stb single-file public domain libraries for C/C++   [github](https://github.com/nothings/stb)
 5. OpenCV-MinGW [github](https://github.com/huihut/OpenCV-MinGW-Build/releases)
 6. 用汇编理解C++  [github](https://blog.csdn.net/wzn491574452/article/details/80036988)
-
+7. C++每周小技巧 [link](https://abseil.io/tips/1)
 
 
 ### dlib
