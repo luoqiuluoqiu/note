@@ -364,6 +364,9 @@
 20. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
 21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
 
+### paddlepaddle
+0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
+
 ###  ONNX
 
 0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
