@@ -1,4 +1,5 @@
 # 机器学习
+0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
 
 ### 基础教程(github 仓库名称)
 0. ai-edu
