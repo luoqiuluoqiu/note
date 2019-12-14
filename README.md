@@ -69,6 +69,7 @@
 43. Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks. [github](https://github.com/PRBonn/bonnetal)
 44. AI模型序列化总结  [github](https://github.com/aipredict/ai-models-serialization)
 45. TorchSat 🌏是一个用于卫星图像分析，基于PyTorch的开源深度学习框架 [github](https://github.com/sshuair/torchsat)
+46. AiLearning 传统机器学习的讲解、分析和代码[github](https://github.com/apachecn/AiLearning)
 
 ### 综述
 
@@ -91,9 +92,20 @@
 16. 各类算法综述 [github](https://github.com/greenfishflying/wzx-Paper-notes)
 17. 深度学习AI产品全栈 [github](https://github.com/alirezadir/Production-Level-Deep-Learning) [点评](https://zhuanlan.zhihu.com/p/96044816)
 
+### 模型集中库
+0.   PaddlePaddle 模型库[github](https://github.com/PaddlePaddle/models)
+
 ### 图像处理
 
 0. 图像处理初学者设计的 100 个问题 [github](https://github.com/gzr2017/ImageProcessing100Wen)
+
+
+### 度量学习 [参考百度](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning)
+0. arcmargin loss 
+1. triplet loss 
+2. quadruplet loss 
+3. eml loss
+4. npairs loss 
 
 ### 轻量网络
 
@@ -878,3 +890,4 @@
 23. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
 24. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
 25. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
+26. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
