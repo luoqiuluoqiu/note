@@ -71,6 +71,8 @@
 44. AI模型序列化总结  [github](https://github.com/aipredict/ai-models-serialization)
 45. TorchSat 🌏是一个用于卫星图像分析，基于PyTorch的开源深度学习框架 [github](https://github.com/sshuair/torchsat)
 46. AiLearning 传统机器学习的讲解、分析和代码[github](https://github.com/apachecn/AiLearning)
+47. CNN真的需要下采样（上采样）吗? [link](https://zhuanlan.zhihu.com/p/94477174)
+
 
 ### 综述
 
