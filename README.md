@@ -157,6 +157,7 @@
 4. 神经网络量化简介 [link](https://jackwish.net/2019/neural-network-quantization-introduction-chn.html)
 5. 模型转换、模型压缩工具汇总 [link](https://blog.csdn.net/WZZ18191171661/article/details/99700992#1PocketFlow_42)
 6. 模型压缩总览 [link](https://www.jianshu.com/p/e73851f32c9f)
+7. PyTorch实现的深度模型压缩  基于pytorch实现模型压缩（1、量化：8/4/2 bits(dorefa)、三值/二值(twn/bnn/xnor-net)；2、剪枝：正常、规整、针对分组卷积结构的通道剪枝；3、分组卷积结构；4、针对特征A二值的BN融合） [github](https://github.com/666DZY666/model-compression)
 
 
 ###  模型网络部署
@@ -274,6 +275,7 @@
 36. 使用通道修剪的Stronger-Yolo的Pytorch实现 [github](https://github.com/wlguan/Stronger-yolo-pytorch)
 37. Gaussian YOLOv3的PyTorch实现   [github](https://github.com/motokimura/PyTorch_Gaussian_YOLOv3)
 38. PyTorch实现的EfficientDet(可扩展且高效的对象检测) [github](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+39. Kaggle RSNA肺炎检测挑战赛中第一名解决方案的代码 [github](https://github.com/i-pan/kaggle-rsna18)
 
 ###  语义分割
 
@@ -653,7 +655,7 @@
 9. stargan  [github]( https://github.com/yunjey/stargan)
 10. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
 11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
-12.  CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github]https://github.com/mnicnc404/CartoonGan-tensorflow
+12.  CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github](https://github.com/mnicnc404/CartoonGan-tensorflow)
 
 ###  GCN图卷积网络
 
@@ -747,7 +749,7 @@
 3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
 4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
 5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
-
+6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
 # 语言
 
 ###  python
