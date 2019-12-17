@@ -72,7 +72,7 @@
 45. TorchSat 🌏是一个用于卫星图像分析，基于PyTorch的开源深度学习框架 [github](https://github.com/sshuair/torchsat)
 46. AiLearning 传统机器学习的讲解、分析和代码[github](https://github.com/apachecn/AiLearning)
 47. CNN真的需要下采样（上采样）吗? [link](https://zhuanlan.zhihu.com/p/94477174)
-
+48. 构建深度神经网络，我有20条「不成熟」的小建议 [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492715&idx=1&sn=0abfa52425bf0935a62334a7316b3b12&chksm=ec1c0992db6b80846c5a6ea38ad7b401a2f8be8c91646091bf20ae5a870a471e4ce6a17dde7c&mpshare=1&scene=1&srcid=&sharer_sharetime=1576508881771&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6016437ce56790c940ed31a96b205f7b2cda0adb53488fa7ff0bd38ff2e59544f04ad7bd1363f45126ebeaea5ac8225d16f354b6f5fd42137f32aa69e76344b00bf1856f5cedd59da8d62a4020348f9d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Acudn7uxn%2FDUXhr3v2%2FE%2FA0%3D&pass_ticket=5GZs0b44Z36LLHVnrytsd6pdWSGsT74WLLK61%2FfgOvS%2BfnEYX%2Be1hFAX0EEJx5oF)
 
 ### 综述
 
