@@ -279,6 +279,7 @@
 38. PyTorch实现的EfficientDet(可扩展且高效的对象检测) [github](https://github.com/toandaominh1997/EfficientDet.Pytorch)
 39. Kaggle RSNA肺炎检测挑战赛中第一名解决方案的代码 [github](https://github.com/i-pan/kaggle-rsna18)
 40. Yolo-v3 and Yolo-v2 for Windows and Linux [github](https://github.com/AlexeyAB/darknet)   [link](https://zhuanlan.zhihu.com/p/97382064)
+41. 目标检测算法之YOLO系列算法的Anchor聚类代码实战 [link](https://zhuanlan.zhihu.com/p/95291364) [github](https://github.com/BBuf/cv_tools)
 
 ###  语义分割
 
