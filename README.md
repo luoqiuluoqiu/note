@@ -177,7 +177,7 @@
 2. 四小时搜索NN结构，厦大提出快速NAS检索方法  2019  [link](https://zhuanlan.zhihu.com/p/80232728)  [github](https://github.com/tanglang96/MDENAS)
 3. NAS-Projects [github](https://github.com/D-X-Y/NAS-Projects)
 4. NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
-
+5. ZazuML：面向实例检测的开源AutoML项目   [github](https://github.com/dataloop-ai/ZazuML)
 
 ###  激活函数
 
@@ -332,6 +332,7 @@
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
 1.  nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 2.  医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
+3. NAS-Unet：用于医学图像分割的神经体系结构搜索 [github](https://github.com/tianbaochou/NasUnet)
 
 ###  实例分割
 
@@ -492,9 +493,10 @@
 18. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
 19. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
 20. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
-    11.CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
-21. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
-22. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
+21. CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
+22. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
+23. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
+24. BlazeFace-PyTorch [github](https://github.com/hollance/BlazeFace-PyTorch)
 
 ###  人脸识别
 
@@ -744,6 +746,7 @@
 27. 使用PyTorch从单个图像实现3D Ken Burns效果 [github](https://github.com/sniklaus/3d-ken-burns)
 28. 通过深度学习来检测人脸是否被PS过 [github](https://github.com/PeterWang512/FALdetector)
 29. ASM-Net：可解释的美学评分及图像剪裁 [link](https://zhuanlan.zhihu.com/p/95429523)
+30. 2019年“创青春·交子杯”唇语识别 [githu](https://github.com/liuzhejun/XWbank_LipReading)   [github2](https://github.com/TimeChi/Lip_Reading_Competition)
 
 ### 非常规损失函数
 
@@ -794,7 +797,7 @@
 31. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
 32. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
 33. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-
+34. 支持多进程多线程环境使用的日志处理器 [github](https://github.com/huanghyw/concurrent_log)
 
 
 ### C/C++
