@@ -757,6 +757,10 @@
 4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
 5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
 6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
+7. TextDistance 一个开源库含有 30+ 种纯 Python 算法用于比较两个或多个序列之间的距离 [github](https://github.com/life4/textdistance)
+
+
+
 # 语言
 
 ###  python
