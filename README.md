@@ -95,6 +95,7 @@
 16. 各类算法综述 [github](https://github.com/greenfishflying/wzx-Paper-notes)
 17. 深度学习AI产品全栈 [github](https://github.com/alirezadir/Production-Level-Deep-Learning) [点评](https://zhuanlan.zhihu.com/p/96044816)
 18. 千变万化的卷积操作 [link](https://zhuanlan.zhihu.com/p/101633217)
+19. 目标跟踪之Siamese网络 [link](https://zhuanlan.zhihu.com/p/101494393)
 
 ### 模型集中库
 0.   PaddlePaddle 模型库[github](https://github.com/PaddlePaddle/models)
