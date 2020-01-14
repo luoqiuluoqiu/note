@@ -664,6 +664,7 @@
 10. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
 11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
 12.  CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github](https://github.com/mnicnc404/CartoonGan-tensorflow)
+13. 想用StyleGAN生成老婆？来看看这个小哥的复现细节吧 [github](https://zhuanlan.zhihu.com/p/102085621)
 
 ###  GCN图卷积网络
 
