@@ -761,7 +761,7 @@
 5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
 6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
 7. TextDistance 一个开源库含有 30+ 种纯 Python 算法用于比较两个或多个序列之间的距离 [github](https://github.com/life4/textdistance)
-
+8. 在应用中使用度量学习的最简单方法，具有模块化、灵活和可扩展，采用PyTorch编写 [github](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 
 # 语言
