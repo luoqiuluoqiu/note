@@ -385,6 +385,7 @@
 19. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
 20. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
 21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
+22. Awesome-Pytorch-list [github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
 
 ### paddlepaddle
 0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
@@ -471,6 +472,8 @@
 5. AdvancedEAST keras/tensorflow [github](https://github.com/huoyijie/AdvancedEAST)
 6. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 7. Text detection model that combines Retinanet with textboxes++ for OCR  [github](https://github.com/qjadud1994/Text_Detector)
+8. handwritten-text-recognition-for-apache-mxnet [github](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet)
+
 
 ###  人脸检测和特征点定位
 
@@ -750,6 +753,9 @@
 28. 通过深度学习来检测人脸是否被PS过 [github](https://github.com/PeterWang512/FALdetector)
 29. ASM-Net：可解释的美学评分及图像剪裁 [link](https://zhuanlan.zhihu.com/p/95429523)
 30. 2019年“创青春·交子杯”唇语识别 [githu](https://github.com/liuzhejun/XWbank_LipReading)   [github2](https://github.com/TimeChi/Lip_Reading_Competition)
+31. 使用 Siamese Networks进行降纬 [github](https://github.com/beringresearch/ivis)
+32. Multi Model Server is a tool for serving neural net models for inference [github](https://github.com/awslabs/multi-model-server)
+33.  Automated deep learning algorithms implemented in PyTorch or Tensorflow.  [github](https://github.com/D-X-Y/AutoDL-Projects)
 
 ### 非常规损失函数
 
