@@ -811,7 +811,7 @@
 32. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
 33. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 34. 支持多进程多线程环境使用的日志处理器 [github](https://github.com/huanghyw/concurrent_log)
-
+35.  可视化py生成exe  [github](https://github.com/brentvollebregt/auto-py-to-exe)
 
 ### C/C++
 
