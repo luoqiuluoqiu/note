@@ -328,7 +328,7 @@
 28.  UPSNet: A Unified Panoptic Segmentation Network 2019 [github](https://github.com/uber-research/UPSNet)
 29.  segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 30. 用于高效序列建模的Seq-U-Net的官方实现 [github](https://github.com/f90/Seq-U-Net)
-
+31.  Cellpose：细胞分割通用算法  [github](https://github.com/MouseLand/cellpose)
 
 #### 医学分割
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
@@ -386,6 +386,7 @@
 20. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
 21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
 22. Awesome-Pytorch-list [github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
+23. PyTorch Wrapper：提供一种使用PyTorch系统并且可扩展的方式来构建、训练、推理和调整深度学习模型  [github](https://github.com/jkoutsikakis/pytorch-wrapper)
 
 ### paddlepaddle
 0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
