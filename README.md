@@ -329,6 +329,7 @@
 29.  segmentation_models.pytorch [github](https://github.com/qubvel/segmentation_models.pytorch)
 30. 用于高效序列建模的Seq-U-Net的官方实现 [github](https://github.com/f90/Seq-U-Net)
 31.  Cellpose：细胞分割通用算法  [github](https://github.com/MouseLand/cellpose)
+32. 图像分割-常规超像素分割和中心检测及区域增长 pyImSegm  [github](https://github.com/Borda/pyImSegm)
 
 #### 医学分割
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
@@ -624,7 +625,7 @@
 13. waifu2x  [github](https://github.com/nagadomi/waifu2x)  [link](http://waifu2x.udp.jp/)
 14. 使用具有批量重新归一化的深度CNN进行图像去噪   tensorflow 2019 [github](https://github.com/hellloxiaotian/BRDNet)
 15. pytorch 版的 MWCNN 复现  [github](https://github.com/shaonianruntu/MWCNN)   [link](https://blog.csdn.net/gwplovekimi/article/details/84851871)
-
+16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
 ### 质量评估
 
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
@@ -757,7 +758,10 @@
 31. 使用 Siamese Networks进行降纬 [github](https://github.com/beringresearch/ivis)
 32. Multi Model Server is a tool for serving neural net models for inference [github](https://github.com/awslabs/multi-model-server)
 33.  Automated deep learning algorithms implemented in PyTorch or Tensorflow.  [github](https://github.com/D-X-Y/AutoDL-Projects)
-
+34.  Gaze Tracking - 基于网络摄像头的眼睛跟踪系统，可以实时判断瞳孔的准确位置和注视方向  [github](https://github.com/antoinelame/GazeTracking)
+35.  基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
+36. 深度指纹识别：通过深度学习破坏网站指纹防御 [link](https://blog.csdn.net/AcSuccess/article/details/102991830)
+ 
 ### 非常规损失函数
 
 0. SSIM  图像质量等 [github]()
@@ -917,3 +921,4 @@
 24. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
 25. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
 26. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+27. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
