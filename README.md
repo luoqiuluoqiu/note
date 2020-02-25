@@ -634,6 +634,7 @@
 15. pytorch 版的 MWCNN 复现  [github](https://github.com/shaonianruntu/MWCNN)   [link](https://blog.csdn.net/gwplovekimi/article/details/84851871)
 16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
 17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+18. generative_inpainting fillv2 [github](https://github.com/JiahuiYu/generative_inpainting)
 
 ### 质量评估
 
