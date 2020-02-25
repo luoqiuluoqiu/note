@@ -626,6 +626,9 @@
 14. 使用具有批量重新归一化的深度CNN进行图像去噪   tensorflow 2019 [github](https://github.com/hellloxiaotian/BRDNet)
 15. pytorch 版的 MWCNN 复现  [github](https://github.com/shaonianruntu/MWCNN)   [link](https://blog.csdn.net/gwplovekimi/article/details/84851871)
 16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
+17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+
+
 ### 质量评估
 
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
