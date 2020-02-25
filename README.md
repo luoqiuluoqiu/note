@@ -504,6 +504,12 @@
 22. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 23. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
 24. BlazeFace-PyTorch [github](https://github.com/hollance/BlazeFace-PyTorch)
+25. FaceMaskDetection - 开源人脸口罩检测模型和数据 [github](https://github.com/AIZOOTech/FaceMaskDetection)
+
+### 无人驾驶
+
+0. 无人驾驶的资源列表中文版 [github](https://github.com/DeepTecher/awesome-autonomous-vehicle)
+1. 
 
 ###  人脸识别
 
@@ -521,7 +527,7 @@
 11. reid-strong-baseline 2019 pytorch[github](https://github.com/michuanhaohao/reid-strong-baseline)
 12. 基于人脸关键区域提取的人脸识别 [github](https://github.com/bleakie/MaskInsightface)
 13. MassFace: 使用 triplet loss 进行人脸识别的高效实现  tensorflow [github](https://github.com/yule-li/MassFace)
-
+14. Retinaface_Mobilenet_Pytorch [github](https://github.com/lbin/Retinaface_Mobilenet_Pytorch)
 
 ###  人脸融合
 
@@ -563,6 +569,7 @@
 
 0. Advanced_Lane_Detection 车道检测项目的复现 [github](https://github.com/chiyukunpeng/Tradition_Lane_Detection)
 1. 车道检测合集  [github](https://github.com/amusi/awesome-lane-detection)
+2. 使用深度神经网络模型实现Lenet模型实时车道检测 [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 
 ### 车牌识别
 
@@ -628,7 +635,6 @@
 16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
 17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
-
 ### 质量评估
 
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
@@ -677,6 +683,7 @@
 ###  GCN图卷积网络
 
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
+1.  从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络  [github](https://github.com/SivilTaram/Graph-Neural-Network-Note)
 
 ###  TSP
 
@@ -722,8 +729,13 @@
 ### 表面检测
 
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
+
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
 
+### 排序
+ 0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
+
+****
 
 ###  其他
 
@@ -764,7 +776,7 @@
 34.  Gaze Tracking - 基于网络摄像头的眼睛跟踪系统，可以实时判断瞳孔的准确位置和注视方向  [github](https://github.com/antoinelame/GazeTracking)
 35.  基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
 36. 深度指纹识别：通过深度学习破坏网站指纹防御 [link](https://blog.csdn.net/AcSuccess/article/details/102991830)
- 
+
 ### 非常规损失函数
 
 0. SSIM  图像质量等 [github]()
@@ -838,7 +850,6 @@
 1. 81 Facial Landmarks Shape Predictor [github](https://github.com/codeniko/shape_predictor_81_face_landmarks)
 2. 3D人脸重建  轻量级3DMM [github](https://github.com/codeniko/eos)
 
-
 ### matting
 
 0. Natural-image-matting C++ [github](https://github.com/Rnandani/Natural-image-matting)
@@ -853,7 +864,6 @@
 4. cefpython  [github](https://github.com/cztomczak/cefpython)
 5. pyqt5 示例 [github](https://github.com/maicss/PyQt5-Chinese-tutorial)
 6. pyqt5 DOC [link](http://pyqt.sourceforge.net/Docs/PyQt5/)
-
 
 ### 爬虫
 
