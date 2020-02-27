@@ -9,7 +9,7 @@
 4. numpy-ml 
 5. tinynn tinynn是一个轻量级的深度学习框架，用Python3（包括NumPy）编写  [github](https://github.com/borgwang/tinynn)
 ![image](https://camo.githubusercontent.com/db055de7a607f53dce1d1d618cffb356b8d1e7f5/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744e633739677931673633746b67646831706a3330746f3066776a736b2e6a7067)
-
+6. 用python 实现一个简单的深度学习框架 [github](https://github.com/Leezhen2014/python_deep_learning)
 
 # 图像处理
 0. 颜色迁移 [知乎](https://zhuanlan.zhihu.com/p/93671079) [csdn C++ 版](https://blog.csdn.net/sin_geek/article/details/22325229)  [csdn系列](https://blog.csdn.net/lyh03601/category_9264059.html)
@@ -500,11 +500,12 @@
 18. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
 19. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
 20. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
-21. CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface)
+21. CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface) [link](https://blog.csdn.net/ckqsars/article/details/103045407)
 22. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 23. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
 24. BlazeFace-PyTorch [github](https://github.com/hollance/BlazeFace-PyTorch)
 25. FaceMaskDetection - 开源人脸口罩检测模型和数据 [github](https://github.com/AIZOOTech/FaceMaskDetection)
+26. sbd_mask 基于CenterFace开发 cpu的口罩检测 [github](https://github.com/sbdcv/sbd_mask) 
 
 ### 无人驾驶
 
@@ -570,6 +571,7 @@
 0. Advanced_Lane_Detection 车道检测项目的复现 [github](https://github.com/chiyukunpeng/Tradition_Lane_Detection)
 1. 车道检测合集  [github](https://github.com/amusi/awesome-lane-detection)
 2. 使用深度神经网络模型实现Lenet模型实时车道检测 [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+3. 车道检测关键点估计和点实例分割方法 [github](https://github.com/koyeongmin/PINet)
 
 ### 车牌识别
 
