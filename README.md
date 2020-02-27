@@ -17,6 +17,7 @@
 2. AI美颜系列  [CSDN](https://trent.blog.csdn.net/)
 3. 图像处理算法 [博客园](https://www.cnblogs.com/Imageshop/)
 4. Official PyTorch implementation of U-GAT-IT [github](https://github.com/znxlwm/UGATIT-pytorch)
+5.  图像的模糊检测方法 [link](https://www.cnblogs.com/greentomlee/p/9379471.html)
 
 # 深度学习基础模型
 
