@@ -155,7 +155,7 @@
 18. ArmNN  [github](https://github.com/ARM-software/armnn)
 19. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 20. cortex [github](https://github.com/cortexlabs/cortex)
-
+21. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
 
 
 ### 蒸馏 剪枝  量化
@@ -601,6 +601,10 @@
 11. A research project for text detection and recognition using PyTorch 1.2 [github](https://github.com/Megvii-CSG/MegReader)
 12. AttentionOCR  2019  ocr检测和识别冠军  [github](https://github.com/zhang0jhon/AttentionOCR)
 13. 差分二值化的实时场景文本检测的pytorch重实   2020  pytorch  [github](https://github.com/WenmuZhou/DBNet.pytorch)   [解读](https://zhuanlan.zhihu.com/p/94677957)
+14. ABCNet - 利用自适应贝塞尔曲线网络实现的实时场景文本识别 [github](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
+15.  运用unet实现对文档表格的自动检测，表格重建  [github](https://github.com/chineseocr/table-ocr)
+16. 条形图检测和坐标识别  [github](https://github.com/vicwer/bar_char_det_rec)
+17. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M  [github](https://github.com/ouyanghuiyu/chineseocr_lite)
 
 ### 去水印 inpaint
 
