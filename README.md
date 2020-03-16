@@ -78,6 +78,7 @@
 46. AiLearning 传统机器学习的讲解、分析和代码[github](https://github.com/apachecn/AiLearning)
 47. CNN真的需要下采样（上采样）吗? [link](https://zhuanlan.zhihu.com/p/94477174)
 48. 构建深度神经网络，我有20条「不成熟」的小建议 [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492715&idx=1&sn=0abfa52425bf0935a62334a7316b3b12&chksm=ec1c0992db6b80846c5a6ea38ad7b401a2f8be8c91646091bf20ae5a870a471e4ce6a17dde7c&mpshare=1&scene=1&srcid=&sharer_sharetime=1576508881771&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6016437ce56790c940ed31a96b205f7b2cda0adb53488fa7ff0bd38ff2e59544f04ad7bd1363f45126ebeaea5ac8225d16f354b6f5fd42137f32aa69e76344b00bf1856f5cedd59da8d62a4020348f9d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Acudn7uxn%2FDUXhr3v2%2FE%2FA0%3D&pass_ticket=5GZs0b44Z36LLHVnrytsd6pdWSGsT74WLLK61%2FfgOvS%2BfnEYX%2Be1hFAX0EEJx5oF)
+49. feature map 相加和拼接的不同  [link](https://zhuanlan.zhihu.com/p/113033609)
 
 ### 综述
 
@@ -288,6 +289,7 @@
 39. Kaggle RSNA肺炎检测挑战赛中第一名解决方案的代码 [github](https://github.com/i-pan/kaggle-rsna18)
 40. Yolo-v3 and Yolo-v2 for Windows and Linux [github](https://github.com/AlexeyAB/darknet)   [link](https://zhuanlan.zhihu.com/p/97382064)
 41. 目标检测算法之YOLO系列算法的Anchor聚类代码实战 [link](https://zhuanlan.zhihu.com/p/95291364) [github](https://github.com/BBuf/cv_tools)
+42. 天池大赛项目：天池新品实验室 - 淘宝直播商品识别  [github](https://github.com/AlvinAi96/match_rcnn)
 
 ###  语义分割
 
@@ -394,8 +396,11 @@
 21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
 22. Awesome-Pytorch-list [github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
 23. PyTorch Wrapper：提供一种使用PyTorch系统并且可扩展的方式来构建、训练、推理和调整深度学习模型  [github](https://github.com/jkoutsikakis/pytorch-wrapper)
+24. 一组有关pytorch功能的Jupyter笔记本和示例 [github](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
+25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
 
 ### paddlepaddle
+
 0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
 
 ###  ONNX
@@ -512,6 +517,7 @@
 24. BlazeFace-PyTorch [github](https://github.com/hollance/BlazeFace-PyTorch)
 25. FaceMaskDetection - 开源人脸口罩检测模型和数据 [github](https://github.com/AIZOOTech/FaceMaskDetection)
 26. sbd_mask 基于CenterFace开发 cpu的口罩检测 [github](https://github.com/sbdcv/sbd_mask) 
+27. CPU推理速度100FPS的PyTorch人脸特征点定位 [github](https://github.com/cunjian/pytorch_face_landmark)
 
 ### 无人驾驶
 
@@ -578,6 +584,7 @@
 1. 车道检测合集  [github](https://github.com/amusi/awesome-lane-detection)
 2. 使用深度神经网络模型实现Lenet模型实时车道检测 [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 3. 车道检测关键点估计和点实例分割方法 [github](https://github.com/koyeongmin/PINet)
+4. 百度Aistudio无人车车道线检测挑战赛/练习项目/Pytorch [github](https://github.com/Jinglever/baidu-lane-detection-2019)
 
 ### 车牌识别
 
@@ -647,6 +654,7 @@
 16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
 17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 18. generative_inpainting fillv2 [github](https://github.com/JiahuiYu/generative_inpainting)
+19. srmd ncnn vulkan 通用图片超分放大工具 [github](https://github.com/nihui/srmd-ncnn-vulkan)
 
 ### 质量评估
 
@@ -692,6 +700,9 @@
 11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
 12.  CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github](https://github.com/mnicnc404/CartoonGan-tensorflow)
 13. 想用StyleGAN生成老婆？来看看这个小哥的复现细节吧 [github](https://zhuanlan.zhihu.com/p/102085621)
+14. StyleGAN2蒸馏用于前馈图像处理 [github](https://github.com/EvgenyKashin/stylegan2-distillation)
+15. GANILLA：将图像转成插图生成对抗网络的PyTorch实现  [github](https://github.com/giddyyupp/ganilla)
+16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
 
 ###  GCN图卷积网络
 
@@ -742,10 +753,17 @@
 ### 表面检测
 
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
-
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
 
+
+
+### 图像搜索
+
+1. 基于 [Faiss](https://github.com/facebookresearch/faiss)开发的taranis图像搜索  [traranis](https://github.com/pletessier/taranis)
+2. 服装局部抄袭怎么解决？ 阿里推出区域检索算法 [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650782603&idx=3&sn=c0f87f8d562da671f434c5bb0befaa34&chksm=871a7ff5b06df6e3dabdc1f7249a9ba4e6c0b776aafdb5d624422af0e7e94db983d6a8c8c7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584258245386&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=615298b6af513962cfd782a06edb7ddaf22b9eae0c4f9a5b2a66348f5fb41777e5f3d2503204174fcde5975273a6e6dbb427397c36673bbda3b1963be97cd0720a48c6e6d6227a4e5cc38422dea85fa5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=ASrV08veCHobjb42KBUVTF0%3D&pass_ticket=muB288t8SvDUyIWfq8ZZJiDoHrvMkrrghkPVQ3O%2BHN93FgQHJHZJXAQzSPknyqaG)
+
 ### 排序
+
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
 
 ****
@@ -789,6 +807,11 @@
 34.  Gaze Tracking - 基于网络摄像头的眼睛跟踪系统，可以实时判断瞳孔的准确位置和注视方向  [github](https://github.com/antoinelame/GazeTracking)
 35.  基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
 36. 深度指纹识别：通过深度学习破坏网站指纹防御 [link](https://blog.csdn.net/AcSuccess/article/details/102991830)
+37. 头发分割和染色，含服务端和上传网页代码   [github](https://github.com/samggggflynn/U-Net_detect_and_recolor_hair)
+
+### 部署问题
+
+​			0. 从阿里的User Interest Center看模型线上实时serving方法  [link](https://zhuanlan.zhihu.com/p/111929212)
 
 ### 非常规损失函数
 
@@ -846,6 +869,8 @@
 34. 支持多进程多线程环境使用的日志处理器 [github](https://github.com/huanghyw/concurrent_log)
 35.  可视化py生成exe  [github](https://github.com/brentvollebregt/auto-py-to-exe)
 36.  fastapi [github](https://github.com/tiangolo/fastapi)
+37. Starlette  异步服务库 [link](https://www.starlette.io/)
+38. [numpy中文版](https://www.numpy.org.cn/)
 
 ### C/C++
 
@@ -868,7 +893,7 @@
 0. Natural-image-matting C++ [github](https://github.com/Rnandani/Natural-image-matting)
 1. global-matting [github](https://github.com/Ewenwan/global-matting)
 
-### 浏览器定制：
+### 浏览器定制
 
 0. qutebrowser pyqt5  [github](https://github.com/qutebrowser)
 1. cef [bitbucket](https://bitbucket.org/chromiumembedded/cef/)
@@ -888,14 +913,22 @@
 1.  Qt开发经验 [码云](https://gitee.com/feiyangqingyun/qtkaifajingyan)
 2.  Qt编写的一些项目的可执行文件  [码云](https://gitee.com/feiyangqingyun/QWidgetExe)
 
+
+
+### 数据结构和算法
+
+1. [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
+
 ### opencv
 
 0. learnopencv [link](https://www.learnopencv.com) [github](https://github.com/spmallick/learnopencv)
 
-### 工具：
+### 工具
 
 0. Data_Label_Tools [github](https://github.com/mingx9527/Data_Label_Tools)
 1. 图片简易标注工具  [github](https://github.com/jayney/dataset_labeling)
+2. brackets  js开发工具[ brackets](https://github.com/adobe/brackets)
+3. [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 
 ### 12306抢票源代码
 
