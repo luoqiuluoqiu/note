@@ -79,6 +79,7 @@
 47. CNN真的需要下采样（上采样）吗? [link](https://zhuanlan.zhihu.com/p/94477174)
 48. 构建深度神经网络，我有20条「不成熟」的小建议 [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492715&idx=1&sn=0abfa52425bf0935a62334a7316b3b12&chksm=ec1c0992db6b80846c5a6ea38ad7b401a2f8be8c91646091bf20ae5a870a471e4ce6a17dde7c&mpshare=1&scene=1&srcid=&sharer_sharetime=1576508881771&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6016437ce56790c940ed31a96b205f7b2cda0adb53488fa7ff0bd38ff2e59544f04ad7bd1363f45126ebeaea5ac8225d16f354b6f5fd42137f32aa69e76344b00bf1856f5cedd59da8d62a4020348f9d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Acudn7uxn%2FDUXhr3v2%2FE%2FA0%3D&pass_ticket=5GZs0b44Z36LLHVnrytsd6pdWSGsT74WLLK61%2FfgOvS%2BfnEYX%2Be1hFAX0EEJx5oF)
 49. feature map 相加和拼接的不同  [link](https://zhuanlan.zhihu.com/p/113033609)
+50. 别再喊我调参侠！深度学习“科学炼丹”手册了解一下  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494058&idx=1&sn=910e4d0ba4bc7e90a8fa337d9815b115&chksm=ec1c0453db6b8d45247085a3152da58a0218c9917e4527368851a6311e2ba87b620a214275cd&mpshare=1&scene=1&srcid=&sharer_sharetime=1584872759403&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d85ce920fc802c693a28e5c95e638eb73bf989f79267562752b8582c9aeebc82771d3ee8a4fa2c96395a27822b922cb6e134408ee20bec93837d430d698969fdeac595069c1e873d502158cce143484e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AXPc2lwRL%2BMfOEZX0B2Zjh8%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)
 
 ### 综述
 
@@ -217,6 +218,7 @@
 ###  目标检测  
 
 0. 详解目标检测中边界框的回归策略  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=1&srcid=&sharer_sharetime=1567986189037&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=c2233ec816eaa9a223f3c567ce38eca92683762db0bc9e5425c4aaf0160e64e7198bda68544d610cfcd297b655611f06fc83e38e4feacb6416cd099481653b73512a33b038fdf9a8b838771d238ba8b2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62060844&lang=zh_CN&pass_ticket=WL7k8v7WWRRIoLd%2FvpHJaEY72Rlc2akPcO7ABfTzNZuQfIzVzr5XKwSLC4v2%2BcfX)
+1. 目标检测中的特征冲突与不对齐问题   [link](https://zhuanlan.zhihu.com/p/114700229)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -398,6 +400,7 @@
 23. PyTorch Wrapper：提供一种使用PyTorch系统并且可扩展的方式来构建、训练、推理和调整深度学习模型  [github](https://github.com/jkoutsikakis/pytorch-wrapper)
 24. 一组有关pytorch功能的Jupyter笔记本和示例 [github](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
 25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
+26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
 
 ### paddlepaddle
 
@@ -417,6 +420,10 @@
 1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
 2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
 3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
+
+### [jittor](https://cg.cs.tsinghua.edu.cn/jittor/)
+
+​	0. jittor[官网](https://cg.cs.tsinghua.edu.cn/jittor/)   [github](https://github.com/Jittor/jittor)
 
 ### 工具
 
@@ -541,6 +548,7 @@
 12. 基于人脸关键区域提取的人脸识别 [github](https://github.com/bleakie/MaskInsightface)
 13. MassFace: 使用 triplet loss 进行人脸识别的高效实现  tensorflow [github](https://github.com/yule-li/MassFace)
 14. Retinaface_Mobilenet_Pytorch [github](https://github.com/lbin/Retinaface_Mobilenet_Pytorch)
+15. deepface - 用于Python的轻量级人脸分析框架   [github](https://github.com/serengil/deepface)
 
 ###  人脸融合
 
@@ -611,7 +619,10 @@
 14. ABCNet - 利用自适应贝塞尔曲线网络实现的实时场景文本识别 [github](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 15.  运用unet实现对文档表格的自动检测，表格重建  [github](https://github.com/chineseocr/table-ocr)
 16. 条形图检测和坐标识别  [github](https://github.com/vicwer/bar_char_det_rec)
-17. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M  [github](https://github.com/ouyanghuiyu/chineseocr_lite)
+17. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M  [github](https://github.com/ouyanghuiyu/chineseocr_lite)   [windows](https://blog.csdn.net/lly1122334/article/details/104752851)
+18. 通过Transformer实现的识别场景文本  [github](https://github.com/fengxinjie/Transformer-OCR)
+19.  方向任意目标检测新算法gliding_vertex  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247497851&idx=2&sn=ddc8f67317d06c060bf2227799b1d058&chksm=96f08a2fa18703394447715fd4b66937aa4dd02a5a1f63cc3176af55b03f6e77da065a2c7947&mpshare=1&scene=1&srcid=0320gR69n4zEjEewRvfPnqUV&sharer_sharetime=1584721630003&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=b2b650f4d803b33d3ccb982aed134439e2917e747460cb6a19f09521e1275886b282eac4dff75f281b49e2b90c1e8299c5b1fc2060b0a1a8c5345c7663e3903960c84b07d43f7203e1812615d68dc6fa&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AbRV0dgs1sVHg%2F8JQKpTa8I%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)  [github](https://github.com/MingtaoFu/gliding_vertex)
+20. [PSENet.pytorch](https://github.com/WenmuZhou/PSENet.pytorch)
 
 ### 去水印 inpaint
 
@@ -871,6 +882,8 @@
 36.  fastapi [github](https://github.com/tiangolo/fastapi)
 37. Starlette  异步服务库 [link](https://www.starlette.io/)
 38. [numpy中文版](https://www.numpy.org.cn/)
+39. easycython  py--pyd [github](https://github.com/cjrh/easycython)
+40. [python3错误：使用python3执行.py文件遇到：*ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found](http://www.pianshen.com/article/9812380027/)
 
 ### C/C++
 
