@@ -714,6 +714,7 @@
 14. StyleGAN2蒸馏用于前馈图像处理 [github](https://github.com/EvgenyKashin/stylegan2-distillation)
 15. GANILLA：将图像转成插图生成对抗网络的PyTorch实现  [github](https://github.com/giddyyupp/ganilla)
 16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
+17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
 
 ###  GCN图卷积网络
 
