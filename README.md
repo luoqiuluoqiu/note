@@ -3,9 +3,10 @@
 
 # 机器学习
 0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
-
+1. 人工智能实战就业(面试)学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
 
 ### 基础教程(github 仓库名称)
+
 0. ai-edu
 1. Machine-Learning-for-Beginner-by-Python3
 2. Machine-Learning-From-Scratch
@@ -80,6 +81,7 @@
 48. 构建深度神经网络，我有20条「不成熟」的小建议 [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492715&idx=1&sn=0abfa52425bf0935a62334a7316b3b12&chksm=ec1c0992db6b80846c5a6ea38ad7b401a2f8be8c91646091bf20ae5a870a471e4ce6a17dde7c&mpshare=1&scene=1&srcid=&sharer_sharetime=1576508881771&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6016437ce56790c940ed31a96b205f7b2cda0adb53488fa7ff0bd38ff2e59544f04ad7bd1363f45126ebeaea5ac8225d16f354b6f5fd42137f32aa69e76344b00bf1856f5cedd59da8d62a4020348f9d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Acudn7uxn%2FDUXhr3v2%2FE%2FA0%3D&pass_ticket=5GZs0b44Z36LLHVnrytsd6pdWSGsT74WLLK61%2FfgOvS%2BfnEYX%2Be1hFAX0EEJx5oF)
 49. feature map 相加和拼接的不同  [link](https://zhuanlan.zhihu.com/p/113033609)
 50. 别再喊我调参侠！深度学习“科学炼丹”手册了解一下  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494058&idx=1&sn=910e4d0ba4bc7e90a8fa337d9815b115&chksm=ec1c0453db6b8d45247085a3152da58a0218c9917e4527368851a6311e2ba87b620a214275cd&mpshare=1&scene=1&srcid=&sharer_sharetime=1584872759403&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d85ce920fc802c693a28e5c95e638eb73bf989f79267562752b8582c9aeebc82771d3ee8a4fa2c96395a27822b922cb6e134408ee20bec93837d430d698969fdeac595069c1e873d502158cce143484e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AXPc2lwRL%2BMfOEZX0B2Zjh8%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)
+51. 深度学习推理时融合BN，轻松获得约5%的提速 [link](https://zhuanlan.zhihu.com/p/120265831)
 
 ### 综述
 
@@ -421,9 +423,19 @@
 2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
 3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
 
-### [jittor](https://cg.cs.tsinghua.edu.cn/jittor/)
+### [jittor ](https://cg.cs.tsinghua.edu.cn/jittor/) 清华AI框架
 
-​	0. jittor[官网](https://cg.cs.tsinghua.edu.cn/jittor/)   [github](https://github.com/Jittor/jittor)
+	0. jittor[官网](https://cg.cs.tsinghua.edu.cn/jittor/)   [github](https://github.com/Jittor/jittor)
+
+###  MegEngine  旷世AI框架
+
+0. MegEngine  [link](https://megengine.org.cn/)  [github](https://github.com/MegEngine/MegEngine)
+
+### mindspore  华为AI框架
+
+1. [mindspore](https://github.com/mindspore-ai/mindspore)			
+
+​	
 
 ### 工具
 
@@ -525,11 +537,11 @@
 25. FaceMaskDetection - 开源人脸口罩检测模型和数据 [github](https://github.com/AIZOOTech/FaceMaskDetection)
 26. sbd_mask 基于CenterFace开发 cpu的口罩检测 [github](https://github.com/sbdcv/sbd_mask) 
 27. CPU推理速度100FPS的PyTorch人脸特征点定位 [github](https://github.com/cunjian/pytorch_face_landmark)
+28. 开源视频人脸跟踪算法,基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达250fps   [github](https://gitee.com/huiwei13/Ncnn_FaceTrack)
 
 ### 无人驾驶
 
 0. 无人驾驶的资源列表中文版 [github](https://github.com/DeepTecher/awesome-autonomous-vehicle)
-1. 
 
 ###  人脸识别
 
@@ -549,6 +561,8 @@
 13. MassFace: 使用 triplet loss 进行人脸识别的高效实现  tensorflow [github](https://github.com/yule-li/MassFace)
 14. Retinaface_Mobilenet_Pytorch [github](https://github.com/lbin/Retinaface_Mobilenet_Pytorch)
 15. deepface - 用于Python的轻量级人脸分析框架   [github](https://github.com/serengil/deepface)
+16. HyperFAS 基于深度学习人脸静默活体算法   [github](https://github.com/zeusees/HyperFAS)
+17. [SeetaFace6 ](https://github.com/seetafaceengine/SeetaFace6)  [**SeetaFace6 入门教程**](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
 
 ###  人脸融合
 
@@ -582,6 +596,8 @@
 
 0. 动态环境下基于DRL的无人车自适应路径规划方法  [link](https://zhuanlan.zhihu.com/p/79712897) [github](https://github.com/CoderWangcai/DRL_Path_Planning)
 1. RecNN - PyTorch强化推荐工具箱 [github](https://github.com/awarebayes/RecNN)
+2. 清华大学天授 基于Pytorch的强化学习 [github](https://github.com/thu-ml/tianshou)
+
 ### 时序
 
 0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
@@ -623,6 +639,9 @@
 18. 通过Transformer实现的识别场景文本  [github](https://github.com/fengxinjie/Transformer-OCR)
 19.  方向任意目标检测新算法gliding_vertex  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247497851&idx=2&sn=ddc8f67317d06c060bf2227799b1d058&chksm=96f08a2fa18703394447715fd4b66937aa4dd02a5a1f63cc3176af55b03f6e77da065a2c7947&mpshare=1&scene=1&srcid=0320gR69n4zEjEewRvfPnqUV&sharer_sharetime=1584721630003&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=b2b650f4d803b33d3ccb982aed134439e2917e747460cb6a19f09521e1275886b282eac4dff75f281b49e2b90c1e8299c5b1fc2060b0a1a8c5345c7663e3903960c84b07d43f7203e1812615d68dc6fa&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AbRV0dgs1sVHg%2F8JQKpTa8I%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)  [github](https://github.com/MingtaoFu/gliding_vertex)
 20. [PSENet.pytorch](https://github.com/WenmuZhou/PSENet.pytorch)
+21. PAN(PSENet2)   [github](https://github.com/WenmuZhou/PAN.pytorch)  [link](https://blog.csdn.net/ft_sunshine/article/details/102711708)
+22. pytorch_ctpn  [github](https://github.com/opconty/pytorch_ctpn)
+23. chinese_ocr    CTPN + DenseNet + CTC   [github](https://github.com/YCG09/chinese_ocr)
 
 ### 去水印 inpaint
 
@@ -715,6 +734,7 @@
 15. GANILLA：将图像转成插图生成对抗网络的PyTorch实现  [github](https://github.com/giddyyupp/ganilla)
 16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
 17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
+18. 单张图像就可以训练GAN！Adobe改良图像生成方法 [github](https://github.com/tohinz/ConSinGAN)
 
 ###  GCN图卷积网络
 
@@ -820,6 +840,8 @@
 35.  基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
 36. 深度指纹识别：通过深度学习破坏网站指纹防御 [link](https://blog.csdn.net/AcSuccess/article/details/102991830)
 37. 头发分割和染色，含服务端和上传网页代码   [github](https://github.com/samggggflynn/U-Net_detect_and_recolor_hair)
+38. SynSin: 单个图像的端到端视图合成  [github](https://github.com/facebookresearch/synsin)
+39. 从单个彩色摄像机以100fps以上的速度捕获手势的最小解决方案 [github](https://github.com/CalciferZh/minimal-hand)
 
 ### 部署问题
 
@@ -943,6 +965,7 @@
 1. 图片简易标注工具  [github](https://github.com/jayney/dataset_labeling)
 2. brackets  js开发工具[ brackets](https://github.com/adobe/brackets)
 3. [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
+4.   画图工具 drawio-desktop  [github](https://github.com/jgraph/drawio-desktop/releases/tag/v12.9.3)
 
 ### 12306抢票源代码
 
