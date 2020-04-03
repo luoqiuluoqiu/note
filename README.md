@@ -23,6 +23,7 @@
 3. 图像处理算法 [博客园](https://www.cnblogs.com/Imageshop/)
 4. Official PyTorch implementation of U-GAT-IT [github](https://github.com/znxlwm/UGATIT-pytorch)
 5.  图像的模糊检测方法 [link](https://www.cnblogs.com/greentomlee/p/9379471.html)
+6. SpixelFCN: 完全卷积网络的超像素分割  [github](https://github.com/fuy34/superpixel_fcn)
 
 # 深度学习基础模型
 
@@ -216,6 +217,7 @@
 16. 图卷积网络Numpy实现 [link](https://zhuanlan.zhihu.com/p/57235377)
 17. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
 18. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
+19. TResNet: High Performance GPU-Dedicated Architecture [github](https://github.com/mrT23/TResNet)
 
 ###  目标检测  
 
@@ -373,6 +375,10 @@
 
 
 ## 深度学习框架
+
+### tensorflow
+
+1.  《30天吃掉那只 TensorFlow2.0 》开篇辞 [github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
 ### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
 
