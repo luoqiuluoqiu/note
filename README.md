@@ -4,6 +4,7 @@
 # 机器学习
 0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
 1. 人工智能实战就业(面试)学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
+2. SUOD：「大规模异常检测系统」初体验  [link](https://zhuanlan.zhihu.com/p/58313521)
 
 ### 基础教程(github 仓库名称)
 
@@ -24,6 +25,9 @@
 4. Official PyTorch implementation of U-GAT-IT [github](https://github.com/znxlwm/UGATIT-pytorch)
 5.  图像的模糊检测方法 [link](https://www.cnblogs.com/greentomlee/p/9379471.html)
 6. SpixelFCN: 完全卷积网络的超像素分割  [github](https://github.com/fuy34/superpixel_fcn)
+7. 图像保边滤波算法集锦系列  [github](https://blog.csdn.net/Trent1985/article/details/80509232)
+8. 只(挚)爱图像处理  [link](https://www.cnblogs.com/Imageshop)
+9. Photoshop 算法原理 [link](https://www.cnblogs.com/mtcnn/category/1269166.html)
 
 # 深度学习基础模型
 
@@ -83,6 +87,7 @@
 49. feature map 相加和拼接的不同  [link](https://zhuanlan.zhihu.com/p/113033609)
 50. 别再喊我调参侠！深度学习“科学炼丹”手册了解一下  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494058&idx=1&sn=910e4d0ba4bc7e90a8fa337d9815b115&chksm=ec1c0453db6b8d45247085a3152da58a0218c9917e4527368851a6311e2ba87b620a214275cd&mpshare=1&scene=1&srcid=&sharer_sharetime=1584872759403&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d85ce920fc802c693a28e5c95e638eb73bf989f79267562752b8582c9aeebc82771d3ee8a4fa2c96395a27822b922cb6e134408ee20bec93837d430d698969fdeac595069c1e873d502158cce143484e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AXPc2lwRL%2BMfOEZX0B2Zjh8%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)
 51. 深度学习推理时融合BN，轻松获得约5%的提速 [link](https://zhuanlan.zhihu.com/p/120265831)
+52. 你有哪些deep learning（rnn、cnn）调参的经验？  [link](https://www.zhihu.com/question/41631631/answer/1129785528)
 
 ### 综述
 
@@ -344,6 +349,7 @@
 30. 用于高效序列建模的Seq-U-Net的官方实现 [github](https://github.com/f90/Seq-U-Net)
 31.  Cellpose：细胞分割通用算法  [github](https://github.com/MouseLand/cellpose)
 32. 图像分割-常规超像素分割和中心检测及区域增长 pyImSegm  [github](https://github.com/Borda/pyImSegm)
+33.  背景抠图 - 无需绿幕，即可实现视频抠图  [github](https://github.com/senguptaumd/Background-Matting)
 
 #### 医学分割
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
@@ -369,6 +375,7 @@
 7. SiamMask [github](https://github.com/foolwood/SiamMask)
 8. SiamRPN++ 
 9. 目标跟踪初探（DeepSORT） [link](https://zhuanlan.zhihu.com/p/90835266)
+10. Siam R-CNN两级再检测器，用于视觉目标跟踪   [github](https://github.com/VisualComputingInstitute/SiamR-CNN)
 
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
@@ -413,6 +420,7 @@
 ### paddlepaddle
 
 0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
+1. [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim)
 
 ###  ONNX
 
@@ -691,6 +699,7 @@
 17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 18. generative_inpainting fillv2 [github](https://github.com/JiahuiYu/generative_inpainting)
 19. srmd ncnn vulkan 通用图片超分放大工具 [github](https://github.com/nihui/srmd-ncnn-vulkan)
+20. PyTorch实现“通过超高分辨率实现无损图像压缩”   [github](https://github.com/caoscott/SReC)
 
 ### 质量评估
 
@@ -741,11 +750,13 @@
 16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
 17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
 18. 单张图像就可以训练GAN！Adobe改良图像生成方法 [github](https://github.com/tohinz/ConSinGAN)
+19. mimicry  A PyTorch library for the reproducibility of GAN research.  [github](https://github.com/kwotsin/mimicry)
 
 ###  GCN图卷积网络
 
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
 1.  从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络  [github](https://github.com/SivilTaram/Graph-Neural-Network-Note)
+2. SuperGlue: 利用图神经网络实现的学习特征匹配 [github](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
 ###  TSP
 
@@ -795,10 +806,11 @@
 
 
 
-### 图像搜索
+### 搜索
 
 1. 基于 [Faiss](https://github.com/facebookresearch/faiss)开发的taranis图像搜索  [traranis](https://github.com/pletessier/taranis)
 2. 服装局部抄袭怎么解决？ 阿里推出区域检索算法 [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650782603&idx=3&sn=c0f87f8d562da671f434c5bb0befaa34&chksm=871a7ff5b06df6e3dabdc1f7249a9ba4e6c0b776aafdb5d624422af0e7e94db983d6a8c8c7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584258245386&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=615298b6af513962cfd782a06edb7ddaf22b9eae0c4f9a5b2a66348f5fb41777e5f3d2503204174fcde5975273a6e6dbb427397c36673bbda3b1963be97cd0720a48c6e6d6227a4e5cc38422dea85fa5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=ASrV08veCHobjb42KBUVTF0%3D&pass_ticket=muB288t8SvDUyIWfq8ZZJiDoHrvMkrrghkPVQ3O%2BHN93FgQHJHZJXAQzSPknyqaG)
+3. Deepmatch：针对推荐、广告和搜索的深度匹配模型库 [github](https://github.com/shenweichen/DeepMatch)
 
 ### 排序
 
@@ -848,6 +860,7 @@
 37. 头发分割和染色，含服务端和上传网页代码   [github](https://github.com/samggggflynn/U-Net_detect_and_recolor_hair)
 38. SynSin: 单个图像的端到端视图合成  [github](https://github.com/facebookresearch/synsin)
 39. 从单个彩色摄像机以100fps以上的速度捕获手势的最小解决方案 [github](https://github.com/CalciferZh/minimal-hand)
+40. NeRF(Neural Radiance Fields) 的PyTorch复现结果    [github](https://github.com/yenchenlin/nerf-pytorch)
 
 ### 部署问题
 
@@ -986,6 +999,8 @@
 ### 逆向
 
 0. IDAPython的脚本和速查表   [github](https://github.com/inforion/idapython-cheatsheet)
+1. 从虚拟机架构到编译器实现 [link](https://zhuanlan.zhihu.com/p/72356928)
+2. Application behavior monitor based on inline hook  [github](https://github.com/matrixcascade/PeDoll)  [link](https://zhuanlan.zhihu.com/p/75923288)
 
 
 
@@ -993,6 +1008,7 @@
 
 1. Damn Vulnerable Web Application (DVWA)  [link](http://www.dvwa.co.uk/)   
 2. DVWA低级别通关指南 [link](https://zhuanlan.zhihu.com/p/62152766)
+3. 
 
 ### 其他
 
