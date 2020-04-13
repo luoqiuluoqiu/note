@@ -5,6 +5,7 @@
 0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
 1. 人工智能实战就业(面试)学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
 2. SUOD：「大规模异常检测系统」初体验  [link](https://zhuanlan.zhihu.com/p/58313521)
+3. 一款基于SVM算法的智能法律助手-前端 [github](https://github.com/zhuchangwu/lawyer-lover-vue-frontend)
 
 ### 基础教程(github 仓库名称)
 
@@ -16,6 +17,7 @@
 5. tinynn tinynn是一个轻量级的深度学习框架，用Python3（包括NumPy）编写  [github](https://github.com/borgwang/tinynn)
 ![image](https://camo.githubusercontent.com/db055de7a607f53dce1d1d618cffb356b8d1e7f5/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744e633739677931673633746b67646831706a3330746f3066776a736b2e6a7067)
 6. 用python 实现一个简单的深度学习框架 [github](https://github.com/Leezhen2014/python_deep_learning)
+7. 谷歌开源Neural Tangents：简单快速训练无限宽度神经网络  [github](https://github.com/google/neural-tangents)
 
 # 图像处理
 0. 颜色迁移 [知乎](https://zhuanlan.zhihu.com/p/93671079) [csdn C++ 版](https://blog.csdn.net/sin_geek/article/details/22325229)  [csdn系列](https://blog.csdn.net/lyh03601/category_9264059.html)
@@ -350,6 +352,7 @@
 31.  Cellpose：细胞分割通用算法  [github](https://github.com/MouseLand/cellpose)
 32. 图像分割-常规超像素分割和中心检测及区域增长 pyImSegm  [github](https://github.com/Borda/pyImSegm)
 33.  背景抠图 - 无需绿幕，即可实现视频抠图  [github](https://github.com/senguptaumd/Background-Matting)
+34.  openseg.pytorch   [github](https://github.com/openseg-group/openseg.pytorch)
 
 #### 医学分割
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
@@ -416,6 +419,7 @@
 24. 一组有关pytorch功能的Jupyter笔记本和示例 [github](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
 25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
 26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
+27. 具有SOTA实时性能和预先训练的权重的EfficientDet官方pytorch重现  [github](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
 ### paddlepaddle
 
@@ -425,6 +429,7 @@
 ###  ONNX
 
 0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
+1.  详细记录YOLACT实例分割ncnn实现  [link](https://zhuanlan.zhihu.com/p/128974102)
 
 ###  openc dnn
 
@@ -556,6 +561,7 @@
 ### 无人驾驶
 
 0. 无人驾驶的资源列表中文版 [github](https://github.com/DeepTecher/awesome-autonomous-vehicle)
+1. 从MATLAB/Simulink入手学习无人驾驶   [link](https://www.zhihu.com/question/20210846/answer/1147397588?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
 
 ###  人脸识别
 
@@ -577,6 +583,7 @@
 15. deepface - 用于Python的轻量级人脸分析框架   [github](https://github.com/serengil/deepface)
 16. HyperFAS 基于深度学习人脸静默活体算法   [github](https://github.com/zeusees/HyperFAS)
 17. [SeetaFace6 ](https://github.com/seetafaceengine/SeetaFace6)  [**SeetaFace6 入门教程**](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
+18. 人脸口罩检测与识别-助力于新型冠状病毒疫情防控   [github](https://github.com/vdjango/MaskFace)
 
 ###  人脸融合
 
@@ -700,6 +707,7 @@
 18. generative_inpainting fillv2 [github](https://github.com/JiahuiYu/generative_inpainting)
 19. srmd ncnn vulkan 通用图片超分放大工具 [github](https://github.com/nihui/srmd-ncnn-vulkan)
 20. PyTorch实现“通过超高分辨率实现无损图像压缩”   [github](https://github.com/caoscott/SReC)
+21. 图像去模糊系列算法  [link](https://zhuanlan.zhihu.com/p/84440897)
 
 ### 质量评估
 
@@ -767,7 +775,7 @@
 4. PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks,  2019  [github](https://github.com/Megvii-Nanjing/ML_GCN)
 5. GPF（Graph Processing Flow）：利用图神经网络处理问题的一般化流程 [github](https://github.com/xchadesi/GPF)
 
-###  matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
+###  Matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
 
 0. indexnet_matting  2019  pytorch  [github](https://github.com/poppinace/indexnet_matting)
 1. Semantic Soft Segmentation  [github](https://github.com/yaksoy/SemanticSoftSegmentation) [link讲解](https://zhuanlan.zhihu.com/p/63211300)  [github2](https://github.com/lebronyxm/SSS-semantic-soft-segmentation) [home](http://yaksoy.github.io/sss/)
@@ -784,7 +792,10 @@
 12. Image Matting代碼和算法效果總結 [link](https://www.twblogs.net/a/5b7acdd82b7177392c96d843)
 13. portrait_matting [github](https://github.com/takiyu/portrait_matting)  [github2](https://github.com/topics/portrait-matting)
 14. Awesome-Image-Inpainting [github](https://github.com/1900zyh/Awesome-Image-Inpainting#image-inpainting)
-
+15. CVPR2020-HAttMatting   [github](https://github.com/wukaoliu/CVPR2020-HAttMatting)
+16. 目前是开源里最好的Natural Image Matting via Guided Contextual Attention   [github](https://github.com/Yaoyi-Li/GCA-Matting)
+17. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
+18. [3D-Photo-Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/﻿)﻿
 
 ### 行人检测
 
@@ -798,6 +809,7 @@
 2. Real-time Automatic Deep Matting For Mobile Devices With Mobile-Unet [github](https://github.com/anilsathyan7/Portrait-Segmentation)
 3. Towards Real-Time Automatic Portrait Matting on Mobile Devices  [github](https://github.com/hyperconnect/MMNet)
 4. Human-Segmentation-PyTorch [github](https://github.com/thuyngch/Human-Segmentation-PyTorch)
+5. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
 
 ### 表面检测
 
@@ -815,6 +827,7 @@
 ### 排序
 
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
+  1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
 
 ****
 
@@ -909,23 +922,24 @@
 23. PyOD异常检测库 [doc](https://pyod.readthedocs.io/en/latest/)
 24. requests文档 [doc](http://docs.python-requests.org/zh_CN/latest/user/advanced.html)
 25. numba 加速库
-    12 albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
-26. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
-27. python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
-28. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
-29. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
-30. Django + Ansible + Celery 的WEB平台，用以批量处理任务 [github](https://github.com/lotus-dgas/AnsibleUI)
+26. 
+27. albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
+28. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
+29. python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
+30. imgaug  数据增强库 [github](https://github.com/aleju/imgaug)
+31. 如何为Python程序制作Windows安装包 [link](https://zhuanlan.zhihu.com/p/61965739)
+32. Django + Ansible + Celery 的WEB平台，用以批量处理任务 [github](https://github.com/lotus-dgas/AnsibleUI)
     18.Jupyter安装与部署  [link](https://xiaoyou66.com/archives/1095)[link](https://cloud.tencent.com/developer/article/1147487)
-31. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
-32. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
-33. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-34. 支持多进程多线程环境使用的日志处理器 [github](https://github.com/huanghyw/concurrent_log)
-35.  可视化py生成exe  [github](https://github.com/brentvollebregt/auto-py-to-exe)
-36.  fastapi [github](https://github.com/tiangolo/fastapi)
-37. Starlette  异步服务库 [link](https://www.starlette.io/)
-38. [numpy中文版](https://www.numpy.org.cn/)
-39. easycython  py--pyd [github](https://github.com/cjrh/easycython)
-40. [python3错误：使用python3执行.py文件遇到：*ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found](http://www.pianshen.com/article/9812380027/)
+33. Jupyter 使用指南 [link](https://zhuanlan.zhihu.com/p/33105153)
+34. python tkinter模块使用大全 [link](https://www.toutiao.com/a6759486452381254157/)
+35. windows  python 安装包 [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+36. 支持多进程多线程环境使用的日志处理器 [github](https://github.com/huanghyw/concurrent_log)
+37. 可视化py生成exe  [github](https://github.com/brentvollebregt/auto-py-to-exe)
+38. fastapi [github](https://github.com/tiangolo/fastapi)
+39. Starlette  异步服务库 [link](https://www.starlette.io/)
+40. [numpy中文版](https://www.numpy.org.cn/)
+41. easycython  py--pyd [github](https://github.com/cjrh/easycython)
+42. [python3错误：使用python3执行.py文件遇到：*ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found](http://www.pianshen.com/article/9812380027/)
 
 ### C/C++
 
