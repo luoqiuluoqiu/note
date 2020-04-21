@@ -225,8 +225,9 @@
 17. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
 18. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 19. TResNet: High Performance GPU-Dedicated Architecture [github](https://github.com/mrT23/TResNet)
+20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
 
-###  目标检测  
+###  目标检测
 
 0. 详解目标检测中边界框的回归策略  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=1&srcid=&sharer_sharetime=1567986189037&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=c2233ec816eaa9a223f3c567ce38eca92683762db0bc9e5425c4aaf0160e64e7198bda68544d610cfcd297b655611f06fc83e38e4feacb6416cd099481653b73512a33b038fdf9a8b838771d238ba8b2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62060844&lang=zh_CN&pass_ticket=WL7k8v7WWRRIoLd%2FvpHJaEY72Rlc2akPcO7ABfTzNZuQfIzVzr5XKwSLC4v2%2BcfX)
 1. 目标检测中的特征冲突与不对齐问题   [link](https://zhuanlan.zhihu.com/p/114700229)
@@ -303,6 +304,8 @@
 40. Yolo-v3 and Yolo-v2 for Windows and Linux [github](https://github.com/AlexeyAB/darknet)   [link](https://zhuanlan.zhihu.com/p/97382064)
 41. 目标检测算法之YOLO系列算法的Anchor聚类代码实战 [link](https://zhuanlan.zhihu.com/p/95291364) [github](https://github.com/BBuf/cv_tools)
 42. 天池大赛项目：天池新品实验室 - 淘宝直播商品识别  [github](https://github.com/AlvinAi96/match_rcnn)
+43. 只用一页jupyter notebook完成Faster RCNN [github](https://github.com/cmd23333/The-Simplest-Faster-RCNN)
+44. Pytorch版本中的Faster RCNN模型，已在ResGen 101的Visual Genome上进行了预训练  [github](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
 
 ###  语义分割
 
@@ -314,9 +317,9 @@
 3. U-Net-Interactive-Object-Selection [github](https://github.com/StanwieCB/U-Net-Interactive-Object-Selection)
 4. Interactive Image Segmentation with Latent Diversity [github](https://github.com/intel-isl/Intseg)
 5. 深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
+6. Curve-GCN:图卷积网络用于活动轮廓演变 [github](https://github.com/fidler-lab/curve-gcn)
 
-
-##### 像素分类分割
+#####像素分类分割
 
 0.  ICNet 搞笑分割模型 [link](https://zhuanlan.zhihu.com/p/26653218)
 1.  移动设备高性能实时网络/语义分割论文资源列表  [github](https://github.com/wpf535236337/real-time-network)
@@ -591,6 +594,7 @@
 2. FaceAttribute-FAN  人脸特征融合 [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
 3. 利用生成对抗网络实现人脸老化  [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
 4. 深度学习换脸检测发展调研 [link1](https://zhuanlan.zhihu.com/p/90316297)  [link2](https://zhuanlan.zhihu.com/p/92474937)
+5. FSGAN: Subject Agnostic Face Swapping and Reenactment（ICCV19） [github](https://github.com/YuvalNirkin/fsgan)
 
 ###  人体姿态估计
 
@@ -663,6 +667,7 @@
 21. PAN(PSENet2)   [github](https://github.com/WenmuZhou/PAN.pytorch)  [link](https://blog.csdn.net/ft_sunshine/article/details/102711708)
 22. pytorch_ctpn  [github](https://github.com/opconty/pytorch_ctpn)
 23. chinese_ocr    CTPN + DenseNet + CTC   [github](https://github.com/YCG09/chinese_ocr)
+24. 一个基于CTPN+CRNN的OCR项目  [github](https://github.com/lvjianjin/ocr/blob/master/dataset/create_data/chinese_5990/chinese_char_5990.json)
 
 ### 去水印 inpaint
 
@@ -759,12 +764,17 @@
 17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
 18. 单张图像就可以训练GAN！Adobe改良图像生成方法 [github](https://github.com/tohinz/ConSinGAN)
 19. mimicry  A PyTorch library for the reproducibility of GAN research.  [github](https://github.com/kwotsin/mimicry)
+20. Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images  图片-食谱相互生成的问题 [link](把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？ - 时间旅客的回答 - 知乎 https://www.zhihu.com/question/363503176/answer/1148326488)  [github](https://github.com/hwang1996/ACME)
+21.  Self-Supervised Scene De-occlusion   神奇的自监督场景去遮挡    [github](https://github.com/XiaohangZhan/deocclusion)
+22. 漂亮的人脸卡通化，小视科技开源成熟模型与训练数据  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247504467&idx=2&sn=a9938e591e6e1cc38fd8a9e0d7e66211&chksm=96f0a007a18729119dd6042cdc696d621fd01f0b8cfe6f353cc278d22b5154a53d727d2f93a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277864478&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d86dc0c9497b857537aff5d7e5751db6421d24e10dbb68eaea4ccef79cffa074dfc89b1f11e5114ae5336db6f791d2cfd7d3c2b7c1f2a52d01c2958f2cfb0b2b49ca36e2664aceb5ed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AcCm72ztWeavfwMNAHIhapM%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG) [github](https://github.com/minivision-ai/photo2cartoon)
+23. 看GAN如何一步步控制图像生成风格？详解StyleGAN进化过程  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650785254&idx=2&sn=b31dc847ab3afb402f45699133564d40&chksm=871a0198b06d888ea093617969eab9efae09f047834edb3f2e1ff5307b0c5dd2df5e4cbdc5db&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277778537&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d890347d4a96248ee14d028ace67ae03a47b5b463c022afb3cc4927f3576d1cf0d62a45c88b6c7d0a7aeaf225c3d33899485fae7eb8dee5bc63b89ca53cd828ab62a240442b75c22bd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AbkVF0JCLx6WUKrvk9JcRQ4%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG)
 
 ###  GCN图卷积网络
 
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
 1.  从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络  [github](https://github.com/SivilTaram/Graph-Neural-Network-Note)
 2. SuperGlue: 利用图神经网络实现的学习特征匹配 [github](https://github.com/magicleap/SuperGluePretrainedNetwork)
+3. Curve-GCN:图卷积网络用于活动轮廓演变  [link](https://zhuanlan.zhihu.com/p/115166696?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608) [github](https://github.com/fidler-lab/curve-gcn)
 
 ###  TSP
 
@@ -828,8 +838,15 @@
 
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
   1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
+   2. Milvus 是一款开源的特征向量相似度搜索引擎  [link](https://www.milvus.io/cn/)
 
 ****
+
+### 图像修复
+
+1. [old-photo-restoration](https://github.com/dashar/old-photo-restoration)
+2. reproducible-image-denoising-state-of-the-art  [github](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+3. [IRCNN](https://github.com/cszn/IRCNN)
 
 ###  其他
 
@@ -922,7 +939,7 @@
 23. PyOD异常检测库 [doc](https://pyod.readthedocs.io/en/latest/)
 24. requests文档 [doc](http://docs.python-requests.org/zh_CN/latest/user/advanced.html)
 25. numba 加速库
-26. 
+26. alfred-py   可视化工具   [github](https://github.com/jinfagang/alfred)
 27. albumentations 扩展样本库  [github](https://github.com/albu/albumentations)
 28. modelsummary pytorch [github](https://github.com/graykode/modelsummary)
 29. python 教程 [github](https://github.com/selfteaching/the-craft-of-selfteaching)
@@ -940,6 +957,7 @@
 40. [numpy中文版](https://www.numpy.org.cn/)
 41. easycython  py--pyd [github](https://github.com/cjrh/easycython)
 42. [python3错误：使用python3执行.py文件遇到：*ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found](http://www.pianshen.com/article/9812380027/)
+43. Python知识手册  [github](https://github.com/liyangbit/Python-Knowledge-Handbook)
 
 ### C/C++
 
