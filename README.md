@@ -319,7 +319,7 @@
 5. 深度学习在交互式图像分割中的应用 [link](https://zhuanlan.zhihu.com/p/37641091)
 6. Curve-GCN:图卷积网络用于活动轮廓演变 [github](https://github.com/fidler-lab/curve-gcn)
 
-#####像素分类分割
+#### 像素分类分割
 
 0.  ICNet 搞笑分割模型 [link](https://zhuanlan.zhihu.com/p/26653218)
 1.  移动设备高性能实时网络/语义分割论文资源列表  [github](https://github.com/wpf535236337/real-time-network)
@@ -357,7 +357,14 @@
 33.  背景抠图 - 无需绿幕，即可实现视频抠图  [github](https://github.com/senguptaumd/Background-Matting)
 34.  openseg.pytorch   [github](https://github.com/openseg-group/openseg.pytorch)
 
+#### 无监督分割
+
+1. 单张图片的无监督语义分割，理解算法，并改良原始代码(从30秒改到5秒)[link](https://zhuanlan.zhihu.com/p/68528056)
+2. SegSort: Segmentation by Discriminative Sorting of Segments  [github](https://github.com/jyhjinghwang/SegSort)
+3. Zero-Shot Semantic Segmentation   [link](https://zhuanlan.zhihu.com/p/74841466)  [github](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation)
+
 #### 医学分割
+
 0. 医学图像分割优质开源代码 [link](https://zhuanlan.zhihu.com/p/93779657)
 1.  nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 2.  医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
@@ -595,6 +602,8 @@
 3. 利用生成对抗网络实现人脸老化  [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
 4. 深度学习换脸检测发展调研 [link1](https://zhuanlan.zhihu.com/p/90316297)  [link2](https://zhuanlan.zhihu.com/p/92474937)
 5. FSGAN: Subject Agnostic Face Swapping and Reenactment（ICCV19） [github](https://github.com/YuvalNirkin/fsgan)
+6. Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
+7. FaceAging-by-cycleGAN   [github](https://github.com/jiechen2358/FaceAging-by-cycleGAN)
 
 ###  人体姿态估计
 
@@ -768,6 +777,12 @@
 21.  Self-Supervised Scene De-occlusion   神奇的自监督场景去遮挡    [github](https://github.com/XiaohangZhan/deocclusion)
 22. 漂亮的人脸卡通化，小视科技开源成熟模型与训练数据  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247504467&idx=2&sn=a9938e591e6e1cc38fd8a9e0d7e66211&chksm=96f0a007a18729119dd6042cdc696d621fd01f0b8cfe6f353cc278d22b5154a53d727d2f93a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277864478&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d86dc0c9497b857537aff5d7e5751db6421d24e10dbb68eaea4ccef79cffa074dfc89b1f11e5114ae5336db6f791d2cfd7d3c2b7c1f2a52d01c2958f2cfb0b2b49ca36e2664aceb5ed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AcCm72ztWeavfwMNAHIhapM%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG) [github](https://github.com/minivision-ai/photo2cartoon)
 23. 看GAN如何一步步控制图像生成风格？详解StyleGAN进化过程  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650785254&idx=2&sn=b31dc847ab3afb402f45699133564d40&chksm=871a0198b06d888ea093617969eab9efae09f047834edb3f2e1ff5307b0c5dd2df5e4cbdc5db&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277778537&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d890347d4a96248ee14d028ace67ae03a47b5b463c022afb3cc4927f3576d1cf0d62a45c88b6c7d0a7aeaf225c3d33899485fae7eb8dee5bc63b89ca53cd828ab62a240442b75c22bd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AbkVF0JCLx6WUKrvk9JcRQ4%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG)
+24. 一键上妆的BeautyGAN   [link](https://zhuanlan.zhihu.com/p/67523051) [github](https://github.com/Honlan/BeautyGAN)
+25. PSGAN   [link](https://zhuanlan.zhihu.com/p/101271393)  [github](https://github.com/wtjiang98/PSGAN)
+26. 二次元萌妹高清舞姿随心变，换装只需一瞬间 | 又是GAN立功了   [github](https://github.com/tkarras/progressive_growing_of_gans)
+27. cp-vton  换装   [github](https://github.com/sergeywong/cp-vton)
+28. StyleGAN2.pytorch   [github](https://github.com/huangzh13/StyleGAN2.pytorch)
+29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
 
 ###  GCN图卷积网络
 
@@ -891,6 +906,7 @@
 38. SynSin: 单个图像的端到端视图合成  [github](https://github.com/facebookresearch/synsin)
 39. 从单个彩色摄像机以100fps以上的速度捕获手势的最小解决方案 [github](https://github.com/CalciferZh/minimal-hand)
 40. NeRF(Neural Radiance Fields) 的PyTorch复现结果    [github](https://github.com/yenchenlin/nerf-pytorch)
+41. Thin Plate Spline   薄板样条插值---TPS   [link](https://www.jianshu.com/p/2cc189dfbcc5)
 
 ### 部署问题
 
