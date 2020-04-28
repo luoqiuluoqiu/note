@@ -90,6 +90,9 @@
 50. 别再喊我调参侠！深度学习“科学炼丹”手册了解一下  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494058&idx=1&sn=910e4d0ba4bc7e90a8fa337d9815b115&chksm=ec1c0453db6b8d45247085a3152da58a0218c9917e4527368851a6311e2ba87b620a214275cd&mpshare=1&scene=1&srcid=&sharer_sharetime=1584872759403&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d85ce920fc802c693a28e5c95e638eb73bf989f79267562752b8582c9aeebc82771d3ee8a4fa2c96395a27822b922cb6e134408ee20bec93837d430d698969fdeac595069c1e873d502158cce143484e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=AXPc2lwRL%2BMfOEZX0B2Zjh8%3D&pass_ticket=jOibT7V%2FXB%2BO9LEnSj3hDkA0K5iWUnAavinmM7NUMPT9%2FzbhITS9OSrLhE290hnJ)
 51. 深度学习推理时融合BN，轻松获得约5%的提速 [link](https://zhuanlan.zhihu.com/p/120265831)
 52. 你有哪些deep learning（rnn、cnn）调参的经验？  [link](https://www.zhihu.com/question/41631631/answer/1129785528)
+53. 类别不平衡学习：论文/代码/框架/库  [github](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+
+
 
 ### 综述
 
@@ -306,6 +309,7 @@
 42. 天池大赛项目：天池新品实验室 - 淘宝直播商品识别  [github](https://github.com/AlvinAi96/match_rcnn)
 43. 只用一页jupyter notebook完成Faster RCNN [github](https://github.com/cmd23333/The-Simplest-Faster-RCNN)
 44. Pytorch版本中的Faster RCNN模型，已在ResGen 101的Visual Genome上进行了预训练  [github](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
+45. Yolo  -v4 [github](https://github.com/AlexeyAB/darknet)  YOLOv4的最小PyTorch实现  [github](https://github.com/Tianxiaomo/pytorch-YOLOv4)
 
 ###  语义分割
 
@@ -481,7 +485,13 @@
 
 # 业务模型 #
 
-### 细粒度识别
+### 显著性检测Saliency Detection
+
+1. 显著性检测（Saliency ）[link](https://zhuanlan.zhihu.com/p/65321972)
+2. PoolNet   [github](https://github.com/backseason/PoolNet)
+3. CPD   [github](https://github.com/wuzhe71/CPD)
+
+细粒度识别
 
 0.  基于Pytorch的细粒度图像分类实战 BCNN [Link-code](https://zhuanlan.zhihu.com/p/77680825)
 1.  细粒度分类网络之WS-DAN论文阅读附代码 [link](https://zhuanlan.zhihu.com/p/73416902)
@@ -605,6 +615,11 @@
 6. Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
 7. FaceAging-by-cycleGAN   [github](https://github.com/jiechen2358/FaceAging-by-cycleGAN)
 
+### 年龄性别等
+
+1. SSR-Net_megaage-asian  亚洲年龄检测  [github ](https://github.com/b02901145/SSR-Net_megaage-asian)  SSR-Net   [github](https://github.com/shamangary/SSR-Net)
+2. age-gender-estimation   [github](https://github.com/yu4u/age-estimation-pytorch)
+
 ###  人体姿态估计
 
 0. A lightweight network for body/hand action recognition [github](https://github.com/fandulu/DD-Net)
@@ -631,6 +646,7 @@
 0. 动态环境下基于DRL的无人车自适应路径规划方法  [link](https://zhuanlan.zhihu.com/p/79712897) [github](https://github.com/CoderWangcai/DRL_Path_Planning)
 1. RecNN - PyTorch强化推荐工具箱 [github](https://github.com/awarebayes/RecNN)
 2. 清华大学天授 基于Pytorch的强化学习 [github](https://github.com/thu-ml/tianshou)
+3. 万字长文：国内第一个基于TensorFlow2.0支持GUI非gym环境的强化学习框架General  [github](https://github.com/zhaoyingjun/general)
 
 ### 时序
 
@@ -677,6 +693,7 @@
 22. pytorch_ctpn  [github](https://github.com/opconty/pytorch_ctpn)
 23. chinese_ocr    CTPN + DenseNet + CTC   [github](https://github.com/YCG09/chinese_ocr)
 24. 一个基于CTPN+CRNN的OCR项目  [github](https://github.com/lvjianjin/ocr/blob/master/dataset/create_data/chinese_5990/chinese_char_5990.json)
+25. 更轻量的中文OCR   [github](https://github.com/breezedeus/cnocr)
 
 ### 去水印 inpaint
 
@@ -701,27 +718,50 @@
 ###  图像超分辨率与去噪
 
 0. Lightweight Image Super-Resolution with Information Multi-distillation Network (ACM MM 2019) [github](https://github.com/Zheng222/IMDN)
+
 1. 图像超分：RealSR [link](https://zhuanlan.zhihu.com/p/80552632)
+
 2. Open MMLab Image and Video Super-Resolution Toolbox, , including SRResNet, SRGAN, ESRGAN, EDVR, etc. MMSR：基于PyTorch的图像/视频超分辨率工具箱 [github](https://github.com/open-mmlab/mmsr)
+
 3. 去模糊  SRN-Deblur  [github](https://github.com/jiangsutx/SRN-Deblur)  [link](https://zhuanlan.zhihu.com/p/79409958)
+
 4. FALSR  2019 小米 [github](https://github.com/xiaomi-automl/FALSR)
+
 5. FixRes [github](https://github.com/facebookresearch/FixRes)
+
 6. noise2noise-pytorch [github](https://github.com/joeylitalien/noise2noise-pytorch)
+
 7. Pytorch实现多帧超分辨率(MFSR)网络HighRes-net [github](https://github.com/ElementAI/HighRes-net)
+
 8. 去模糊GAN DeblurGANv2  [github](https://github.com/TAMU-VITA/DeblurGANv2)
+
 9. High-Quality Self-Supervised Deep Image Denoising  2019  [github](https://github.com/NVlabs/selfsupervised-denoising)
+
 10. ABPN pytorch 2019  [github](https://github.com/Holmes-Alan/ABPN)
+
 11. super-resolution [github](https://github.com/krasserm/super-resolution)
+
 12. 超分辨率损失函数  [link](https://zhuanlan.zhihu.com/p/91237333)
+
 13. waifu2x  [github](https://github.com/nagadomi/waifu2x)  [link](http://waifu2x.udp.jp/)
+
 14. 使用具有批量重新归一化的深度CNN进行图像去噪   tensorflow 2019 [github](https://github.com/hellloxiaotian/BRDNet)
+
 15. pytorch 版的 MWCNN 复现  [github](https://github.com/shaonianruntu/MWCNN)   [link](https://blog.csdn.net/gwplovekimi/article/details/84851871)
+
 16. Dandere2x [github](https://github.com/aka-katto/dandere2x)
+
 17. Waifu2x-Extension-GUI [github](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+
 18. generative_inpainting fillv2 [github](https://github.com/JiahuiYu/generative_inpainting)
+
 19. srmd ncnn vulkan 通用图片超分放大工具 [github](https://github.com/nihui/srmd-ncnn-vulkan)
+
 20. PyTorch实现“通过超高分辨率实现无损图像压缩”   [github](https://github.com/caoscott/SReC)
+
 21. 图像去模糊系列算法  [link](https://zhuanlan.zhihu.com/p/84440897)
+
+    
 
 ### 质量评估
 
@@ -783,6 +823,7 @@
 27. cp-vton  换装   [github](https://github.com/sergeywong/cp-vton)
 28. StyleGAN2.pytorch   [github](https://github.com/huangzh13/StyleGAN2.pytorch)
 29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
+30. stargan-v2   [github](https://github.com/clovaai/stargan-v2)
 
 ###  GCN图卷积网络
 
@@ -848,6 +889,7 @@
 1. 基于 [Faiss](https://github.com/facebookresearch/faiss)开发的taranis图像搜索  [traranis](https://github.com/pletessier/taranis)
 2. 服装局部抄袭怎么解决？ 阿里推出区域检索算法 [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650782603&idx=3&sn=c0f87f8d562da671f434c5bb0befaa34&chksm=871a7ff5b06df6e3dabdc1f7249a9ba4e6c0b776aafdb5d624422af0e7e94db983d6a8c8c7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584258245386&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=615298b6af513962cfd782a06edb7ddaf22b9eae0c4f9a5b2a66348f5fb41777e5f3d2503204174fcde5975273a6e6dbb427397c36673bbda3b1963be97cd0720a48c6e6d6227a4e5cc38422dea85fa5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=ASrV08veCHobjb42KBUVTF0%3D&pass_ticket=muB288t8SvDUyIWfq8ZZJiDoHrvMkrrghkPVQ3O%2BHN93FgQHJHZJXAQzSPknyqaG)
 3. Deepmatch：针对推荐、广告和搜索的深度匹配模型库 [github](https://github.com/shenweichen/DeepMatch)
+4. PyRetri - 基于PyTorch的深度学习图像检索工具箱  [github](https://github.com/PyRetri/PyRetri)
 
 ### 排序
 
@@ -974,6 +1016,9 @@
 41. easycython  py--pyd [github](https://github.com/cjrh/easycython)
 42. [python3错误：使用python3执行.py文件遇到：*ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found](http://www.pianshen.com/article/9812380027/)
 43. Python知识手册  [github](https://github.com/liyangbit/Python-Knowledge-Handbook)
+44. Pandas中文教程   [github](https://github.com/datawhalechina/joyful-pandas)
+45. python 使用ssh隧道连接mysql   [link](https://blog.imdst.com/python-shi-yong-sshsui-dao-lian-jie-mysql/)
+46. Python实现Mysql数据库连接池   [link](https://www.jianshu.com/p/53262bb292e5)
 
 ### C/C++
 
