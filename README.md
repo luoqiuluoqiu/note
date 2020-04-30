@@ -905,6 +905,12 @@
 2. reproducible-image-denoising-state-of-the-art  [github](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 3. [IRCNN](https://github.com/cszn/IRCNN)
 
+### 虚拟换装
+
+1.  虚拟试衣：Virtual Try-on Network系列工作   [link](https://zhuanlan.zhihu.com/p/76035091)  [cp-vton github](https://github.com/sergeywong/cp-vton)
+2.  Cool-Fashion-Papers [github](https://github.com/lzhbrian/Cool-Fashion-Papers)
+3. VITON_realtime    [github](https://github.com/amjltc295/VITON_realtime)
+
 ###  其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
@@ -1019,6 +1025,7 @@
 44. Pandas中文教程   [github](https://github.com/datawhalechina/joyful-pandas)
 45. python 使用ssh隧道连接mysql   [link](https://blog.imdst.com/python-shi-yong-sshsui-dao-lian-jie-mysql/)
 46. Python实现Mysql数据库连接池   [link](https://www.jianshu.com/p/53262bb292e5)
+47. 据分析项目python的优化    [link](https://zhuanlan.zhihu.com/p/137104620)
 
 ### C/C++
 
