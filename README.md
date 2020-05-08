@@ -6,6 +6,7 @@
 1. 人工智能实战就业(面试)学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
 2. SUOD：「大规模异常检测系统」初体验  [link](https://zhuanlan.zhihu.com/p/58313521)
 3. 一款基于SVM算法的智能法律助手-前端 [github](https://github.com/zhuchangwu/lawyer-lover-vue-frontend)
+4. 手写笔记visual-machine-learning-notes [github](https://github.com/visual-ml-notes/visual-machine-learning-notes)
 
 ### 基础教程(github 仓库名称)
 
@@ -91,6 +92,8 @@
 51. 深度学习推理时融合BN，轻松获得约5%的提速 [link](https://zhuanlan.zhihu.com/p/120265831)
 52. 你有哪些deep learning（rnn、cnn）调参的经验？  [link](https://www.zhihu.com/question/41631631/answer/1129785528)
 53. 类别不平衡学习：论文/代码/框架/库  [github](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+54. CNN Explainer - 通过交互式可视化学习卷积神经网络  [github](https://github.com/poloclub/cnn-explainer)
+55. 用于机器学习，深度学习和数学的交互式工具   [github](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 
 
 
@@ -183,6 +186,7 @@
 5. 模型转换、模型压缩工具汇总 [link](https://blog.csdn.net/WZZ18191171661/article/details/99700992#1PocketFlow_42)
 6. 模型压缩总览 [link](https://www.jianshu.com/p/e73851f32c9f)
 7. PyTorch实现的深度模型压缩  基于pytorch实现模型压缩（1、量化：8/4/2 bits(dorefa)、三值/二值(twn/bnn/xnor-net)；2、剪枝：正常、规整、针对分组卷积结构的通道剪枝；3、分组卷积结构；4、针对特征A二值的BN融合） [github](https://github.com/666DZY666/model-compression)
+8. AIMET是一个为经过训练的神经网络模型提供高级量化和压缩技术的库   [github](https://github.com/quic/aimet)
 
 
 ###  模型网络部署
@@ -201,6 +205,7 @@
 3. NAS-Projects [github](https://github.com/D-X-Y/NAS-Projects)
 4. NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 5. ZazuML：面向实例检测的开源AutoML项目   [github](https://github.com/dataloop-ai/ZazuML)
+6. NeurIPS AutoDL Challenge 冠军方案   [githu](https://github.com/DeepWisdom/AutoDL)
 
 ###  激活函数
 
@@ -310,6 +315,7 @@
 43. 只用一页jupyter notebook完成Faster RCNN [github](https://github.com/cmd23333/The-Simplest-Faster-RCNN)
 44. Pytorch版本中的Faster RCNN模型，已在ResGen 101的Visual Genome上进行了预训练  [github](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
 45. Yolo  -v4 [github](https://github.com/AlexeyAB/darknet)  YOLOv4的最小PyTorch实现  [github](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+46. Faster-Rcnn：Two-Stage目标检测模型在Pytorch当中的实现   [github](https://github.com/bubbliiiing/faster-rcnn-pytorch)
 
 ###  语义分割
 
@@ -761,6 +767,8 @@
 
 21. 图像去模糊系列算法  [link](https://zhuanlan.zhihu.com/p/84440897)
 
+22. MMSR 是基于PyTorch的开源图像和视频超分辨率工具箱，包括SRResNet，SRGAN，ESRGAN等  [github](https://github.com/xinntao/BasicSR)
+
     
 
 ### 质量评估
@@ -824,6 +832,7 @@
 28. StyleGAN2.pytorch   [github](https://github.com/huangzh13/StyleGAN2.pytorch)
 29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
 30. stargan-v2   [github](https://github.com/clovaai/stargan-v2)
+31. 一组经过预先训练的StyleGAN 2模型可供下载   [github](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 
 ###  GCN图卷积网络
 
@@ -911,6 +920,10 @@
 2.  Cool-Fashion-Papers [github](https://github.com/lzhbrian/Cool-Fashion-Papers)
 3. VITON_realtime    [github](https://github.com/amjltc295/VITON_realtime)
 
+### 小样本
+
+1. 小样本集合  [github](https://github.com/tata1661/FewShotPapers)
+
 ###  其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
@@ -955,6 +968,7 @@
 39. 从单个彩色摄像机以100fps以上的速度捕获手势的最小解决方案 [github](https://github.com/CalciferZh/minimal-hand)
 40. NeRF(Neural Radiance Fields) 的PyTorch复现结果    [github](https://github.com/yenchenlin/nerf-pytorch)
 41. Thin Plate Spline   薄板样条插值---TPS   [link](https://www.jianshu.com/p/2cc189dfbcc5)
+42. fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具   [github](https://github.com/fastnlp/fitlog)
 
 ### 部署问题
 
@@ -1140,3 +1154,4 @@
 25. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
 26. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 27. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
+28. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
