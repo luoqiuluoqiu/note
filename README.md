@@ -19,6 +19,7 @@
 ![image](https://camo.githubusercontent.com/db055de7a607f53dce1d1d618cffb356b8d1e7f5/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744e633739677931673633746b67646831706a3330746f3066776a736b2e6a7067)
 6. 用python 实现一个简单的深度学习框架 [github](https://github.com/Leezhen2014/python_deep_learning)
 7. 谷歌开源Neural Tangents：简单快速训练无限宽度神经网络  [github](https://github.com/google/neural-tangents)
+8. 可解释的机器学习--黑盒模型可解释性理解指南  [github](https://github.com/MingchaoZhu/InterpretableMLBook)
 
 # 图像处理
 0. 颜色迁移 [知乎](https://zhuanlan.zhihu.com/p/93671079) [csdn C++ 版](https://blog.csdn.net/sin_geek/article/details/22325229)  [csdn系列](https://blog.csdn.net/lyh03601/category_9264059.html)
@@ -234,6 +235,7 @@
 18. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
 19. TResNet: High Performance GPU-Dedicated Architecture [github](https://github.com/mrT23/TResNet)
 20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
+21. SCNet - PyTorch官方实现CVPR 2020论文“使用自校准卷积改进卷积网络”       [github](https://github.com/backseason/SCNet)
 
 ###  目标检测
 
@@ -496,6 +498,8 @@
 1. 显著性检测（Saliency ）[link](https://zhuanlan.zhihu.com/p/65321972)
 2. PoolNet   [github](https://github.com/backseason/PoolNet)
 3. CPD   [github](https://github.com/wuzhe71/CPD)
+4. BASNet  2019 [github](https://github.com/NathanUA/BASNet)
+5. U-2-Net   2020  [github](https://github.com/NathanUA/U-2-Net)
 
 细粒度识别
 
@@ -833,6 +837,8 @@
 29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
 30. stargan-v2   [github](https://github.com/clovaai/stargan-v2)
 31. 一组经过预先训练的StyleGAN 2模型可供下载   [github](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+32. DG-Net   CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification   [github](https://github.com/NVlabs/DG-Net)
+33. 可视化GAN训练过程   [github](https://github.com/EvgenyKashin/gan-vis)
 
 ###  GCN图卷积网络
 
@@ -885,6 +891,14 @@
 3. Towards Real-Time Automatic Portrait Matting on Mobile Devices  [github](https://github.com/hyperconnect/MMNet)
 4. Human-Segmentation-PyTorch [github](https://github.com/thuyngch/Human-Segmentation-PyTorch)
 5. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
+
+### 人体部位解析-human parsing
+
+1.  Pytorch implementation of CVPR2020 paper "Correlating Edge, Pose with Parsing"  [github](https://github.com/ziwei-zh/CorrPM)
+
+### 头发分割 Hair Seg
+
+1.  pytorch-hair-segmentation [github](https://github.com/YBIGTA/pytorch-hair-segmentation)
 
 ### 表面检测
 
@@ -969,6 +983,7 @@
 40. NeRF(Neural Radiance Fields) 的PyTorch复现结果    [github](https://github.com/yenchenlin/nerf-pytorch)
 41. Thin Plate Spline   薄板样条插值---TPS   [link](https://www.jianshu.com/p/2cc189dfbcc5)
 42. fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具   [github](https://github.com/fastnlp/fitlog)
+43. Pose Animator(姿势动画师)：做动作控制生成矢量角色动画    [github](https://github.com/yemount/pose-animator/)
 
 ### 部署问题
 
