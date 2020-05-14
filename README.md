@@ -669,6 +669,7 @@
 2. 使用深度神经网络模型实现Lenet模型实时车道检测 [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 3. 车道检测关键点估计和点实例分割方法 [github](https://github.com/koyeongmin/PINet)
 4. 百度Aistudio无人车车道线检测挑战赛/练习项目/Pytorch [github](https://github.com/Jinglever/baidu-lane-detection-2019)
+5. 无人驾驶车道/路线检测   [github](https://github.com/littlemountainman/modeld)
 
 ### 车牌识别
 
@@ -899,11 +900,14 @@
 ### 头发分割 Hair Seg
 
 1.  pytorch-hair-segmentation [github](https://github.com/YBIGTA/pytorch-hair-segmentation)
+2.  face-seg  人脸和头发分割    [github](https://github.com/kampta/face-seg)
 
-### 表面检测
+### 表面检测  缺陷检测
 
 0. Deep-Learning-Approach-for-Surface-Defect-Detection  [github](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection)
 1. 基于深度学习识别模型的缺陷检测  [link](https://blog.csdn.net/qq_29462849/article/details/84763421)
+2. 稀疏编码用于产品表面异常检测   [github](https://zhuanlan.zhihu.com/p/37950431)
+3. 缺陷检测文献记录   [github](https://github.com/Eatzhy/surface-defect-detection)
 
 
 
