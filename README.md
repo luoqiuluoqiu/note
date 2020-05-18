@@ -189,8 +189,11 @@
 7. PyTorch实现的深度模型压缩  基于pytorch实现模型压缩（1、量化：8/4/2 bits(dorefa)、三值/二值(twn/bnn/xnor-net)；2、剪枝：正常、规整、针对分组卷积结构的通道剪枝；3、分组卷积结构；4、针对特征A二值的BN融合） [github](https://github.com/666DZY666/model-compression)
 8. AIMET是一个为经过训练的神经网络模型提供高级量化和压缩技术的库   [github](https://github.com/quic/aimet)
 
+### TCN
 
-###  模型网络部署
+1.   时间序列分析 TCN   [github](https://zhuanlan.zhihu.com/p/69919158)
+
+模型网络部署
 
 0.  service-streamer 加速你的深度学习web服务 [github](https://github.com/ShannonAI/service-streamer/blob/master/README_zh.md)
 
@@ -368,6 +371,7 @@
 32. 图像分割-常规超像素分割和中心检测及区域增长 pyImSegm  [github](https://github.com/Borda/pyImSegm)
 33.  背景抠图 - 无需绿幕，即可实现视频抠图  [github](https://github.com/senguptaumd/Background-Matting)
 34.  openseg.pytorch   [github](https://github.com/openseg-group/openseg.pytorch)
+35.  图像标签的单阶段语义分割   [github](https://github.com/visinf/1-stage-wseg)
 
 #### 无监督分割
 
@@ -442,6 +446,7 @@
 25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
 26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
 27. 具有SOTA实时性能和预先训练的权重的EfficientDet官方pytorch重现  [github](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+28. TorchSketch：基于PyTorch深度学习库  支持CNN  RNN GCN TCN [github](https://github.com/PengBoXiangShang/torchsketch)
 
 ### paddlepaddle
 
@@ -536,6 +541,7 @@
 13. PyTorch 实现的神经网络协同过滤推荐系统 [github](https://github.com/HarshdeepGupta/recommender_pytorch)
 14. 基于CV+NLP使用tf.Keras构建图像搜索引擎 [github](https://github.com/CVxTz/image_search_engine)
 15. 句子级别文本相似度计算(数据/模型/部署) [github](https://github.com/nghuyong/sentence-similarity-zoo)
+16. 机器翻译：统计建模与深度学习方法   [github](https://github.com/NiuTrans/MTBook)
 
 ### 边缘检测算法
 
@@ -878,6 +884,7 @@
 16. 目前是开源里最好的Natural Image Matting via Guided Contextual Attention   [github](https://github.com/Yaoyi-Li/GCA-Matting)
 17. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
 18. [3D-Photo-Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/﻿)﻿
+19. FBA_Matting    [github](https://github.com/MarcoForte/FBA_Matting)
 
 ### 行人检测
 
