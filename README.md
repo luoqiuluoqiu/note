@@ -210,6 +210,7 @@
 4. NAS发展史和code  [link](https://zhuanlan.zhihu.com/p/71547478)
 5. ZazuML：面向实例检测的开源AutoML项目   [github](https://github.com/dataloop-ai/ZazuML)
 6. NeurIPS AutoDL Challenge 冠军方案   [githu](https://github.com/DeepWisdom/AutoDL)
+7. CodeSnippetSearch：Keras实现的神经网络代码搜索   [github](https://github.com/novoselrok/codesnippetsearch)
 
 ###  激活函数
 
@@ -239,6 +240,7 @@
 19. TResNet: High Performance GPU-Dedicated Architecture [github](https://github.com/mrT23/TResNet)
 20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
 21. SCNet - PyTorch官方实现CVPR 2020论文“使用自校准卷积改进卷积网络”       [github](https://github.com/backseason/SCNet)
+22. SimCLR  对比学习得到一个好的视觉预训练模型 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489211&idx=1&sn=2c5c5940f56798dff154e0719fe28a5d&chksm=c0699ee6f71e17f0b23b47d10e36de79e2165dc2bceb0007e04c1e4613555f8a4aa7743a973c&mpshare=1&scene=1&srcid=&sharer_sharetime=1589933713312&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=595c9888292a8f2e21f6540c9c27b659cafe1646b6c14eb06c4c37e02a2d7067089777b574937cc5d56755cea086f93880a4160ae64a0940c8fa653b72835a02b01d03110d57f796968e51f0c588013e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AdtewTvWySWVq7A6EJX1DaM%3D&pass_ticket=AKxzAlU5OlkEEJTjSqMVzaue4iUym561ukJkUd2igHKb7%2BZJoCpR3oiAusszBzsp)
 
 ###  目标检测
 
@@ -321,6 +323,7 @@
 44. Pytorch版本中的Faster RCNN模型，已在ResGen 101的Visual Genome上进行了预训练  [github](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
 45. Yolo  -v4 [github](https://github.com/AlexeyAB/darknet)  YOLOv4的最小PyTorch实现  [github](https://github.com/Tianxiaomo/pytorch-YOLOv4)
 46. Faster-Rcnn：Two-Stage目标检测模型在Pytorch当中的实现   [github](https://github.com/bubbliiiing/faster-rcnn-pytorch)
+47. Scale-equalizing Pyramid Convolution for object detection    [github](https://github.com/jshilong/SEPC) [link](https://zhuanlan.zhihu.com/p/141071173)
 
 ###  语义分割
 
@@ -391,6 +394,7 @@
 1. DeepMask pytorch  [github](https://github.com/foolwood/deepmask-pytorch) 
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
+4. Pixellib 是一个图像分割库，支持语义分割和实例分割   [github](https://github.com/ayoolaolafenwa/PixelLib)
 
 ###  跟踪Tracking
 
@@ -447,6 +451,9 @@
 26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
 27. 具有SOTA实时性能和预先训练的权重的EfficientDet官方pytorch重现  [github](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 28. TorchSketch：基于PyTorch深度学习库  支持CNN  RNN GCN TCN [github](https://github.com/PengBoXiangShang/torchsketch)
+29. Torchcam: PyTorch模型类激活图浏览器   [github](https://github.com/luoqiuluoqiu/torch-cam)
+30. PopGen是用PyTorch编写的生成建模工具包   [github](https://github.com/Popgun-Labs/PopGen)
+31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
 
 ### paddlepaddle
 
@@ -505,6 +512,7 @@
 3. CPD   [github](https://github.com/wuzhe71/CPD)
 4. BASNet  2019 [github](https://github.com/NathanUA/BASNet)
 5. U-2-Net   2020  [github](https://github.com/NathanUA/U-2-Net)
+6. 用于显著性检测的边缘引导网络   [github](https://github.com/JXingZhao/EGNet/)
 
 细粒度识别
 
@@ -522,6 +530,9 @@
 ### 小样本（one-shot learning）or 零样本（zero-shot learning）
 
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
+1. 小样本分割综述   [link](https://zhuanlan.zhihu.com/p/141262205)
+
+
 
 ###  NLP
 
@@ -711,6 +722,8 @@
 23. chinese_ocr    CTPN + DenseNet + CTC   [github](https://github.com/YCG09/chinese_ocr)
 24. 一个基于CTPN+CRNN的OCR项目  [github](https://github.com/lvjianjin/ocr/blob/master/dataset/create_data/chinese_5990/chinese_char_5990.json)
 25. 更轻量的中文OCR   [github](https://github.com/breezedeus/cnocr)
+26. 汉字字符特征提取工具，可以提取出字符中的字音（声母、韵母、声调）、字形（偏旁、部首）、四角编码等特征，同时可作为tensor输入到模型   [github](https://github.com/charlesXu86/char_featurizer)
+27. TextGenerator - OCR/文字检测/字体识别数据生成工具   [github](https://github.com/BboyHanat/TextGenerator)
 
 ### 去水印 inpaint
 
@@ -846,6 +859,9 @@
 31. 一组经过预先训练的StyleGAN 2模型可供下载   [github](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 32. DG-Net   CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification   [github](https://github.com/NVlabs/DG-Net)
 33. 可视化GAN训练过程   [github](https://github.com/EvgenyKashin/gan-vis)
+34. 人脸年龄编辑  v2    [github](https://github.com/InterDigitalInc/HRFAE)
+35. pix2pixHD   [github](https://github.com/NVIDIA/pix2pixHD)
+36. Automatic Line Art Colorization - 自动进行线条艺术着色   [github](https://github.com/SerialLain3170/Colorization)
 
 ###  GCN图卷积网络
 
@@ -944,6 +960,7 @@
 1.  虚拟试衣：Virtual Try-on Network系列工作   [link](https://zhuanlan.zhihu.com/p/76035091)  [cp-vton github](https://github.com/sergeywong/cp-vton)
 2.  Cool-Fashion-Papers [github](https://github.com/lzhbrian/Cool-Fashion-Papers)
 3. VITON_realtime    [github](https://github.com/amjltc295/VITON_realtime)
+4.  时尚服饰领域 MMFashion [github](https://github.com/open-mmlab/mmfashion) [dataGithub](https://github.com/open-mmlab/mmfashion/blob/master/docs/DATA_PREPARATION.md)
 
 ### 小样本
 
@@ -995,6 +1012,7 @@
 41. Thin Plate Spline   薄板样条插值---TPS   [link](https://www.jianshu.com/p/2cc189dfbcc5)
 42. fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具   [github](https://github.com/fastnlp/fitlog)
 43. Pose Animator(姿势动画师)：做动作控制生成矢量角色动画    [github](https://github.com/yemount/pose-animator/)
+44. 低光图像处理方案   [link](https://zhuanlan.zhihu.com/p/140926754)
 
 ### 部署问题
 
@@ -1125,6 +1143,10 @@
 2. brackets  js开发工具[ brackets](https://github.com/adobe/brackets)
 3. [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor)
 4.   画图工具 drawio-desktop  [github](https://github.com/jgraph/drawio-desktop/releases/tag/v12.9.3)
+5. DarkLabel:多目标检测标注软件   [link](https://zhuanlan.zhihu.com/p/141036498)
+6. GeoGebra 数学应用画图等  [link](https://www.geogebra.org/)
+
+
 
 ### 12306抢票源代码
 
