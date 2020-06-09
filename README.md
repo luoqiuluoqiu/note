@@ -975,6 +975,13 @@
 
 1. 小样本集合  [github](https://github.com/tata1661/FewShotPapers)
 
+
+
+### 异常检测
+
+1.  「异常检测101」：从模型选择到调参  [link](https://zhuanlan.zhihu.com/p/146811768)
+2.  pyod [github](https://github.com/yzhao062/pyod)
+
 ###  其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
