@@ -2,11 +2,13 @@
 0. 算法竞赛课件分享 [github](https://github.com/hzwer/shareOI)
 
 # 机器学习
+
 0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
 1. 人工智能实战就业(面试)学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
 2. SUOD：「大规模异常检测系统」初体验  [link](https://zhuanlan.zhihu.com/p/58313521)
 3. 一款基于SVM算法的智能法律助手-前端 [github](https://github.com/zhuchangwu/lawyer-lover-vue-frontend)
 4. 手写笔记visual-machine-learning-notes [github](https://github.com/visual-ml-notes/visual-machine-learning-notes)
+5. catboost   [github](https://github.com/catboost/catboost)
 
 ### 基础教程(github 仓库名称)
 
@@ -321,9 +323,10 @@
 42. 天池大赛项目：天池新品实验室 - 淘宝直播商品识别  [github](https://github.com/AlvinAi96/match_rcnn)
 43. 只用一页jupyter notebook完成Faster RCNN [github](https://github.com/cmd23333/The-Simplest-Faster-RCNN)
 44. Pytorch版本中的Faster RCNN模型，已在ResGen 101的Visual Genome上进行了预训练  [github](https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
-45. Yolo  -v4 [github](https://github.com/AlexeyAB/darknet)  YOLOv4的最小PyTorch实现  [github](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+45. Yolo  -v4 [github](https://github.com/AlexeyAB/darknet)  YOLOv4的最小PyTorch实现  [github ](https://github.com/Tianxiaomo/pytorch-YOLOv4)  [讲解](https://zhuanlan.zhihu.com/p/143747206)
 46. Faster-Rcnn：Two-Stage目标检测模型在Pytorch当中的实现   [github](https://github.com/bubbliiiing/faster-rcnn-pytorch)
 47. Scale-equalizing Pyramid Convolution for object detection    [github](https://github.com/jshilong/SEPC) [link](https://zhuanlan.zhihu.com/p/141071173)
+48. End-to-End Object Detection with Transformers 2020  [github](https://github.com/facebookresearch/detr)
 
 ###  语义分割
 
@@ -375,6 +378,7 @@
 33.  背景抠图 - 无需绿幕，即可实现视频抠图  [github](https://github.com/senguptaumd/Background-Matting)
 34.  openseg.pytorch   [github](https://github.com/openseg-group/openseg.pytorch)
 35.  图像标签的单阶段语义分割   [github](https://github.com/visinf/1-stage-wseg)
+36.  基于网络模块化的语义分割框架   [github](https://github.com/walkingRoach/Semantic-segmentation-based-on-modularization)
 
 #### 无监督分割
 
@@ -667,6 +671,7 @@
 2. 行人重新识别 2019 pytorch [github](https://github.com/zhunzhong07/ECN)
 3. 一个基于PyTorch的开源人群计数框架  [github](https://github.com/gjy3035/C-3-Framework)[link](https://zhuanlan.zhihu.com/p/65650998)
 4. 小于1MB的行人检测网络 [link/github](https://zhuanlan.zhihu.com/p/76491446)
+5. SOTA ReID Methods and Toolbox   [github](https://github.com/JDAI-CV/fast-reid)
 
 ### 强化学习
 
@@ -862,6 +867,10 @@
 34. 人脸年龄编辑  v2    [github](https://github.com/InterDigitalInc/HRFAE)
 35. pix2pixHD   [github](https://github.com/NVIDIA/pix2pixHD)
 36. Automatic Line Art Colorization - 自动进行线条艺术着色   [github](https://github.com/SerialLain3170/Colorization)
+37. stylegan-encoder [github](https://github.com/pbaylies/stylegan-encoder)
+38. stylegan2encoder  [github](https://github.com/rolux/stylegan2encoder)
+39. 基于StyleGAN2的新版人脸生成器   [github](https://github.com/a312863063/generators-with-stylegan2)
+40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
 
 ###  GCN图卷积网络
 
@@ -1029,7 +1038,8 @@
 6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
 7. TextDistance 一个开源库含有 30+ 种纯 Python 算法用于比较两个或多个序列之间的距离 [github](https://github.com/life4/textdistance)
 8. 在应用中使用度量学习的最简单方法，具有模块化、灵活和可扩展，采用PyTorch编写 [github](https://github.com/KevinMusgrave/pytorch-metric-learning)
-
+9. IQA-optimization  图像质量的损失函数   [github](https://github.com/dingkeyan93/IQA-optimization)
+10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
 
 # 语言
 
@@ -1203,3 +1213,4 @@
 26. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 27. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
 28. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
+29. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
