@@ -698,6 +698,7 @@
 0. LPRNet_Pytorch  [github](https://github.com/sirius-ai/LPRNet_Pytorch)  [link](https://www.52cv.net/?p=854)
 1. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 2. LPRNet - 基于Tensorflow，使用CNN和CTCloss实现轻量级车牌识别的轻型网络  [github](https://github.com/lyl8213/Plate_Recognition-LPRnet)
+3. 基于u-net，cv2以及cnn的中文车牌定位，矫正和端到端识别软件   [github](https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition)
 
 ###  OCR
 
@@ -871,6 +872,7 @@
 38. stylegan2encoder  [github](https://github.com/rolux/stylegan2encoder)
 39. 基于StyleGAN2的新版人脸生成器   [github](https://github.com/a312863063/generators-with-stylegan2)
 40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
+41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
 
 ###  GCN图卷积网络
 
@@ -915,6 +917,7 @@
 
 0. Pedestrian-Detection [github](https://github.com/xingkongliang/Pedestrian-Detection)
 1. 行人检测（Pedestrian Detection）论文整理 [link](https://zhuanlan.zhihu.com/p/86285180)
+2. 《深度学习与行人重识别》课程课件   [github](https://github.com/michuanhaohao/ReID_tutorial_slides)
 
 ### 肖像分割 portrait-segmentation  Human-Segmentation
 
@@ -1034,7 +1037,7 @@
 
 ​			0. 从阿里的User Interest Center看模型线上实时serving方法  [link](https://zhuanlan.zhihu.com/p/111929212)
 
-### 非常规损失函数
+### 损失函数
 
 0. SSIM  图像质量等 [github]()
 1. dice  图像分割
@@ -1047,6 +1050,11 @@
 8. 在应用中使用度量学习的最简单方法，具有模块化、灵活和可扩展，采用PyTorch编写 [github](https://github.com/KevinMusgrave/pytorch-metric-learning)
 9. IQA-optimization  图像质量的损失函数   [github](https://github.com/dingkeyan93/IQA-optimization)
 10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
+11. 分类回归损失函数汇总  [link](https://baijiahao.baidu.com/s?id=1603857666277651546&wfr=spider&for=pc)
+
+### 场景识别
+
+1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
 
 # 语言
 
