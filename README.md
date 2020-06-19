@@ -97,6 +97,7 @@
 53. 类别不平衡学习：论文/代码/框架/库  [github](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
 54. CNN Explainer - 通过交互式可视化学习卷积神经网络  [github](https://github.com/poloclub/cnn-explainer)
 55. 用于机器学习，深度学习和数学的交互式工具   [github](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
+56. 深度学习模型在各大公司实际生产环境的应用讲解文章   [github](https://github.com/DA-southampton/Tech_Aarticle)
 
 
 
@@ -608,6 +609,7 @@
 26. sbd_mask 基于CenterFace开发 cpu的口罩检测 [github](https://github.com/sbdcv/sbd_mask) 
 27. CPU推理速度100FPS的PyTorch人脸特征点定位 [github](https://github.com/cunjian/pytorch_face_landmark)
 28. 开源视频人脸跟踪算法,基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达250fps   [github](https://gitee.com/huiwei13/Ncnn_FaceTrack)
+29. yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）  [github](https://github.com/ouyanghuiyu/yolo-face-with-landmark)
 
 ### 无人驾驶
 
@@ -692,6 +694,7 @@
 3. 车道检测关键点估计和点实例分割方法 [github](https://github.com/koyeongmin/PINet)
 4. 百度Aistudio无人车车道线检测挑战赛/练习项目/Pytorch [github](https://github.com/Jinglever/baidu-lane-detection-2019)
 5. 无人驾驶车道/路线检测   [github](https://github.com/littlemountainman/modeld)
+6. 超快的结构感知深度车道检测   [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
 
 ### 车牌识别
 
@@ -798,6 +801,8 @@
 21. 图像去模糊系列算法  [link](https://zhuanlan.zhihu.com/p/84440897)
 
 22. MMSR 是基于PyTorch的开源图像和视频超分辨率工具箱，包括SRResNet，SRGAN，ESRGAN等  [github](https://github.com/xinntao/BasicSR)
+
+23. 去雨网络（PReNet）   [github](https://github.com/csdwren/PReNet)
 
     
 
@@ -952,6 +957,7 @@
 2. 服装局部抄袭怎么解决？ 阿里推出区域检索算法 [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650782603&idx=3&sn=c0f87f8d562da671f434c5bb0befaa34&chksm=871a7ff5b06df6e3dabdc1f7249a9ba4e6c0b776aafdb5d624422af0e7e94db983d6a8c8c7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584258245386&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=615298b6af513962cfd782a06edb7ddaf22b9eae0c4f9a5b2a66348f5fb41777e5f3d2503204174fcde5975273a6e6dbb427397c36673bbda3b1963be97cd0720a48c6e6d6227a4e5cc38422dea85fa5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62080085&lang=zh_CN&exportkey=ASrV08veCHobjb42KBUVTF0%3D&pass_ticket=muB288t8SvDUyIWfq8ZZJiDoHrvMkrrghkPVQ3O%2BHN93FgQHJHZJXAQzSPknyqaG)
 3. Deepmatch：针对推荐、广告和搜索的深度匹配模型库 [github](https://github.com/shenweichen/DeepMatch)
 4. PyRetri - 基于PyTorch的深度学习图像检索工具箱  [github](https://github.com/PyRetri/PyRetri)
+5. Annoy最近邻检索技术之 “图片检索”   [link](https://zhuanlan.zhihu.com/p/148819536) [github](https://github.com/spotify/annoy)
 
 ### 排序
 
@@ -1032,6 +1038,8 @@
 42. fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具   [github](https://github.com/fastnlp/fitlog)
 43. Pose Animator(姿势动画师)：做动作控制生成矢量角色动画    [github](https://github.com/yemount/pose-animator/)
 44. 低光图像处理方案   [link](https://zhuanlan.zhihu.com/p/140926754)
+45. Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline     [github](https://github.com/alex04072000/SingleHDR)
+46. OpenSelfSup: Open-MMLab自监督表征学习代码库   [github](https://github.com/open-mmlab/OpenSelfSup)
 
 ### 部署问题
 
