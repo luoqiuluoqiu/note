@@ -1059,6 +1059,7 @@
 9. IQA-optimization  图像质量的损失函数   [github](https://github.com/dingkeyan93/IQA-optimization)
 10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
 11. 分类回归损失函数汇总  [link](https://baijiahao.baidu.com/s?id=1603857666277651546&wfr=spider&for=pc)
+12. Learned Perceptual Image Patch Similarity (LPIPS) metric    [github](https://github.com/richzhang/PerceptualSimilarity)
 
 ### 场景识别
 
