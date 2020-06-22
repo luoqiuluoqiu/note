@@ -425,7 +425,7 @@
 
 1.  《30天吃掉那只 TensorFlow2.0 》开篇辞 [github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
-### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable](https://download.pytorch.org/whl/torch_stable.html)
+### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable  ](https://download.pytorch.org/whl/torch_stable.html)   [pytorch_lightning ](https://github.com/PyTorchLightning/pytorch-lightning)
 
 0. 混合精度神经网络训练：理论与实践 [github](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8302.pdf)
 1. 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。 [github](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
@@ -459,6 +459,7 @@
 29. Torchcam: PyTorch模型类激活图浏览器   [github](https://github.com/luoqiuluoqiu/torch-cam)
 30. PopGen是用PyTorch编写的生成建模工具包   [github](https://github.com/Popgun-Labs/PopGen)
 31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
+32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
 
 ### paddlepaddle
 
@@ -878,6 +879,7 @@
 39. 基于StyleGAN2的新版人脸生成器   [github](https://github.com/a312863063/generators-with-stylegan2)
 40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
 41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
+42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
 
 ###  GCN图卷积网络
 
@@ -964,6 +966,7 @@
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
   1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
    2. Milvus 是一款开源的特征向量相似度搜索引擎  [link](https://www.milvus.io/cn/)
+    3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
 
 ****
 
