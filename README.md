@@ -805,6 +805,16 @@
 
 23. 去雨网络（PReNet）   [github](https://github.com/csdwren/PReNet)
 
+24. 2020年超越RCAN，图像超分又一峰    [link](https://zhuanlan.zhihu.com/p/148068972)
+
+25. Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks   [github](https://github.com/aiff22/DPED)   [link](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032)
+
+26. Deep Unfolding Network for Image Super-Resolution (CVPR, 2020) (PyTorch)     [github](https://github.com/cszn/USRNet) [link](https://mp.weixin.qq.com/s/0-Kjfi8RBuPb_KuB5-Khkg)
+
+27. 可控图像复原 | CResMD   [github](https://github.com/hejingwenhejingwen/CResMD)  [link](https://zhuanlan.zhihu.com/p/147150446)
+
+28. Generating RGB photos from RAW image files with PyNET (PyTorch)   [github](https://github.com/aiff22/PyNET-PyTorch)
+
     
 
 ### 质量评估
@@ -966,7 +976,7 @@
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
   1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
    2. Milvus 是一款开源的特征向量相似度搜索引擎  [link](https://www.milvus.io/cn/)
-    3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
+        3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
 
 ****
 
@@ -1067,6 +1077,12 @@
 ### 场景识别
 
 1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
+
+
+
+### 模型转换
+
+1.  如何将其他框架训练模型导入到pytorch中   [link](https://zhuanlan.zhihu.com/p/75526928) [link2](https://zhuanlan.zhihu.com/p/75601879)
 
 # 语言
 
