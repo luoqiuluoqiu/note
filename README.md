@@ -462,6 +462,7 @@
 31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
 32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
 33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
+34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
 
 ### paddlepaddle
 
@@ -978,9 +979,9 @@
 
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
   1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
-    2. Milvus 是一款开源的特征向量相似度搜索引擎  
-    3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
-    4. 超大规模推荐之用户兴趣高效检索赛道 冠军解决方案  [githubs](https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup)
+        2. Milvus 是一款开源的特征向量相似度搜索引擎  
+            3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
+                4. 超大规模推荐之用户兴趣高效检索赛道 冠军解决方案  [githubs](https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup)
 
 ****
 
