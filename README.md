@@ -414,6 +414,7 @@
 8. SiamRPN++ 
 9. 目标跟踪初探（DeepSORT） [link](https://zhuanlan.zhihu.com/p/90835266)
 10. Siam R-CNN两级再检测器，用于视觉目标跟踪   [github](https://github.com/VisualComputingInstitute/SiamR-CNN)
+11. 于跟踪车辆的多目标跟踪, 自定义数据进行单类别多目标实时跟踪  [github](https://github.com/CaptainEven/FairMOTVehicle)
 
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
@@ -460,6 +461,7 @@
 30. PopGen是用PyTorch编写的生成建模工具包   [github](https://github.com/Popgun-Labs/PopGen)
 31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
 32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
+33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
 
 ### paddlepaddle
 
@@ -734,6 +736,7 @@
 25. 更轻量的中文OCR   [github](https://github.com/breezedeus/cnocr)
 26. 汉字字符特征提取工具，可以提取出字符中的字音（声母、韵母、声调）、字形（偏旁、部首）、四角编码等特征，同时可作为tensor输入到模型   [github](https://github.com/charlesXu86/char_featurizer)
 27. TextGenerator - OCR/文字检测/字体识别数据生成工具   [github](https://github.com/BboyHanat/TextGenerator)
+28. 《深度实践OCR：基于深度学习的文字识别》 随书代码   [github](https://github.com/ocrbook/ocrinaction)
 
 ### 去水印 inpaint
 
@@ -971,12 +974,13 @@
 4. PyRetri - 基于PyTorch的深度学习图像检索工具箱  [github](https://github.com/PyRetri/PyRetri)
 5. Annoy最近邻检索技术之 “图片检索”   [link](https://zhuanlan.zhihu.com/p/148819536) [github](https://github.com/spotify/annoy)
 
-### 排序
+### 推荐排序
 
  0. allRank 是一个用于训练基于PyTorch的学习排名神经模型的框架 [github](https://github.com/allegro/allRank)
   1. DeepTables: Deep-learning Toolkit for Tabular data [deeptables](https://github.com/DataCanvasIO/deeptables)
-   2. Milvus 是一款开源的特征向量相似度搜索引擎  [link](https://www.milvus.io/cn/)
-        3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
+    2. Milvus 是一款开源的特征向量相似度搜索引擎  
+    3. TOP N 推荐神器 Ranknet加速史（附Pytorch实现）   [github](https://zhuanlan.zhihu.com/p/148262580)
+    4. 超大规模推荐之用户兴趣高效检索赛道 冠军解决方案  [githubs](https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup)
 
 ****
 
@@ -1137,6 +1141,7 @@
 45. python 使用ssh隧道连接mysql   [link](https://blog.imdst.com/python-shi-yong-sshsui-dao-lian-jie-mysql/)
 46. Python实现Mysql数据库连接池   [link](https://www.jianshu.com/p/53262bb292e5)
 47. 据分析项目python的优化    [link](https://zhuanlan.zhihu.com/p/137104620)
+48. Eliot 日志系统 
 
 ### C/C++
 
