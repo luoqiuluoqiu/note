@@ -894,6 +894,7 @@
 40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
 41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
 42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
+43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
 
 ###  GCN图卷积网络
 
