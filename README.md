@@ -1,4 +1,5 @@
 # 算法
+
 0. 算法竞赛课件分享 [github](https://github.com/hzwer/shareOI)
 
 # 机器学习
@@ -22,8 +23,10 @@
 6. 用python 实现一个简单的深度学习框架 [github](https://github.com/Leezhen2014/python_deep_learning)
 7. 谷歌开源Neural Tangents：简单快速训练无限宽度神经网络  [github](https://github.com/google/neural-tangents)
 8. 可解释的机器学习--黑盒模型可解释性理解指南  [github](https://github.com/MingchaoZhu/InterpretableMLBook)
+9. [EssentialMath](https://github.com/yangyutu/EssentialMath)
 
 # 图像处理
+
 0. 颜色迁移 [知乎](https://zhuanlan.zhihu.com/p/93671079) [csdn C++ 版](https://blog.csdn.net/sin_geek/article/details/22325229)  [csdn系列](https://blog.csdn.net/lyh03601/category_9264059.html)
 1. facechanging 变脸  [github](https://github.com/opconty/facechanging)
 2. AI美颜系列  [CSDN](https://trent.blog.csdn.net/)
@@ -191,6 +194,7 @@
 6. 模型压缩总览 [link](https://www.jianshu.com/p/e73851f32c9f)
 7. PyTorch实现的深度模型压缩  基于pytorch实现模型压缩（1、量化：8/4/2 bits(dorefa)、三值/二值(twn/bnn/xnor-net)；2、剪枝：正常、规整、针对分组卷积结构的通道剪枝；3、分组卷积结构；4、针对特征A二值的BN融合） [github](https://github.com/666DZY666/model-compression)
 8. AIMET是一个为经过训练的神经网络模型提供高级量化和压缩技术的库   [github](https://github.com/quic/aimet)
+9. EasyQuant 后量化算法   [link](https://zhuanlan.zhihu.com/p/157214981)  [github](https://github.com/deepglint/EasyQuant)
 
 ### TCN
 
@@ -214,6 +218,7 @@
 5. ZazuML：面向实例检测的开源AutoML项目   [github](https://github.com/dataloop-ai/ZazuML)
 6. NeurIPS AutoDL Challenge 冠军方案   [githu](https://github.com/DeepWisdom/AutoDL)
 7. CodeSnippetSearch：Keras实现的神经网络代码搜索   [github](https://github.com/novoselrok/codesnippetsearch)
+8. Vega是诺亚方舟实验室自研的AutoML算法工具   [github](https://github.com/huawei-noah/vega/blob/master/README.cn.md)
 
 ###  激活函数
 
@@ -463,6 +468,7 @@
 32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
 33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
 34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
+35. eat_pytorch_in_20_days   [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
 ### paddlepaddle
 
@@ -534,6 +540,7 @@
 1. TSP-GNN 2019 [github](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
 2. attention-learn-to-route [github](https://github.com/wouterkool/attention-learn-to-route)
 3. 最新的细粒度图像分析资源  [link](https://zhuanlan.zhihu.com/p/73075939)
+4. Hopfield神经网络求解TSP等离散约束优化问题    [link](https://zhuanlan.zhihu.com/p/157917232)
 
 
 ### 小样本（one-shot learning）or 零样本（zero-shot learning）
@@ -738,6 +745,8 @@
 26. 汉字字符特征提取工具，可以提取出字符中的字音（声母、韵母、声调）、字形（偏旁、部首）、四角编码等特征，同时可作为tensor输入到模型   [github](https://github.com/charlesXu86/char_featurizer)
 27. TextGenerator - OCR/文字检测/字体识别数据生成工具   [github](https://github.com/BboyHanat/TextGenerator)
 28. 《深度实践OCR：基于深度学习的文字识别》 随书代码   [github](https://github.com/ocrbook/ocrinaction)
+29. Table-OCR   [github](https://github.com/Rid7/Table-OCR)
+30. 支持40+种语言和本地运行，这个OCR库轻松搞定光学字符识别    [github](https://github.com/JaidedAI/EasyOCR)
 
 ### 去水印 inpaint
 
@@ -991,6 +1000,7 @@
 1. [old-photo-restoration](https://github.com/dashar/old-photo-restoration)
 2. reproducible-image-denoising-state-of-the-art  [github](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 3. [IRCNN](https://github.com/cszn/IRCNN)
+4. Invertible-Image-Rescaling   可逆图像缩放：完美恢复降采样后的高清图片    [link](https://zhuanlan.zhihu.com/p/150340687) [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
 
 ### 虚拟换装
 
@@ -1084,7 +1094,9 @@
 
 1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
 
+图像卡通画
 
+1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
 
 ### 模型转换
 
@@ -1144,6 +1156,7 @@
 46. Python实现Mysql数据库连接池   [link](https://www.jianshu.com/p/53262bb292e5)
 47. 据分析项目python的优化    [link](https://zhuanlan.zhihu.com/p/137104620)
 48. Eliot 日志系统 
+49. python 轻JS逆向分析  [github](https://github.com/lateautumn4lin/Review_Reverse)
 
 ### C/C++
 
@@ -1154,6 +1167,7 @@
 5. OpenCV-MinGW [github](https://github.com/huihut/OpenCV-MinGW-Build/releases)
 6. 用汇编理解C++  [github](https://blog.csdn.net/wzn491574452/article/details/80036988)
 7. C++每周小技巧 [link](https://abseil.io/tips/1)
+8. Cpp-Httplib - 只有一个C++头文件的跨平台HTTP库   [github](https://github.com/yhirose/cpp-httplib)
 
 
 ### dlib
