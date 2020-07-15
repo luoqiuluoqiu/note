@@ -490,6 +490,7 @@
 1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
 2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
 3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
+4. TensorRT-7 Network Lib 包括常用目标检测、关键点检测、人脸检测、OCR等   [github](https://github.com/Syencil/tensorRT)
 
 ### [jittor ](https://cg.cs.tsinghua.edu.cn/jittor/) 清华AI框架
 
@@ -904,6 +905,7 @@
 41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
 42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
 43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
+44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
 
 ###  GCN图卷积网络
 
@@ -958,6 +960,7 @@
 3. Towards Real-Time Automatic Portrait Matting on Mobile Devices  [github](https://github.com/hyperconnect/MMNet)
 4. Human-Segmentation-PyTorch [github](https://github.com/thuyngch/Human-Segmentation-PyTorch)
 5. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
+6. 移动设备的实时人像分割   [github](https://github.com/anilsathyan7/Portrait-Segmentation)
 
 ### 人体部位解析-human parsing
 
@@ -1001,6 +1004,7 @@
 2. reproducible-image-denoising-state-of-the-art  [github](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 3. [IRCNN](https://github.com/cszn/IRCNN)
 4. Invertible-Image-Rescaling   可逆图像缩放：完美恢复降采样后的高清图片    [link](https://zhuanlan.zhihu.com/p/150340687) [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
+5. UNet实现文档印章消除   [github](https://github.com/jayzhxbx/UNet-Seal-Elimination)
 
 ### 虚拟换装
 
@@ -1019,6 +1023,7 @@
 
 1.  「异常检测101」：从模型选择到调参  [link](https://zhuanlan.zhihu.com/p/146811768)
 2.  pyod [github](https://github.com/yzhao062/pyod)
+3.  anomaly-detection-resources   [github](https://github.com/yzhao062/anomaly-detection-resources)
 
 ###  其他
 
