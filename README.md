@@ -101,6 +101,7 @@
 54. CNN Explainer - 通过交互式可视化学习卷积神经网络  [github](https://github.com/poloclub/cnn-explainer)
 55. 用于机器学习，深度学习和数学的交互式工具   [github](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 56. 深度学习模型在各大公司实际生产环境的应用讲解文章   [github](https://github.com/DA-southampton/Tech_Aarticle)
+57. 深入探讨深度学习模型性能与神经网络宽度之间关系   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247501074&idx=1&sn=4d650279d3e7e64fc9915e0fe9fa927a&chksm=ec1c28ebdb6ba1fd91a610ccfddfd2ea9f9c01c17df48749cc58d5149ec2e43a281f867d926d&mpshare=1&scene=1&srcid=0718jXDjMvzZKP0TJaycDtYM&sharer_sharetime=1595082263701&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa940dfcb60aaaccbdf0bbc8ec7eafbf5ee2fa6f143bda0abca02bb1a04160216c014693066d3f3cd0be0ef58305496d48df645a33ee47c02eaf0402cbde11ec302ee6d7feaa1b28c341&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcvfKfwQjBWynvXcj4vpyTU%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
 
 
@@ -249,6 +250,7 @@
 20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
 21. SCNet - PyTorch官方实现CVPR 2020论文“使用自校准卷积改进卷积网络”       [github](https://github.com/backseason/SCNet)
 22. SimCLR  对比学习得到一个好的视觉预训练模型 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489211&idx=1&sn=2c5c5940f56798dff154e0719fe28a5d&chksm=c0699ee6f71e17f0b23b47d10e36de79e2165dc2bceb0007e04c1e4613555f8a4aa7743a973c&mpshare=1&scene=1&srcid=&sharer_sharetime=1589933713312&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=595c9888292a8f2e21f6540c9c27b659cafe1646b6c14eb06c4c37e02a2d7067089777b574937cc5d56755cea086f93880a4160ae64a0940c8fa653b72835a02b01d03110d57f796968e51f0c588013e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AdtewTvWySWVq7A6EJX1DaM%3D&pass_ticket=AKxzAlU5OlkEEJTjSqMVzaue4iUym561ukJkUd2igHKb7%2BZJoCpR3oiAusszBzsp)
+23. 使用元学习来进行少样本图像分类   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489941&idx=1&sn=1a7f9718de7909e16e889581e3302508&chksm=c06991c8f71e18de27a63dc5c4e9064518a953588b5c6160bf5faa1161871f5f1b15a2349720&mpshare=1&scene=1&srcid=0718OgEDsi8nNLf4c0LrWZHy&sharer_sharetime=1595058213005&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f91d54032be0797121e292fc07ec3dcb38f35de4930fadfd250cf73a18afb14332622ddb52e1347419525094e12ec8c86124a8f740716c8027110c68d2e81f7cc3c7b18f6841d7c3d4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASaLsigx00Cl0hJN9L5%2FOeo%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
 ###  目标检测
 
@@ -274,6 +276,8 @@
 8. CenterNet 2019 [github](https://github.com/Duankaiwen/CenterNet) 
 9. PaperReadingGroup-10-CenterNet之理解 [link](https://zhuanlan.zhihu.com/p/80811439)
 10. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
+11. RepPoints V2  [github](https://github.com/Scalsol/RepPointsV2)  [link](https://mp.weixin.qq.com/s/qxa83jdB7i1yRlXbIGRPeQ)
+12. AdelaiDet    [github](https://github.com/aim-uofa/AdelaiDet)  [link](https://mp.weixin.qq.com/s/uNjs1MDZD9LY9qxO44vV9g)
 
 #### 基于分割
 
@@ -333,6 +337,7 @@
 46. Faster-Rcnn：Two-Stage目标检测模型在Pytorch当中的实现   [github](https://github.com/bubbliiiing/faster-rcnn-pytorch)
 47. Scale-equalizing Pyramid Convolution for object detection    [github](https://github.com/jshilong/SEPC) [link](https://zhuanlan.zhihu.com/p/141071173)
 48. End-to-End Object Detection with Transformers 2020  [github](https://github.com/facebookresearch/detr)
+49. yolov5  [github](https://github.com/ultralytics/yolov5)
 
 ###  语义分割
 
@@ -405,6 +410,7 @@
 2. Mask_RCNN_Pytorch [github](https://github.com/jytime/Mask_RCNN_Pytorch)
 3. The First Place Solution of iMaterialist (Fashion) 2019 [github](https://github.com/amirassov/kaggle-imaterialist)
 4. Pixellib 是一个图像分割库，支持语义分割和实例分割   [github](https://github.com/ayoolaolafenwa/PixelLib)
+5. [PolarMask](https://github.com/xieenze/PolarMask)
 
 ###  跟踪Tracking
 
@@ -469,6 +475,7 @@
 33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
 34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
 35. eat_pytorch_in_20_days   [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+36. FAIRScale：用于高性能和大规模训练的PyTorch工具   [github](https://github.com/facebookresearch/fairscale)
 
 ### paddlepaddle
 
@@ -529,6 +536,7 @@
 4. BASNet  2019 [github](https://github.com/NathanUA/BASNet)
 5. U-2-Net   2020  [github](https://github.com/NathanUA/U-2-Net)
 6. 用于显著性检测的边缘引导网络   [github](https://github.com/JXingZhao/EGNet/)
+7. SOD100K 仅有 100k [参数的高效显著性目标检测方法](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247522116&idx=1&sn=450bcc68831fd8a96c205a20bb069b68&chksm=96f0e510a1876c062e31c64147118341659705fa3a2d474036f3b9565379c96daf5161613b51&mpshare=1&scene=1&srcid=0720ZxFpj5BLti0MlbGC63vF&sharer_sharetime=1595203511465&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa94200666394c2e51fe3b54a664c3c70d99fed9035f87e96b09ff6341ef76ebe6cadba12248d746b055b9f5abca9eb36ac4bdec11076e95d970d2ad64c71a6512aeb38e1a85ba87c7cd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASYYh8HQSW0%2FuXumivUU6F0%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)  [github](https://github.com/MCG-NKU/SOD100K)
 
 细粒度识别
 
@@ -858,6 +866,7 @@
 3. Adversarial Attack介绍 [link](https://zhuanlan.zhihu.com/p/59634119)
 4. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 5. MTCNN可攻破？华为提出一种可复制、可靠的攻击方法 [link](https://flashgene.com/archives/71854.html)  [github](https://github.com/edosedgar/mtcnnattack)
+6. TrojanNet    [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650792902&idx=5&sn=f27e5e7238d5e516e231a20184d40cb9&chksm=871a27b8b06daeaeb6b59c70d465edc05544d9f2c2f58b11355aca32b2d4017f6e9d16b732d4&mpshare=1&scene=1&srcid=0718zBR4IVWa1STxwAc2pku6&sharer_sharetime=1595057242744&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f90454ea851b61b98e326d6311f77878a21febcf5cb403a546b9e334c6cec51446cf83fcfdeadae4b810dbac3e42b7343874b3e9d27f8b6b2152284c2150e8c9739cafcfab62c42229&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeZiA%2BisRhsIZIXC96bGPRM%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX) [github](https://github.com/trx14/TrojanNet)
 
 ### GAN 对抗神经网络
 
@@ -961,6 +970,8 @@
 4. Human-Segmentation-PyTorch [github](https://github.com/thuyngch/Human-Segmentation-PyTorch)
 5. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
 6. 移动设备的实时人像分割   [github](https://github.com/anilsathyan7/Portrait-Segmentation)
+7. 基于 U NET 网络实现的人像分割 | 附数据集   [link](https://bbs.cvmart.net/topics/2929?from=timeline)
+8. portrait-matting-unet-flask   [github](https://github.com/leijue222/portrait-matting-unet-flask)
 
 ### 人体部位解析-human parsing
 
@@ -1005,6 +1016,7 @@
 3. [IRCNN](https://github.com/cszn/IRCNN)
 4. Invertible-Image-Rescaling   可逆图像缩放：完美恢复降采样后的高清图片    [link](https://zhuanlan.zhihu.com/p/150340687) [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
 5. UNet实现文档印章消除   [github](https://github.com/jayzhxbx/UNet-Seal-Elimination)
+6. sample-imageinpainting-HiFill   [github](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 
 ### 虚拟换装
 
@@ -1098,6 +1110,12 @@
 ### 场景识别
 
 1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
+
+
+
+### 半监督学习
+
+1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
 图像卡通画
 
