@@ -278,12 +278,12 @@
 10. FoveaBox  2019 [link](https://zhuanlan.zhihu.com/p/63194705)
 11. RepPoints V2  [github](https://github.com/Scalsol/RepPointsV2)  [link](https://mp.weixin.qq.com/s/qxa83jdB7i1yRlXbIGRPeQ)
 12. AdelaiDet    [github](https://github.com/aim-uofa/AdelaiDet)  [link](https://mp.weixin.qq.com/s/uNjs1MDZD9LY9qxO44vV9g)
+13. [pytorch_simple_CenterNet_45](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45)
 
 #### 基于分割
 
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
 1. 写给小白的YOLO介绍  [link](https://zhuanlan.zhihu.com/p/94986199) 
-
 
 #### 基于候选框做目标检测
 
@@ -390,6 +390,7 @@
 34.  openseg.pytorch   [github](https://github.com/openseg-group/openseg.pytorch)
 35.  图像标签的单阶段语义分割   [github](https://github.com/visinf/1-stage-wseg)
 36.  基于网络模块化的语义分割框架   [github](https://github.com/walkingRoach/Semantic-segmentation-based-on-modularization)
+37.  使用Keras实现深度学习中的一些语义分割模型和各种损失函数 [github](https://github.com/BBuf/Keras-Semantic-Segmentation)
 
 #### 无监督分割
 
@@ -716,12 +717,13 @@
 5. 无人驾驶车道/路线检测   [github](https://github.com/littlemountainman/modeld)
 6. 超快的结构感知深度车道检测   [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
 
-### 车牌识别
+### 车牌识别  车辆识别
 
 0. LPRNet_Pytorch  [github](https://github.com/sirius-ai/LPRNet_Pytorch)  [link](https://www.52cv.net/?p=854)
 1. 使用Pytorch在MTCNN和LPRNet中进行的两步轻量级和强大的车牌识别  [link](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
 2. LPRNet - 基于Tensorflow，使用CNN和CTCloss实现轻量级车牌识别的轻型网络  [github](https://github.com/lyl8213/Plate_Recognition-LPRnet)
 3. 基于u-net，cv2以及cnn的中文车牌定位，矫正和端到端识别软件   [github](https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition)
+4. 车辆重识别算法PVEN代码   [github](https://github.com/silverbulletmdc/PVEN)
 
 ###  OCR
 
@@ -837,12 +839,17 @@
 
 28. Generating RGB photos from RAW image files with PyNET (PyTorch)   [github](https://github.com/aiff22/PyNET-PyTorch)
 
+29. ZSSR   [link](https://zhuanlan.zhihu.com/p/97371211)
+
     
 
-### 质量评估
+### 质量评估、图像增强
 
 0. 卷积网络图像质量评估 卷积神经网络可预测图像的美学和技术质量 [github](https://github.com/idealo/image-quality-assessment)
 1. FaceQnet: 基于深度学习的人脸识别质量评估  [github](https://github.com/uam-biometrics/FaceQnet)
+2. 基于深度学习的图像增强调研   [link](https://zhuanlan.zhihu.com/p/63218165) [link2](https://zhuanlan.zhihu.com/p/82352961)
+3. [hdrnet](https://github.com/google/hdrnet) [link](https://blog.csdn.net/CHNguoshiwushuang/article/details/81843826)
+4. 用深度学习让你的照片变得美丽[github](https://github.com/aiff22/DPED)   [link](https://www.leiphone.com/news/201901/nBxwUpobjesJ6FPV.html)
 
 ### 语音合成与识别
 
@@ -858,7 +865,7 @@
 9. 克隆语音Clone a voice in 5 seconds to generate arbitrary speech in real-time  [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 10. 使用PyTorch和CUDA进行E2E语音识别训练的实现用功能 [github](https://github.com/1ytic/pytorch-edit-distance)
 
-### Adversarial Attack
+### Adversarial Attack攻击
 
 0. 可迁移对抗样本攻击目标检测 [link](https://zhuanlan.zhihu.com/p/79356064)
 1. EYD与机器学习 [github](https://zhuanlan.zhihu.com/c_170476465)
@@ -867,6 +874,7 @@
 4. FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019  [github](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 5. MTCNN可攻破？华为提出一种可复制、可靠的攻击方法 [link](https://flashgene.com/archives/71854.html)  [github](https://github.com/edosedgar/mtcnnattack)
 6. TrojanNet    [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650792902&idx=5&sn=f27e5e7238d5e516e231a20184d40cb9&chksm=871a27b8b06daeaeb6b59c70d465edc05544d9f2c2f58b11355aca32b2d4017f6e9d16b732d4&mpshare=1&scene=1&srcid=0718zBR4IVWa1STxwAc2pku6&sharer_sharetime=1595057242744&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f90454ea851b61b98e326d6311f77878a21febcf5cb403a546b9e334c6cec51446cf83fcfdeadae4b810dbac3e42b7343874b3e9d27f8b6b2152284c2150e8c9739cafcfab62c42229&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeZiA%2BisRhsIZIXC96bGPRM%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX) [github](https://github.com/trx14/TrojanNet)
+7. 微软旷视人脸识别100%失灵！芝加哥大学新研究「隐身衣」，帮你保护照片隐私数据   [link](https://zhuanlan.zhihu.com/p/163137978) [github](https://github.com/Shawn-Shan/fawkes)
 
 ### GAN 对抗神经网络
 
@@ -915,6 +923,7 @@
 42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
 43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
 44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
+45.  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
 
 ###  GCN图卷积网络
 
@@ -1024,6 +1033,7 @@
 2.  Cool-Fashion-Papers [github](https://github.com/lzhbrian/Cool-Fashion-Papers)
 3. VITON_realtime    [github](https://github.com/amjltc295/VITON_realtime)
 4.  时尚服饰领域 MMFashion [github](https://github.com/open-mmlab/mmfashion) [dataGithub](https://github.com/open-mmlab/mmfashion/blob/master/docs/DATA_PREPARATION.md)
+5.  Semantically Multi-modal Image Synthesis  顶会语义多模态图像合成算法——GroupDNet速递   [github](https://github.com/Seanseattle/SMIS)
 
 ### 小样本
 
@@ -1086,6 +1096,7 @@
 44. 低光图像处理方案   [link](https://zhuanlan.zhihu.com/p/140926754)
 45. Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline     [github](https://github.com/alex04072000/SingleHDR)
 46. OpenSelfSup: Open-MMLab自监督表征学习代码库   [github](https://github.com/open-mmlab/OpenSelfSup)
+47. 智能缩放    [github](https://github.com/esimov/caire)
 
 ### 部署问题
 
@@ -1106,6 +1117,7 @@
 10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
 11. 分类回归损失函数汇总  [link](https://baijiahao.baidu.com/s?id=1603857666277651546&wfr=spider&for=pc)
 12. Learned Perceptual Image Patch Similarity (LPIPS) metric    [github](https://github.com/richzhang/PerceptualSimilarity)
+13. 超分损失函数小结   [link](https://www.cnblogs.com/jiangnanyanyuchen/p/11884912.html)
 
 ### 场景识别
 
@@ -1124,6 +1136,12 @@
 ### 模型转换
 
 1.  如何将其他框架训练模型导入到pytorch中   [link](https://zhuanlan.zhihu.com/p/75526928) [link2](https://zhuanlan.zhihu.com/p/75601879)
+
+### 滑块破解
+
+1.  verification_code   极验证等研究[github](https://github.com/huaiyukeji/verification_code)
+2.  Python破解BiliBili滑块验证码，完美避开人机识别   [link](https://zhuanlan.zhihu.com/p/146659845)
+3.  python模拟哔哩哔哩滑块登入验证的实现   [link](https://zhuanlan.zhihu.com/p/146655277)
 
 # 语言
 
@@ -1180,6 +1198,16 @@
 47. 据分析项目python的优化    [link](https://zhuanlan.zhihu.com/p/137104620)
 48. Eliot 日志系统 
 49. python 轻JS逆向分析  [github](https://github.com/lateautumn4lin/Review_Reverse)
+
+### selenium、[Pyppeteer](https://github.com/miyakogi/pyppeteer)
+
+1.  Pyppeteer 使用笔记  [link](https://www.cnblogs.com/zhang-zi-yi/p/10820813.html)
+2.  在Pyppeteer中正确隐藏window.navigator.webdriver  [link](https://juejin.im/post/5d58ab0d6fb9a06afd66027e)
+3.  如何正确移除Selenium中的 [window.navigator.webdriver](https://cloud.tencent.com/developer/article/1598082)   
+4.  Selenium执行cdp命令，driver.execute_cdp_cmd用法  [link](https://www.cnblogs.com/superhin/p/11481910.html)
+5.  Selenium反反爬-滑块验证  [link](https://blog.csdn.net/weixin_44500833/article/details/105263822)
+6.  阿里系纯滑块验证码破解思路   [link](https://blog.csdn.net/weixin_41733260/article/details/93160484)
+7.  chrome启动参数设置    [link](https://www.jianshu.com/p/c3b74d6470e5)
 
 ### C/C++
 
