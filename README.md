@@ -135,6 +135,8 @@
 ### 图像处理
 
 0. 图像处理初学者设计的 100 个问题 [github](https://github.com/gzr2017/ImageProcessing100Wen)
+1. 用Canvas给人脸化妆(画妆)  [github](https://github.com/DingProg/Makeup)
+2. CainCamera是一个集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP    [github](https://github.com/CainKernel/CainCamera)
 
 
 ### 度量学习 [参考百度](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning)
@@ -256,6 +258,7 @@
 
 0. 详解目标检测中边界框的回归策略  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=1&srcid=&sharer_sharetime=1567986189037&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=c2233ec816eaa9a223f3c567ce38eca92683762db0bc9e5425c4aaf0160e64e7198bda68544d610cfcd297b655611f06fc83e38e4feacb6416cd099481653b73512a33b038fdf9a8b838771d238ba8b2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62060844&lang=zh_CN&pass_ticket=WL7k8v7WWRRIoLd%2FvpHJaEY72Rlc2akPcO7ABfTzNZuQfIzVzr5XKwSLC4v2%2BcfX)
 1. 目标检测中的特征冲突与不对齐问题   [link](https://zhuanlan.zhihu.com/p/114700229)
+2. 小目标检测学习汇总   [link](https://zhuanlan.zhihu.com/p/163374916)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -279,6 +282,7 @@
 11. RepPoints V2  [github](https://github.com/Scalsol/RepPointsV2)  [link](https://mp.weixin.qq.com/s/qxa83jdB7i1yRlXbIGRPeQ)
 12. AdelaiDet    [github](https://github.com/aim-uofa/AdelaiDet)  [link](https://mp.weixin.qq.com/s/uNjs1MDZD9LY9qxO44vV9g)
 13. [pytorch_simple_CenterNet_45](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45)
+14. When Anchor-free Beyond the Object [Detection](https://zhuanlan.zhihu.com/p/163266388)   
 
 #### 基于分割
 
@@ -338,6 +342,9 @@
 47. Scale-equalizing Pyramid Convolution for object detection    [github](https://github.com/jshilong/SEPC) [link](https://zhuanlan.zhihu.com/p/141071173)
 48. End-to-End Object Detection with Transformers 2020  [github](https://github.com/facebookresearch/detr)
 49. yolov5  [github](https://github.com/ultralytics/yolov5)
+50. PP-YOLO   [link](https://zhuanlan.zhihu.com/p/163580627?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)   [github](https://github.com/PaddlePaddle/PaddleDetection)
+51. YOLOv3使用笔记——Kmeans聚类计算anchor boxes   [link](https://blog.csdn.net/maweifei/article/details/84777714)
+52. YOLO v4训练自己的数据集   [link](https://www.cnblogs.com/monologuesmw/p/13035442.html)
 
 ###  语义分割
 
@@ -391,6 +398,7 @@
 35.  图像标签的单阶段语义分割   [github](https://github.com/visinf/1-stage-wseg)
 36.  基于网络模块化的语义分割框架   [github](https://github.com/walkingRoach/Semantic-segmentation-based-on-modularization)
 37.  使用Keras实现深度学习中的一些语义分割模型和各种损失函数 [github](https://github.com/BBuf/Keras-Semantic-Segmentation)
+38.  Non-local U-Nets for Biomedical Image Seg    2020 [github](https://github.com/Whu-wxy/Non-local-U-Nets-2D-block) [link](https://zhuanlan.zhihu.com/p/163507824?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
 
 #### 无监督分割
 
@@ -427,6 +435,7 @@
 9. 目标跟踪初探（DeepSORT） [link](https://zhuanlan.zhihu.com/p/90835266)
 10. Siam R-CNN两级再检测器，用于视觉目标跟踪   [github](https://github.com/VisualComputingInstitute/SiamR-CNN)
 11. 于跟踪车辆的多目标跟踪, 自定义数据进行单类别多目标实时跟踪  [github](https://github.com/CaptainEven/FairMOTVehicle)
+12. 单阶段实时多类别多目标跟踪   [github](https://github.com/CaptainEven/MCMOT)
 
 ![image](https://pic1.zhimg.com/v2-ae13b51777180a8fa91627fbe306d09c_r.jpg)
 
@@ -539,11 +548,12 @@
 6. 用于显著性检测的边缘引导网络   [github](https://github.com/JXingZhao/EGNet/)
 7. SOD100K 仅有 100k [参数的高效显著性目标检测方法](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247522116&idx=1&sn=450bcc68831fd8a96c205a20bb069b68&chksm=96f0e510a1876c062e31c64147118341659705fa3a2d474036f3b9565379c96daf5161613b51&mpshare=1&scene=1&srcid=0720ZxFpj5BLti0MlbGC63vF&sharer_sharetime=1595203511465&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa94200666394c2e51fe3b54a664c3c70d99fed9035f87e96b09ff6341ef76ebe6cadba12248d746b055b9f5abca9eb36ac4bdec11076e95d970d2ad64c71a6512aeb38e1a85ba87c7cd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASYYh8HQSW0%2FuXumivUU6F0%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)  [github](https://github.com/MCG-NKU/SOD100K)
 
-细粒度识别
+### 细粒度识别
 
 0.  基于Pytorch的细粒度图像分类实战 BCNN [Link-code](https://zhuanlan.zhihu.com/p/77680825)
 1.  细粒度分类网络之WS-DAN论文阅读附代码 [link](https://zhuanlan.zhihu.com/p/73416902)
 2.  NTS-Net pytorch  2018 [github](https://github.com/yangze0930/NTS-Net)[link](https://zhuanlan.zhihu.com/p/62106844)
+3.  通过渐进式多粒度拼图训练进行细粒度视觉分类   [github](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training)
 
 ###  TSP or route
 
@@ -579,6 +589,10 @@
 14. 基于CV+NLP使用tf.Keras构建图像搜索引擎 [github](https://github.com/CVxTz/image_search_engine)
 15. 句子级别文本相似度计算(数据/模型/部署) [github](https://github.com/nghuyong/sentence-similarity-zoo)
 16. 机器翻译：统计建模与深度学习方法   [github](https://github.com/NiuTrans/MTBook)
+17. 总结梳理自然语言处理工程师(NLP)[需要积累的各方面知识](https://github.com/DA-southampton/NLP_ability)
+18. 快速理解句向量模型   [link](https://zhuanlan.zhihu.com/p/163851673)
+19. RNN人名分类器  [github](https://github.com/lcyNLP/NameClassifier)
+20. 用BILSTM+CRF做医疗实体识别，框架为pytorch[github](https://github.com/DengYangyong/medical_entity_recognize)
 
 ### 边缘检测算法
 
@@ -668,11 +682,13 @@
 5. FSGAN: Subject Agnostic Face Swapping and Reenactment（ICCV19） [github](https://github.com/YuvalNirkin/fsgan)
 6. Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks [github](https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks)
 7. FaceAging-by-cycleGAN   [github](https://github.com/jiechen2358/FaceAging-by-cycleGAN)
+8. Fast-AgingGAN   [github](https://github.com/HasnainRaz/Fast-AgingGAN)
 
 ### 年龄性别等
 
 1. SSR-Net_megaage-asian  亚洲年龄检测  [github ](https://github.com/b02901145/SSR-Net_megaage-asian)  SSR-Net   [github](https://github.com/shamangary/SSR-Net)
 2. age-gender-estimation   [github](https://github.com/yu4u/age-estimation-pytorch)
+3. DeepFaceLab   [github](https://github.com/iperov/DeepFaceLab)
 
 ###  人体姿态估计
 
@@ -716,6 +732,7 @@
 4. 百度Aistudio无人车车道线检测挑战赛/练习项目/Pytorch [github](https://github.com/Jinglever/baidu-lane-detection-2019)
 5. 无人驾驶车道/路线检测   [github](https://github.com/littlemountainman/modeld)
 6. 超快的结构感知深度车道检测   [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
+7. LaneNet学习及思考  [link](https://zhuanlan.zhihu.com/p/163638932)
 
 ### 车牌识别  车辆识别
 
@@ -841,6 +858,8 @@
 
 29. ZSSR   [link](https://zhuanlan.zhihu.com/p/97371211)
 
+30. 2020超分辨算法[CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN)
+
     
 
 ### 质量评估、图像增强
@@ -923,7 +942,7 @@
 42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
 43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
 44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
-45.  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
+45.  ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
 
 ###  GCN图卷积网络
 
@@ -1047,6 +1066,55 @@
 2.  pyod [github](https://github.com/yzhao062/pyod)
 3.  anomaly-detection-resources   [github](https://github.com/yzhao062/anomaly-detection-resources)
 
+### 部署问题
+
+​			0. 从阿里的User Interest Center看模型线上实时serving方法  [link](https://zhuanlan.zhihu.com/p/111929212)
+
+### 损失函数
+
+0. SSIM  图像质量等 [github]()
+1. dice  图像分割
+2. ssim和psnr是超分辩主流的评价指标
+3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
+4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
+5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
+6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
+7. TextDistance 一个开源库含有 30+ 种纯 Python 算法用于比较两个或多个序列之间的距离 [github](https://github.com/life4/textdistance)
+8. 在应用中使用度量学习的最简单方法，具有模块化、灵活和可扩展，采用PyTorch编写 [github](https://github.com/KevinMusgrave/pytorch-metric-learning)
+9. IQA-optimization  图像质量的损失函数   [github](https://github.com/dingkeyan93/IQA-optimization)
+10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
+11. 分类回归损失函数汇总  [link](https://baijiahao.baidu.com/s?id=1603857666277651546&wfr=spider&for=pc)
+12. Learned Perceptual Image Patch Similarity (LPIPS) metric    [github](https://github.com/richzhang/PerceptualSimilarity)
+13. 超分损失函数小结   [link](https://www.cnblogs.com/jiangnanyanyuchen/p/11884912.html)
+14. lpips 像素相似度
+15. DataGene - 识别数据集之间的相似度  [github](https://github.com/firmai/datagene)
+
+
+
+### 场景识别
+
+1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
+
+
+
+### 半监督学习
+
+1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
+
+图像卡通画
+
+1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
+
+### 模型转换
+
+1.  如何将其他框架训练模型导入到pytorch中   [link](https://zhuanlan.zhihu.com/p/75526928) [link2](https://zhuanlan.zhihu.com/p/75601879)
+
+### 滑块破解
+
+1.  verification_code   极验证等研究[github](https://github.com/huaiyukeji/verification_code)
+2.  Python破解BiliBili滑块验证码，完美避开人机识别   [link](https://zhuanlan.zhihu.com/p/146659845)
+3.  python模拟哔哩哔哩滑块登入验证的实现   [link](https://zhuanlan.zhihu.com/p/146655277)
+
 ###  其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
@@ -1082,9 +1150,9 @@
 30. 2019年“创青春·交子杯”唇语识别 [githu](https://github.com/liuzhejun/XWbank_LipReading)   [github2](https://github.com/TimeChi/Lip_Reading_Competition)
 31. 使用 Siamese Networks进行降纬 [github](https://github.com/beringresearch/ivis)
 32. Multi Model Server is a tool for serving neural net models for inference [github](https://github.com/awslabs/multi-model-server)
-33.  Automated deep learning algorithms implemented in PyTorch or Tensorflow.  [github](https://github.com/D-X-Y/AutoDL-Projects)
-34.  Gaze Tracking - 基于网络摄像头的眼睛跟踪系统，可以实时判断瞳孔的准确位置和注视方向  [github](https://github.com/antoinelame/GazeTracking)
-35.  基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
+33. Automated deep learning algorithms implemented in PyTorch or Tensorflow.  [github](https://github.com/D-X-Y/AutoDL-Projects)
+34. Gaze Tracking - 基于网络摄像头的眼睛跟踪系统，可以实时判断瞳孔的准确位置和注视方向  [github](https://github.com/antoinelame/GazeTracking)
+35. 基于卷积神经网络的恶意代码分类系统 [github](https://github.com/gmz9976/deep_learning_malware)  [link](https://blog.csdn.net/AcSuccess/article/details/86652522)
 36. 深度指纹识别：通过深度学习破坏网站指纹防御 [link](https://blog.csdn.net/AcSuccess/article/details/102991830)
 37. 头发分割和染色，含服务端和上传网页代码   [github](https://github.com/samggggflynn/U-Net_detect_and_recolor_hair)
 38. SynSin: 单个图像的端到端视图合成  [github](https://github.com/facebookresearch/synsin)
@@ -1097,53 +1165,18 @@
 45. Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline     [github](https://github.com/alex04072000/SingleHDR)
 46. OpenSelfSup: Open-MMLab自监督表征学习代码库   [github](https://github.com/open-mmlab/OpenSelfSup)
 47. 智能缩放    [github](https://github.com/esimov/caire)
+48. [GIMP-ML](https://github.com/kritiksoman/GIMP-ML)
+49. multi_gpu_infer 多gpu预测 multiprocessing or subprocessing   [github](https://github.com/wentixiaogege/multi_gpu_infer)
+50. 深度学习训练tricks整理   数据增强等技巧  [link](https://zhuanlan.zhihu.com/p/164873399)
+51. Pose项目之关键点检测扫描全能王      [link1](https://zhuanlan.zhihu.com/p/97873503)   [link2](https://zhuanlan.zhihu.com/p/100083638)
 
-### 部署问题
+# 语言工具
 
-​			0. 从阿里的User Interest Center看模型线上实时serving方法  [link](https://zhuanlan.zhihu.com/p/111929212)
+### VM
 
-### 损失函数
-
-0. SSIM  图像质量等 [github]()
-1. dice  图像分割
-2. ssim和psnr是超分辩主流的评价指标
-3. Kaggle图像分割比赛中的损失函数及keras实现 [link](https://zhuanlan.zhihu.com/p/80716099)
-4. 11个重要的机器学习模型评估指标 [link](https://www.toutiao.com/a6741925295424537095/)
-5. 人脸识别损失函数对比总结 [github](https://github.com/LrpljL/FR-Loss)
-6. pixel-wise loss perceptual loss(VGG内容loss) texture matching loss  adversarial loss  contextual similarity perceptual loss
-7. TextDistance 一个开源库含有 30+ 种纯 Python 算法用于比较两个或多个序列之间的距离 [github](https://github.com/life4/textdistance)
-8. 在应用中使用度量学习的最简单方法，具有模块化、灵活和可扩展，采用PyTorch编写 [github](https://github.com/KevinMusgrave/pytorch-metric-learning)
-9. IQA-optimization  图像质量的损失函数   [github](https://github.com/dingkeyan93/IQA-optimization)
-10. regression-losses-pytorch    [github](https://github.com/tuantle/regression-losses-pytorch)
-11. 分类回归损失函数汇总  [link](https://baijiahao.baidu.com/s?id=1603857666277651546&wfr=spider&for=pc)
-12. Learned Perceptual Image Patch Similarity (LPIPS) metric    [github](https://github.com/richzhang/PerceptualSimilarity)
-13. 超分损失函数小结   [link](https://www.cnblogs.com/jiangnanyanyuchen/p/11884912.html)
-
-### 场景识别
-
-1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
+1.  Windows设置VMware开机自动启动，虚拟机也启动    [link](https://blog.csdn.net/libinemail/article/details/55050306)
 
 
-
-### 半监督学习
-
-1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
-
-图像卡通画
-
-1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
-
-### 模型转换
-
-1.  如何将其他框架训练模型导入到pytorch中   [link](https://zhuanlan.zhihu.com/p/75526928) [link2](https://zhuanlan.zhihu.com/p/75601879)
-
-### 滑块破解
-
-1.  verification_code   极验证等研究[github](https://github.com/huaiyukeji/verification_code)
-2.  Python破解BiliBili滑块验证码，完美避开人机识别   [link](https://zhuanlan.zhihu.com/p/146659845)
-3.  python模拟哔哩哔哩滑块登入验证的实现   [link](https://zhuanlan.zhihu.com/p/146655277)
-
-# 语言
 
 ###  python
 
