@@ -198,6 +198,7 @@
 7. PyTorch实现的深度模型压缩  基于pytorch实现模型压缩（1、量化：8/4/2 bits(dorefa)、三值/二值(twn/bnn/xnor-net)；2、剪枝：正常、规整、针对分组卷积结构的通道剪枝；3、分组卷积结构；4、针对特征A二值的BN融合） [github](https://github.com/666DZY666/model-compression)
 8. AIMET是一个为经过训练的神经网络模型提供高级量化和压缩技术的库   [github](https://github.com/quic/aimet)
 9. EasyQuant 后量化算法   [link](https://zhuanlan.zhihu.com/p/157214981)  [github](https://github.com/deepglint/EasyQuant)
+10. Pytorch实现卷积神经网络训练量    [link](https://zhuanlan.zhihu.com/p/164901397)
 
 ### TCN
 
@@ -252,7 +253,8 @@
 20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
 21. SCNet - PyTorch官方实现CVPR 2020论文“使用自校准卷积改进卷积网络”       [github](https://github.com/backseason/SCNet)
 22. SimCLR  对比学习得到一个好的视觉预训练模型 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489211&idx=1&sn=2c5c5940f56798dff154e0719fe28a5d&chksm=c0699ee6f71e17f0b23b47d10e36de79e2165dc2bceb0007e04c1e4613555f8a4aa7743a973c&mpshare=1&scene=1&srcid=&sharer_sharetime=1589933713312&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=595c9888292a8f2e21f6540c9c27b659cafe1646b6c14eb06c4c37e02a2d7067089777b574937cc5d56755cea086f93880a4160ae64a0940c8fa653b72835a02b01d03110d57f796968e51f0c588013e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AdtewTvWySWVq7A6EJX1DaM%3D&pass_ticket=AKxzAlU5OlkEEJTjSqMVzaue4iUym561ukJkUd2igHKb7%2BZJoCpR3oiAusszBzsp)
-23. 使用元学习来进行少样本图像分类   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489941&idx=1&sn=1a7f9718de7909e16e889581e3302508&chksm=c06991c8f71e18de27a63dc5c4e9064518a953588b5c6160bf5faa1161871f5f1b15a2349720&mpshare=1&scene=1&srcid=0718OgEDsi8nNLf4c0LrWZHy&sharer_sharetime=1595058213005&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f91d54032be0797121e292fc07ec3dcb38f35de4930fadfd250cf73a18afb14332622ddb52e1347419525094e12ec8c86124a8f740716c8027110c68d2e81f7cc3c7b18f6841d7c3d4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASaLsigx00Cl0hJN9L5%2FOeo%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
+23. SimCLR框架的理解和代码实现以及代码讲解  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490155&idx=1&sn=5efdaaeeef4fc5316a9d94d2f2f78946&chksm=c0699236f71e1b20e066d116457394ab658243242f0e9c5ef89d8c2fac5b7fdff27a86c5d34c&scene=126&sessionid=1596422021&key=6664ac14267ba668c3a5ab8d13279f8afee0b865678dbc29dc2c29d759e65b6f1a8cc099bf059948d41c1bfc1079541b4be1cba6fdc144d8b8400b155ae6d5d7666397c50bc26dd7e3b7c54d3c499a28&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=Ac9yv02gG%2BNTldblfRRAPE8%3D&pass_ticket=b5VzcvFqWjEDeZ0HQG2hZtKRfL4vajEjWbUjYqCjykDTg%2FnwOxVEMifElhwJcUa%2B)
+24. 使用元学习来进行少样本图像分类   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489941&idx=1&sn=1a7f9718de7909e16e889581e3302508&chksm=c06991c8f71e18de27a63dc5c4e9064518a953588b5c6160bf5faa1161871f5f1b15a2349720&mpshare=1&scene=1&srcid=0718OgEDsi8nNLf4c0LrWZHy&sharer_sharetime=1595058213005&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f91d54032be0797121e292fc07ec3dcb38f35de4930fadfd250cf73a18afb14332622ddb52e1347419525094e12ec8c86124a8f740716c8027110c68d2e81f7cc3c7b18f6841d7c3d4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASaLsigx00Cl0hJN9L5%2FOeo%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
 ###  目标检测
 
@@ -943,6 +945,7 @@
 43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
 44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
 45.  ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
+46.  Deep Generative Prior：实现通用的图像复原与编辑 2020   [github](https://github.com/XingangPan/deep-generative-prior)
 
 ###  GCN图卷积网络
 
@@ -1070,6 +1073,10 @@
 
 ​			0. 从阿里的User Interest Center看模型线上实时serving方法  [link](https://zhuanlan.zhihu.com/p/111929212)
 
+### 优化函数
+
+1.  Gradient Centralization: 一行代码加速训练并提升准确率   [github](https://github.com/Yonghongwei/Gradient-Centralization)
+
 ### 损失函数
 
 0. SSIM  图像质量等 [github]()
@@ -1095,13 +1102,15 @@
 
 1.  场景识别之NetVLAD   [github](https://github.com/lyakaap/NetVLAD-pytorch)
 
+### 迁移学习
 
+1.  [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 
 ### 半监督学习
 
 1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
-图像卡通画
+### 图像卡通画
 
 1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
 
@@ -1115,7 +1124,11 @@
 2.  Python破解BiliBili滑块验证码，完美避开人机识别   [link](https://zhuanlan.zhihu.com/p/146659845)
 3.  python模拟哔哩哔哩滑块登入验证的实现   [link](https://zhuanlan.zhihu.com/p/146655277)
 
-###  其他
+### 验证码破解
+
+1.  用神经网络解决拼图游戏   [link](https://zhuanlan.zhihu.com/p/165444430)    [github](https://github.com/shivaverma/Jigsaw-Solver)
+
+### 其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
 1. 使用YOLOv3演示行人跟踪卡尔曼滤波器 [github](https://github.com/afunTW/pytorch-mot-tracking)
@@ -1238,7 +1251,7 @@
 2.  在Pyppeteer中正确隐藏window.navigator.webdriver  [link](https://juejin.im/post/5d58ab0d6fb9a06afd66027e)
 3.  如何正确移除Selenium中的 [window.navigator.webdriver](https://cloud.tencent.com/developer/article/1598082)   
 4.  Selenium执行cdp命令，driver.execute_cdp_cmd用法  [link](https://www.cnblogs.com/superhin/p/11481910.html)
-5.  Selenium反反爬-滑块验证  [link](https://blog.csdn.net/weixin_44500833/article/details/105263822)
+5.  Selenium反反爬-滑块验证2020-04  [link](https://blog.csdn.net/weixin_44500833/article/details/105263822)
 6.  阿里系纯滑块验证码破解思路   [link](https://blog.csdn.net/weixin_41733260/article/details/93160484)
 7.  chrome启动参数设置    [link](https://www.jianshu.com/p/c3b74d6470e5)
 
@@ -1277,6 +1290,7 @@
 ### 爬虫
 
 1. 拼多多商品信息爬虫  [github](https://github.com/Northxw/Pinduoduo)
+2. 还分不清 Cookie、Session、Token、JWT？   [link](https://zhuanlan.zhihu.com/p/164696755)
 
 ###  qt
 
