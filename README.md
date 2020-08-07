@@ -261,6 +261,7 @@
 0. 详解目标检测中边界框的回归策略  [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=1&srcid=&sharer_sharetime=1567986189037&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=c2233ec816eaa9a223f3c567ce38eca92683762db0bc9e5425c4aaf0160e64e7198bda68544d610cfcd297b655611f06fc83e38e4feacb6416cd099481653b73512a33b038fdf9a8b838771d238ba8b2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10&version=62060844&lang=zh_CN&pass_ticket=WL7k8v7WWRRIoLd%2FvpHJaEY72Rlc2akPcO7ABfTzNZuQfIzVzr5XKwSLC4v2%2BcfX)
 1. 目标检测中的特征冲突与不对齐问题   [link](https://zhuanlan.zhihu.com/p/114700229)
 2. 小目标检测学习汇总   [link](https://zhuanlan.zhihu.com/p/163374916)
+3. [groupsoftmax-simpledet](https://github.com/chengzhengxin/groupsoftmax-simpledet)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -488,6 +489,7 @@
 34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
 35. eat_pytorch_in_20_days   [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 36. FAIRScale：用于高性能和大规模训练的PyTorch工具   [github](https://github.com/facebookresearch/fairscale)
+37. PyTorch-Models   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
 
 ### paddlepaddle
 
@@ -647,6 +649,7 @@
 27. CPU推理速度100FPS的PyTorch人脸特征点定位 [github](https://github.com/cunjian/pytorch_face_landmark)
 28. 开源视频人脸跟踪算法,基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达250fps   [github](https://gitee.com/huiwei13/Ncnn_FaceTrack)
 29. yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）  [github](https://github.com/ouyanghuiyu/yolo-face-with-landmark)
+30. deep-sdm   106个特征点检测 [github](https://github.com/chengzhengxin/deep-sdm)
 
 ### 无人驾驶
 
@@ -1127,8 +1130,11 @@
 ### 验证码破解
 
 1.  用神经网络解决拼图游戏   [link](https://zhuanlan.zhihu.com/p/165444430)    [github](https://github.com/shivaverma/Jigsaw-Solver)
+2.  破解含语序问题的点击验证码   [link](https://runninggump.github.io/2018/11/19/%E7%A0%B4%E8%A7%A3%E5%90%AB%E8%AF%AD%E5%BA%8F%E9%97%AE%E9%A2%98%E7%9A%84%E7%82%B9%E5%87%BB%E9%AA%8C%E8%AF%81%E7%A0%81/)
+3.  旋转拖动验证码解决方案   [link](https://blog.csdn.net/Laozizuiku/article/details/106645583)   [blog](https://d4nst.github.io/2017/01/12/image-orientation/)
+4.  行为式验证码识别   [github](https://github.com/yujunjiex/behavior_captcha_cracker)
 
-### 其他
+### 其他 
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
 1. 使用YOLOv3演示行人跟踪卡尔曼滤波器 [github](https://github.com/afunTW/pytorch-mot-tracking)
@@ -1244,6 +1250,7 @@
 47. 据分析项目python的优化    [link](https://zhuanlan.zhihu.com/p/137104620)
 48. Eliot 日志系统 
 49. python 轻JS逆向分析  [github](https://github.com/lateautumn4lin/Review_Reverse)
+50. Python3 爬虫实战   [github](https://github.com/wkunzhi/Python3-Spider)
 
 ### selenium、[Pyppeteer](https://github.com/miyakogi/pyppeteer)
 
