@@ -10,6 +10,7 @@
 3. 一款基于SVM算法的智能法律助手-前端 [github](https://github.com/zhuchangwu/lawyer-lover-vue-frontend)
 4. 手写笔记visual-machine-learning-notes [github](https://github.com/visual-ml-notes/visual-machine-learning-notes)
 5. catboost   [github](https://github.com/catboost/catboost)
+6. 机器学习算法的公式推导以及numpy实现   [github](https://github.com/zhulei227/ML_Notes)
 
 ### 基础教程(github 仓库名称)
 
@@ -102,6 +103,7 @@
 55. 用于机器学习，深度学习和数学的交互式工具   [github](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 56. 深度学习模型在各大公司实际生产环境的应用讲解文章   [github](https://github.com/DA-southampton/Tech_Aarticle)
 57. 深入探讨深度学习模型性能与神经网络宽度之间关系   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247501074&idx=1&sn=4d650279d3e7e64fc9915e0fe9fa927a&chksm=ec1c28ebdb6ba1fd91a610ccfddfd2ea9f9c01c17df48749cc58d5149ec2e43a281f867d926d&mpshare=1&scene=1&srcid=0718jXDjMvzZKP0TJaycDtYM&sharer_sharetime=1595082263701&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa940dfcb60aaaccbdf0bbc8ec7eafbf5ee2fa6f143bda0abca02bb1a04160216c014693066d3f3cd0be0ef58305496d48df645a33ee47c02eaf0402cbde11ec302ee6d7feaa1b28c341&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcvfKfwQjBWynvXcj4vpyTU%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
+58. 卷积正则化方法之DropBlock   [link](https://blog.csdn.net/qq_14845119/article/details/85103503)   [github](https://github.com/miguelvr/dropblock)
 
 
 
@@ -286,6 +288,7 @@
 12. AdelaiDet    [github](https://github.com/aim-uofa/AdelaiDet)  [link](https://mp.weixin.qq.com/s/uNjs1MDZD9LY9qxO44vV9g)
 13. [pytorch_simple_CenterNet_45](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45)
 14. When Anchor-free Beyond the Object [Detection](https://zhuanlan.zhihu.com/p/163266388)   
+15. PPDet：减少Anchor-free目标检测中的标签噪声，小目标检测提升明显   2020  [github](https://github.com/nerminsamet/ppdet)
 
 #### 基于分割
 
@@ -348,6 +351,9 @@
 50. PP-YOLO   [link](https://zhuanlan.zhihu.com/p/163580627?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)   [github](https://github.com/PaddlePaddle/PaddleDetection)
 51. YOLOv3使用笔记——Kmeans聚类计算anchor boxes   [link](https://blog.csdn.net/maweifei/article/details/84777714)
 52. YOLO v4训练自己的数据集   [link](https://www.cnblogs.com/monologuesmw/p/13035442.html)
+53. 深入浅出Yolo系列之Yolov3&Yolov4&Yolov5核心基础知识完整讲解    [link](https://zhuanlan.zhihu.com/p/143747206)
+54. 深入浅出Yolo系列之Yolov5核心基础知识完整讲解   [link](https://zhuanlan.zhihu.com/p/172121380)
+55. You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery 卫星图片多尺寸物体检测   [link](https://zhuanlan.zhihu.com/p/37660424)  [github](https://github.com/CosmiQ/yolt)
 
 ###  语义分割
 
@@ -539,6 +545,8 @@
 7. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
 8. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
 9. FLAT - 人脸特征点标注工具 [github](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)
+10. 把Caffe的模型转换为Pytorch模型    [link](https://blog.csdn.net/DumpDoctorWang/article/details/88718079)
+11. 从.caffemodel/.caffemodel.h5提取Caffe模型的参数   [link](https://blog.csdn.net/DumpDoctorWang/article/details/88732919)
 
 # 业务模型 #
 
@@ -1349,7 +1357,8 @@
 
 1. Damn Vulnerable Web Application (DVWA)  [link](http://www.dvwa.co.uk/)   
 2. DVWA低级别通关指南 [link](https://zhuanlan.zhihu.com/p/62152766)
-3. 
+3. 逆向工具之unidbg（在pc端模拟执行so文件中的函数）    [github](https://github.com/zhkl0228/unidbg)
+4. 逆向工具之脱壳神器反射大师   [link](https://blog.csdn.net/qq_41855420/article/details/106276824)
 
 ### 其他
 
