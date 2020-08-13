@@ -1144,6 +1144,7 @@
 3.  旋转拖动验证码解决方案   [link](https://blog.csdn.net/Laozizuiku/article/details/106645583)   [blog](https://d4nst.github.io/2017/01/12/image-orientation/)
 4.  行为式验证码识别   [github](https://github.com/yujunjiex/behavior_captcha_cracker)
 5.  Jigsaw-Net   [github](https://github.com/anilsathyan7/Jigsaw-Net)
+6.  熊猫不定长验证码识别   [github](https://github.com/yuzhiyizhan/Bearcat_captcha)
 
 ### 其他
 
@@ -1262,6 +1263,7 @@
 48. Eliot 日志系统 
 49. python 轻JS逆向分析  [github](https://github.com/lateautumn4lin/Review_Reverse)
 50. Python3 爬虫实战   [github](https://github.com/wkunzhi/Python3-Spider)
+51. windows server中opencv运行过程中MF.dll/MFReadWrite.dll/MFPlat.DLL文件丢失问题解决   [link](https://blog.csdn.net/byxdaz/article/details/107718453)
 
 ### selenium、[Pyppeteer](https://github.com/miyakogi/pyppeteer)
 
@@ -1272,6 +1274,15 @@
 5.  Selenium反反爬-滑块验证2020-04  [link](https://blog.csdn.net/weixin_44500833/article/details/105263822)
 6.  阿里系纯滑块验证码破解思路   [link](https://blog.csdn.net/weixin_41733260/article/details/93160484)
 7.  chrome启动参数设置    [link](https://www.jianshu.com/p/c3b74d6470e5)
+8.  初识puppeteer识别无头模式方案  [link](https://www.shymean.com/article/%E5%88%9D%E8%AF%86puppeteer)  [link2](https://www.webhek.com/post/detecting-chrome-headless.html)
+9.  Puppeteer 中如何绕过无头浏览器检测   [link](https://yifei.me/note/849/)     [link2](https://blog.csdn.net/shayuchaor/article/details/103145810)   [link](https://www.evacoder.com/2019/02/14/js_check_spider/)   [link4](https://www.cnblogs.com/satng/p/12394763.html)
+10.  用来检测不同环境下的浏览器的windows属性的不同[browser-environment-test](https://github.com/jin10086/browser-environment-test)
+11.  JS逆向实战   [github](https://github.com/DingZaiHub/PythonSpider)
+12.  ob混淆一键还原工具   [github](https://github.com/DingZaiHub/ob-decrypt)
+13.  Js Ast二部曲：高完整度还原某V5的加密   [link](https://bbs.nightteam.cn/thread-417.htm)  [link2](https://bbs.nightteam.cn/thread-423.htm)
+14.  Linux虚拟屏幕Xvfb的介绍   [link](https://hyb.life/post/linux-xu-ni-ping-mu-xvfb-de-jie-shao/)
+15.  pyppeteer常用方法手册   [link](https://blog.zhangkunzhi.com/2019/05/13/pyppeteer%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%89%8B%E5%86%8C/index.html)
+16.  python pyppeteer使用笔记   [link](https://www.jianshu.com/p/ce53c3b5650c)
 
 ### C/C++
 
@@ -1308,7 +1319,14 @@
 ### 爬虫
 
 1. 拼多多商品信息爬虫  [github](https://github.com/Northxw/Pinduoduo)
+
 2. 还分不清 Cookie、Session、Token、JWT？   [link](https://zhuanlan.zhihu.com/p/164696755)
+
+3. Python3 爬虫实战  [github](https://github.com/wkunzhi/Python3-Spider)
+
+4. 新闻网站通用抽取器GNE v0.04版更新，支持提取正文图片与源代码  [github](https://github.com/kingname/GeneralNewsExtractor)
+
+    
 
 ###  qt
 
