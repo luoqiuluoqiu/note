@@ -789,6 +789,7 @@
 28. 《深度实践OCR：基于深度学习的文字识别》 随书代码   [github](https://github.com/ocrbook/ocrinaction)
 29. Table-OCR   [github](https://github.com/Rid7/Table-OCR)
 30. 支持40+种语言和本地运行，这个OCR库轻松搞定光学字符识别    [github](https://github.com/JaidedAI/EasyOCR)
+31. MaskTextSpotterV3端到端文本识别模型   [github](https://github.com/MhLiao/MaskTextSpotterV3)
 
 ### 去水印 inpaint
 
@@ -1203,11 +1204,15 @@
 
 # 语言工具
 
+
+
 ### VM
 
 1.  Windows设置VMware开机自动启动，虚拟机也启动    [link](https://blog.csdn.net/libinemail/article/details/55050306)
 
+### Docker
 
+1.  [Docker] 教你如何用Docker快速搭建深度学习环境   [link](https://www.cnblogs.com/bingmang/p/9813686.html)
 
 ###  python
 
@@ -1265,7 +1270,7 @@
 50. Python3 爬虫实战   [github](https://github.com/wkunzhi/Python3-Spider)
 51. windows server中opencv运行过程中MF.dll/MFReadWrite.dll/MFPlat.DLL文件丢失问题解决   [link](https://blog.csdn.net/byxdaz/article/details/107718453)
 
-### selenium、[Pyppeteer](https://github.com/miyakogi/pyppeteer)
+### selenium、puppeteer、[Pyppeteer](https://github.com/miyakogi/pyppeteer)、  [rod](https://github.com/go-rod/rod) 、WebExtensions API、chromedp、 devtools 
 
 1.  Pyppeteer 使用笔记  [link](https://www.cnblogs.com/zhang-zi-yi/p/10820813.html)
 2.  在Pyppeteer中正确隐藏window.navigator.webdriver  [link](https://juejin.im/post/5d58ab0d6fb9a06afd66027e)
@@ -1275,7 +1280,7 @@
 6.  阿里系纯滑块验证码破解思路   [link](https://blog.csdn.net/weixin_41733260/article/details/93160484)
 7.  chrome启动参数设置    [link](https://www.jianshu.com/p/c3b74d6470e5)
 8.  初识puppeteer识别无头模式方案  [link](https://www.shymean.com/article/%E5%88%9D%E8%AF%86puppeteer)  [link2](https://www.webhek.com/post/detecting-chrome-headless.html)
-9.  Puppeteer 中如何绕过无头浏览器检测   [link](https://yifei.me/note/849/)     [link2](https://blog.csdn.net/shayuchaor/article/details/103145810)   [link](https://www.evacoder.com/2019/02/14/js_check_spider/)   [link4](https://www.cnblogs.com/satng/p/12394763.html)
+9.  Puppeteer 中如何绕过无头浏览器检测   [link](https://yifei.me/note/849/)     [link2](https://blog.csdn.net/shayuchaor/article/details/103145810)   [link3](https://www.evacoder.com/2019/02/14/js_check_spider/)   [link4](https://www.cnblogs.com/satng/p/12394763.html)
 10.  用来检测不同环境下的浏览器的windows属性的不同[browser-environment-test](https://github.com/jin10086/browser-environment-test)
 11.  JS逆向实战   [github](https://github.com/DingZaiHub/PythonSpider)
 12.  ob混淆一键还原工具   [github](https://github.com/DingZaiHub/ob-decrypt)
@@ -1283,6 +1288,19 @@
 14.  Linux虚拟屏幕Xvfb的介绍   [link](https://hyb.life/post/linux-xu-ni-ping-mu-xvfb-de-jie-shao/)
 15.  pyppeteer常用方法手册   [link](https://blog.zhangkunzhi.com/2019/05/13/pyppeteer%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%89%8B%E5%86%8C/index.html)
 16.  python pyppeteer使用笔记   [link](https://www.jianshu.com/p/ce53c3b5650c)
+17.  设备指纹[fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2)    WebGL Browser Report [link](https://browserleaks.com/webgl)   canvas、webAudio以及webRTC[指纹](https://zhuanlan.zhihu.com/p/105229895)
+18.  [指纹、webdriver测试网站](https://bot.sannysoft.com/)
+19.  Chromium定制开发系列   [link](https://zhuanlan.zhihu.com/c_1187373697249308672)
+20.  Puppeteer[简要使用](https://www.cnblogs.com/dolphinx/p/7715268.html)
+21.  Selenium 自动化测试踩坑记    [link](https://blog.jiejiss.com/Selenium%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E8%B8%A9%E5%9D%91%E8%AE%B0/)
+22.  爬虫如何隐藏Headles-Chrome不被检测出来   [link](https://mlln.cn/2019/07/05/%E7%88%AC%E8%99%AB%E5%A6%82%E4%BD%95%E9%9A%90%E8%97%8FHeadles-Chrome%E4%B8%8D%E8%A2%AB%E6%A3%80%E6%B5%8B%E5%87%BA%E6%9D%A5/)
+23.  Puppeteer中文文档   [link](https://www.bookstack.cn/read/puppeteer-api-zh_CN/class-Browser.md#browsertargets)
+24.  Pyppeteer基本使用介绍 [link](http://47.96.158.73:8080/ds_blog/detail/?note_id=14)
+25.  SAVING IMAGES FROM A HEADLESS BROWSER   [link](https://intoli.com/blog/saving-images/)
+26.  自动化 Web 性能分析之 Puppeteer 爬虫实践  [link](https://mp.weixin.qq.com/s/tfC7SAJ2r2UclFUj4vE-tQ)
+27.  浏览器反-爬-测验   [link](https://www.yuque.com/plain99/puppeteer/fanpa)
+28.  fpscanner  [浏览器指纹](https://github.com/antoinevastel/fpscanner) [link2](https://www.jianshu.com/p/bc777d1d9c3b)
+29.  爬虫相关资源 [github](https://github.com/rockswang/awesome-java-crawler)
 
 ### C/C++
 
@@ -1413,3 +1431,4 @@
 27. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
 28. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
 29. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
+30. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
