@@ -162,7 +162,7 @@
 9. dabnn 二值网络 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 10. 神经网络量化简介 [github](https://zhuanlan.zhihu.com/p/64744154)
 
-### inference
+### inference  [embedded-ai.bench](https://github.com/AI-performance/embedded-ai.bench)
 
 0. The triNNity DNN toolkit (compiler, optimizer, and primitive library)  [home](https://www.scss.tcd.ie/~andersan/projects/live/triNNity.html) [link](https://bitbucket.org/%7Bbc87efde-34d1-4129-bde3-71280b6a3ba8%7D/)
 1. XNNPACK  手机浏览器端 [github](https://github.com/google/XNNPACK)
@@ -186,6 +186,7 @@
 19. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
 20. cortex [github](https://github.com/cortexlabs/cortex)
 21. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
+22. [Msnhnet](https://github.com/msnh2012/Msnhnet) 2020
 
 
 ### 蒸馏 剪枝  量化
@@ -201,6 +202,7 @@
 8. AIMET是一个为经过训练的神经网络模型提供高级量化和压缩技术的库   [github](https://github.com/quic/aimet)
 9. EasyQuant 后量化算法   [link](https://zhuanlan.zhihu.com/p/157214981)  [github](https://github.com/deepglint/EasyQuant)
 10. Pytorch实现卷积神经网络训练量    [link](https://zhuanlan.zhihu.com/p/164901397)
+11. NCNN量化详解（二）   [link](https://zhuanlan.zhihu.com/p/72375164)
 
 ### TCN
 
@@ -225,6 +227,7 @@
 6. NeurIPS AutoDL Challenge 冠军方案   [githu](https://github.com/DeepWisdom/AutoDL)
 7. CodeSnippetSearch：Keras实现的神经网络代码搜索   [github](https://github.com/novoselrok/codesnippetsearch)
 8. Vega是诺亚方舟实验室自研的AutoML算法工具   [github](https://github.com/huawei-noah/vega/blob/master/README.cn.md)
+9. 自动搜索损失函数   [link](https://zhuanlan.zhihu.com/p/180465704)
 
 ###  激活函数
 
@@ -354,6 +357,9 @@
 53. 深入浅出Yolo系列之Yolov3&Yolov4&Yolov5核心基础知识完整讲解    [link](https://zhuanlan.zhihu.com/p/143747206)
 54. 深入浅出Yolo系列之Yolov5核心基础知识完整讲解   [link](https://zhuanlan.zhihu.com/p/172121380)
 55. You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery 卫星图片多尺寸物体检测   [link](https://zhuanlan.zhihu.com/p/37660424)  [github](https://github.com/CosmiQ/yolt)
+56. 目标检测和感受野的总结和想法   [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247485052&idx=1&sn=5d751af1f063b4363220134a8401e680&chksm=9f80bceaa8f735fc978f70696ef339cc6efbd35484d72f2a5f372bbf063b1eb30f1fae630a46&mpshare=1&scene=1&srcid=0821YNUDaFWchz9qohisJ2GJ&sharer_sharetime=1598025213793&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=22b80e23da9776de22400591a1dfcd57c375b8a8e40b89c6b5a154bc5ae434e1549e1fd6472ed57a5e933306db8c4180a26199efb01cecb43eea69feba132bde71a5346dbf7bb2bceecdcc8d195081323b347d30c66301c10ab140755509d69249a861cb15df2b20d167e8ab61872e9f9ad26a23944809dc6c147a9368bd8e41&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AUc69a3aV31GAz57cqJY3bU%3D&pass_ticket=3uPSPxt%2FRFc1c2uGaB1RrU1DCvPMqIYvezmz%2FC4dqQmjgDqqL3urHmx1HjPXMzkk)
+57. 目标检测算法anchor聚类实现(coco+voc)
+58. 小目标检测学习  [link](https://zhuanlan.zhihu.com/p/163374916)
 
 ###  语义分割
 
@@ -497,6 +503,8 @@
 36. FAIRScale：用于高性能和大规模训练的PyTorch工具   [github](https://github.com/facebookresearch/fairscale)
 37. PyTorch-Models   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
 38. pytorch LSTM 01   [link](https://zhuanlan.zhihu.com/p/180435809)
+39. 9大主题卷积神经网络(CNN)的PyTorch实现   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
+40. [computervision-recipes](https://github.com/microsoft/computervision-recipes)
 
 ### paddlepaddle
 
@@ -606,6 +614,7 @@
 18. 快速理解句向量模型   [link](https://zhuanlan.zhihu.com/p/163851673)
 19. RNN人名分类器  [github](https://github.com/lcyNLP/NameClassifier)
 20. 用BILSTM+CRF做医疗实体识别，框架为pytorch[github](https://github.com/DengYangyong/medical_entity_recognize)
+21. [minGPT](https://github.com/karpathy/minGPT)
 
 ### 边缘检测算法
 
@@ -790,6 +799,7 @@
 29. Table-OCR   [github](https://github.com/Rid7/Table-OCR)
 30. 支持40+种语言和本地运行，这个OCR库轻松搞定光学字符识别    [github](https://github.com/JaidedAI/EasyOCR)
 31. MaskTextSpotterV3端到端文本识别模型   [github](https://github.com/MhLiao/MaskTextSpotterV3)
+32. [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 ### 去水印 inpaint
 
@@ -1201,6 +1211,8 @@
 49. multi_gpu_infer 多gpu预测 multiprocessing or subprocessing   [github](https://github.com/wentixiaogege/multi_gpu_infer)
 50. 深度学习训练tricks整理   数据增强等技巧  [link](https://zhuanlan.zhihu.com/p/164873399)
 51. Pose项目之关键点检测扫描全能王      [link1](https://zhuanlan.zhihu.com/p/97873503)   [link2](https://zhuanlan.zhihu.com/p/100083638)
+52. CASIA标注工具   [github](https://github.com/msnh2012/CasiaLabeler)
+53. 算法工程师技术路线图   [link](https://zhuanlan.zhihu.com/p/192633890?utm_source=wechatTimeline_article_bottom&from=timeline)
 
 # 语言工具
 
@@ -1270,7 +1282,7 @@
 50. Python3 爬虫实战   [github](https://github.com/wkunzhi/Python3-Spider)
 51. windows server中opencv运行过程中MF.dll/MFReadWrite.dll/MFPlat.DLL文件丢失问题解决   [link](https://blog.csdn.net/byxdaz/article/details/107718453)
 
-### selenium、puppeteer、[Pyppeteer](https://github.com/miyakogi/pyppeteer)、  [rod](https://github.com/go-rod/rod) 、WebExtensions API、chromedp、 devtools 
+### selenium、puppeteer、[Pyppeteer](https://github.com/miyakogi/pyppeteer)、  [rod](https://github.com/go-rod/rod) 、WebExtensions API、chromedp、 devtools [macacajs](https://macacajs.com/zh/)
 
 1.  Pyppeteer 使用笔记  [link](https://www.cnblogs.com/zhang-zi-yi/p/10820813.html)
 2.  在Pyppeteer中正确隐藏window.navigator.webdriver  [link](https://juejin.im/post/5d58ab0d6fb9a06afd66027e)
@@ -1301,6 +1313,8 @@
 27.  浏览器反-爬-测验   [link](https://www.yuque.com/plain99/puppeteer/fanpa)
 28.  fpscanner  [浏览器指纹](https://github.com/antoinevastel/fpscanner) [link2](https://www.jianshu.com/p/bc777d1d9c3b)
 29.  爬虫相关资源 [github](https://github.com/rockswang/awesome-java-crawler)
+30.  JS中的hook机制   [link](https://www.jianshu.com/p/518fec77d777)
+31.  [hook.js]通用Javascript函数钩子   [link](https://blog.knownsec.com/2013/02/hook-js%E9%80%9A%E7%94%A8javascript%E5%87%BD%E6%95%B0%E9%92%A9%E5%AD%90/)
 
 ### C/C++
 
