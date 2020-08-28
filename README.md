@@ -104,6 +104,8 @@
 56. 深度学习模型在各大公司实际生产环境的应用讲解文章   [github](https://github.com/DA-southampton/Tech_Aarticle)
 57. 深入探讨深度学习模型性能与神经网络宽度之间关系   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247501074&idx=1&sn=4d650279d3e7e64fc9915e0fe9fa927a&chksm=ec1c28ebdb6ba1fd91a610ccfddfd2ea9f9c01c17df48749cc58d5149ec2e43a281f867d926d&mpshare=1&scene=1&srcid=0718jXDjMvzZKP0TJaycDtYM&sharer_sharetime=1595082263701&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa940dfcb60aaaccbdf0bbc8ec7eafbf5ee2fa6f143bda0abca02bb1a04160216c014693066d3f3cd0be0ef58305496d48df645a33ee47c02eaf0402cbde11ec302ee6d7feaa1b28c341&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcvfKfwQjBWynvXcj4vpyTU%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 58. 卷积正则化方法之DropBlock   [link](https://blog.csdn.net/qq_14845119/article/details/85103503)   [github](https://github.com/miguelvr/dropblock)
+59. [卷积神经网络优化算法](https://jackwish.net/2019/convolution-neural-networks-optimization.html)  
+60. ARM_NEON_CNN编程   [link](https://blog.csdn.net/xiaoxiaowenqiang/article/details/89706562)
 
 
 
@@ -970,6 +972,7 @@
 44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
 45.  ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
 46.  Deep Generative Prior：实现通用的图像复原与编辑 2020   [github](https://github.com/XingangPan/deep-generative-prior)
+47. AI实时换脸项目   [github](https://github.com/alievk/avatarify)
 
 ###  GCN图卷积网络
 
@@ -1213,6 +1216,8 @@
 51. Pose项目之关键点检测扫描全能王      [link1](https://zhuanlan.zhihu.com/p/97873503)   [link2](https://zhuanlan.zhihu.com/p/100083638)
 52. CASIA标注工具   [github](https://github.com/msnh2012/CasiaLabeler)
 53. 算法工程师技术路线图   [link](https://zhuanlan.zhihu.com/p/192633890?utm_source=wechatTimeline_article_bottom&from=timeline)
+54. 5步用python让图片人物说话 [github](https://github.com/anandpawara/Real_Time_Image_Animation)
+55. [伪装物体检测论文](http://dpfan.net/wp-content/uploads/CVPR2020_COD_Chinese-v2.pdf) [SINet](https://github.com/DengPingFan/SINet)
 
 # 语言工具
 
@@ -1300,7 +1305,7 @@
 14.  Linux虚拟屏幕Xvfb的介绍   [link](https://hyb.life/post/linux-xu-ni-ping-mu-xvfb-de-jie-shao/)
 15.  pyppeteer常用方法手册   [link](https://blog.zhangkunzhi.com/2019/05/13/pyppeteer%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%89%8B%E5%86%8C/index.html)
 16.  python pyppeteer使用笔记   [link](https://www.jianshu.com/p/ce53c3b5650c)
-17.  设备指纹[fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2)    WebGL Browser Report [link](https://browserleaks.com/webgl)   canvas、webAudio以及webRTC[指纹](https://zhuanlan.zhihu.com/p/105229895)
+17.  设备指纹[fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2)    WebGL Browser Report [link](https://browserleaks.com/webgl)   canvas、webAudio以及webRTC[指纹](https://zhuanlan.zhihu.com/p/105229895)    [browserleaks指纹网站](https://browserleaks.com/)
 18.  [指纹、webdriver测试网站](https://bot.sannysoft.com/)
 19.  Chromium定制开发系列   [link](https://zhuanlan.zhihu.com/c_1187373697249308672)
 20.  Puppeteer[简要使用](https://www.cnblogs.com/dolphinx/p/7715268.html)
