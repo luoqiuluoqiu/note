@@ -269,6 +269,7 @@
 1. 目标检测中的特征冲突与不对齐问题   [link](https://zhuanlan.zhihu.com/p/114700229)
 2. 小目标检测学习汇总   [link](https://zhuanlan.zhihu.com/p/163374916)
 3. [groupsoftmax-simpledet](https://github.com/chengzhengxin/groupsoftmax-simpledet)
+4. 在物体检测中搞定小目标 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490703&idx=1&sn=0ae28ff4db870758218e88f14b528135&chksm=c06994d2f71e1dc48ca7bcef7a73b7d28d1a97c604ecdac066019e188b814ea66c59abd667f2&scene=126&sessionid=1599098417&key=82003248020682fac346fedf511017db33dc7a0a2c55fc33c7135872b7115d81e28ec356bed1119532666678392bb0c2aeb80d7240df3ff82ce1eba789f8445426b7bc2fcf45f42db52b018e8f1932dbbc4ce6c623766724abbec2d590e08b65ac77c8c4a857d1738493ab0a0b1f35bce0e0c7873ff95f9839030e2b088b2bd4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AeZcBTENjzy5xIRCwBoZSPg%3D&pass_ticket=zCggAbn4dHvdK7ALCMUVsUM07GifkruGo3dN%2F8G2t3FpDNMIs5CA2x8HOCvJY0Df&wx_header=0) 
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -617,6 +618,7 @@
 19. RNN人名分类器  [github](https://github.com/lcyNLP/NameClassifier)
 20. 用BILSTM+CRF做医疗实体识别，框架为pytorch[github](https://github.com/DengYangyong/medical_entity_recognize)
 21. [minGPT](https://github.com/karpathy/minGPT)
+22. [Unilm](https://github.com/YunwenTechnology/Unilm)
 
 ### 边缘检测算法
 
@@ -887,6 +889,8 @@
 
 30. 2020超分辨算法[CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN)
 
+31. 如何恢复降采样后的高清图片？可逆图像缩放搞定   [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
+
     
 
 ### 质量评估、图像增强
@@ -990,7 +994,7 @@
 4. PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks,  2019  [github](https://github.com/Megvii-Nanjing/ML_GCN)
 5. GPF（Graph Processing Flow）：利用图神经网络处理问题的一般化流程 [github](https://github.com/xchadesi/GPF)
 
-###  Matting    remove.bg   [paoerslink](https://paperswithcode.com/task/image-matting/latest)
+###  Matting    remove.bg   [paoerslink  ](https://paperswithcode.com/task/image-matting/latest)   [论文汇总](https://blog.csdn.net/yywxl/article/details/104378986)
 
 0. indexnet_matting  2019  pytorch  [github](https://github.com/poppinace/indexnet_matting)
 1. Semantic Soft Segmentation  [github](https://github.com/yaksoy/SemanticSoftSegmentation) [link讲解](https://zhuanlan.zhihu.com/p/63211300)  [github2](https://github.com/lebronyxm/SSS-semantic-soft-segmentation) [home](http://yaksoy.github.io/sss/)
@@ -1012,6 +1016,7 @@
 17. [FusionMatting](https://github.com/yunkezhang/FusionMatting)
 18. [3D-Photo-Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/﻿)﻿
 19. FBA_Matting    [github](https://github.com/MarcoForte/FBA_Matting)
+20. MMNet  [github](https://github.com/hyperconnect/MMNet)
 
 ### 行人检测
 
@@ -1218,6 +1223,7 @@
 53. 算法工程师技术路线图   [link](https://zhuanlan.zhihu.com/p/192633890?utm_source=wechatTimeline_article_bottom&from=timeline)
 54. 5步用python让图片人物说话 [github](https://github.com/anandpawara/Real_Time_Image_Animation)
 55. [伪装物体检测论文](http://dpfan.net/wp-content/uploads/CVPR2020_COD_Chinese-v2.pdf) [SINet](https://github.com/DengPingFan/SINet)
+56. 谷歌实时端到端双目系统深度学习网络StereoNet   [github](https://github.com/meteorshowers/StereoNet-ActiveStereoNet)
 
 # 语言工具
 
@@ -1421,33 +1427,35 @@
 ### 其他
 
 0. 操作系统是如何被加载的 [github](https://zhuanlan.zhihu.com/p/82357200)
-1. 京东vearch  [github](https://github.com/vearch/vearch)
-2. 阿里云天池大赛2019——肺部CT多病种智能诊断，参赛代码  [github](https://github.com/Henry-Mike/TianChi2019-lung-CT)
-3. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
-4. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
-5. 面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
-6. 适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
-7. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
-8. examples-of-web-crawlers python 爬虫的一些例子
-9. 头发分割项目  [github](pytorch-hair-segmentation)
-10. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)   [效果查看](https://easings.net/)
-11. 逆向 [link](http://www.520monkey.com/)
-12. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
-13. 坐标旋转变换公式的推导 [link](https://blog.csdn.net/roslei/article/details/72956020)
-14. 自动红眼移除算法 附c++完整代码   [link](https://www.cnblogs.com/cpuimage/p/9000203.html)
-15. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
-16. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
-17. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
-18. pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
-19. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
-20. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
-21. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
-22. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
-23. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
-24. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
-25. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
-26. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
-27. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
-28. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
-29. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
-30. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
+1. 各类计算机技术电子书 [github](https://github.com/iBreaker/book)
+2. 京东vearch  [github](https://github.com/vearch/vearch)
+3. 阿里云天池大赛2019——肺部CT多病种智能诊断，参赛代码  [github](https://github.com/Henry-Mike/TianChi2019-lung-CT)
+4. face-makeup.PyTorch [github](https://github.com/zllrunning/face-makeup.PyTorch)
+5. AI智能换脸 [github](https://github.com/qiucheng025/zao-)
+6. 面向深度学习研究者的概率分布基础教程  [github](https://github.com/graykode/distribution-is-all-you-need)
+7. 适合图像重建的归一化层:GDN [link](https://zhuanlan.zhihu.com/p/81193829)
+8. 从虚拟机架构到编译器实现  [link](https://zhuanlan.zhihu.com/p/72356928)
+9. examples-of-web-crawlers python 爬虫的一些例子
+10. 头发分割项目  [github](pytorch-hair-segmentation)
+11. 缓动函数速查表 [link](http://www.xuanfengge.com/easeing/easeing/)   [效果查看](https://easings.net/)
+12. 逆向 [link](http://www.520monkey.com/)
+13. flamingo 开源即时通讯软件  C++ [github](https://github.com/baloonwj/flamingo)
+14. 坐标旋转变换公式的推导 [link](https://blog.csdn.net/roslei/article/details/72956020)
+15. 自动红眼移除算法 附c++完整代码   [link](https://www.cnblogs.com/cpuimage/p/9000203.html)
+16. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
+17. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
+18. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
+19. pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
+20. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
+21. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
+22. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
+23. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
+24. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
+25. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
+26. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
+27. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+28. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
+29. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
+30. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
+31. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
+32. 
