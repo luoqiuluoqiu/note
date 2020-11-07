@@ -109,6 +109,9 @@
 58. 卷积正则化方法之DropBlock   [link](https://blog.csdn.net/qq_14845119/article/details/85103503)   [github](https://github.com/miguelvr/dropblock)
 59. [卷积神经网络优化算法](https://jackwish.net/2019/convolution-neural-networks-optimization.html)  
 60. ARM_NEON_CNN编程   [link](https://blog.csdn.net/xiaoxiaowenqiang/article/details/89706562)
+61. 浮点峰值那些事 [link](https://zhuanlan.zhihu.com/p/28226956)
+62. 深度学习中学习率和batchsize对模型准确率的影响 [link](https://zhuanlan.zhihu.com/p/277487038)
+63. 基于how-to-optimize-gemm初探矩阵乘法优化 [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247490755&idx=1&sn=469af40d932df5521c013e4853302db6&chksm=9f80a655a8f72f439812a92f3d907dffb5767b96f33ff582fa1d989ca99038b541370edc5641&scene=126&sessionid=1604654319&key=2d6daa67a3ab0438f8cb01da04f7f0f8b4da81464c2bb4df292d213aee16e84e51e1f92102ff4dac9d4f0f4496d265a15b2cced0d92d3d531bcd5d3bc2a648a822dd86b2338ccd5979799c7d859719879a47449c938666dd12e60a42e31736a4c559ed640eb08fdd580407356666f6a569d62a1ee9b3822466e9874ddeb4618d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ad%2B5n82JUX8%2B1962L%2BgcOa0%3D&pass_ticket=QJdySBfnlu4yL1E3kfe47154iLEOJfUopZKIN9s8lG9lohxPxJYEQ3Gk%2F7C9eK1y&wx_header=0)
 
 
 
@@ -468,6 +471,10 @@
 
 ## 深度学习框架
 
+### [MatrixSlow  纯python实现](https://github.com/zackchen/MatrixSlow)
+
+​	
+
 ### tensorflow
 
 1.  《30天吃掉那只 TensorFlow2.0 》开篇辞 [github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
@@ -681,6 +688,7 @@
 28. 开源视频人脸跟踪算法,基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达250fps   [github](https://gitee.com/huiwei13/Ncnn_FaceTrack)
 29. yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）  [github](https://github.com/ouyanghuiyu/yolo-face-with-landmark)
 30. deep-sdm   106个特征点检测 [github](https://github.com/chengzhengxin/deep-sdm)
+31. 轻量级人脸检测算法实现大盘点  [link](https://www.toutiao.com/a6889232009273541127/)
 
 ### 无人驾驶
 
@@ -990,6 +998,10 @@
 45.  ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
 46.  Deep Generative Prior：实现通用的图像复原与编辑 2020   [github](https://github.com/XingangPan/deep-generative-prior)
 47. AI实时换脸项目   [github](https://github.com/alievk/avatarify)
+48. DeepMosaics   通过深度学习自动的为图片/视频添加马赛克,或消除马赛克  [github](https://github.com/HypoX64/DeepMosaics/blob/master/README_CN.md)
+49. deepnude_official 去除衣服 [github](https://github.com/stacklikemind/deepnude_official)
+
+
 
 ###  GCN图卷积网络
 
@@ -1030,6 +1042,7 @@
 18. [3D-Photo-Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/﻿)﻿
 19. FBA_Matting    [github](https://github.com/MarcoForte/FBA_Matting)
 20. MMNet  [github](https://github.com/hyperconnect/MMNet)
+21. SkyAR   天空变换 [github](https://github.com/jiupinjia/SkyAR)
 
 ### 行人检测
 
@@ -1142,6 +1155,7 @@
 15. DataGene - 识别数据集之间的相似度  [github](https://github.com/firmai/datagene)
 16. Muti-Similarity Loss   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491561&idx=1&sn=edb45353551a271680c726eed5f29565&chksm=c06997b4f71e1ea2b873d3a3e16bf2ebd1a50dc85a01b6e4aa37d3a2dc915d6007306b6a2062&mpshare=1&scene=1&srcid=0926e3hX9rnWSDkqLoWv3Irv&sharer_sharetime=1601055161961&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6664ac14267ba66879a33a7492bb85d629979021fb3e5b515c27db5259d813ff1e1188a6bcbec22d8a7554b18c2f738f135eaa74de02001ba483c9cc9fea0b3710cfee3cc79d46f05523d3ac5e135ffe8b00283f9c04bea75e4dc8da64304c7bf23ab7b31fbc1323f27a00a5a66afcf856ae4aae173aa51ca279b4455c5a7e33&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AecB0hktB17g0u2pK3MgiqU%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)  [github](https://github.com/MalongTech/research-ms-loss/blob/master/ret_benchmark/losses/multi_similarity_loss.py)
 17. FAT：一种快速的Triplet Loss近似方法，学习更鲁棒的特征表示，并进行有噪声标签的提纯  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491063&idx=1&sn=e70528f5da61907e49b45d30bb082f3c&chksm=c06995aaf71e1cbc7051fc49d7cfd1697913e4f60a0024c5a25247c6d88d023bf4fdbfb2073e&mpshare=1&scene=1&srcid=0926fmEO7mmz92rYw34sEhzL&sharer_sharetime=1601056970328&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f96ef854426e3698a8f14754bd9bfb06759436bb00991ca4a311aa8a96c7b0686fa44679665d73a44405ac97dffb7ec42c09df86666596f10296ff4a4759e2c56342327289cc72a707807aebddf44bee276183c721d9c4669a802fffa3e90b96393d74dcd5b6bbbf6d8a5936107cdd496f510588fa7f5935dc&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AWLMU38A%2FZFS760N1n0FdqM%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)  [github](https://github.com/VITA-Group/FAT)
+18. 用于医学图像分割的损失函数  [link](https://zhuanlan.zhihu.com/p/267128903)
 
 
 
@@ -1311,6 +1325,8 @@
 49. python 轻JS逆向分析  [github](https://github.com/lateautumn4lin/Review_Reverse)
 50. Python3 爬虫实战   [github](https://github.com/wkunzhi/Python3-Spider)
 51. windows server中opencv运行过程中MF.dll/MFReadWrite.dll/MFPlat.DLL文件丢失问题解决   [link](https://blog.csdn.net/byxdaz/article/details/107718453)
+52.  muggle-ocr库 [link](https://pypi.org/project/muggle-ocr/)  [train](https://github.com/kerlomz/captcha_trainer)
+53. 利用Python实现内网穿透（可向公网映射内网应用程序）  [github](https://github.com/mgsky1/Venus)
 
 ### selenium、puppeteer、[Pyppeteer](https://github.com/miyakogi/pyppeteer)、  [rod](https://github.com/go-rod/rod) 、WebExtensions API、chromedp、 devtools [macacajs](https://macacajs.com/zh/)
 
