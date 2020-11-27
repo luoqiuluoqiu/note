@@ -939,6 +939,7 @@
 8. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
 9. 克隆语音Clone a voice in 5 seconds to generate arbitrary speech in real-time  [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 10. 使用PyTorch和CUDA进行E2E语音识别训练的实现用功能 [github](https://github.com/1ytic/pytorch-edit-distance)
+11. [piano_transcription](https://github.com/bytedance/piano_transcription)
 
 ### Adversarial Attack攻击
 
