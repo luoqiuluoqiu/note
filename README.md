@@ -13,7 +13,7 @@
 6. 机器学习算法的公式推导以及numpy实现   [github](https://github.com/zhulei227/ML_Notes)
 7. 发布研究论文代码的小技巧   [github](https://github.com/datawhalechina/releasing-research-code)
 8. 人工智能术语  [link](https://zhuanlan.zhihu.com/p/185034734)  [机器学习课程术语表](https://www.aminer.cn/ml_taxonomy)  
-9. 
+9. 再探矩阵乘法优化   [link](https://zhuanlan.zhihu.com/p/326999014)
 
 ### 基础教程(github 仓库名称)
 
@@ -112,6 +112,7 @@
 61. 浮点峰值那些事 [link](https://zhuanlan.zhihu.com/p/28226956)
 62. 深度学习中学习率和batchsize对模型准确率的影响 [link](https://zhuanlan.zhihu.com/p/277487038)
 63. 基于how-to-optimize-gemm初探矩阵乘法优化 [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247490755&idx=1&sn=469af40d932df5521c013e4853302db6&chksm=9f80a655a8f72f439812a92f3d907dffb5767b96f33ff582fa1d989ca99038b541370edc5641&scene=126&sessionid=1604654319&key=2d6daa67a3ab0438f8cb01da04f7f0f8b4da81464c2bb4df292d213aee16e84e51e1f92102ff4dac9d4f0f4496d265a15b2cced0d92d3d531bcd5d3bc2a648a822dd86b2338ccd5979799c7d859719879a47449c938666dd12e60a42e31736a4c559ed640eb08fdd580407356666f6a569d62a1ee9b3822466e9874ddeb4618d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ad%2B5n82JUX8%2B1962L%2BgcOa0%3D&pass_ticket=QJdySBfnlu4yL1E3kfe47154iLEOJfUopZKIN9s8lG9lohxPxJYEQ3Gk%2F7C9eK1y&wx_header=0)
+64. 深度学习CV领域最瞩目的成果top46   [link](https://zhuanlan.zhihu.com/p/315605746)
 
 
 
@@ -281,6 +282,7 @@
 2. 小目标检测学习汇总   [link](https://zhuanlan.zhihu.com/p/163374916)
 3. [groupsoftmax-simpledet](https://github.com/chengzhengxin/groupsoftmax-simpledet)
 4. 在物体检测中搞定小目标 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490703&idx=1&sn=0ae28ff4db870758218e88f14b528135&chksm=c06994d2f71e1dc48ca7bcef7a73b7d28d1a97c604ecdac066019e188b814ea66c59abd667f2&scene=126&sessionid=1599098417&key=82003248020682fac346fedf511017db33dc7a0a2c55fc33c7135872b7115d81e28ec356bed1119532666678392bb0c2aeb80d7240df3ff82ce1eba789f8445426b7bc2fcf45f42db52b018e8f1932dbbc4ce6c623766724abbec2d590e08b65ac77c8c4a857d1738493ab0a0b1f35bce0e0c7873ff95f9839030e2b088b2bd4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AeZcBTENjzy5xIRCwBoZSPg%3D&pass_ticket=zCggAbn4dHvdK7ALCMUVsUM07GifkruGo3dN%2F8G2t3FpDNMIs5CA2x8HOCvJY0Df&wx_header=0) 
+5. [vedadet检测框架](https://github.com/Media-Smart/vedadet)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -306,6 +308,7 @@
 13. [pytorch_simple_CenterNet_45](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45)
 14. When Anchor-free Beyond the Object [Detection](https://zhuanlan.zhihu.com/p/163266388)   
 15. PPDet：减少Anchor-free目标检测中的标签噪声，小目标检测提升明显   2020  [github](https://github.com/nerminsamet/ppdet)
+16. 轻量级Anchor-Free目标检测模型NanoDet   [github](https://github.com/RangiLyu/nanodet)
 
 #### 基于分割
 
@@ -377,6 +380,8 @@
 59. BBAVectors：一种Anchor Free的旋转物体检测方法  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491190&idx=1&sn=54561c3a50708d8457286edfd46a52d6&chksm=c069962bf71e1f3d57c96f4c31f34bf7ac560042a888ddd27096c3de02ffa14b1b998fc150de&mpshare=1&scene=1&srcid=0926ux9pg33Q2hKSo8JRHQdh&sharer_sharetime=1601056108217&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=22b80e23da9776def258826c225197925e85d1a9df562c631011b6201dba7a37bca8c9e2f7937ea8deb7f86ec58e7e3264827314aa162fb46005a7543345283990013e2e07cab1cb3e46bd718efd6308b1fa272c376e87a74e3e961ac0023fd4849af0ec73ea06abc4d796ddd740a4194b1c93737ee03a2806c6c215424b3174&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=Aa63ef%2FocuQVXKD%2FVEApQyk%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)
 60. Repulsion Loss 遮挡场景下的目标检测  [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247489738&idx=1&sn=a154f0d376cb91b3cc541cc6a9d9996e&chksm=9f80a25ca8f72b4acad59b509a0946f75accd5883957d7ce4c1818a303939c490fa3659a8f84&mpshare=1&scene=1&srcid=0926BIULbEZFBfVEI1tFbabM&sharer_sharetime=1601056513782&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa94104f1b32c9eafcb2866b521bee775c45b0a2c1d24d4654705ee73f7c0ae444606704100f46909d0446097e843ed694ea319ef2a06da12af48d145cfa6398237c0556f2acf427f000fca7c3d78c63391253a5a95919d00fc4a7f04425dd5657f3f23281c5ee4870d9fb8859e97fca5ae7a39d81a0c81b8efb&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AeVFSCQlYII%2BPEj3ody22bs%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)
 61. mmdetection-mini [github](https://github.com/hhaAndroid/mmdetection-mini)
+62. 1.8M超轻量目标检测模型NanoDet   [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803202&idx=1&sn=88808777f264a251a7953ad794a88a1c&chksm=84e5c87cb392416aabc80b1719a7b4372211785253d6d266bfee89e400a8fc5e6d2ebe64761e&mpshare=1&scene=1&srcid=1125UGyNyNs5s7wBUbavUXMx&sharer_sharetime=1606313233032&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f639d60a8bb3341a5d49a07799bc75178075d038790b7a4f501c70946035609396143f0ce7e8e18a8012761c3f690c68e78ece59936a36e73c1acd56f60e61e17d5317a1238565d9c68dd47cf18d524907b846d795f34837e2aef99252885170bdf2da1fce462ef71132b82b5d0fa42d98b23cae69f59f77beb&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AU2LTvATfR6W6m17x3euPmg%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
+63. 旋转目标新网络   [link](https://zhuanlan.zhihu.com/p/333632365) [github](https://github.com/yangxue0827/RotationDetection)
 
 ###  语义分割
 
@@ -431,6 +436,7 @@
 36.  基于网络模块化的语义分割框架   [github](https://github.com/walkingRoach/Semantic-segmentation-based-on-modularization)
 37.  使用Keras实现深度学习中的一些语义分割模型和各种损失函数 [github](https://github.com/BBuf/Keras-Semantic-Segmentation)
 38.  Non-local U-Nets for Biomedical Image Seg    2020 [github](https://github.com/Whu-wxy/Non-local-U-Nets-2D-block) [link](https://zhuanlan.zhihu.com/p/163507824?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
+39.  图像分割涨点技巧！从39个Kaggle竞赛中总结出的分割Tips和Tricks  [link](https://zhuanlan.zhihu.com/p/330994781)
 
 #### 无监督分割
 
@@ -561,6 +567,14 @@
 ### mindspore  华为AI框架
 
 1. [mindspore](https://github.com/mindspore-ai/mindspore)			
+
+### tinygrad
+
+1.  ​	最小深度学习框架tinygrad [github](https://github.com/geohot/tinygrad)
+
+
+
+
 
 ​	
 
@@ -829,6 +843,7 @@
 34. PP-OCR   [link](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247485528&idx=1&sn=b0aaffcfbc2338365ad97225ee88d267&chksm=fad1270ecda6ae18f72b896d099f6c530397528156193f07a9c9d2460701089868179978ab1e&mpshare=1&scene=1&srcid=0925InpIQnWSt2vaS0ONSSL9&sharer_sharetime=1601051956942&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f9d6dc6d836979792019217b866e78780ccbad9b053392c6e73410461f3b8b263b7f00ab2f054ed45e4b7a5bb2c5dc363f2db315e9df5bdc7d20f78846dc2348085a6aea9e719b9f89395e21252cbbc02642775a2fd455516291a95128241a47209830bc796143d05db4704960e872f08a37bba289dc93f76e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AYDtfufpsa%2BDD0gjdERlmy4%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0) [github](https://github.com/PaddlePaddle/PaddleOCR)   [link](https://zhuanlan.zhihu.com/p/258780457)
 35. 手写及场景文字分析与识别的一些新尝试  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247533797&idx=2&sn=b8dfbea21417b0fd1366f3fa82871968&chksm=96f036b1a187bfa76190f70c8e506636908cea7274bfb2d0ac0115db54b7c223b0811cc92534&mpshare=1&scene=1&srcid=092664UK551xlEreaLZTNYej&sharer_sharetime=1601055380195&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6664ac14267ba668ac2bb1e85768c75688a4751126f99263db645ecb9ea360fbc9d6b515ee4747d40264165209e8b027af4762dcee5b46c07d7db272d45bbf73fe5df1653bc6e0bf6e6065aa55e229d26d1b3f3845b83de8fd638deea895296394a4720b50c964fc0c517bd30bb86c966d6c896ddd1ae4e2b2e900157353ffed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AWz5%2F9PjKRc3A7qx3%2Bu%2F8PA%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)
 36. Mask TextSpotter v3 来了！最强端到端文本识别模型  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491157&idx=2&sn=45226c1e7b0944ed7d166fa37b7c0a0f&chksm=c0699608f71e1f1e37e27facf0b9e3788e493e2284ecd18103645ba62af1bb2ff1ce7d487d03&mpshare=1&scene=1&srcid=0926qxtOkwZSAwkdhofp7J3I&sharer_sharetime=1601056281756&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82003248020682fad5e497f9efeac14580d2625575005f45ada242e4843ef7eabe775f999eb776df6a6c54d15f50fea08ce3b09ad80ec4360ac0c1b8e1015796d832439b9dedafa57168c06534ac24bc2b2d1ab10d6f5b54fb494c87f1a54870f0c7fd1cb8de8168dea6de151294b011822e39d604333667b841f9ac2b689173&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AVTrsfEieZHifvIBe%2BjM%2FUM%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)  [github](https://github.com/MhLiao/MaskTextSpotterV3)
+37. PyTorch OCR模型的安卓端部署  [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247491166&idx=1&sn=b0343af8d5219fadd2a81c96434d1c66&chksm=9f80a4c8a8f72dde20ef43b39e7603997f4a59fe4a7d00d99b2f53a946f55515f1ab7a0ae941&mpshare=1&scene=1&srcid=1126VEr84H5mIg9jqgM1ECFa&sharer_sharetime=1606389727387&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d0a126c05628dbdde21e9f5c4f9a1d1a1945ee967c8dd667f5c9d7c11fb38e1f0accdb4f955249ed52d328f358ffd1784b624303cc9ec360358ac531b40085b2783df3ddd544bb404d8a271096ac4ce52339951a6e563a0d40343135d41c72375ba2e64dbf74d186e15827c0e096d2b1c206a15e97e1be50d4e1e40ae2aa31e7&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AVv3QPZEfk87%2BIY92poJTBk%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
 
 ### 去水印 inpaint
 
@@ -1005,6 +1020,7 @@
 47. AI实时换脸项目   [github](https://github.com/alievk/avatarify)
 48. DeepMosaics   通过深度学习自动的为图片/视频添加马赛克,或消除马赛克  [github](https://github.com/HypoX64/DeepMosaics/blob/master/README_CN.md)
 49. deepnude_official 去除衣服 [github](https://github.com/stacklikemind/deepnude_official)
+50. 肖像画  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803122&idx=1&sn=6a06d9e5b1d49a4a107328eb23c1ba95&chksm=84e5cfccb39246daac2759406b86550449d2620e68e5070023a44d129f1c7b11420e9453b81e&mpshare=1&scene=1&srcid=11258uyMnZKfD6pu31HdgSYr&sharer_sharetime=1606313448761&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f63f02c774b21274a2c2bdd11ae9ef2d20259f64c93dc61131822b52eb64744e6545deedcc552e1b5540d6f228ff88810ccab318534dead2f691eb686a47535115f8baae029b3f25d1216bfe152d02a6691ef4762f753dffb7381df4a3a236eff0540a11f22ecdf7d64bc40762d01c8d6adf7483c11b954f37f&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AXqbIGjjT2wbKp9h1lpM%2FbE%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
 
 
 
