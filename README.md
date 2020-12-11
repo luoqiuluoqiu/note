@@ -113,6 +113,7 @@
 62. 深度学习中学习率和batchsize对模型准确率的影响 [link](https://zhuanlan.zhihu.com/p/277487038)
 63. 基于how-to-optimize-gemm初探矩阵乘法优化 [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247490755&idx=1&sn=469af40d932df5521c013e4853302db6&chksm=9f80a655a8f72f439812a92f3d907dffb5767b96f33ff582fa1d989ca99038b541370edc5641&scene=126&sessionid=1604654319&key=2d6daa67a3ab0438f8cb01da04f7f0f8b4da81464c2bb4df292d213aee16e84e51e1f92102ff4dac9d4f0f4496d265a15b2cced0d92d3d531bcd5d3bc2a648a822dd86b2338ccd5979799c7d859719879a47449c938666dd12e60a42e31736a4c559ed640eb08fdd580407356666f6a569d62a1ee9b3822466e9874ddeb4618d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ad%2B5n82JUX8%2B1962L%2BgcOa0%3D&pass_ticket=QJdySBfnlu4yL1E3kfe47154iLEOJfUopZKIN9s8lG9lohxPxJYEQ3Gk%2F7C9eK1y&wx_header=0)
 64. 深度学习CV领域最瞩目的成果top46   [link](https://zhuanlan.zhihu.com/p/315605746)
+65. 怎样写一个深度淆习框架  [link](https://zhuanlan.zhihu.com/p/130749258)
 
 
 
@@ -309,6 +310,7 @@
 14. When Anchor-free Beyond the Object [Detection](https://zhuanlan.zhihu.com/p/163266388)   
 15. PPDet：减少Anchor-free目标检测中的标签噪声，小目标检测提升明显   2020  [github](https://github.com/nerminsamet/ppdet)
 16. 轻量级Anchor-Free目标检测模型NanoDet   [github](https://github.com/RangiLyu/nanodet)
+17. centerX [github](https://github.com/CPFLAME/centerX/)
 
 #### 基于分割
 
@@ -844,6 +846,8 @@
 35. 手写及场景文字分析与识别的一些新尝试  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247533797&idx=2&sn=b8dfbea21417b0fd1366f3fa82871968&chksm=96f036b1a187bfa76190f70c8e506636908cea7274bfb2d0ac0115db54b7c223b0811cc92534&mpshare=1&scene=1&srcid=092664UK551xlEreaLZTNYej&sharer_sharetime=1601055380195&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6664ac14267ba668ac2bb1e85768c75688a4751126f99263db645ecb9ea360fbc9d6b515ee4747d40264165209e8b027af4762dcee5b46c07d7db272d45bbf73fe5df1653bc6e0bf6e6065aa55e229d26d1b3f3845b83de8fd638deea895296394a4720b50c964fc0c517bd30bb86c966d6c896ddd1ae4e2b2e900157353ffed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AWz5%2F9PjKRc3A7qx3%2Bu%2F8PA%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)
 36. Mask TextSpotter v3 来了！最强端到端文本识别模型  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491157&idx=2&sn=45226c1e7b0944ed7d166fa37b7c0a0f&chksm=c0699608f71e1f1e37e27facf0b9e3788e493e2284ecd18103645ba62af1bb2ff1ce7d487d03&mpshare=1&scene=1&srcid=0926qxtOkwZSAwkdhofp7J3I&sharer_sharetime=1601056281756&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82003248020682fad5e497f9efeac14580d2625575005f45ada242e4843ef7eabe775f999eb776df6a6c54d15f50fea08ce3b09ad80ec4360ac0c1b8e1015796d832439b9dedafa57168c06534ac24bc2b2d1ab10d6f5b54fb494c87f1a54870f0c7fd1cb8de8168dea6de151294b011822e39d604333667b841f9ac2b689173&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AVTrsfEieZHifvIBe%2BjM%2FUM%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)  [github](https://github.com/MhLiao/MaskTextSpotterV3)
 37. PyTorch OCR模型的安卓端部署  [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247491166&idx=1&sn=b0343af8d5219fadd2a81c96434d1c66&chksm=9f80a4c8a8f72dde20ef43b39e7603997f4a59fe4a7d00d99b2f53a946f55515f1ab7a0ae941&mpshare=1&scene=1&srcid=1126VEr84H5mIg9jqgM1ECFa&sharer_sharetime=1606389727387&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d0a126c05628dbdde21e9f5c4f9a1d1a1945ee967c8dd667f5c9d7c11fb38e1f0accdb4f955249ed52d328f358ffd1784b624303cc9ec360358ac531b40085b2783df3ddd544bb404d8a271096ac4ce52339951a6e563a0d40343135d41c72375ba2e64dbf74d186e15827c0e096d2b1c206a15e97e1be50d4e1e40ae2aa31e7&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AVv3QPZEfk87%2BIY92poJTBk%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
+38. STD++：一种基于语义特征的任意方向场景文本检测方法   [link](https://zhuanlan.zhihu.com/p/78986851) [github](https://github.com/opconty/keras_std_plus_plus)
+39. 基于Transformer文本识别模型的网络架构 [link](https://zhuanlan.zhihu.com/p/142886134)
 
 ### 去水印 inpaint
 
