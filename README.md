@@ -316,6 +316,7 @@
 
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
 1. 写给小白的YOLO介绍  [link](https://zhuanlan.zhihu.com/p/94986199) 
+2. OneNet：一阶段的端到端物体检测器，无需NMS  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247493275&idx=1&sn=a4a64b521f9d4ae75de2ebf385c84b59&chksm=c06a6ec6f71de7d07fb1e2f6299b137357e913c34cce0b98205a7935d3d564e667204147b3df&mpshare=1&scene=1&srcid=1222HsyFBCiO9o8mfETYWCcC&sharer_sharetime=1608606685303&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a2bce7e843e60529e7c3de5d1bbf25ec6c6a7ebd408b225f2795d91f4ffe41fe04a71cc0e3ebf31cea97ab038984a274575aff55daae3c85ce7b8fb68502dfac2f82b85b0bdc9dd87929d44ccf7c49a0e56d7261d0b806d580a484eb3b27ff28a0776a4d4d96c3bd113c86017e3ef558283def9548995dc3&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AbKMbXSqXIdrmUHxESeb2NM%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [github](https://github.com/PeizeSun/OneNet)
 
 #### 基于候选框做目标检测
 
@@ -1196,9 +1197,11 @@
 
 1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
-### 图像卡通画
+### 图像卡通画、迁移
 
 1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
+2.  不用GAN，照片生成简笔画，效果惊艳  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=2&sn=8686385b83194812d55ceeff5ee16072&chksm=84e5d7e2b3925ef4348153cc31ccc9b304e8f7440a3707c7c86fe3ef15f47b52dc9bba2184b1&mpshare=1&scene=1&srcid=1220KiZycxV1x6jE7vB4IUky&sharer_sharetime=1608473433146&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494cf9e8268325cf65fb704a34d4f29c90e6c53231019424deb0dc0cd61886550ce8c17f0b0febb5f87963a0693b7a83cc7eba5041ad6b8b55cc50e8c34370cf4189d0f0472c211340cfde8e7f1f4a6e4d5e041b843cfc0ab49d62d98bad958f0ff8135e03877941dec9e07b7bc778e970e2921c16cb6db266c5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ae6%2BR5jmo0nycYW5glNhIS8%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [github](https://github.com/vijishmadhavan/ArtLine)
+3.  图像风格迁移也有框架  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=3&sn=1b02b7ee2421b3eda059a9144c0a659b&chksm=84e5d7e2b3925ef49f25a79eddafa592a1958dd123713ff99276665070126406e4a7aaeea66b&mpshare=1&scene=1&srcid=1220sd41vyeIOkrB9SiHPr1S&sharer_sharetime=1608473458047&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494ca7c566550852887855d3905d8d54509787a03195ea0332b41833cbe46bfeeac3866cf55dac7a5d990bf57ecb8d9e5c785ee1277f5f73fb80b6106dc4841e978da1bdacc570098700ddaed95fecc0cb2b210b3ae5390cecaab6ca0070c3c4c76cabb5e5ab4ff3bc7b30e17bd6c51ff010f84e5dcfd0d35eb5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AfeXqA23o5QGFPlMn4M5cqY%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)   [github](https://github.com/pmeier/pystiche)
 
 ### 模型转换
 
@@ -1284,6 +1287,7 @@
 60. 数学公式识别：基于编码-解码模型  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247534653&idx=3&sn=9446714015418fe1f40b588364e56542&chksm=96f03a69a187b37ffebd341e29eb741d3e542f104b73bb5c4b17abbdf6db9a0c4029aa29b350&scene=126&sessionid=1602222937&key=6664ac14267ba668540b211c917d0270c86394ffda6d276642afba3bcae513ed222a0bbe4f4b92fa6bf78a6e640061dab8a78f923003ff6ff45ac8c658594ad46e45a33ce3e1706c1f36abb0efb7098b972d21a36d39f946a7f1007f224ea63edcb57e39c1d87c4162eb79b22adceaedf506f65e6e4511e5be7809ab1f43bf42&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AX2%2FZJdQwwikZ0AKu08TMo8%3D&pass_ticket=tlXCINiFl8ynGEQC%2B7hus9v9XdEhzmNc2KtzDp0uWU1sVoaF15ZoVT5hXCIMcqPk&wx_header=0)
 61. 机器人是如何规划路径的   [github](https://github.com/zhm-real/PathPlanning)
 62. 使用深度学习从视频中估计车辆的速度  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247492794&idx=1&sn=c2e40e5a2af68cf5a214a87183101565&chksm=c06a6ce7f71de5f16b8430bcb58598aee067a2c26fe9f917d3ff3413bd71ef079260b5c14ac6&scene=126&sessionid=1605751226&key=b446d8ff764b32315efa619bbaae8bab72a89c9121553fa2adba46931ead8fc5d07e689f17976d24743e1ffc2ab93b029fc5eb08dc41825e466fad1c9a3c20a3f7bf96234867c7bb29b865c11b935970dbd19ba68d171e800db947621e08945dd51ed1b215672e4a1b69dd22fbaa6c5984cb5cbcb74bb37033e003702bb259c1&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AQSoOwIv7kcaQ5pclJz3eX4%3D&pass_ticket=ut0RPsQTSidtUHU2l1E1i3leX8NhKUWEZ%2B286wfVK7IljQYNNiDQ9f9fwB2e9WRw&wx_header=0)   [github](https://github.com/SharifElfouly/vehicle-speed-estimation)
+63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
 
 # 语言工具
 
@@ -1485,6 +1489,7 @@
 2. DVWA低级别通关指南 [link](https://zhuanlan.zhihu.com/p/62152766)
 3. 逆向工具之unidbg（在pc端模拟执行so文件中的函数）    [github](https://github.com/zhkl0228/unidbg)
 4. 逆向工具之脱壳神器反射大师   [link](https://blog.csdn.net/qq_41855420/article/details/106276824)
+5. 使用 C++ 写壳    [link](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458378468&idx=1&sn=4c05b816e4a6abd308bb9f3d3da7ff5a&chksm=b180d06e86f75978d045f2db70a11e2877136576089d4948a21118ab0695aac9cee73f7faa56&mpshare=1&scene=1&srcid=1220dkdrP8OcQvtcJrUZChop&sharer_sharetime=1608473520229&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d770e3e8fae531ebd7edbefca3b5b53df6c6d9ffbc2deac9fe49f4ccc0404e7f14cbe0f13e6a750f0abdc71a61188fc8add00f9242519dc5ce2d62428b465369212f9db74abdac4ac751fd3bc98d8947dfded05d6b73341573a0ff6d9c65c538f915d9d071b81100c76ca679ff1a72b6eaf15fa688b3c73fb96077a2b54c835c&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AQcttfQaV6P2jL%2B7L6YhJqo%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)
 
 ### 其他
 
@@ -1520,4 +1525,4 @@
 29. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
 30. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
 31. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
-32. 
+32. 使用ADSL拨号服务器搭建自己的代理IP  [link](https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647562551&idx=1&sn=0da32ccf1247e32e45e9e24c762e869c&chksm=83237499b454fd8fa9652549b9aee770fe1c29fc015a70e45898e14e3eb2d4d8d93ce2a9a0c6&mpshare=1&scene=1&srcid=1220aWnnVx0EWt8n5LsepwEm&sharer_sharetime=1608448100865&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a8c5dd5264dfd04bb86bbef65a56f453d005d764965e41e16f45d09f459f221cbd2464c6188aff0b49a79cf3e4140da8db63bc2ae5b6fd09b00f83e26aef998baa8acd3c018af0c544837f86b5eda74cc1d6a5dd42576683dd3eed0b08b181ea5557cfd2b634624c20549ddf25e6832097305c7a9a16a7ea&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Af1bpRRKqDXC66Hqy95TQjA%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)
