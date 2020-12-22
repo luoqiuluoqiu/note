@@ -316,7 +316,7 @@
 
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
 1. 写给小白的YOLO介绍  [link](https://zhuanlan.zhihu.com/p/94986199) 
-2. OneNet：一阶段的端到端物体检测器，无需NMS  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247493275&idx=1&sn=a4a64b521f9d4ae75de2ebf385c84b59&chksm=c06a6ec6f71de7d07fb1e2f6299b137357e913c34cce0b98205a7935d3d564e667204147b3df&mpshare=1&scene=1&srcid=1222HsyFBCiO9o8mfETYWCcC&sharer_sharetime=1608606685303&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a2bce7e843e60529e7c3de5d1bbf25ec6c6a7ebd408b225f2795d91f4ffe41fe04a71cc0e3ebf31cea97ab038984a274575aff55daae3c85ce7b8fb68502dfac2f82b85b0bdc9dd87929d44ccf7c49a0e56d7261d0b806d580a484eb3b27ff28a0776a4d4d96c3bd113c86017e3ef558283def9548995dc3&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AbKMbXSqXIdrmUHxESeb2NM%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [github](https://github.com/PeizeSun/OneNet)
+2. OneNet：一阶段的端到端物体检测器，无需NMS  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247493275&idx=1&sn=a4a64b521f9d4ae75de2ebf385c84b59&chksm=c06a6ec6f71de7d07fb1e2f6299b137357e913c34cce0b98205a7935d3d564e667204147b3df&mpshare=1&scene=1&srcid=1222HsyFBCiO9o8mfETYWCcC&sharer_sharetime=1608606685303&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a2bce7e843e60529e7c3de5d1bbf25ec6c6a7ebd408b225f2795d91f4ffe41fe04a71cc0e3ebf31cea97ab038984a274575aff55daae3c85ce7b8fb68502dfac2f82b85b0bdc9dd87929d44ccf7c49a0e56d7261d0b806d580a484eb3b27ff28a0776a4d4d96c3bd113c86017e3ef558283def9548995dc3&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AbKMbXSqXIdrmUHxESeb2NM%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [](https://github.com/PeizeSun/OneNet)
 
 #### 基于候选框做目标检测
 
@@ -959,7 +959,8 @@
 8. Machine Learning Sound Classifier [github](https://github.com/daisukelab/ml-sound-classifier)
 9. 克隆语音Clone a voice in 5 seconds to generate arbitrary speech in real-time  [github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 10. 使用PyTorch和CUDA进行E2E语音识别训练的实现用功能 [github](https://github.com/1ytic/pytorch-edit-distance)
-11. [piano_transcription](https://github.com/bytedance/piano_transcription)
+11. [piano_transcription](https://github.com/bytedance/piano_transcription) 
+12. 语音合成入门，训练一个中文语音tts   [link](https://zhuanlan.zhihu.com/p/319978933)
 
 ### Adversarial Attack攻击
 
