@@ -113,7 +113,8 @@
 62. 深度学习中学习率和batchsize对模型准确率的影响 [link](https://zhuanlan.zhihu.com/p/277487038)
 63. 基于how-to-optimize-gemm初探矩阵乘法优化 [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247490755&idx=1&sn=469af40d932df5521c013e4853302db6&chksm=9f80a655a8f72f439812a92f3d907dffb5767b96f33ff582fa1d989ca99038b541370edc5641&scene=126&sessionid=1604654319&key=2d6daa67a3ab0438f8cb01da04f7f0f8b4da81464c2bb4df292d213aee16e84e51e1f92102ff4dac9d4f0f4496d265a15b2cced0d92d3d531bcd5d3bc2a648a822dd86b2338ccd5979799c7d859719879a47449c938666dd12e60a42e31736a4c559ed640eb08fdd580407356666f6a569d62a1ee9b3822466e9874ddeb4618d&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ad%2B5n82JUX8%2B1962L%2BgcOa0%3D&pass_ticket=QJdySBfnlu4yL1E3kfe47154iLEOJfUopZKIN9s8lG9lohxPxJYEQ3Gk%2F7C9eK1y&wx_header=0)
 64. 深度学习CV领域最瞩目的成果top46   [link](https://zhuanlan.zhihu.com/p/315605746)
-65. 怎样写一个深度淆习框架  [link](https://zhuanlan.zhihu.com/p/130749258)
+65. 怎样写一个深度淆习框架  [link](https://zhuanlan.zhihu.com/p/130749258) 
+66. 反卷积（深度学习）-两种计算方式的等价性  [link](https://zhuanlan.zhihu.com/p/338780702)
 
 
 
@@ -157,6 +158,7 @@
 2. quadruplet loss 
 3. eml loss
 4. npairs loss 
+5. 度量学习中关于排序损失函数的综述  [link](https://mp.weixin.qq.com/s/TwG6_KJvTGCzDMy6ZD6jsA)
 
 ### 轻量网络
 
@@ -385,6 +387,8 @@
 61. mmdetection-mini [github](https://github.com/hhaAndroid/mmdetection-mini)
 62. 1.8M超轻量目标检测模型NanoDet   [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803202&idx=1&sn=88808777f264a251a7953ad794a88a1c&chksm=84e5c87cb392416aabc80b1719a7b4372211785253d6d266bfee89e400a8fc5e6d2ebe64761e&mpshare=1&scene=1&srcid=1125UGyNyNs5s7wBUbavUXMx&sharer_sharetime=1606313233032&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f639d60a8bb3341a5d49a07799bc75178075d038790b7a4f501c70946035609396143f0ce7e8e18a8012761c3f690c68e78ece59936a36e73c1acd56f60e61e17d5317a1238565d9c68dd47cf18d524907b846d795f34837e2aef99252885170bdf2da1fce462ef71132b82b5d0fa42d98b23cae69f59f77beb&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AU2LTvATfR6W6m17x3euPmg%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
 63. 旋转目标新网络   [link](https://zhuanlan.zhihu.com/p/333632365) [github](https://github.com/yangxue0827/RotationDetection)
+64. 令人“细思极恐”的Faster-R-CNN   [link](https://zhuanlan.zhihu.com/p/342843113)   [github](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
+65. 基于密度图的航空物体检测  [link](https://mp.weixin.qq.com/s/xauumh4ryQup5NMuMVIjtw)
 
 ###  语义分割
 
@@ -737,6 +741,7 @@
 16. HyperFAS 基于深度学习人脸静默活体算法   [github](https://github.com/zeusees/HyperFAS)
 17. [SeetaFace6 ](https://github.com/seetafaceengine/SeetaFace6)  [**SeetaFace6 入门教程**](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
 18. 人脸口罩检测与识别-助力于新型冠状病毒疫情防控   [github](https://github.com/vdjango/MaskFace)
+19. [Pyramidbox.pytorch](https://github.com/yxlijun/Pyramidbox.pytorch)
 
 ###  人脸融合
 
@@ -1204,6 +1209,18 @@
 2.  不用GAN，照片生成简笔画，效果惊艳  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=2&sn=8686385b83194812d55ceeff5ee16072&chksm=84e5d7e2b3925ef4348153cc31ccc9b304e8f7440a3707c7c86fe3ef15f47b52dc9bba2184b1&mpshare=1&scene=1&srcid=1220KiZycxV1x6jE7vB4IUky&sharer_sharetime=1608473433146&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494cf9e8268325cf65fb704a34d4f29c90e6c53231019424deb0dc0cd61886550ce8c17f0b0febb5f87963a0693b7a83cc7eba5041ad6b8b55cc50e8c34370cf4189d0f0472c211340cfde8e7f1f4a6e4d5e041b843cfc0ab49d62d98bad958f0ff8135e03877941dec9e07b7bc778e970e2921c16cb6db266c5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ae6%2BR5jmo0nycYW5glNhIS8%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [github](https://github.com/vijishmadhavan/ArtLine)
 3.  图像风格迁移也有框架  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=3&sn=1b02b7ee2421b3eda059a9144c0a659b&chksm=84e5d7e2b3925ef49f25a79eddafa592a1958dd123713ff99276665070126406e4a7aaeea66b&mpshare=1&scene=1&srcid=1220sd41vyeIOkrB9SiHPr1S&sharer_sharetime=1608473458047&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494ca7c566550852887855d3905d8d54509787a03195ea0332b41833cbe46bfeeac3866cf55dac7a5d990bf57ecb8d9e5c785ee1277f5f73fb80b6106dc4841e978da1bdacc570098700ddaed95fecc0cb2b210b3ae5390cecaab6ca0070c3c4c76cabb5e5ab4ff3bc7b30e17bd6c51ff010f84e5dcfd0d35eb5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AfeXqA23o5QGFPlMn4M5cqY%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)   [github](https://github.com/pmeier/pystiche)
 
+
+
+### Transformers
+
+1.  Vision Transformer  [link](https://mp.weixin.qq.com/s/cLPMJm4u67QDsJg0IkmYFQ)
+2.  SETR：基于Transformer的语义分割  [link](https://blog.csdn.net/amusi1994/article/details/112068528)
+3.  End-to-End Object Detection with Transformers  [link](https://zhuanlan.zhihu.com/p/149252931)
+
+
+
+
+
 ### 模型转换
 
 1.  如何将其他框架训练模型导入到pytorch中   [link](https://zhuanlan.zhihu.com/p/75526928) [link2](https://zhuanlan.zhihu.com/p/75601879)
@@ -1513,17 +1530,18 @@
 16. 支持向量机（SVM） [github](https://zhuanlan.zhihu.com/p/76651118)
 17. 使用Matlab测量图像目标尺寸 [link](https://zhuanlan.zhihu.com/p/76974326)
 18. 机器学习中的距离和相似度度量方式有哪些 [link](https://zhuanlan.zhihu.com/p/80223624)
-19. pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
-20. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
-21. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
-22. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
-23. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
-24. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
-25. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
-26. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
-27. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
-28. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
-29. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
-30. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
-31. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
-32. 使用ADSL拨号服务器搭建自己的代理IP  [link](https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647562551&idx=1&sn=0da32ccf1247e32e45e9e24c762e869c&chksm=83237499b454fd8fa9652549b9aee770fe1c29fc015a70e45898e14e3eb2d4d8d93ce2a9a0c6&mpshare=1&scene=1&srcid=1220aWnnVx0EWt8n5LsepwEm&sharer_sharetime=1608448100865&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a8c5dd5264dfd04bb86bbef65a56f453d005d764965e41e16f45d09f459f221cbd2464c6188aff0b49a79cf3e4140da8db63bc2ae5b6fd09b00f83e26aef998baa8acd3c018af0c544837f86b5eda74cc1d6a5dd42576683dd3eed0b08b181ea5557cfd2b634624c20549ddf25e6832097305c7a9a16a7ea&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Af1bpRRKqDXC66Hqy95TQjA%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)
+19. 机器学习中“距离与相似度”计算汇总  [link](https://mp.weixin.qq.com/s/1FVfb9JSaKFebDunHzTYJg)
+20. pytorch-music-composer  自动生成音乐  [github](https://github.com/YoongiKim/pytorch-music-composer)
+21. easy12306 验证码识别 [github](https://github.com/zhaipro/easy12306)
+22. smarGate 内网穿透  [github](https://github.com/lazy-luo/smarGate)
+23. 个人博客采用python+flask编写 [github](https://github.com/468336329Zc/Own-blog)
+24. 一个基于react-native的纯跨平台的影视项目 [link](https://github.com/ikimiler/react-native-video-project)
+25. 机器学习超详细实践攻略(8)：使用scikit-learn构建模型的通用模板【万字长文】 [github](https://zhuanlan.zhihu.com/p/88729124)
+26. 监控文件改动，随时自动备份，彻底防止误删  [github](https://github.com/bojone/mydog)
+27. 北京邮电大学“网络搜索原理”课程资料   [github](https://github.com/fly51fly/Principle-of-Web-Search)
+28. learn-regex  正则表达式学习 [github](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+29. 绕cdn找源站ip（提供思路) [link](https://blog.csdn.net/AcSuccess/article/details/85290101) 
+30. 算法岗必须人手一篇顶会？超详细面经：无论文、无实习拿下腾讯CV算法岗   [link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494712&idx=1&sn=2c906e0c4062955adb8bf4bbda7cb1a8&chksm=ec1c01c1db6b88d7e1f4b8ff2b2f084d1e7961ffdcb29c9de03328cb9c2a14fe68522b7b0c2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588802814353&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=82d1544af34adca3255e242d7a7de20f65bd91ad9bcec12ff3553d1f49f0a8041c836a4722e5a4305563c22a70790b73a88eba4147a82cf030f3fd5bea04b44b7658dad4a587c34c23badcddd3f82eb2&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AZI2gf%2Fh2doPrZfZhM85Xss%3D&pass_ticket=pocQFF5prhsqssj2QoabbA%2F8Eme2Jmkp30egKR5yezTVw2kKdc4bABuzuUVj2fbW)
+31. 程序员简历模板列表   [github](https://github.com/geekcompany/ResumeSample)
+32. 通用方法 解决/usr/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found的问题   [link](https://blog.csdn.net/u012811841/article/details/77854581)
+33. 使用ADSL拨号服务器搭建自己的代理IP  [link](https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647562551&idx=1&sn=0da32ccf1247e32e45e9e24c762e869c&chksm=83237499b454fd8fa9652549b9aee770fe1c29fc015a70e45898e14e3eb2d4d8d93ce2a9a0c6&mpshare=1&scene=1&srcid=1220aWnnVx0EWt8n5LsepwEm&sharer_sharetime=1608448100865&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a8c5dd5264dfd04bb86bbef65a56f453d005d764965e41e16f45d09f459f221cbd2464c6188aff0b49a79cf3e4140da8db63bc2ae5b6fd09b00f83e26aef998baa8acd3c018af0c544837f86b5eda74cc1d6a5dd42576683dd3eed0b08b181ea5557cfd2b634624c20549ddf25e6832097305c7a9a16a7ea&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Af1bpRRKqDXC66Hqy95TQjA%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)
