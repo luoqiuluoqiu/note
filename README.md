@@ -28,6 +28,7 @@
 7. 谷歌开源Neural Tangents：简单快速训练无限宽度神经网络  [github](https://github.com/google/neural-tangents)
 8. 可解释的机器学习--黑盒模型可解释性理解指南  [github](https://github.com/MingchaoZhu/InterpretableMLBook)
 9. [EssentialMath](https://github.com/yangyutu/EssentialMath)
+10. 矩阵求导术  [上](https://zhuanlan.zhihu.com/p/24709748) [下](https://zhuanlan.zhihu.com/p/24863977)
 
 # 图像处理
 
@@ -115,6 +116,7 @@
 64. 深度学习CV领域最瞩目的成果top46   [link](https://zhuanlan.zhihu.com/p/315605746)
 65. 怎样写一个深度淆习框架  [link](https://zhuanlan.zhihu.com/p/130749258) 
 66. 反卷积（深度学习）-两种计算方式的等价性  [link](https://zhuanlan.zhihu.com/p/338780702)
+67. 目标检测之Neck选择  [link](https://zhuanlan.zhihu.com/p/342011052)
 
 
 
@@ -321,6 +323,7 @@
 0. DenseBox pytorch [github](https://github.com/CaptainEven/DenseBox)  [link](https://zhuanlan.zhihu.com/p/86810353)
 1. 写给小白的YOLO介绍  [link](https://zhuanlan.zhihu.com/p/94986199) 
 2. OneNet：一阶段的端到端物体检测器，无需NMS  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247493275&idx=1&sn=a4a64b521f9d4ae75de2ebf385c84b59&chksm=c06a6ec6f71de7d07fb1e2f6299b137357e913c34cce0b98205a7935d3d564e667204147b3df&mpshare=1&scene=1&srcid=1222HsyFBCiO9o8mfETYWCcC&sharer_sharetime=1608606685303&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=adbad9c043268460a2bce7e843e60529e7c3de5d1bbf25ec6c6a7ebd408b225f2795d91f4ffe41fe04a71cc0e3ebf31cea97ab038984a274575aff55daae3c85ce7b8fb68502dfac2f82b85b0bdc9dd87929d44ccf7c49a0e56d7261d0b806d580a484eb3b27ff28a0776a4d4d96c3bd113c86017e3ef558283def9548995dc3&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AbKMbXSqXIdrmUHxESeb2NM%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [](https://github.com/PeizeSun/OneNet)
+3. Object Detection Made Simpler by Eliminating Heuristic NMS  [github](https://github.com/txdet/FCOSPss)
 
 #### 基于候选框做目标检测
 
@@ -459,6 +462,7 @@
 1.  nnUNet 医学分割  [github](https://github.com/MIC-DKFZ/nnUNet)
 2.  医学图像分割-Attention Unet [link](https://zhuanlan.zhihu.com/p/87582535)
 3. NAS-Unet：用于医学图像分割的神经体系结构搜索 [github](https://github.com/tianbaochou/NasUnet)
+4. 基于深度学习的视网膜血管分割算法研究  [link](https://zhuanlan.zhihu.com/p/346583714) [github](https://github.com/lee-zq/VesselSeg-Pytorch)
 
 ###  实例分割
 
@@ -552,6 +556,7 @@
 
 0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
 1.  详细记录YOLACT实例分割ncnn实现  [link](https://zhuanlan.zhihu.com/p/128974102)
+2.  系统性学习ONNX：背景、格式及简化方法  [link](https://mp.weixin.qq.com/s/bfYmjJYD3vxnyHohpvl54g)
 
 ###  openc dnn
 
@@ -875,6 +880,8 @@
 13. SC-FEGAN [github](https://github.com/JoYoungjoo/SC-FEGAN)
 14. DFNet 2019 [github](https://github.com/hughplay/DFNet)
 15. Pluralistic-Inpainting  pytorch  [github](https://github.com/lyndonzheng/Pluralistic-Inpainting)
+16. Video-Auto-Wipe  [github](https://github.com/a312863063/Video-Auto-Wipe)
+17. STTN  [github](https://github.com/researchmm/STTN)
 
 
 ###  图像超分辨率与去噪
@@ -1078,6 +1085,8 @@
 19. FBA_Matting    [github](https://github.com/MarcoForte/FBA_Matting)
 20. MMNet  [github](https://github.com/hyperconnect/MMNet)
 21. SkyAR   天空变换 [github](https://github.com/jiupinjia/SkyAR)
+22.  animal-matting   [github](https://github.com/JizhiziLi/animal-matting/)
+23. MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting [github](https://github.com/ZHKKKe/MODNet)
 
 ### 行人检测
 
@@ -1141,6 +1150,7 @@
 4. Invertible-Image-Rescaling   可逆图像缩放：完美恢复降采样后的高清图片    [link](https://zhuanlan.zhihu.com/p/150340687) [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
 5. UNet实现文档印章消除   [github](https://github.com/jayzhxbx/UNet-Seal-Elimination)
 6. sample-imageinpainting-HiFill   [github](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
+7. Bringing-Old-Photos-Back-to-Life [github](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life?utm_source=catalyzex.com)
 
 ### 虚拟换装
 
@@ -1220,6 +1230,7 @@
 1.  Vision Transformer  [link](https://mp.weixin.qq.com/s/cLPMJm4u67QDsJg0IkmYFQ)
 2.  SETR：基于Transformer的语义分割  [link](https://blog.csdn.net/amusi1994/article/details/112068528)
 3.  End-to-End Object Detection with Transformers  [link](https://zhuanlan.zhihu.com/p/149252931)
+4.  Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet  [github](https://github.com/yitu-opensource/T2T-ViT)
 
 
 
@@ -1310,6 +1321,7 @@
 61. 机器人是如何规划路径的   [github](https://github.com/zhm-real/PathPlanning)
 62. 使用深度学习从视频中估计车辆的速度  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247492794&idx=1&sn=c2e40e5a2af68cf5a214a87183101565&chksm=c06a6ce7f71de5f16b8430bcb58598aee067a2c26fe9f917d3ff3413bd71ef079260b5c14ac6&scene=126&sessionid=1605751226&key=b446d8ff764b32315efa619bbaae8bab72a89c9121553fa2adba46931ead8fc5d07e689f17976d24743e1ffc2ab93b029fc5eb08dc41825e466fad1c9a3c20a3f7bf96234867c7bb29b865c11b935970dbd19ba68d171e800db947621e08945dd51ed1b215672e4a1b69dd22fbaa6c5984cb5cbcb74bb37033e003702bb259c1&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AQSoOwIv7kcaQ5pclJz3eX4%3D&pass_ticket=ut0RPsQTSidtUHU2l1E1i3leX8NhKUWEZ%2B286wfVK7IljQYNNiDQ9f9fwB2e9WRw&wx_header=0)   [github](https://github.com/SharifElfouly/vehicle-speed-estimation)
 63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
+64. 微信官方开源了自家优化的二维码引擎  [link](https://mp.weixin.qq.com/s/xzc19NIGxy_YTLyw2_DCoA)
 
 # 语言工具
 
@@ -1414,6 +1426,7 @@
 29.  爬虫相关资源 [github](https://github.com/rockswang/awesome-java-crawler)
 30.  JS中的hook机制   [link](https://www.jianshu.com/p/518fec77d777)
 31.  [hook.js]通用Javascript函数钩子   [link](https://blog.knownsec.com/2013/02/hook-js%E9%80%9A%E7%94%A8javascript%E5%87%BD%E6%95%B0%E9%92%A9%E5%AD%90/)
+32.  Chome 88如何正确隐藏 webdriver  [link](https://mp.weixin.qq.com/s/XOXb_XvsHqgv0MUICahjJw)
 
 ### C/C++
 
