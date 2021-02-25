@@ -1255,6 +1255,16 @@
 5.  Jigsaw-Net   [github](https://github.com/anilsathyan7/Jigsaw-Net)
 6.  熊猫不定长验证码识别   [github](https://github.com/yuzhiyizhan/Bearcat_captcha)
 
+
+
+## 深度学习中的不确定性
+
+1.  ​	[深度学习中的不确定性](https://zhuanlan.zhihu.com/p/98756147)
+2.  [深度学习中的两种不确定性](https://zhuanlan.zhihu.com/p/56986840)
+3.  [不确定性学习在视觉识别中的应用](https://aijishu.com/a/1060000000089656)  
+4.  [构建贝叶斯深度学习分类器](https://www.tensorinfinity.com/paper_204.html)
+5.  [blitz-bayesian-deep-learning](https://github.com/piEsposito/blitz-bayesian-deep-learning) 
+
 ### 其他
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
