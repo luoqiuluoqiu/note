@@ -863,6 +863,7 @@
 37. PyTorch OCR模型的安卓端部署  [link](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247491166&idx=1&sn=b0343af8d5219fadd2a81c96434d1c66&chksm=9f80a4c8a8f72dde20ef43b39e7603997f4a59fe4a7d00d99b2f53a946f55515f1ab7a0ae941&mpshare=1&scene=1&srcid=1126VEr84H5mIg9jqgM1ECFa&sharer_sharetime=1606389727387&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d0a126c05628dbdde21e9f5c4f9a1d1a1945ee967c8dd667f5c9d7c11fb38e1f0accdb4f955249ed52d328f358ffd1784b624303cc9ec360358ac531b40085b2783df3ddd544bb404d8a271096ac4ce52339951a6e563a0d40343135d41c72375ba2e64dbf74d186e15827c0e096d2b1c206a15e97e1be50d4e1e40ae2aa31e7&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AVv3QPZEfk87%2BIY92poJTBk%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
 38. STD++：一种基于语义特征的任意方向场景文本检测方法   [link](https://zhuanlan.zhihu.com/p/78986851) [github](https://github.com/opconty/keras_std_plus_plus)
 39. 基于Transformer文本识别模型的网络架构 [link](https://zhuanlan.zhihu.com/p/142886134)
+40. 端到端的票据类版面分析算法 [link](https://zhuanlan.zhihu.com/p/355536538) [github](https://github.com/limengyang1992/seq2seq-layout-analysis)
 
 ### 去水印 inpaint
 
