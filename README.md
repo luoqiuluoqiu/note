@@ -201,6 +201,7 @@
 20. cortex [github](https://github.com/cortexlabs/cortex)
 21. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
 22. [Msnhnet](https://github.com/msnh2012/Msnhnet) 2020
+23. Simple Dynamic Batching Inference [github](https://github.com/YellowOldOdd/SDBI)
 
 
 ### 蒸馏 剪枝  量化
@@ -317,6 +318,7 @@
 16. 轻量级Anchor-Free目标检测模型NanoDet   [github](https://github.com/RangiLyu/nanodet)
 17. centerX [github](https://github.com/CPFLAME/centerX/)
 18. NanoDet-PyTorch  [github](https://github.com/guo-pu/NanoDet-PyTorch)
+19. LFD-A-Light-and-Fast-Detector [github](https://github.com/YonghaoHe/LFD-A-Light-and-Fast-Detector)
 
 #### 基于分割
 
