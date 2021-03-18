@@ -1166,6 +1166,7 @@
 3. VITON_realtime    [github](https://github.com/amjltc295/VITON_realtime)
 4.  时尚服饰领域 MMFashion [github](https://github.com/open-mmlab/mmfashion) [dataGithub](https://github.com/open-mmlab/mmfashion/blob/master/docs/DATA_PREPARATION.md)
 5.  Semantically Multi-modal Image Synthesis  顶会语义多模态图像合成算法——GroupDNet速递   [github](https://github.com/Seanseattle/SMIS)
+6.  Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021  [github](https://github.com/geyuying/PF-AFN)
 
 ### 小样本
 
@@ -1272,6 +1273,12 @@
 3.  [不确定性学习在视觉识别中的应用](https://aijishu.com/a/1060000000089656)  
 4.  [构建贝叶斯深度学习分类器](https://www.tensorinfinity.com/paper_204.html)
 5.  [blitz-bayesian-deep-learning](https://github.com/piEsposito/blitz-bayesian-deep-learning) 
+
+### 论文与代码
+
+1.  CVPR 2021 论文和开源项目合集(Papers with Code) [github](https://github.com/amusi/CVPR2021-Papers-with-Code#Virtual-Try-On)
+
+
 
 ### 其他
 
