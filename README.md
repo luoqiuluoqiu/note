@@ -117,6 +117,8 @@
 65. 怎样写一个深度淆习框架  [link](https://zhuanlan.zhihu.com/p/130749258) 
 66. 反卷积（深度学习）-两种计算方式的等价性  [link](https://zhuanlan.zhihu.com/p/338780702)
 67. 目标检测之Neck选择  [link](https://zhuanlan.zhihu.com/p/342011052)
+68. 根据标签分布来选择损失函数 [link](https://zhuanlan.zhihu.com/p/304462034)
+69. 深度学习多目标优化的多个loss应该如何权衡 [link](https://zhuanlan.zhihu.com/p/362330594)
 
 
 
@@ -248,6 +250,7 @@
 7. CodeSnippetSearch：Keras实现的神经网络代码搜索   [github](https://github.com/novoselrok/codesnippetsearch)
 8. Vega是诺亚方舟实验室自研的AutoML算法工具   [github](https://github.com/huawei-noah/vega/blob/master/README.cn.md)
 9. 自动搜索损失函数   [link](https://zhuanlan.zhihu.com/p/180465704)
+10. NAS[综述](https://godweiyang.com/2020/12/18/automl-survey/)
 
 ###  激活函数
 
@@ -1453,7 +1456,7 @@
 31.  [hook.js]通用Javascript函数钩子   [link](https://blog.knownsec.com/2013/02/hook-js%E9%80%9A%E7%94%A8javascript%E5%87%BD%E6%95%B0%E9%92%A9%E5%AD%90/)
 32.  Chome 88如何正确隐藏 webdriver  [link](https://mp.weixin.qq.com/s/XOXb_XvsHqgv0MUICahjJw)
 
-### C/C++
+### C/C++/CUDA
 
 1. QtWebApp HTTP Webserver in C++ [link](http://stefanfrings.de/qtwebapp/index-en.html)
 2. qt-http-server [link](http://gitlab.unique-conception.org/qt-libraries/qt-http-server)
@@ -1463,6 +1466,7 @@
 6. 用汇编理解C++  [github](https://blog.csdn.net/wzn491574452/article/details/80036988)
 7. C++每周小技巧 [link](https://abseil.io/tips/1)
 8. Cpp-Httplib - 只有一个C++头文件的跨平台HTTP库   [github](https://github.com/yhirose/cpp-httplib)
+9. NN-CUDA-[Example](https://github.com/godweiyang/NN-CUDA-Example)
 
 
 ### dlib
