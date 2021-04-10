@@ -728,6 +728,7 @@
 29. yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）  [github](https://github.com/ouyanghuiyu/yolo-face-with-landmark)
 30. deep-sdm   106个特征点检测 [github](https://github.com/chengzhengxin/deep-sdm)
 31. 轻量级人脸检测算法实现大盘点  [link](https://www.toutiao.com/a6889232009273541127/)
+32. [Pytorch_Retinaface 人脸检测与特征点定位](https://github.com/biubug6/Pytorch_Retinaface)
 
 ### 无人驾驶
 
@@ -869,6 +870,8 @@
 38. STD++：一种基于语义特征的任意方向场景文本检测方法   [link](https://zhuanlan.zhihu.com/p/78986851) [github](https://github.com/opconty/keras_std_plus_plus)
 39. 基于Transformer文本识别模型的网络架构 [link](https://zhuanlan.zhihu.com/p/142886134)
 40. 端到端的票据类版面分析算法 [link](https://zhuanlan.zhihu.com/p/355536538) [github](https://github.com/limengyang1992/seq2seq-layout-analysis)
+41. [mmocr](https://github.com/open-mmlab/mmocr)
+42. 车牌识别 模型部署翻车记：pytorch转onnx踩坑实录 [link](https://mp.weixin.qq.com/s/psG9tLZi-6C-p3nNcGEdjw)
 
 ### 去水印 inpaint
 
