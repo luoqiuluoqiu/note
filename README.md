@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 # 算法
 
 0. 算法竞赛课件分享 [github](https://github.com/hzwer/shareOI)
