@@ -1177,6 +1177,7 @@
 4.  时尚服饰领域 MMFashion [github](https://github.com/open-mmlab/mmfashion) [dataGithub](https://github.com/open-mmlab/mmfashion/blob/master/docs/DATA_PREPARATION.md)
 5.  Semantically Multi-modal Image Synthesis  顶会语义多模态图像合成算法——GroupDNet速递   [github](https://github.com/Seanseattle/SMIS)
 6.  Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021  [github](https://github.com/geyuying/PF-AFN)
+7.  [Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)
 
 ### 小样本
 
