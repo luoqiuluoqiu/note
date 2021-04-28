@@ -328,6 +328,7 @@
 17. centerX [github](https://github.com/CPFLAME/centerX/)
 18. NanoDet-PyTorch  [github](https://github.com/guo-pu/NanoDet-PyTorch)
 19. LFD-A-Light-and-Fast-Detector [github](https://github.com/YonghaoHe/LFD-A-Light-and-Fast-Detector)
+20. Centernet   [link](https://zhuanlan.zhihu.com/p/363999119)
 
 #### 基于分割
 
