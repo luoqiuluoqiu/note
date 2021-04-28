@@ -229,6 +229,7 @@
 14. Knowledge Distillation知识蒸馏简单实现  [link](http://ishero.net/Knowledge%20Distillation%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.html)
 15. [nni](https://github.com/microsoft/nni)
 16. 神经网络量化入门--量化感知训练  [github](https://www.cnblogs.com/jermmyhsu/p/13285488.html)
+17. EagleEye：一种用模型剪枝的快速衡量子网络性能的方法  [link](https://mp.weixin.qq.com/s/NZpQX4r7VzpDa8X3oSnx1Q)
 
 ### TCN
 
@@ -297,6 +298,7 @@
 3. [groupsoftmax-simpledet](https://github.com/chengzhengxin/groupsoftmax-simpledet)
 4. 在物体检测中搞定小目标 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490703&idx=1&sn=0ae28ff4db870758218e88f14b528135&chksm=c06994d2f71e1dc48ca7bcef7a73b7d28d1a97c604ecdac066019e188b814ea66c59abd667f2&scene=126&sessionid=1599098417&key=82003248020682fac346fedf511017db33dc7a0a2c55fc33c7135872b7115d81e28ec356bed1119532666678392bb0c2aeb80d7240df3ff82ce1eba789f8445426b7bc2fcf45f42db52b018e8f1932dbbc4ce6c623766724abbec2d590e08b65ac77c8c4a857d1738493ab0a0b1f35bce0e0c7873ff95f9839030e2b088b2bd4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AeZcBTENjzy5xIRCwBoZSPg%3D&pass_ticket=zCggAbn4dHvdK7ALCMUVsUM07GifkruGo3dN%2F8G2t3FpDNMIs5CA2x8HOCvJY0Df&wx_header=0) 
 5. [vedadet检测框架](https://github.com/Media-Smart/vedadet)
+6. 在目标检测中如何解决小目标的问题？  [link](https://mp.weixin.qq.com/s/KwxsVF0RNaudMR7Yt3HiXQ)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
 
@@ -1358,6 +1360,7 @@
 62. 使用深度学习从视频中估计车辆的速度  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247492794&idx=1&sn=c2e40e5a2af68cf5a214a87183101565&chksm=c06a6ce7f71de5f16b8430bcb58598aee067a2c26fe9f917d3ff3413bd71ef079260b5c14ac6&scene=126&sessionid=1605751226&key=b446d8ff764b32315efa619bbaae8bab72a89c9121553fa2adba46931ead8fc5d07e689f17976d24743e1ffc2ab93b029fc5eb08dc41825e466fad1c9a3c20a3f7bf96234867c7bb29b865c11b935970dbd19ba68d171e800db947621e08945dd51ed1b215672e4a1b69dd22fbaa6c5984cb5cbcb74bb37033e003702bb259c1&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AQSoOwIv7kcaQ5pclJz3eX4%3D&pass_ticket=ut0RPsQTSidtUHU2l1E1i3leX8NhKUWEZ%2B286wfVK7IljQYNNiDQ9f9fwB2e9WRw&wx_header=0)   [github](https://github.com/SharifElfouly/vehicle-speed-estimation)
 63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
 64. 微信官方开源了自家优化的二维码引擎  [link](https://mp.weixin.qq.com/s/xzc19NIGxy_YTLyw2_DCoA)
+65. 一个CV算法工程师的小反思 [link](https://zhuanlan.zhihu.com/p/363354912)
 
 # 语言工具
 
@@ -1564,6 +1567,10 @@
 3. 逆向工具之unidbg（在pc端模拟执行so文件中的函数）    [github](https://github.com/zhkl0228/unidbg)
 4. 逆向工具之脱壳神器反射大师   [link](https://blog.csdn.net/qq_41855420/article/details/106276824)
 5. 使用 C++ 写壳    [link](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458378468&idx=1&sn=4c05b816e4a6abd308bb9f3d3da7ff5a&chksm=b180d06e86f75978d045f2db70a11e2877136576089d4948a21118ab0695aac9cee73f7faa56&mpshare=1&scene=1&srcid=1220dkdrP8OcQvtcJrUZChop&sharer_sharetime=1608473520229&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d770e3e8fae531ebd7edbefca3b5b53df6c6d9ffbc2deac9fe49f4ccc0404e7f14cbe0f13e6a750f0abdc71a61188fc8add00f9242519dc5ce2d62428b465369212f9db74abdac4ac751fd3bc98d8947dfded05d6b73341573a0ff6d9c65c538f915d9d071b81100c76ca679ff1a72b6eaf15fa688b3c73fb96077a2b54c835c&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AQcttfQaV6P2jL%2B7L6YhJqo%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)
+
+### 汇编
+
+1.  win10 汇编环境搭建   [link](https://mp.weixin.qq.com/s/he6NtjTLnaFWQvtWjS5mYw)
 
 ### 其他
 
