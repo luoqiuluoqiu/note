@@ -620,6 +620,7 @@
 9. FLAT - 人脸特征点标注工具 [github](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)
 10. 把Caffe的模型转换为Pytorch模型    [link](https://blog.csdn.net/DumpDoctorWang/article/details/88718079)
 11. 从.caffemodel/.caffemodel.h5提取Caffe模型的参数   [link](https://blog.csdn.net/DumpDoctorWang/article/details/88732919)
+12. gradio 快速的构建UI网页[link](https://www.gradio.app/docs)
 
 # 业务模型 #
 
@@ -1362,6 +1363,7 @@
 63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
 64. 微信官方开源了自家优化的二维码引擎  [link](https://mp.weixin.qq.com/s/xzc19NIGxy_YTLyw2_DCoA)
 65. 一个CV算法工程师的小反思 [link](https://zhuanlan.zhihu.com/p/363354912)
+66. 
 
 # 语言工具
 
