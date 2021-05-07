@@ -621,6 +621,7 @@
 10. 把Caffe的模型转换为Pytorch模型    [link](https://blog.csdn.net/DumpDoctorWang/article/details/88718079)
 11. 从.caffemodel/.caffemodel.h5提取Caffe模型的参数   [link](https://blog.csdn.net/DumpDoctorWang/article/details/88732919)
 12. gradio 快速的构建UI网页[link](https://www.gradio.app/docs)
+13. 群体智能算法  [link](https://scikit-opt.github.io/scikit-opt/#/zh/?id=scikit-opt)
 
 # 业务模型 #
 
