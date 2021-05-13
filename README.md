@@ -123,6 +123,7 @@
 67. 目标检测之Neck选择  [link](https://zhuanlan.zhihu.com/p/342011052)
 68. 根据标签分布来选择损失函数 [link](https://zhuanlan.zhihu.com/p/304462034)
 69. 深度学习多目标优化的多个loss应该如何权衡 [link](https://zhuanlan.zhihu.com/p/362330594)
+70. [算法模型调优指南](https://mp.weixin.qq.com/s/FIIUDyXqX5Hn-j0CjhZ4YQ)
 
 
 
@@ -150,7 +151,12 @@
 19. 目标跟踪之Siamese网络 [link](https://zhuanlan.zhihu.com/p/101494393)
 20. 特征工程小锦囊 [github](https://github.com/Pysamlam/Tips-of-Feature-engineering)
 
+### AI系统
+
+1.  从小作坊到智能中枢: MLOps简介[link](https://mp.weixin.qq.com/s/3u_WmzrTc981Rpm_acVu5g)
+
 ### 模型集中库
+
 0.   PaddlePaddle 模型库[github](https://github.com/PaddlePaddle/models)
 
 ### 图像处理
@@ -289,6 +295,7 @@
 23. SimCLR框架的理解和代码实现以及代码讲解  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490155&idx=1&sn=5efdaaeeef4fc5316a9d94d2f2f78946&chksm=c0699236f71e1b20e066d116457394ab658243242f0e9c5ef89d8c2fac5b7fdff27a86c5d34c&scene=126&sessionid=1596422021&key=6664ac14267ba668c3a5ab8d13279f8afee0b865678dbc29dc2c29d759e65b6f1a8cc099bf059948d41c1bfc1079541b4be1cba6fdc144d8b8400b155ae6d5d7666397c50bc26dd7e3b7c54d3c499a28&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=Ac9yv02gG%2BNTldblfRRAPE8%3D&pass_ticket=b5VzcvFqWjEDeZ0HQG2hZtKRfL4vajEjWbUjYqCjykDTg%2FnwOxVEMifElhwJcUa%2B)
 24. 使用元学习来进行少样本图像分类   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489941&idx=1&sn=1a7f9718de7909e16e889581e3302508&chksm=c06991c8f71e18de27a63dc5c4e9064518a953588b5c6160bf5faa1161871f5f1b15a2349720&mpshare=1&scene=1&srcid=0718OgEDsi8nNLf4c0LrWZHy&sharer_sharetime=1595058213005&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f91d54032be0797121e292fc07ec3dcb38f35de4930fadfd250cf73a18afb14332622ddb52e1347419525094e12ec8c86124a8f740716c8027110c68d2e81f7cc3c7b18f6841d7c3d4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASaLsigx00Cl0hJN9L5%2FOeo%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 25. RepVGG  [link](https://github.com/DingXiaoH/RepVGG)
+26. [xmu-xiaoma666/MLP-Mixer-pytorch: Unofficial implementation of MLP-Mixer: An all-MLP Architecture for Vision (github.com)](https://github.com/xmu-xiaoma666/MLP-Mixer-pytorch)
 
 ###  目标检测
 
@@ -1294,9 +1301,15 @@
 
 1.  CVPR 2021 论文和开源项目合集(Papers with Code) [github](https://github.com/amusi/CVPR2021-Papers-with-Code#Virtual-Try-On)
 
+### 相似性搜索(Faiss)
 
+1.   [Faiss流程与原理分析](https://www.cnblogs.com/yhzhou/p/10568728.html)
+2.  [Faiss从入门到实战精通_bitcarmanlee的博客-CSDN博客_faiss是什么](https://blog.csdn.net/bitcarmanlee/article/details/106447629)
+3.  [图像检索 ](http://blog.rexking6.top/categories/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/)
 
 ### 其他
+
+
 
 0. iSketchNFill：AI帮你画——交互式涂鸦自动补全 [github](https://github.com/arnabgho/iSketchNFill)
 1. 使用YOLOv3演示行人跟踪卡尔曼滤波器 [github](https://github.com/afunTW/pytorch-mot-tracking)
@@ -1364,7 +1377,6 @@
 63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
 64. 微信官方开源了自家优化的二维码引擎  [link](https://mp.weixin.qq.com/s/xzc19NIGxy_YTLyw2_DCoA)
 65. 一个CV算法工程师的小反思 [link](https://zhuanlan.zhihu.com/p/363354912)
-66. 
 
 # 语言工具
 
