@@ -1382,6 +1382,11 @@
 
 
 
+### 网络
+
+1.  [最多能创建多少个 TCP 连接？ (qq.com)](https://mp.weixin.qq.com/s/X6c_H5_4OInR8nFQVn7IMA)
+2.  [你管这破玩意叫 IO 多路复用](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3NDE0Ng==&mid=2247494866&idx=1&sn=0ebeb60dbc1fd7f9473943df7ce5fd95&chksm=c2c5967ff5b21f69030636334f6a5a7dc52c0f4de9b668f7bac15b2c1a2660ae533dd9878c7c&scene=21#wechat_redirect)
+
 ### VM
 
 1.  Windows设置VMware开机自动启动，虚拟机也启动    [link](https://blog.csdn.net/libinemail/article/details/55050306)
