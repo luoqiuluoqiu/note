@@ -745,6 +745,7 @@
 30. deep-sdm   106个特征点检测 [github](https://github.com/chengzhengxin/deep-sdm)
 31. 轻量级人脸检测算法实现大盘点  [link](https://www.toutiao.com/a6889232009273541127/)
 32. [Pytorch_Retinaface 人脸检测与特征点定位](https://github.com/biubug6/Pytorch_Retinaface)
+33. Numerical Coordinate Regression=高斯热图 VS 坐标回归 [link](https://zhuanlan.zhihu.com/p/53057942)
 
 ### 无人驾驶
 
@@ -1248,11 +1249,12 @@
 
 1.  计算机视觉中的半监督学习   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489967&idx=1&sn=ff26fc578b5833e4513f5bc55fc8853b&chksm=c06991f2f71e18e4b842d8a467384088555b7fc48c1799e9e2d8c03cf01c3c8ab3b56a9d3754&mpshare=1&scene=1&srcid=0718e6cj1SV6HFTVI19Vrn9V&sharer_sharetime=1595057540307&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa9413811f4d367d03d382505c6c2afbef3fe77b301561bba431f0fb069fc9a6384d76be0800eaf09d7d98fecb8976fad460e935a1aff3fadbb853aef67001d89d076af4cd202c50f839&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AR%2BthPZiLc4JLV2EO7TqSFg%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
 
-### 图像卡通画、迁移
+### 图像卡通画、迁移、动作移植
 
 1.  图像卡通化 [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) 
 2.  不用GAN，照片生成简笔画，效果惊艳  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=2&sn=8686385b83194812d55ceeff5ee16072&chksm=84e5d7e2b3925ef4348153cc31ccc9b304e8f7440a3707c7c86fe3ef15f47b52dc9bba2184b1&mpshare=1&scene=1&srcid=1220KiZycxV1x6jE7vB4IUky&sharer_sharetime=1608473433146&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494cf9e8268325cf65fb704a34d4f29c90e6c53231019424deb0dc0cd61886550ce8c17f0b0febb5f87963a0693b7a83cc7eba5041ad6b8b55cc50e8c34370cf4189d0f0472c211340cfde8e7f1f4a6e4d5e041b843cfc0ab49d62d98bad958f0ff8135e03877941dec9e07b7bc778e970e2921c16cb6db266c5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=Ae6%2BR5jmo0nycYW5glNhIS8%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0) [github](https://github.com/vijishmadhavan/ArtLine)
 3.  图像风格迁移也有框架  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650805148&idx=3&sn=1b02b7ee2421b3eda059a9144c0a659b&chksm=84e5d7e2b3925ef49f25a79eddafa592a1958dd123713ff99276665070126406e4a7aaeea66b&mpshare=1&scene=1&srcid=1220sd41vyeIOkrB9SiHPr1S&sharer_sharetime=1608473458047&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=d37330a9c208494ca7c566550852887855d3905d8d54509787a03195ea0332b41833cbe46bfeeac3866cf55dac7a5d990bf57ecb8d9e5c785ee1277f5f73fb80b6106dc4841e978da1bdacc570098700ddaed95fecc0cb2b210b3ae5390cecaab6ca0070c3c4c76cabb5e5ab4ff3bc7b30e17bd6c51ff010f84e5dcfd0d35eb5&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AfeXqA23o5QGFPlMn4M5cqY%3D&pass_ticket=dkn3VXyicu2r29Ri1OT6S3VQT%2FYE40hX%2BHE016SAbciC57vJAwQhuBCUZIFqp2b3&wx_header=0)   [github](https://github.com/pmeier/pystiche)
+4.  Motion Representations for Articulated Animation  [link](https://snap-research.github.io/articulated-animation/)
 
 
 
