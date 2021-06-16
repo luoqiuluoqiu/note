@@ -270,32 +270,60 @@
 ### 分类 
 
 0. 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺 [link](https://zhuanlan.zhihu.com/p/77221549) [link](https://www.paperswithcode.com/sota/image-classification-on-imagenet)
+
 1. 让CNN有了平移不变性  [link](https://mp.weixin.qq.com/s/trWBJHEn45gs6vBIoGk4lg)
+
 2. lottery-ticket-hypothesis  [github](https://github.com/google-research/lottery-ticket-hypothesis)
+
 3. pytorch_image_classification [github](https://github.com/hysts/pytorch_image_classification)
+
 4. deeplearning-models[github](https://github.com/rasbt/deeplearning-models)
+
 5. CNN模型合集  [link](https://zhuanlan.zhihu.com/c_1108736111320555520)
+
 6. EfficientNets-PyTorch  2019 [github](https://github.com/zsef123/EfficientNets-PyTorch)
+
 7. ML_GCN  PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019  [github](https://github.com/chenzhaomin123/ML_GCN)
+
 8. Inception 
+
 9. Network in Network 
+
 10. pytorch_highway_networks [github](https://github.com/c0nn3r/pytorch_highway_networks)
+
 11. 推崇的CNN架构 [link](https://zhuanlan.zhihu.com/p/64007515)
+
 12. OctaveConv_pytorch 2019 [github](https://github.com/lxtGH/OctaveConv_pytorch)
+
 13. Res2Net
+
 14. 分类实现合集 pytorch  [github](https://github.com/Cadene/pretrained-models.pytorch)
+
 15. Auto-Keras [link](https://blog.csdn.net/weixin_42499236/article/category/8399753)
+
 16. 图卷积网络Numpy实现 [link](https://zhuanlan.zhihu.com/p/57235377)
+
 17. PeleeNet-基于手机系统的实时网络 [link](https://www.ctolib.com/topics-137195.html)
+
 18. SKNet 2019 [link](https://zhuanlan.zhihu.com/p/59690223)
+
 19. TResNet: High Performance GPU-Dedicated Architecture [github](https://github.com/mrT23/TResNet)
+
 20. ResNeSt 李沐团队提出最强ResNet改进版，多项任务达到SOTA  [github](https://github.com/zhanghang1989/ResNeSt)
+
 21. SCNet - PyTorch官方实现CVPR 2020论文“使用自校准卷积改进卷积网络”       [github](https://github.com/backseason/SCNet)
+
 22. SimCLR  对比学习得到一个好的视觉预训练模型 [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489211&idx=1&sn=2c5c5940f56798dff154e0719fe28a5d&chksm=c0699ee6f71e17f0b23b47d10e36de79e2165dc2bceb0007e04c1e4613555f8a4aa7743a973c&mpshare=1&scene=1&srcid=&sharer_sharetime=1589933713312&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=595c9888292a8f2e21f6540c9c27b659cafe1646b6c14eb06c4c37e02a2d7067089777b574937cc5d56755cea086f93880a4160ae64a0940c8fa653b72835a02b01d03110d57f796968e51f0c588013e&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AdtewTvWySWVq7A6EJX1DaM%3D&pass_ticket=AKxzAlU5OlkEEJTjSqMVzaue4iUym561ukJkUd2igHKb7%2BZJoCpR3oiAusszBzsp)
+
 23. SimCLR框架的理解和代码实现以及代码讲解  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247490155&idx=1&sn=5efdaaeeef4fc5316a9d94d2f2f78946&chksm=c0699236f71e1b20e066d116457394ab658243242f0e9c5ef89d8c2fac5b7fdff27a86c5d34c&scene=126&sessionid=1596422021&key=6664ac14267ba668c3a5ab8d13279f8afee0b865678dbc29dc2c29d759e65b6f1a8cc099bf059948d41c1bfc1079541b4be1cba6fdc144d8b8400b155ae6d5d7666397c50bc26dd7e3b7c54d3c499a28&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=Ac9yv02gG%2BNTldblfRRAPE8%3D&pass_ticket=b5VzcvFqWjEDeZ0HQG2hZtKRfL4vajEjWbUjYqCjykDTg%2FnwOxVEMifElhwJcUa%2B)
+
 24. 使用元学习来进行少样本图像分类   [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247489941&idx=1&sn=1a7f9718de7909e16e889581e3302508&chksm=c06991c8f71e18de27a63dc5c4e9064518a953588b5c6160bf5faa1161871f5f1b15a2349720&mpshare=1&scene=1&srcid=0718OgEDsi8nNLf4c0LrWZHy&sharer_sharetime=1595058213005&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f91d54032be0797121e292fc07ec3dcb38f35de4930fadfd250cf73a18afb14332622ddb52e1347419525094e12ec8c86124a8f740716c8027110c68d2e81f7cc3c7b18f6841d7c3d4&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASaLsigx00Cl0hJN9L5%2FOeo%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)
-25. RepVGG  [link](https://github.com/DingXiaoH/RepVGG)
+
+25. RepVGG 2021  [link](https://github.com/DingXiaoH/RepVGG)
+
 26. [xmu-xiaoma666/MLP-Mixer-pytorch: Unofficial implementation of MLP-Mixer: An all-MLP Architecture for Vision (github.com)](https://github.com/xmu-xiaoma666/MLP-Mixer-pytorch)
+
+    
 
 ###  目标检测
 
@@ -468,6 +496,7 @@
 37.  使用Keras实现深度学习中的一些语义分割模型和各种损失函数 [github](https://github.com/BBuf/Keras-Semantic-Segmentation)
 38.  Non-local U-Nets for Biomedical Image Seg    2020 [github](https://github.com/Whu-wxy/Non-local-U-Nets-2D-block) [link](https://zhuanlan.zhihu.com/p/163507824?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
 39.  图像分割涨点技巧！从39个Kaggle竞赛中总结出的分割Tips和Tricks  [link](https://zhuanlan.zhihu.com/p/330994781)
+40.  SOLQ：无需任何后处理的端到端实例分割  [link](https://mp.weixin.qq.com/s/_wJUSIwAu_-jgO_OeD-yBQ)
 
 #### 无监督分割
 
@@ -661,6 +690,7 @@
 
 0. few shot learning调研 [link](https://zhuanlan.zhihu.com/p/56014325)
 1. 小样本分割综述   [link](https://zhuanlan.zhihu.com/p/141262205)
+2. 计算机视觉中的小样本学习综述 [link](https://mp.weixin.qq.com/s/_aWLkmWxRsTjqrBTna4qfQ)
 
 
 
@@ -774,6 +804,7 @@
 17. [SeetaFace6 ](https://github.com/seetafaceengine/SeetaFace6)  [**SeetaFace6 入门教程**](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
 18. 人脸口罩检测与识别-助力于新型冠状病毒疫情防控   [github](https://github.com/vdjango/MaskFace)
 19. [Pyramidbox.pytorch](https://github.com/yxlijun/Pyramidbox.pytorch)
+20. FaceFinder [github](https://github.com/BleepLogger/FaceFinder)
 
 ###  人脸融合
 
@@ -889,6 +920,7 @@
 40. 端到端的票据类版面分析算法 [link](https://zhuanlan.zhihu.com/p/355536538) [github](https://github.com/limengyang1992/seq2seq-layout-analysis)
 41. [mmocr](https://github.com/open-mmlab/mmocr)
 42. 车牌识别 模型部署翻车记：pytorch转onnx踩坑实录 [link](https://mp.weixin.qq.com/s/psG9tLZi-6C-p3nNcGEdjw)
+43. 古籍文档图像二值化：基于背景估计和能量最小化的方法 [link](https://mp.weixin.qq.com/s/-Ug0C96SdGCr-kg-IN7DXw)
 
 ### 去水印 inpaint
 
@@ -1234,6 +1266,7 @@
 17. FAT：一种快速的Triplet Loss近似方法，学习更鲁棒的特征表示，并进行有噪声标签的提纯  [link](https://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&mid=2247491063&idx=1&sn=e70528f5da61907e49b45d30bb082f3c&chksm=c06995aaf71e1cbc7051fc49d7cfd1697913e4f60a0024c5a25247c6d88d023bf4fdbfb2073e&mpshare=1&scene=1&srcid=0926fmEO7mmz92rYw34sEhzL&sharer_sharetime=1601056970328&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f96ef854426e3698a8f14754bd9bfb06759436bb00991ca4a311aa8a96c7b0686fa44679665d73a44405ac97dffb7ec42c09df86666596f10296ff4a4759e2c56342327289cc72a707807aebddf44bee276183c721d9c4669a802fffa3e90b96393d74dcd5b6bbbf6d8a5936107cdd496f510588fa7f5935dc&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AWLMU38A%2FZFS760N1n0FdqM%3D&pass_ticket=kERHGnXUqVSlY6q31Mfm6mACF9pWHVeqeCdSgmQFlJ0btQq5yy0r1IAME0D7sxts&wx_header=0)  [github](https://github.com/VITA-Group/FAT)
 18. 用于医学图像分割的损失函数  [link](https://zhuanlan.zhihu.com/p/267128903)
 19. 目标检测回归损失函数简介：SmoothL1/IoU/GIoU/DIoU/CIoU Loss  [link](https://bbs.cvmart.net/topics/1436)
+20. 损失函数技术总结  [link](https://mp.weixin.qq.com/s/RgHxo8XGmUzFm_FWCoAdsg)
 
 
 
@@ -1265,6 +1298,7 @@
 3.  End-to-End Object Detection with Transformers  [link](https://zhuanlan.zhihu.com/p/149252931)
 4.  Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet  [github](https://github.com/yitu-opensource/T2T-ViT)
 5.  [vision-transformer-pytorch](https://github.com/asyml/vision-transformer-pytorch)
+6.  如何简单高效地加速基于BERT的序列标注模型？细粒度早退机制可能会优于模型蒸馏  [link](https://zhuanlan.zhihu.com/p/379935087?utm_oi=27925374042112)
 
 
 
@@ -1379,6 +1413,7 @@
 63. 如何阅读一个前向推理框架？以NCNN为例  [link](https://zhuanlan.zhihu.com/p/338121531?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608&utm_campaign=shareopn)
 64. 微信官方开源了自家优化的二维码引擎  [link](https://mp.weixin.qq.com/s/xzc19NIGxy_YTLyw2_DCoA)
 65. 一个CV算法工程师的小反思 [link](https://zhuanlan.zhihu.com/p/363354912)
+66. 视频防抖FuSta  [link](https://alex04072000.github.io/FuSta/)
 
 # 语言工具
 
@@ -1454,6 +1489,7 @@
 51. windows server中opencv运行过程中MF.dll/MFReadWrite.dll/MFPlat.DLL文件丢失问题解决   [link](https://blog.csdn.net/byxdaz/article/details/107718453)
 52.  muggle-ocr库 [link](https://pypi.org/project/muggle-ocr/)  [train](https://github.com/kerlomz/captcha_trainer)
 53. 利用Python实现内网穿透（可向公网映射内网应用程序）  [github](https://github.com/mgsky1/Venus)
+54. python 实现js [github](https://github.com/atupal/tinyjs.py)
 
 ### selenium、puppeteer、[Pyppeteer](https://github.com/miyakogi/pyppeteer)、  [rod](https://github.com/go-rod/rod) 、WebExtensions API、chromedp、 devtools [macacajs](https://macacajs.com/zh/)
 
@@ -1574,6 +1610,7 @@
 ### mysql
 
 0. CentOS7安装MySQL  [github](https://blog.csdn.net/qq_36582604/article/details/80526287)
+1. 35 张图带你 MySQL 调优  [link](https://mp.weixin.qq.com/s/CF0WODa-kCypJiQaA9XkDQ)
 
 ### 逆向
 
