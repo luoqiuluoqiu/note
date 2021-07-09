@@ -594,6 +594,7 @@
 39. 9大主题卷积神经网络(CNN)的PyTorch实现   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
 40. [computervision-recipes](https://github.com/microsoft/computervision-recipes)
 41. pytorch-receptive-field  感受野计算   [github](https://github.com/Fangyh09/pytorch-receptive-field)
+42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
 
 ### paddlepaddle
 
