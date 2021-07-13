@@ -639,7 +639,7 @@
 
 
 
-
+### [ppl.nn](https://github.com/openppl-public/ppl.nn) [ppl.cv](https://github.com/openppl-public/ppl.cv) 商汤开源框架
 
 ​	
 
@@ -1104,6 +1104,9 @@
 50. 肖像画  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803122&idx=1&sn=6a06d9e5b1d49a4a107328eb23c1ba95&chksm=84e5cfccb39246daac2759406b86550449d2620e68e5070023a44d129f1c7b11420e9453b81e&mpshare=1&scene=1&srcid=11258uyMnZKfD6pu31HdgSYr&sharer_sharetime=1606313448761&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f63f02c774b21274a2c2bdd11ae9ef2d20259f64c93dc61131822b52eb64744e6545deedcc552e1b5540d6f228ff88810ccab318534dead2f691eb686a47535115f8baae029b3f25d1216bfe152d02a6691ef4762f753dffb7381df4a3a236eff0540a11f22ecdf7d64bc40762d01c8d6adf7483c11b954f37f&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AXqbIGjjT2wbKp9h1lpM%2FbE%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
 51. Deep-Iterative-Collaboration   [github](https://github.com/Maclory/Deep-Iterative-Collaboration)
 52.  [anycost-gan](https://github.com/mit-han-lab/anycost-gan)
+53. 漫谈VAE和VQVAE，从连续分布到离散分布 [link](https://mp.weixin.qq.com/s/CUGB8oAN0F0tmEsSlmWLJQ)
+
+
 
 
 
