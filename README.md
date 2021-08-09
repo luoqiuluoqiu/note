@@ -595,6 +595,7 @@
 40. [computervision-recipes](https://github.com/microsoft/computervision-recipes)
 41. pytorch-receptive-field  感受野计算   [github](https://github.com/Fangyh09/pytorch-receptive-field)
 42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
+43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
 
 ### paddlepaddle
 
@@ -922,6 +923,7 @@
 41. [mmocr](https://github.com/open-mmlab/mmocr)
 42. 车牌识别 模型部署翻车记：pytorch转onnx踩坑实录 [link](https://mp.weixin.qq.com/s/psG9tLZi-6C-p3nNcGEdjw)
 43. 古籍文档图像二值化：基于背景估计和能量最小化的方法 [link](https://mp.weixin.qq.com/s/-Ug0C96SdGCr-kg-IN7DXw)
+44. 金山OCR识别框架KSAI-Toolkits    [github]([kingsoft-wps/KSAI-Toolkits (github.com)](https://github.com/kingsoft-wps/KSAI-Toolkits))
 
 ### 去水印 inpaint
 
@@ -1303,10 +1305,15 @@
 4.  Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet  [github](https://github.com/yitu-opensource/T2T-ViT)
 5.  [vision-transformer-pytorch](https://github.com/asyml/vision-transformer-pytorch)
 6.  如何简单高效地加速基于BERT的序列标注模型？细粒度早退机制可能会优于模型蒸馏  [link](https://zhuanlan.zhihu.com/p/379935087?utm_oi=27925374042112)
+7.  当Transformer遇见U-Net！ [link](https://zhuanlan.zhihu.com/p/389880194)
 
 
 
+### image animation
 
+1.  [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)
+2.  [articulated-animation](https://github.com/snap-research/articulated-animation)
+3.  [AliaksandrSiarohin/motion-cosegmentation: Reference code for "Motion-supervised Co-Part Segmentation" paper (github.com)](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
 
 ### 模型转换
 
