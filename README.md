@@ -124,6 +124,7 @@
 68. 根据标签分布来选择损失函数 [link](https://zhuanlan.zhihu.com/p/304462034)
 69. 深度学习多目标优化的多个loss应该如何权衡 [link](https://zhuanlan.zhihu.com/p/362330594)
 70. [算法模型调优指南](https://mp.weixin.qq.com/s/FIIUDyXqX5Hn-j0CjhZ4YQ)
+71. 归一化方法总结 | 又名"BN和它的后浪们" [link](https://mp.weixin.qq.com/s/HM1lYXGlsig1CNTnqkC_mg)
 
 
 
@@ -596,6 +597,7 @@
 41. pytorch-receptive-field  感受野计算   [github](https://github.com/Fangyh09/pytorch-receptive-field)
 42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
 43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
+44. pytorch-image-models [Pytorch Image Models (rwightman.github.io)](https://rwightman.github.io/pytorch-image-models/)
 
 ### paddlepaddle
 
@@ -1314,6 +1316,12 @@
 1.  [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)
 2.  [articulated-animation](https://github.com/snap-research/articulated-animation)
 3.  [AliaksandrSiarohin/motion-cosegmentation: Reference code for "Motion-supervised Co-Part Segmentation" paper (github.com)](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
+4.  Avatarify Python [github](https://github.com/alievk/avatarify-python)
+5.  [ALAE](https://github.com/podgorskiy/ALAE)
+6.  SofGAN: A Portrait Image Generator with Dynamic Styling
+    ACM Transactions on Graphics 2021  [link](https://apchenstu.github.io/sofgan/)
+7.  SimSwap   [link](https://zhuanlan.zhihu.com/p/380765530) [github](https://github.com/neuralchen/SimSwap)
+8.  [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 
 ### 模型转换
 
@@ -1548,6 +1556,7 @@
 7. C++每周小技巧 [link](https://abseil.io/tips/1)
 8. Cpp-Httplib - 只有一个C++头文件的跨平台HTTP库   [github](https://github.com/yhirose/cpp-httplib)
 9. NN-CUDA-[Example](https://github.com/godweiyang/NN-CUDA-Example)
+10. 手把手教你构建 C 语言编译器  [link](https://lotabout.me/2015/write-a-C-interpreter-0/)
 
 
 ### dlib
