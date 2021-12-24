@@ -598,6 +598,8 @@
 42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
 43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
 44. pytorch-image-models [Pytorch Image Models (rwightman.github.io)](https://rwightman.github.io/pytorch-image-models/)
+44. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
+44. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
 
 ### paddlepaddle
 
@@ -645,6 +647,10 @@
 ### [ppl.nn](https://github.com/openppl-public/ppl.nn) [ppl.cv](https://github.com/openppl-public/ppl.cv) 商汤开源框架
 
 ​	
+
+### [ VNN](https://github.com/joyycom/VNN)  欢聚集团推出的高性能、轻量级神经网络部署框架
+
+
 
 ### 工具
 
@@ -724,6 +730,7 @@
 21. [minGPT](https://github.com/karpathy/minGPT)
 22. [Unilm](https://github.com/YunwenTechnology/Unilm)
 23. Transformer模型详解  讲解为最清晰 [link](https://terrifyzhao.github.io/2019/01/11/Transformer%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.html)
+24. #  **[lightseq](https://github.com/bytedance/lightseq)**
 
 ### 边缘检测算法
 
@@ -1052,6 +1059,7 @@
 6. TrojanNet    [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650792902&idx=5&sn=f27e5e7238d5e516e231a20184d40cb9&chksm=871a27b8b06daeaeb6b59c70d465edc05544d9f2c2f58b11355aca32b2d4017f6e9d16b732d4&mpshare=1&scene=1&srcid=0718zBR4IVWa1STxwAc2pku6&sharer_sharetime=1595057242744&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=041bb01ba83758f90454ea851b61b98e326d6311f77878a21febcf5cb403a546b9e334c6cec51446cf83fcfdeadae4b810dbac3e42b7343874b3e9d27f8b6b2152284c2150e8c9739cafcfab62c42229&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AeZiA%2BisRhsIZIXC96bGPRM%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX) [github](https://github.com/trx14/TrojanNet)
 7. 微软旷视人脸识别100%失灵！芝加哥大学新研究「隐身衣」，帮你保护照片隐私数据   [link](https://zhuanlan.zhihu.com/p/163137978) [github](https://github.com/Shawn-Shan/fawkes)
 8. 用这种方法骗过护照人脸识别系统    [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650794666&idx=2&sn=9ab4c9280bf07f135f9c529f7da4f356&chksm=871a2ed4b06da7c2c632fe4299d0c5e111b1d6d7d358e2a4b36e228bd53260405e319acdb142&mpshare=1&scene=1&srcid=08092J2uegcqXR4cX3NwkvGb&sharer_sharetime=1596960588009&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6664ac14267ba668fba8a6baf6e9748a9efd5fcd89548849f73b855fec632c9e82ae1f38d5c050d6d02d2954e48aad7f20ad649229c0c7e5d501441d17b3200c3be2489b066d9d4534780758843b1570&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AcywXSVZYb9RWSXwlGyO1as%3D&pass_ticket=o0CuyW3IDZ5y5KMMKwGnELVbh2VCcpJSX7bZTVUfWBUWM6%2BASjGdw5Xo6CTW%2FEUj)
+8. 对抗攻击算法FGSM的纯粹版    [link](https://mp.weixin.qq.com/s/vpYbZqeUPCohr4w--hFHiw)
 
 ### GAN 对抗神经网络
 
