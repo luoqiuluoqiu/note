@@ -1455,6 +1455,13 @@
 
 1.  Windows设置VMware开机自动启动，虚拟机也启动    [link](https://blog.csdn.net/libinemail/article/details/55050306)
 
+
+
+### Vulkan Game Engine 视频教程
+
+1.  Vulkan Game Engine 视频教程 [link](https://www.youtube.com/c/BrendanGalea/playlists)   [github](https://github.com/blurrypiano/littleVulkanEngine)
+2.  [音视频春节假期内卷指南](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451531381&idx=2&sn=c50258d9dda08654edf9434813dd11b5&chksm=886fcfdabf1846ccedbfda2b8d1b86e539b2cf0ce07c7f23f8633d57b84d54569e78acf985f0&scene=21#wechat_redirect)
+
 ### Docker
 
 1.  [Docker] 教你如何用Docker快速搭建深度学习环境   [link](https://www.cnblogs.com/bingmang/p/9813686.html)
@@ -1646,7 +1653,24 @@
 1. 从虚拟机架构到编译器实现 [link](https://zhuanlan.zhihu.com/p/72356928)
 2. Application behavior monitor based on inline hook  [github](https://github.com/matrixcascade/PeDoll)  [link](https://zhuanlan.zhihu.com/p/75923288)
 
+### 数据库与中间件
 
+1.  redis与mysql  
+
+    数据库和缓存之间一般不需要强一致性。
+
+    一般缓存是这样的：
+
+    -   读的顺序是先读缓存，后读数据库
+    -   写的顺序是先写数据库，然后写缓存
+    -   每次更新了相关的数据，都要把该缓存清理掉
+    -   为了避免极端条件下造成的缓存与数据库之间的数据不一致，缓存需要设置一个失效时间。时间到了，缓存自动被清理，达到缓存和数据库数据的“最终一致性”
+
+2.  etcd
+
+3.  apollo
+
+4.  rabbit mq
 
 ###  安全
 
