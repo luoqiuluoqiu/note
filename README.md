@@ -215,7 +215,7 @@
 21. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
 22. [Msnhnet](https://github.com/msnh2012/Msnhnet) 2020
 23. Simple Dynamic Batching Inference [github](https://github.com/YellowOldOdd/SDBI)
-
+23. [nebullvm (github.com)](https://github.com/nebuly-ai/nebullvm) [link](https://mp.weixin.qq.com/s/nlr_9FVZE8EmdE-E64gc2A)
 
 ### 蒸馏 剪枝  量化
 
