@@ -787,6 +787,8 @@
 31. 轻量级人脸检测算法实现大盘点  [link](https://www.toutiao.com/a6889232009273541127/)
 32. [Pytorch_Retinaface 人脸检测与特征点定位](https://github.com/biubug6/Pytorch_Retinaface)
 33. Numerical Coordinate Regression=高斯热图 VS 坐标回归 [link](https://zhuanlan.zhihu.com/p/53057942)
+33. Lightweight OpenPose
+33. 轻量级人体姿态估计模型MoveNet  [fire717/movenet.pytorch: A Pytorch implementation of MoveNet from Google. Include training code and pre-trained model. (github.com)](https://github.com/fire717/movenet.pytorch)
 
 ### 无人驾驶
 
