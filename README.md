@@ -1166,6 +1166,7 @@
 21. SkyAR   天空变换 [github](https://github.com/jiupinjia/SkyAR)
 22.  animal-matting   [github](https://github.com/JizhiziLi/animal-matting/)
 23. MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting [github](https://github.com/ZHKKKe/MODNet)
+23. [pymatting/pymatting: A Python library for alpha matting (github.com)](https://github.com/pymatting/pymatting)
 
 ### 行人检测
 
