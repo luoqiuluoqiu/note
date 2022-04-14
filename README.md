@@ -1623,7 +1623,7 @@
 
 1. [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 
-### opencv
+### opencv、[cvzone (github.com)](https://github.com/cvzone/cvzone)、[google/mediapipe: Cross-platform, customizable ML solutions for live and streaming media. (github.com)](https://github.com/google/mediapipe)
 
 0. learnopencv [link](https://www.learnopencv.com) [github](https://github.com/spmallick/learnopencv)
 
