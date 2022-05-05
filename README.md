@@ -1286,6 +1286,10 @@
 18. 用于医学图像分割的损失函数  [link](https://zhuanlan.zhihu.com/p/267128903)
 19. 目标检测回归损失函数简介：SmoothL1/IoU/GIoU/DIoU/CIoU Loss  [link](https://bbs.cvmart.net/topics/1436)
 20. 损失函数技术总结  [link](https://mp.weixin.qq.com/s/RgHxo8XGmUzFm_FWCoAdsg)
+20. [jiawei-ren/BalancedMSE: [CVPR 2022 Oral\] Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427 (github.com)](https://github.com/jiawei-ren/BalancedMSE)
+20. Contrastive Loss、Triplet Loss、Focal Loss
+
+
 
 
 
