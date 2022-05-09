@@ -442,6 +442,7 @@
 63. 旋转目标新网络   [link](https://zhuanlan.zhihu.com/p/333632365) [github](https://github.com/yangxue0827/RotationDetection)
 64. 令人“细思极恐”的Faster-R-CNN   [link](https://zhuanlan.zhihu.com/p/342843113)   [github](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
 65. 基于密度图的航空物体检测  [link](https://mp.weixin.qq.com/s/xauumh4ryQup5NMuMVIjtw)
+65. [NMS技术总结（NMS原理、多类别NMS、NMS的缺陷、NMS的改进思路、各种NMS方法）](https://mp.weixin.qq.com/s/btHpHQwIaRWZcua1sdbgCQ)
 
 ###  语义分割
 
@@ -1287,7 +1288,8 @@
 19. 目标检测回归损失函数简介：SmoothL1/IoU/GIoU/DIoU/CIoU Loss  [link](https://bbs.cvmart.net/topics/1436)
 20. 损失函数技术总结  [link](https://mp.weixin.qq.com/s/RgHxo8XGmUzFm_FWCoAdsg)
 20. [jiawei-ren/BalancedMSE: [CVPR 2022 Oral\] Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427 (github.com)](https://github.com/jiawei-ren/BalancedMSE)
-20. Contrastive Loss、Triplet Loss、Focal Loss
+20.  Contrastive Loss、Triplet Loss、Focal Loss
+20. [一文看尽深度学习中的15种损失函数](https://mp.weixin.qq.com/s/F1UY-gUMkqYXqgNRlGUEDg)
 
 
 
