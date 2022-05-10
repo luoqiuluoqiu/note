@@ -1025,6 +1025,8 @@
 
 31. 如何恢复降采样后的高清图片？可逆图像缩放搞定   [github](https://github.com/pkuxmq/Invertible-Image-Rescaling)
 
+31. 去噪、去模糊、去雾、去雾和增强[google-research/maxim: [CVPR 2022 Oral\] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement. (github.com)](https://github.com/google-research/maxim)
+
     
 
 ### 质量评估、图像增强
