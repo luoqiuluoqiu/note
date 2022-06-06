@@ -731,7 +731,9 @@
 21. [minGPT](https://github.com/karpathy/minGPT)
 22. [Unilm](https://github.com/YunwenTechnology/Unilm)
 23. Transformer模型详解  讲解为最清晰 [link](https://terrifyzhao.github.io/2019/01/11/Transformer%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.html)
-24. #  **[lightseq](https://github.com/bytedance/lightseq)**
+24.   [lightseq](https://github.com/bytedance/lightseq)
+25. Jaccard与cosine[文本相似度的异同](https://zhuanlan.zhihu.com/p/60723017)
+24. 
 
 ### 边缘检测算法
 
@@ -1036,6 +1038,7 @@
 2. 基于深度学习的图像增强调研   [link](https://zhuanlan.zhihu.com/p/63218165) [link2](https://zhuanlan.zhihu.com/p/82352961)
 3. [hdrnet](https://github.com/google/hdrnet) [link](https://blog.csdn.net/CHNguoshiwushuang/article/details/81843826)
 4. 用深度学习让你的照片变得美丽[github](https://github.com/aiff22/DPED)   [link](https://www.leiphone.com/news/201901/nBxwUpobjesJ6FPV.html)
+4. [实时图像增强，基于“间距自适应查找表”的方法（CVPR 2022） (qq.com)](https://mp.weixin.qq.com/s/GPVRPyj5wsePLUh2_6tdxQ)
 
 ### 语音合成与识别
 
@@ -1122,6 +1125,7 @@
 51. Deep-Iterative-Collaboration   [github](https://github.com/Maclory/Deep-Iterative-Collaboration)
 52.  [anycost-gan](https://github.com/mit-han-lab/anycost-gan)
 53. 漫谈VAE和VQVAE，从连续分布到离散分布 [link](https://mp.weixin.qq.com/s/CUGB8oAN0F0tmEsSlmWLJQ)
+53. 训练GAN[的一些骚操作](https://zhuanlan.zhihu.com/p/74663048)
 
 
 
