@@ -757,46 +757,137 @@
 ###  人脸检测和特征点定位
 
 0. Ultra-Light-Fast-Generic-Face-Detector-1MB [github](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+
 1. 利用Keras进行人脸分析的深度学习框架集合 [github](https://github.com/shaoanlu/face_toolbox_keras)
+
 2. RetinaFace的PyTorch实现：室外的单阶段密集人脸定位 [github](https://github.com/biubug6/Pytorch_Retinaface)
+
 3. MTCNN 人脸检测和跟踪 [github](https://github.com/zeusees/HyperFT)  [link](https://blog.csdn.net/relocy/article/details/84075570)
+
 4. Deep Convolutional Network Cascade for Facial Point Detection [link](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
+
 5. Multi-task face recognition framework based on PyTorch [github](https://github.com/XiaohangZhan/face_recognition_framework)
+
 6. A-Light-and-Fast-Face-Detector-for-Edge-Devices 2019 [github](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
+
 7. S3FD代码及论文解读 2017 [link](https://zhuanlan.zhihu.com/p/78923965)  [github](https://github.com/yxlijun/S3FD.pytorch)
+
 8. Dual Shot Face Detector 人脸检测的一个PyTorch实现  [github](https://github.com/yxlijun/DSFD.pytorch)
+
 9. PyTorch_BlazeFace [github](https://github.com/tkat0/PyTorch_BlazeFace)  [link](https://blog.csdn.net/shanglianlm/article/details/95809339)
+
 10. FaceKit [github](https://github.com/Jack-CV/FaceKit)
+
 11. PCN in Pytorch [github](https://github.com/siriusdemon/pytorch-PCN/blob/master/README-zh.md)
+
 12. 基于Heat Map的人脸特征点检测  [link](https://www.yinguobing.com/heat-map-based-facial-landmark-localization/)
+
 13. Hourglass+heatmap解决掌纹回归问题  [link](http://blog.sina.com.cn/s/blog_1450ac3c60102xb0c.html)
+
 14. FaceDetection-DSFD 腾讯优图 CVPR 2019 [github](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
+
 15. 人脸特征点  2019  [github](https://github.com/TencentYoutuResearch/FaceAttribute-FAN)
+
 16. libfacedetection caffe 静态C++代码 [github](https://github.com/ShiqiYu/libfacedetection)
+
 17. PyramidBox: 用pytorch实现上下文辅助单镜头人脸检测器 [github](https://github.com/yxlijun/Pyramidbox.pytorch)
+
 18. 人脸检测模型总结 [link](https://zhuanlan.zhihu.com/p/73134727)
+
 19. PRNet的非官方pytorch实现，包含训练和推理代码 [github](https://github.com/tomguluson92/PRNet_PyTorch)
+
 20. LFFD: 边缘设备的轻便快速人脸检测器  行人 人头 [github](https://github.com/becauseofAI/lffd-pytorch)
+
 21. CenterFace：实用的边缘设备无锚人脸检测器 [github](https://github.com/Star-Clouds/centerface) [link](https://blog.csdn.net/ckqsars/article/details/103045407)
+
 22. 1M人脸检测模型(含关键点)  [github](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
+
 23. 在Pytorch上对动漫人脸界标进行深度级联回归的实现 pytorch  [github](https://github.com/kanosawa/anime_face_landmark_detection)
+
 24. BlazeFace-PyTorch [github](https://github.com/hollance/BlazeFace-PyTorch)
+
 25. FaceMaskDetection - 开源人脸口罩检测模型和数据 [github](https://github.com/AIZOOTech/FaceMaskDetection)
+
 26. sbd_mask 基于CenterFace开发 cpu的口罩检测 [github](https://github.com/sbdcv/sbd_mask) 
+
 27. CPU推理速度100FPS的PyTorch人脸特征点定位 [github](https://github.com/cunjian/pytorch_face_landmark)
+
 28. 开源视频人脸跟踪算法,基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达250fps   [github](https://gitee.com/huiwei13/Ncnn_FaceTrack)
+
 29. yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）  [github](https://github.com/ouyanghuiyu/yolo-face-with-landmark)
+
 30. deep-sdm   106个特征点检测 [github](https://github.com/chengzhengxin/deep-sdm)
+
 31. 轻量级人脸检测算法实现大盘点  [link](https://www.toutiao.com/a6889232009273541127/)
+
 32. [Pytorch_Retinaface 人脸检测与特征点定位](https://github.com/biubug6/Pytorch_Retinaface)
+
 33. Numerical Coordinate Regression=高斯热图 VS 坐标回归 [link](https://zhuanlan.zhihu.com/p/53057942)
-33. Lightweight OpenPose
-33. 轻量级人体姿态估计模型MoveNet  [fire717/movenet.pytorch: A Pytorch implementation of MoveNet from Google. Include training code and pre-trained model. (github.com)](https://github.com/fire717/movenet.pytorch)
 
-### 无人驾驶
+34. Lightweight OpenPose
 
-0. 无人驾驶的资源列表中文版 [github](https://github.com/DeepTecher/awesome-autonomous-vehicle)
-1. 从MATLAB/Simulink入手学习无人驾驶   [link](https://www.zhihu.com/question/20210846/answer/1147397588?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
+35. 轻量级人体姿态估计模型MoveNet  [fire717/movenet.pytorch: A Pytorch implementation of MoveNet from Google. Include training code and pre-trained model. (github.com)](https://github.com/fire717/movenet.pytorch)
+
+36. 人脸对齐代码
+
+    ```
+    #-------------------------------------#
+    #   人脸对齐
+    #-------------------------------------#
+    def Alignment_1(img,landmark):
+    
+        if landmark.shape[0]==68:
+            x = landmark[36,0] - landmark[45,0]
+            y = landmark[36,1] - landmark[45,1]
+        elif landmark.shape[0]==5:
+            x = landmark[0,0] - landmark[1,0]
+            y = landmark[0,1] - landmark[1,1]
+        # 眼睛连线相对于水平线的倾斜角
+        if x==0:
+            angle = 0
+        else: 
+            # 计算它的弧度制
+            angle = math.atan(y/x)*180/math.pi
+    
+        center = (img.shape[1]//2, img.shape[0]//2)
+        
+        RotationMatrix = cv2.getRotationMatrix2D(center, angle, 1)
+        # 仿射函数
+        new_img = cv2.warpAffine(img,RotationMatrix,(img.shape[1],img.shape[0])) 
+    
+        RotationMatrix = np.array(RotationMatrix)
+        new_landmark = []
+        for i in range(landmark.shape[0]):
+            pts = []    
+            pts.append(RotationMatrix[0,0]*landmark[i,0]+RotationMatrix[0,1]*landmark[i,1]+RotationMatrix[0,2])
+            pts.append(RotationMatrix[1,0]*landmark[i,0]+RotationMatrix[1,1]*landmark[i,1]+RotationMatrix[1,2])
+            new_landmark.append(pts)
+    
+        new_landmark = np.array(new_landmark)
+    
+        return new_img, new_landmark
+    ————————————————
+    版权声明：本文为CSDN博主「Bubbliiiing」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+    原文链接：https://blog.csdn.net/weixin_44791964/article/details/111130326
+    
+    
+    为了构造这个矩阵，opencv提供了一个函数：
+    
+    M = cv2.getRotationMatrix2D(center, angle, scale)
+    此函数主要用于获得图像绕着某一点的旋转矩阵，这个函数需要三个参数，旋转中心，旋转角度，旋转后图像的缩放比例。返回一个2*3矩阵，主要用于cv2.warpAffine()仿射变换。
+    
+    parameters	
+    center：旋转中心坐标，是一个元组参数(col, row)
+    
+    angle：旋转角度，旋转方向，负号为逆时针，正号为顺时针
+    
+    scale：旋转后图像相比原来的缩放比例，1为等比例缩放
+    
+    returns	
+    获得一个旋转矩阵
+    ```
+
+    
 
 ###  人脸识别
 
@@ -871,6 +962,11 @@
 ### 时序
 
 0. 时间序列预测方法总结 [link](https://zhuanlan.zhihu.com/p/67832773)
+
+### 无人驾驶
+
+0. 无人驾驶的资源列表中文版 [github](https://github.com/DeepTecher/awesome-autonomous-vehicle)
+1. 从MATLAB/Simulink入手学习无人驾驶   [link](https://www.zhihu.com/question/20210846/answer/1147397588?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608)
 
 ### 车道检测
 
@@ -1384,6 +1480,23 @@
 1.   [Faiss流程与原理分析](https://www.cnblogs.com/yhzhou/p/10568728.html)
 2.  [Faiss从入门到实战精通_bitcarmanlee的博客-CSDN博客_faiss是什么](https://blog.csdn.net/bitcarmanlee/article/details/106447629)
 3.  [图像检索 ](http://blog.rexking6.top/categories/%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2/)
+
+
+
+### 图像质量评价
+
+1. [图像处理评价指标之模糊度、清晰度（待更新） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/205495107)  清晰度评估（深度）
+2. [(39条消息) Opencv基本学习-----之三种提取图像亮度的方法_锥子A的博客-CSDN博客_opencv 获取图像亮度](https://blog.csdn.net/weixin_39609623/article/details/95306158?depth_1-)
+3. 完整度评估
+4. 姿态评估   姿态评估（深度）
+5. 分辨率评估
+6.  遮挡评估  [(40条消息) 人脸遮挡检测的几种思路_Treasureashes的博客-CSDN博客_人脸遮挡](https://blog.csdn.net/Treasureashes/article/details/109202171)
+
+
+
+
+
+
 
 ### 其他
 
