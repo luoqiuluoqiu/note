@@ -198,24 +198,29 @@
 4. TensorRT [link](https://zhuanlan.zhihu.com/p/68043213)
 5. NNoM [github](https://github.com/majianjia/nnom/blob/master/docs/rt-thread_guide.md)
 6. 常见框架介绍 [link](https://kezunlin.me/post/3620a857/)
-7. ncnn  腾讯  pc_win10_x64安装ncnn，并使用vulkan  [link](https://blog.csdn.net/kai1001/article/details/91043439)
+7. ncnn  腾讯  pc_win10_x64安装ncnn，并使用vulkan  [link](https://blog.csdn.net/kai1001/article/details/91043439)   
+
+    [ncnn源码学习（一）：学习顺序 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/454835595)
+
+    [ncnn源码阅读笔记 - 文集 - 简书 (jianshu.com)](https://www.jianshu.com/nb/40166327)
 8. tvm
-9. ZQCNN
-10. AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
-11. MNN 阿里
-12. paddle-mobile  百度
-13. MACE2 小米
-14. TEngine 
-15. tensorflow lite 
-16. QNNPACK
-17. FeatherCNN
-18. ArmNN  [github](https://github.com/ARM-software/armnn)
-19. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
-20. cortex [github](https://github.com/cortexlabs/cortex)
-21. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
-22. [Msnhnet](https://github.com/msnh2012/Msnhnet) 2020
-23. Simple Dynamic Batching Inference [github](https://github.com/YellowOldOdd/SDBI)
-23. [nebullvm (github.com)](https://github.com/nebuly-ai/nebullvm) [link](https://mp.weixin.qq.com/s/nlr_9FVZE8EmdE-E64gc2A)
+9. neoml
+10. ZQCNN
+11. AI移动端常用汇编指令  [github](https://www.zhihu.com/people/zxloas/posts)
+12. MNN 阿里
+13. paddle-mobile  百度
+14. MACE2 小米
+15. TEngine 
+16. tensorflow lite 
+17. QNNPACK
+18. FeatherCNN
+19. ArmNN  [github](https://github.com/ARM-software/armnn)
+20. dabnn 京东 [github](https://github.com/JDAI-CV/dabnn/blob/master/README_CN.md)
+21. cortex [github](https://github.com/cortexlabs/cortex)
+22. 一个非常高效易用的nvidia TensorRT封装,支持c++,python调用  [github](https://github.com/zerollzeng/tiny-tensorrt)
+23. [Msnhnet](https://github.com/msnh2012/Msnhnet) 2020
+24. Simple Dynamic Batching Inference [github](https://github.com/YellowOldOdd/SDBI)
+25. [nebullvm (github.com)](https://github.com/nebuly-ai/nebullvm) [link](https://mp.weixin.qq.com/s/nlr_9FVZE8EmdE-E64gc2A)
 
 ### 蒸馏 剪枝  量化
 
