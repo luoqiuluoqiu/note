@@ -604,8 +604,9 @@
 42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
 43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
 44. pytorch-image-models [Pytorch Image Models (rwightman.github.io)](https://rwightman.github.io/pytorch-image-models/)
-44. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
-44. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
+45. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
+46. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
+47. [从零搭建Pytorch模型教程（七）单机多卡和多机多卡训练 (qq.com)](https://mp.weixin.qq.com/s/m9xuIac727uax44D219MDw)
 
 ### paddlepaddle
 
