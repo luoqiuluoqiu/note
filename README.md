@@ -607,6 +607,7 @@
 45. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
 46. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
 47. [从零搭建Pytorch模型教程（七）单机多卡和多机多卡训练 (qq.com)](https://mp.weixin.qq.com/s/m9xuIac727uax44D219MDw)
+48. [PyTorch自定义CUDA算子教程与运行时间分析](https://godweiyang.com/2021/03/18/torch-cpp-cuda/)
 
 ### paddlepaddle
 
@@ -625,7 +626,7 @@
 
 0. OpenCV4.X - DNN模块 Python APIs  [link](https://www.aiuai.cn/aifarm941.html)
 
-### tensorRT
+### tensorRT、Triton
 
 0. Pytorch通过保存为ONNX模型转TensorRT5 [link](https://blog.csdn.net/qq_38003892/article/details/89314108)
 1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
