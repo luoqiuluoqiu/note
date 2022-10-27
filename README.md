@@ -949,6 +949,7 @@
 7. DeepPoseKit - 使用深度学习进行姿势估计的工具包  tensorflow keras [github](https://github.com/jgraving/deepposekit)
 8. You Only Watch Once：实时人体动作定位网络 [github](https://github.com/wei-tim/YOWO)
 9. 用于多人位姿估计和实例细分的PersonLab的Tensorflow实现 [github](https://github.com/scnuhealthy/Tensorflow_PersonLab)
+10. [2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/413313925)
 
 
 ### 行人重识别
@@ -1396,9 +1397,10 @@
 18. 用于医学图像分割的损失函数  [link](https://zhuanlan.zhihu.com/p/267128903)
 19. 目标检测回归损失函数简介：SmoothL1/IoU/GIoU/DIoU/CIoU Loss  [link](https://bbs.cvmart.net/topics/1436)   [(40条消息) GIoU DIoU CIoU loss 损失函数_不佛的博客-CSDN博客_ciou loss](https://blog.csdn.net/bu_fo/article/details/110428980)
 20. 损失函数技术总结  [link](https://mp.weixin.qq.com/s/RgHxo8XGmUzFm_FWCoAdsg)
-20. [jiawei-ren/BalancedMSE: [CVPR 2022 Oral\] Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427 (github.com)](https://github.com/jiawei-ren/BalancedMSE)
-20.  Contrastive Loss、Triplet Loss、Focal Loss
-20. [一文看尽深度学习中的15种损失函数](https://mp.weixin.qq.com/s/F1UY-gUMkqYXqgNRlGUEDg)
+21. [jiawei-ren/BalancedMSE: [CVPR 2022 Oral\] Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427 (github.com)](https://github.com/jiawei-ren/BalancedMSE)
+22. Contrastive Loss、Triplet Loss、Focal Loss
+23. [一文看尽深度学习中的15种损失函数](https://mp.weixin.qq.com/s/F1UY-gUMkqYXqgNRlGUEDg)
+24. [CV+Deep Learning——网络架构Pytorch复现系列——Detection(一：SSD:Single Shot MultiBox Detector 3.loss) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/555165938)
 
 
 
