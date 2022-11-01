@@ -45,7 +45,7 @@
 8. 只(挚)爱图像处理  [link](https://www.cnblogs.com/Imageshop)
 9. Photoshop 算法原理 [link](https://www.cnblogs.com/mtcnn/category/1269166.html)
 
-# 深度学习基础模型
+# 深度学习额外知识
 
 ----
 
@@ -271,7 +271,7 @@
 
 0. Mish: 一个新的activation function [link](https://zhuanlan.zhihu.com/p/87696023)  [github](https://github.com/lessw2020/mish)
 
-# 基础领域
+# 基础领域模型
 
 ### 分类 
 
