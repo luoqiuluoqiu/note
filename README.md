@@ -1,5 +1,3 @@
-[TOC]
-
 
 
 # 算法
@@ -273,6 +271,8 @@
 
 0. Mish: 一个新的activation function [link](https://zhuanlan.zhihu.com/p/87696023)  [github](https://github.com/lessw2020/mish)
 
+# 基础领域
+
 ### 分类 
 
 0. 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺 [link](https://zhuanlan.zhihu.com/p/77221549) [link](https://www.paperswithcode.com/sota/image-classification-on-imagenet)
@@ -527,6 +527,65 @@
 4. Pixellib 是一个图像分割库，支持语义分割和实例分割   [github](https://github.com/ayoolaolafenwa/PixelLib)
 5. [PolarMask](https://github.com/xieenze/PolarMask)
 
+### GAN 对抗神经网络
+
+0. 使用Pytorch实现的各种对抗性生成网络GAN [github](https://github.com/ozanciga/gans-with-pytorch)
+1. Liquid Warping GAN：模仿人体运动，外观转移和新颖视图合成的统一框架 [github](https://github.com/svip-lab/impersonator)
+2. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
+3. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
+4. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
+5. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
+6. Generative Deep Learning 的中文翻译 [code](https://github.com/davidADSP/GDL_code) [github](https://github.com/ythwilam/Generative-Deep-Learning-translate-zh)
+7. Jokeriser使用人脸识别+CycleGAN训练的生成器将人脸转换成小丑Joker的脸 [github](https://github.com/junkwhinger/jokerise)
+8. instagan [link](https://github.com/sangwoomo/instagan) [link](https://blog.csdn.net/qq_33430288/article/details/88742831)
+9. stargan  [github]( https://github.com/yunjey/stargan)
+10. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
+11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
+12. CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github](https://github.com/mnicnc404/CartoonGan-tensorflow)
+13. 想用StyleGAN生成老婆？来看看这个小哥的复现细节吧 [github](https://zhuanlan.zhihu.com/p/102085621)
+14. StyleGAN2蒸馏用于前馈图像处理 [github](https://github.com/EvgenyKashin/stylegan2-distillation)
+15. GANILLA：将图像转成插图生成对抗网络的PyTorch实现  [github](https://github.com/giddyyupp/ganilla)
+16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
+17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
+18. 单张图像就可以训练GAN！Adobe改良图像生成方法 [github](https://github.com/tohinz/ConSinGAN)
+19. mimicry  A PyTorch library for the reproducibility of GAN research.  [github](https://github.com/kwotsin/mimicry)
+20. Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images  图片-食谱相互生成的问题 [link](把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？ - 时间旅客的回答 - 知乎 https://www.zhihu.com/question/363503176/answer/1148326488)  [github](https://github.com/hwang1996/ACME)
+21. Self-Supervised Scene De-occlusion   神奇的自监督场景去遮挡    [github](https://github.com/XiaohangZhan/deocclusion)
+22. 漂亮的人脸卡通化，小视科技开源成熟模型与训练数据  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247504467&idx=2&sn=a9938e591e6e1cc38fd8a9e0d7e66211&chksm=96f0a007a18729119dd6042cdc696d621fd01f0b8cfe6f353cc278d22b5154a53d727d2f93a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277864478&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d86dc0c9497b857537aff5d7e5751db6421d24e10dbb68eaea4ccef79cffa074dfc89b1f11e5114ae5336db6f791d2cfd7d3c2b7c1f2a52d01c2958f2cfb0b2b49ca36e2664aceb5ed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AcCm72ztWeavfwMNAHIhapM%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG) [github](https://github.com/minivision-ai/photo2cartoon)
+23. 看GAN如何一步步控制图像生成风格？详解StyleGAN进化过程  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650785254&idx=2&sn=b31dc847ab3afb402f45699133564d40&chksm=871a0198b06d888ea093617969eab9efae09f047834edb3f2e1ff5307b0c5dd2df5e4cbdc5db&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277778537&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d890347d4a96248ee14d028ace67ae03a47b5b463c022afb3cc4927f3576d1cf0d62a45c88b6c7d0a7aeaf225c3d33899485fae7eb8dee5bc63b89ca53cd828ab62a240442b75c22bd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AbkVF0JCLx6WUKrvk9JcRQ4%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG)
+24. 一键上妆的BeautyGAN   [link](https://zhuanlan.zhihu.com/p/67523051) [github](https://github.com/Honlan/BeautyGAN)
+25. PSGAN   [link](https://zhuanlan.zhihu.com/p/101271393)  [github](https://github.com/wtjiang98/PSGAN)
+26. 二次元萌妹高清舞姿随心变，换装只需一瞬间 | 又是GAN立功了   [github](https://github.com/tkarras/progressive_growing_of_gans)
+27. cp-vton  换装   [github](https://github.com/sergeywong/cp-vton)
+28. StyleGAN2.pytorch   [github](https://github.com/huangzh13/StyleGAN2.pytorch)
+29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
+30. stargan-v2   [github](https://github.com/clovaai/stargan-v2)
+31. 一组经过预先训练的StyleGAN 2模型可供下载   [github](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+32. DG-Net   CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification   [github](https://github.com/NVlabs/DG-Net)
+33. 可视化GAN训练过程   [github](https://github.com/EvgenyKashin/gan-vis)
+34. 人脸年龄编辑  v2    [github](https://github.com/InterDigitalInc/HRFAE)
+35. pix2pixHD   [github](https://github.com/NVIDIA/pix2pixHD)
+36. Automatic Line Art Colorization - 自动进行线条艺术着色   [github](https://github.com/SerialLain3170/Colorization)
+37. stylegan-encoder [github](https://github.com/pbaylies/stylegan-encoder)
+38. stylegan2encoder  [github](https://github.com/rolux/stylegan2encoder)
+39. 基于StyleGAN2的新版人脸生成器   [github](https://github.com/a312863063/generators-with-stylegan2)
+40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
+41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
+42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
+43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
+44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
+45. ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
+46. Deep Generative Prior：实现通用的图像复原与编辑 2020   [github](https://github.com/XingangPan/deep-generative-prior)
+47. AI实时换脸项目   [github](https://github.com/alievk/avatarify)
+48. DeepMosaics   通过深度学习自动的为图片/视频添加马赛克,或消除马赛克  [github](https://github.com/HypoX64/DeepMosaics/blob/master/README_CN.md)
+49. deepnude_official 去除衣服 [github](https://github.com/stacklikemind/deepnude_official)
+50. 肖像画  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803122&idx=1&sn=6a06d9e5b1d49a4a107328eb23c1ba95&chksm=84e5cfccb39246daac2759406b86550449d2620e68e5070023a44d129f1c7b11420e9453b81e&mpshare=1&scene=1&srcid=11258uyMnZKfD6pu31HdgSYr&sharer_sharetime=1606313448761&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f63f02c774b21274a2c2bdd11ae9ef2d20259f64c93dc61131822b52eb64744e6545deedcc552e1b5540d6f228ff88810ccab318534dead2f691eb686a47535115f8baae029b3f25d1216bfe152d02a6691ef4762f753dffb7381df4a3a236eff0540a11f22ecdf7d64bc40762d01c8d6adf7483c11b954f37f&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AXqbIGjjT2wbKp9h1lpM%2FbE%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
+51. Deep-Iterative-Collaboration   [github](https://github.com/Maclory/Deep-Iterative-Collaboration)
+52. [anycost-gan](https://github.com/mit-han-lab/anycost-gan)
+53. 漫谈VAE和VQVAE，从连续分布到离散分布 [link](https://mp.weixin.qq.com/s/CUGB8oAN0F0tmEsSlmWLJQ)
+54. 训练GAN[的一些骚操作](https://zhuanlan.zhihu.com/p/74663048)
+55. [(42条消息) GAN生成对抗网络_机器学习与AI生成创作的博客-CSDN博客](https://blog.csdn.net/lgzlgz3102/category_10077220.html)
+
 ###  跟踪Tracking
 
 0. 基于孪生网络（SiamNet）的单目标跟踪算法 [github](https://github.com/NklausMikealson/SOT_Code_Comment)
@@ -547,135 +606,7 @@
 
 
 
-## 深度学习框架
-
-### [MatrixSlow  纯python实现](https://github.com/zackchen/MatrixSlow)
-
-​	
-
-### tensorflow
-
-1.  《30天吃掉那只 TensorFlow2.0 》开篇辞 [github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
-
-### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable  ](https://download.pytorch.org/whl/torch_stable.html)   [pytorch_lightning ](https://github.com/PyTorchLightning/pytorch-lightning)
-
-0. 混合精度神经网络训练：理论与实践 [github](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8302.pdf)
-1. 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。 [github](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-2. FlashTorch 特征可视化 [link](https://zhuanlan.zhihu.com/p/81838126)
-3. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
-4. Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
-5. PyTorch 官方中文教程 [github](https://github.com/fendouai/PyTorchDocs)
-6. 在PyTorch中实现的语义分割模型，数据集和损失  [github](https://github.com/yassouali/pytorch_segmentation)
-7. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
-8. 《动手学深度学习》例子的PyTorch实现 [github](https://www.ctolib.com/dsgiitr-d2l-pytorch.html)
-9. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
-10. TorchSnooper [github](https://zhuanlan.zhihu.com/p/67415439)   [link](https://www.toutiao.com/a6703740788762739213/)
-11. 画网络图等tensorwatch [link](https://zhuanlan.zhihu.com/p/68613993) [github](https://github.com/microsoft/tensorwatch)
-12. 如何优雅的使用pytorch内置torch.nn.CTCLoss的方法 
-13. pytorch-cpp-inference   包含C++ httpserver  base64[github](https://github.com/Wizaron/pytorch-cpp-inference)
-14. pytorch  2C#  inference   [github](https://github.com/maxest/MaxestFramework) 
-15. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
-16. torchcv [github](https://github.com/donnyyou/torchcv)
-17. Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
-18. 二进制模型 [github](https://github.com/wonnado/binary-nets)
-19. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
-20. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
-21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
-22. Awesome-Pytorch-list [github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
-23. PyTorch Wrapper：提供一种使用PyTorch系统并且可扩展的方式来构建、训练、推理和调整深度学习模型  [github](https://github.com/jkoutsikakis/pytorch-wrapper)
-24. 一组有关pytorch功能的Jupyter笔记本和示例 [github](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
-25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
-26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
-27. 具有SOTA实时性能和预先训练的权重的EfficientDet官方pytorch重现  [github](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
-28. TorchSketch：基于PyTorch深度学习库  支持CNN  RNN GCN TCN [github](https://github.com/PengBoXiangShang/torchsketch)
-29. Torchcam: PyTorch模型类激活图浏览器   [github](https://github.com/luoqiuluoqiu/torch-cam)
-30. PopGen是用PyTorch编写的生成建模工具包   [github](https://github.com/Popgun-Labs/PopGen)
-31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
-32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
-33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
-34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
-35. eat_pytorch_in_20_days   [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
-36. FAIRScale：用于高性能和大规模训练的PyTorch工具   [github](https://github.com/facebookresearch/fairscale)
-37. PyTorch-Models   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
-38. pytorch LSTM 01   [link](https://zhuanlan.zhihu.com/p/180435809)
-39. 9大主题卷积神经网络(CNN)的PyTorch实现   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
-40. [computervision-recipes](https://github.com/microsoft/computervision-recipes)
-41. pytorch-receptive-field  感受野计算   [github](https://github.com/Fangyh09/pytorch-receptive-field)
-42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
-43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
-44. pytorch-image-models [Pytorch Image Models (rwightman.github.io)](https://rwightman.github.io/pytorch-image-models/)
-45. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
-46. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
-47. [从零搭建Pytorch模型教程（七）单机多卡和多机多卡训练 (qq.com)](https://mp.weixin.qq.com/s/m9xuIac727uax44D219MDw)
-48. [PyTorch自定义CUDA算子教程与运行时间分析](https://godweiyang.com/2021/03/18/torch-cpp-cuda/)
-
-### paddlepaddle
-
-0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
-1. [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim)
-
-###  ONNX
-
-0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
-1.  详细记录YOLACT实例分割ncnn实现  [link](https://zhuanlan.zhihu.com/p/128974102)
-2.  系统性学习ONNX：背景、格式及简化方法  [link](https://mp.weixin.qq.com/s/bfYmjJYD3vxnyHohpvl54g)
-3.  [onnx2nn](https://github.com/BBuf/onnx2nn)
-4.  [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
-
-###  openc dnn
-
-0. OpenCV4.X - DNN模块 Python APIs  [link](https://www.aiuai.cn/aifarm941.html)
-
-### tensorRT、Triton
-
-0. Pytorch通过保存为ONNX模型转TensorRT5 [link](https://blog.csdn.net/qq_38003892/article/details/89314108)
-1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
-2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
-3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
-4. TensorRT-7 Network Lib 包括常用目标检测、关键点检测、人脸检测、OCR等   [github](https://github.com/Syencil/tensorRT)
-
-### [jittor ](https://cg.cs.tsinghua.edu.cn/jittor/) 清华AI框架
-
-	0. jittor[官网](https://cg.cs.tsinghua.edu.cn/jittor/)   [github](https://github.com/Jittor/jittor)
-
-###  MegEngine  旷世AI框架
-
-0. MegEngine  [link](https://megengine.org.cn/)  [github](https://github.com/MegEngine/MegEngine)
-
-### mindspore  华为AI框架
-
-1. [mindspore](https://github.com/mindspore-ai/mindspore)			
-
-### tinygrad
-
-1.  ​	最小深度学习框架tinygrad [github](https://github.com/geohot/tinygrad)
-
-
-
-### [ppl.nn](https://github.com/openppl-public/ppl.nn) [ppl.cv](https://github.com/openppl-public/ppl.cv) 商汤开源框架
-
-​	
-
-### [ VNN](https://github.com/joyycom/VNN)  欢聚集团推出的高性能、轻量级神经网络部署框架
-
-
-
-### 工具
-
-0. 教程 | 如何使用Keras、Redis、Flask和Apache把深度学习模型部署到生产环境？ [link](https://cloud.tencent.com/developer/article/1120753)
-1. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
-2. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
-3. netron 网络结构图显示 [github](https://github.com/lutzroeder/netron)
-4. labelImg  [github](https://github.com/tzutalin/labelImg)
-5. modelsummary [github](https://github.com/graykode/modelsummary)
-6. pytorch-experiments-template  [github](https://github.com/learning-luke/pytorch-experiments-template)
-7. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
-8. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
-9. FLAT - 人脸特征点标注工具 [github](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)
-10. 把Caffe的模型转换为Pytorch模型    [link](https://blog.csdn.net/DumpDoctorWang/article/details/88718079)
-11. 从.caffemodel/.caffemodel.h5提取Caffe模型的参数   [link](https://blog.csdn.net/DumpDoctorWang/article/details/88732919)
-12. gradio 快速的构建UI网页[link](https://www.gradio.app/docs)
-13. 群体智能算法  [link](https://scikit-opt.github.io/scikit-opt/#/zh/?id=scikit-opt)
+13. 
 
 # 业务模型 #
 
@@ -740,7 +671,7 @@
 23. Transformer模型详解  讲解为最清晰 [link](https://terrifyzhao.github.io/2019/01/11/Transformer%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.html)
 24.   [lightseq](https://github.com/bytedance/lightseq)
 25. Jaccard与cosine[文本相似度的异同](https://zhuanlan.zhihu.com/p/60723017)
-24. 
+24. [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)
 
 ### 边缘检测算法
 
@@ -760,6 +691,21 @@
 7. Text detection model that combines Retinanet with textboxes++ for OCR  [github](https://github.com/qjadud1994/Text_Detector)
 8. handwritten-text-recognition-for-apache-mxnet [github](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet)
 
+
+
+### 人脸编辑
+
+- [yangxy/GPEN (github.com)](https://github.com/yangxy/GPEN)
+- [Latent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple Face Attributes in StyleGAN-Generated Images (thecvf.com)](https://openaccess.thecvf.com/content/WACV2022/papers/Khodadadeh_Latent_to_Latent_A_Learned_Mapper_for_Identity_Preserving_Editing_WACV_2022_paper.pdf)
+- [Tengfei-Wang/HFGI: CVPR 2022 HFGI: High-Fidelity GAN Inversion for Image Attribute Editing (github.com)](https://github.com/Tengfei-Wang/HFGI)
+- [nv-tlabs/editGAN_release (github.com)](https://github.com/nv-tlabs/editGAN_release)
+- [GAN系列算法教程 – 奥比迪教育 (abilitygame.cn)](http://www.abilitygame.cn/2022/07/04/paddlegan框架教程/#6_EditGAN)
+- [UniBester/AGE: A implementation of Attribute Group Editing for Reliable Few-shot Image Generation (CVPR 2022) (github.com)](https://github.com/UniBester/AGE)
+- [genforce/mganprior: [CVPR 2020\] Image Processing Using Multi-Code GAN Prior (github.com)](https://github.com/genforce/mganprior)
+- [genforce/interfacegan: [CVPR 2020\] Interpreting the Latent Space of GANs for Semantic Face Editing (github.com)](https://github.com/genforce/interfacegan)
+- [GenForce](https://genforce.github.io/)
+- [InterDigitalInc/latent-transformer: Official implementation for paper: A Latent Transformer for Disentangled Face Editing in Images and Videos. (github.com)](https://github.com/InterDigitalInc/latent-transformer)
+- [(42条消息) 图像编辑系列之（2）基于StyleGAN（3）GAN逆映射（4）人脸 （5）语义生成 | ICCV2021生成对抗GAN梳理汇总..._机器学习与AI生成创作的博客-CSDN博客](https://blog.csdn.net/lgzlgz3102/article/details/123606430)
 
 ###  人脸检测和特征点定位
 
@@ -1173,64 +1119,6 @@
 8. 用这种方法骗过护照人脸识别系统    [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650794666&idx=2&sn=9ab4c9280bf07f135f9c529f7da4f356&chksm=871a2ed4b06da7c2c632fe4299d0c5e111b1d6d7d358e2a4b36e228bd53260405e319acdb142&mpshare=1&scene=1&srcid=08092J2uegcqXR4cX3NwkvGb&sharer_sharetime=1596960588009&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=6664ac14267ba668fba8a6baf6e9748a9efd5fcd89548849f73b855fec632c9e82ae1f38d5c050d6d02d2954e48aad7f20ad649229c0c7e5d501441d17b3200c3be2489b066d9d4534780758843b1570&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AcywXSVZYb9RWSXwlGyO1as%3D&pass_ticket=o0CuyW3IDZ5y5KMMKwGnELVbh2VCcpJSX7bZTVUfWBUWM6%2BASjGdw5Xo6CTW%2FEUj)
 8. 对抗攻击算法FGSM的纯粹版    [link](https://mp.weixin.qq.com/s/vpYbZqeUPCohr4w--hFHiw)
 
-### GAN 对抗神经网络
-
-0. 使用Pytorch实现的各种对抗性生成网络GAN [github](https://github.com/ozanciga/gans-with-pytorch)
-1. Liquid Warping GAN：模仿人体运动，外观转移和新颖视图合成的统一框架 [github](https://github.com/svip-lab/impersonator)
-2. PyTorch-GAN  [github](https://github.com/eriklindernoren/PyTorch-GAN)
-3. layout2im 2019 [github](https://github.com/zhaobozb/layout2im)
-4. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation [github](https://github.com/taki0112/GDWCT-Tensorflow)
-5. 把小姐姐自拍，变成二次元萌妹子，神情高度还原，效果胜于CycleGAN [link](https://zhuanlan.zhihu.com/p/76936166) [github](https://github.com/znxlwm/UGATIT-pytorch)
-6. Generative Deep Learning 的中文翻译 [code](https://github.com/davidADSP/GDL_code) [github](https://github.com/ythwilam/Generative-Deep-Learning-translate-zh)
-7. Jokeriser使用人脸识别+CycleGAN训练的生成器将人脸转换成小丑Joker的脸 [github](https://github.com/junkwhinger/jokerise)
-8. instagan [link](https://github.com/sangwoomo/instagan) [link](https://blog.csdn.net/qq_33430288/article/details/88742831)
-9. stargan  [github]( https://github.com/yunjey/stargan)
-10. impersonator  2019  pytorch  [github](https://github.com/svip-lab/impersonator)
-11. Fashion editing on Pytorch  [github](https://github.com/HAN-YANG-HIT/Fashion-Editing)
-12.  CartoonGan-tensorflow 实景照片秒变新海诚风格漫画：清华大学提出CartoonGAN  [github](https://github.com/mnicnc404/CartoonGan-tensorflow)
-13. 想用StyleGAN生成老婆？来看看这个小哥的复现细节吧 [github](https://zhuanlan.zhihu.com/p/102085621)
-14. StyleGAN2蒸馏用于前馈图像处理 [github](https://github.com/EvgenyKashin/stylegan2-distillation)
-15. GANILLA：将图像转成插图生成对抗网络的PyTorch实现  [github](https://github.com/giddyyupp/ganilla)
-16. 基于“一阶模型”的人脸图像运动模型(Photo-2-Video) [github](https://github.com/tg-bomze/Face-Image-Motion-Model)
-17. AnimeGAN 的一个Tensorflow实现用于将真实世界的照片转换为动漫图像 [github](https://github.com/TachibanaYoshino/AnimeGAN)
-18. 单张图像就可以训练GAN！Adobe改良图像生成方法 [github](https://github.com/tohinz/ConSinGAN)
-19. mimicry  A PyTorch library for the reproducibility of GAN research.  [github](https://github.com/kwotsin/mimicry)
-20. Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images  图片-食谱相互生成的问题 [link](把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？ - 时间旅客的回答 - 知乎 https://www.zhihu.com/question/363503176/answer/1148326488)  [github](https://github.com/hwang1996/ACME)
-21.  Self-Supervised Scene De-occlusion   神奇的自监督场景去遮挡    [github](https://github.com/XiaohangZhan/deocclusion)
-22. 漂亮的人脸卡通化，小视科技开源成熟模型与训练数据  [link](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247504467&idx=2&sn=a9938e591e6e1cc38fd8a9e0d7e66211&chksm=96f0a007a18729119dd6042cdc696d621fd01f0b8cfe6f353cc278d22b5154a53d727d2f93a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277864478&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d86dc0c9497b857537aff5d7e5751db6421d24e10dbb68eaea4ccef79cffa074dfc89b1f11e5114ae5336db6f791d2cfd7d3c2b7c1f2a52d01c2958f2cfb0b2b49ca36e2664aceb5ed&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AcCm72ztWeavfwMNAHIhapM%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG) [github](https://github.com/minivision-ai/photo2cartoon)
-23. 看GAN如何一步步控制图像生成风格？详解StyleGAN进化过程  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650785254&idx=2&sn=b31dc847ab3afb402f45699133564d40&chksm=871a0198b06d888ea093617969eab9efae09f047834edb3f2e1ff5307b0c5dd2df5e4cbdc5db&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277778537&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=9de0b3367445c6d890347d4a96248ee14d028ace67ae03a47b5b463c022afb3cc4927f3576d1cf0d62a45c88b6c7d0a7aeaf225c3d33899485fae7eb8dee5bc63b89ca53cd828ab62a240442b75c22bd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AbkVF0JCLx6WUKrvk9JcRQ4%3D&pass_ticket=nJ0Ubvm%2FAFht0b7p8cSE%2FHxoa1DXgMc2TLanmNSe9brBAOEL9QM%2BCLH%2B0oVNNyyG)
-24. 一键上妆的BeautyGAN   [link](https://zhuanlan.zhihu.com/p/67523051) [github](https://github.com/Honlan/BeautyGAN)
-25. PSGAN   [link](https://zhuanlan.zhihu.com/p/101271393)  [github](https://github.com/wtjiang98/PSGAN)
-26. 二次元萌妹高清舞姿随心变，换装只需一瞬间 | 又是GAN立功了   [github](https://github.com/tkarras/progressive_growing_of_gans)
-27. cp-vton  换装   [github](https://github.com/sergeywong/cp-vton)
-28. StyleGAN2.pytorch   [github](https://github.com/huangzh13/StyleGAN2.pytorch)
-29. Interpreting the Latent Space of GANs for Semantic Face Editing   [link](https://genforce.github.io/interfacegan/)  [github](https://github.com/genforce/interfacegan)
-30. stargan-v2   [github](https://github.com/clovaai/stargan-v2)
-31. 一组经过预先训练的StyleGAN 2模型可供下载   [github](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
-32. DG-Net   CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification   [github](https://github.com/NVlabs/DG-Net)
-33. 可视化GAN训练过程   [github](https://github.com/EvgenyKashin/gan-vis)
-34. 人脸年龄编辑  v2    [github](https://github.com/InterDigitalInc/HRFAE)
-35. pix2pixHD   [github](https://github.com/NVIDIA/pix2pixHD)
-36. Automatic Line Art Colorization - 自动进行线条艺术着色   [github](https://github.com/SerialLain3170/Colorization)
-37. stylegan-encoder [github](https://github.com/pbaylies/stylegan-encoder)
-38. stylegan2encoder  [github](https://github.com/rolux/stylegan2encoder)
-39. 基于StyleGAN2的新版人脸生成器   [github](https://github.com/a312863063/generators-with-stylegan2)
-40. StyleGAN 系列解读  [link](https://blog.csdn.net/weixin_41943311)
-41. Big GANs Are Watching You" pre-print   [github](https://github.com/anvoynov/BigGANsAreWatching)
-42. 基于StyleGAN2，模糊变清晰PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models   [github](https://github.com/adamian98/pulse)
-43. FaceShifter  高清换脸   [github ](https://github.com/taotaonice/FaceShifter)   [FaceShifter-pytorch](https://github.com/Heonozis/FaceShifter-pytorch)
-44. Face Depixelizer基于 "PULSE：Self-Supervised Photo Supports via Latent Space Exploration of Generative   [github](https://github.com/tg-bomze/Face-Depixelizer)
-45.  ALAE  Adversarial Latent Autoencoders   2020  [github](https://github.com/podgorskiy/ALAE)
-46.  Deep Generative Prior：实现通用的图像复原与编辑 2020   [github](https://github.com/XingangPan/deep-generative-prior)
-47. AI实时换脸项目   [github](https://github.com/alievk/avatarify)
-48. DeepMosaics   通过深度学习自动的为图片/视频添加马赛克,或消除马赛克  [github](https://github.com/HypoX64/DeepMosaics/blob/master/README_CN.md)
-49. deepnude_official 去除衣服 [github](https://github.com/stacklikemind/deepnude_official)
-50. 肖像画  [link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650803122&idx=1&sn=6a06d9e5b1d49a4a107328eb23c1ba95&chksm=84e5cfccb39246daac2759406b86550449d2620e68e5070023a44d129f1c7b11420e9453b81e&mpshare=1&scene=1&srcid=11258uyMnZKfD6pu31HdgSYr&sharer_sharetime=1606313448761&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=25b00d9988ce6f63f02c774b21274a2c2bdd11ae9ef2d20259f64c93dc61131822b52eb64744e6545deedcc552e1b5540d6f228ff88810ccab318534dead2f691eb686a47535115f8baae029b3f25d1216bfe152d02a6691ef4762f753dffb7381df4a3a236eff0540a11f22ecdf7d64bc40762d01c8d6adf7483c11b954f37f&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=AXqbIGjjT2wbKp9h1lpM%2FbE%3D&pass_ticket=k6J7wpHY7KPeR4QwuTADwllqIwikNxQMCSR2V2W4e4LjhbY4OxHilQPFw5WQOTuj&wx_header=0)
-51. Deep-Iterative-Collaboration   [github](https://github.com/Maclory/Deep-Iterative-Collaboration)
-52.  [anycost-gan](https://github.com/mit-han-lab/anycost-gan)
-53. 漫谈VAE和VQVAE，从连续分布到离散分布 [link](https://mp.weixin.qq.com/s/CUGB8oAN0F0tmEsSlmWLJQ)
-53. 训练GAN[的一些骚操作](https://zhuanlan.zhihu.com/p/74663048)
-
 
 
 
@@ -1470,7 +1358,135 @@
 5.  Jigsaw-Net   [github](https://github.com/anilsathyan7/Jigsaw-Net)
 6.  熊猫不定长验证码识别   [github](https://github.com/yuzhiyizhan/Bearcat_captcha)
 
+## 深度学习框架
 
+### [MatrixSlow  纯python实现](https://github.com/zackchen/MatrixSlow)
+
+​	
+
+### tensorflow
+
+1.  《30天吃掉那只 TensorFlow2.0 》开篇辞 [github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+
+### pytorch [github]( https://github.com/zasdfgbnm/TorchSnooper) [nightly](https://download.pytorch.org/whl/nightly/torch_nightly.html) [torch_stable  ](https://download.pytorch.org/whl/torch_stable.html)   [pytorch_lightning ](https://github.com/PyTorchLightning/pytorch-lightning)
+
+0. 混合精度神经网络训练：理论与实践 [github](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8302.pdf)
+1. 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。 [github](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+2. FlashTorch 特征可视化 [link](https://zhuanlan.zhihu.com/p/81838126)
+3. pytorch-inference [github](https://github.com/zccyman/pytorch-inference)
+4. Pytorch 学习流程汇总 [link](https://zhuanlan.zhihu.com/p/52618087)
+5. PyTorch 官方中文教程 [github](https://github.com/fendouai/PyTorchDocs)
+6. 在PyTorch中实现的语义分割模型，数据集和损失  [github](https://github.com/yassouali/pytorch_segmentation)
+7. Fast-Pytorch  [github](https://github.com/omerbsezer/Fast-Pytorch#model)
+8. 《动手学深度学习》例子的PyTorch实现 [github](https://www.ctolib.com/dsgiitr-d2l-pytorch.html)
+9. 简单两步加速PyTorch里的Dataloader [link](https://zhuanlan.zhihu.com/p/68191407)
+10. TorchSnooper [github](https://zhuanlan.zhihu.com/p/67415439)   [link](https://www.toutiao.com/a6703740788762739213/)
+11. 画网络图等tensorwatch [link](https://zhuanlan.zhihu.com/p/68613993) [github](https://github.com/microsoft/tensorwatch)
+12. 如何优雅的使用pytorch内置torch.nn.CTCLoss的方法 
+13. pytorch-cpp-inference   包含C++ httpserver  base64[github](https://github.com/Wizaron/pytorch-cpp-inference)
+14. pytorch  2C#  inference   [github](https://github.com/maxest/MaxestFramework) 
+15. pytorch-cpp [github](https://github.com/warmspringwinds/pytorch-cpp)
+16. torchcv [github](https://github.com/donnyyou/torchcv)
+17. Pytorch之contiguous函数  [link](https://zhuanlan.zhihu.com/p/64376950)
+18. 二进制模型 [github](https://github.com/wonnado/binary-nets)
+19. 画图工具 [github](https://github.com/MisaOgura/flashtorch)
+20. torchprof - 用于Pytorch模型的逐层分析的最小依赖库 [github](https://github.com/awwong1/torchprof)
+21. PyTorch Image Retrieval - 用于图像检索任务的PyTorch框架 [github](https://github.com/leeesangwon/PyTorch-Image-Retrieval)
+22. Awesome-Pytorch-list [github](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
+23. PyTorch Wrapper：提供一种使用PyTorch系统并且可扩展的方式来构建、训练、推理和调整深度学习模型  [github](https://github.com/jkoutsikakis/pytorch-wrapper)
+24. 一组有关pytorch功能的Jupyter笔记本和示例 [github](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
+25. [pytorch 小技巧](https://github.com/zxdefying/pytorch_tricks)
+26. pytorch-memonger 减少内存  [github](https://github.com/Lyken17/pytorch-memonger)
+27. 具有SOTA实时性能和预先训练的权重的EfficientDet官方pytorch重现  [github](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+28. TorchSketch：基于PyTorch深度学习库  支持CNN  RNN GCN TCN [github](https://github.com/PengBoXiangShang/torchsketch)
+29. Torchcam: PyTorch模型类激活图浏览器   [github](https://github.com/luoqiuluoqiu/torch-cam)
+30. PopGen是用PyTorch编写的生成建模工具包   [github](https://github.com/Popgun-Labs/PopGen)
+31. Lucent：适用于 PyTorch 的 Lucid 深度网络可视化/可解释性开发库   [github](https://github.com/greentfrapp/lucent)
+32. Pytorch的4种并行训练方法（单机多卡）   [github](https://bbs.cvmart.net/topics/2766?from=timeline)
+33. PyTorch的深度学习项目模板(支持分布式学习)   [github](https://github.com/ryul99/pytorch-project-template)
+34. 使用PyTorch手写代码从头构建LSTM，更深入的理解其工作原理   [github](https://zhuanlan.zhihu.com/p/144132609)
+35. eat_pytorch_in_20_days   [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+36. FAIRScale：用于高性能和大规模训练的PyTorch工具   [github](https://github.com/facebookresearch/fairscale)
+37. PyTorch-Models   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
+38. pytorch LSTM 01   [link](https://zhuanlan.zhihu.com/p/180435809)
+39. 9大主题卷积神经网络(CNN)的PyTorch实现   [github](https://github.com/shanglianlm0525/PyTorch-Networks)
+40. [computervision-recipes](https://github.com/microsoft/computervision-recipes)
+41. pytorch-receptive-field  感受野计算   [github](https://github.com/Fangyh09/pytorch-receptive-field)
+42. CVHub手把手帮你榨干GPU的显存  [link ](https://zhuanlan.zhihu.com/p/387453793)
+43. contiguous-params 加快训练速度[link](https://zhuanlan.zhihu.com/p/384239852)
+44. pytorch-image-models [Pytorch Image Models (rwightman.github.io)](https://rwightman.github.io/pytorch-image-models/)
+45. PyTea 不用运行代码，静态分析 pytorch 模型的错误   [link](https://bbs.cvmart.net/articles/5945)  [github](https://github.com/ropas/pytea)
+46. MiniTorch一个 Torch API 的纯 Python 重新实现，展示了从零开始构建一个张量和自动微分库  [minitorch/minitorch: The full minitorch student suite. (github.com)](https://github.com/minitorch/minitorch)     [link](https://mp.weixin.qq.com/s/AyPzhGZRNOzOjm--LQnX0A)
+47. [从零搭建Pytorch模型教程（七）单机多卡和多机多卡训练 (qq.com)](https://mp.weixin.qq.com/s/m9xuIac727uax44D219MDw)
+48. [PyTorch自定义CUDA算子教程与运行时间分析](https://godweiyang.com/2021/03/18/torch-cpp-cuda/)
+
+### paddlepaddle
+
+0. 基于PaddlePaddle的高性能对象检测和人脸检测工具包 [github](https://github.com/PaddlePaddle/PaddleDetection)
+1. [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim)
+
+###  ONNX
+
+0.  onnxruntime  [github](https://github.com/Microsoft/onnxruntime)    [doc](https://microsoft.github.io/onnxruntime/index.html)
+1.  详细记录YOLACT实例分割ncnn实现  [link](https://zhuanlan.zhihu.com/p/128974102)
+2.  系统性学习ONNX：背景、格式及简化方法  [link](https://mp.weixin.qq.com/s/bfYmjJYD3vxnyHohpvl54g)
+3.  [onnx2nn](https://github.com/BBuf/onnx2nn)
+4.  [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
+
+###  openc dnn
+
+0. OpenCV4.X - DNN模块 Python APIs  [link](https://www.aiuai.cn/aifarm941.html)
+
+### tensorRT、Triton
+
+0. Pytorch通过保存为ONNX模型转TensorRT5 [link](https://blog.csdn.net/qq_38003892/article/details/89314108)
+1. onnx-tensorrt [github](https://github.com/onnx/onnx-tensorrt)
+2. PyTorch转TensorRT流程 [link](https://zhuanlan.zhihu.com/p/74144263)
+3. windows环境下安装TensorRT 5.0教程（win10） [link](https://blog.csdn.net/yangzzguang/article/details/85570663)
+4. TensorRT-7 Network Lib 包括常用目标检测、关键点检测、人脸检测、OCR等   [github](https://github.com/Syencil/tensorRT)
+
+### [jittor ](https://cg.cs.tsinghua.edu.cn/jittor/) 清华AI框架
+
+	0. jittor[官网](https://cg.cs.tsinghua.edu.cn/jittor/)   [github](https://github.com/Jittor/jittor)
+
+###  MegEngine  旷世AI框架
+
+0. MegEngine  [link](https://megengine.org.cn/)  [github](https://github.com/MegEngine/MegEngine)
+
+### mindspore  华为AI框架
+
+1. [mindspore](https://github.com/mindspore-ai/mindspore)			
+
+### tinygrad
+
+1.  ​	最小深度学习框架tinygrad [github](https://github.com/geohot/tinygrad)
+
+
+
+### [ppl.nn](https://github.com/openppl-public/ppl.nn) [ppl.cv](https://github.com/openppl-public/ppl.cv) 商汤开源框架
+
+​	
+
+### [ VNN](https://github.com/joyycom/VNN)  欢聚集团推出的高性能、轻量级神经网络部署框架
+
+
+
+### 工具
+
+0. 教程 | 如何使用Keras、Redis、Flask和Apache把深度学习模型部署到生产环境？ [link](https://cloud.tencent.com/developer/article/1120753)
+1. pytorch可视化   [github](https://zhuanlan.zhihu.com/p/62347713)
+2. 画卷积网络  [github](https://github.com/HarisIqbal88/PlotNeuralNet)
+3. netron 网络结构图显示 [github](https://github.com/lutzroeder/netron)
+4. labelImg  [github](https://github.com/tzutalin/labelImg)
+5. modelsummary [github](https://github.com/graykode/modelsummary)
+6. pytorch-experiments-template  [github](https://github.com/learning-luke/pytorch-experiments-template)
+7. m2cgen  Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies [github](https://github.com/BayesWitnesses/m2cgen)
+8. PyTorch工具、最佳实践、代码风格指南  [github](https://github.com/IgorSusmelj/pytorch-styleguide)
+9. FLAT - 人脸特征点标注工具 [github](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)
+10. 把Caffe的模型转换为Pytorch模型    [link](https://blog.csdn.net/DumpDoctorWang/article/details/88718079)
+11. 从.caffemodel/.caffemodel.h5提取Caffe模型的参数   [link](https://blog.csdn.net/DumpDoctorWang/article/details/88732919)
+12. gradio 快速的构建UI网页[link](https://www.gradio.app/docs)
+13. 群体智能算法  [link](https://scikit-opt.github.io/scikit-opt/#/zh/?id=scikit-opt)
 
 ## 深度学习中的不确定性
 
