@@ -690,6 +690,7 @@
 6. PSENet 2018 [github](https://github.com/liuheng92/tensorflow_PSENet)
 7. Text detection model that combines Retinanet with textboxes++ for OCR  [github](https://github.com/qjadud1994/Text_Detector)
 8. handwritten-text-recognition-for-apache-mxnet [github](https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet)
+9. 
 
 
 
@@ -706,6 +707,12 @@
 - [GenForce](https://genforce.github.io/)
 - [InterDigitalInc/latent-transformer: Official implementation for paper: A Latent Transformer for Disentangled Face Editing in Images and Videos. (github.com)](https://github.com/InterDigitalInc/latent-transformer)
 - [(42条消息) 图像编辑系列之（2）基于StyleGAN（3）GAN逆映射（4）人脸 （5）语义生成 | ICCV2021生成对抗GAN梳理汇总..._机器学习与AI生成创作的博客-CSDN博客](https://blog.csdn.net/lgzlgz3102/article/details/123606430)
+- 不同方向的法向量计算方式[Puzer/stylegan-encoder: StyleGAN Encoder - converts real images to latent space (github.com)](https://github.com/Puzer/stylegan-encoder)
+- [不同方向的法向量计算方式RameenAbdal/StyleFlow: StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) (github.com)](https://github.com/RameenAbdal/StyleFlow)
+- [ZPdesu/II2S: Improved StyleGAN Embedding: Where are the Good Latents? (github.com)](https://github.com/ZPdesu/II2S)
+- latent-transformer
+- pixel2style2pixel
+- GAN:     stylegan2--->pixel2style2pixel---> interfacegan--->HFGI、latent-transformer---->GPEN和BeautifyBasedOnGAN
 
 ###  人脸检测和特征点定位
 
@@ -1126,9 +1133,12 @@
 ###  GCN图卷积网络
 
 0. PyG框架及Cora数据集简介 [link](https://zhuanlan.zhihu.com/p/78452993)
-1.  从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络  [github](https://github.com/SivilTaram/Graph-Neural-Network-Note)
+1. 从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络  [github](https://github.com/SivilTaram/Graph-Neural-Network-Note)
 2. SuperGlue: 利用图神经网络实现的学习特征匹配 [github](https://github.com/magicleap/SuperGluePretrainedNetwork)
 3. Curve-GCN:图卷积网络用于活动轮廓演变  [link](https://zhuanlan.zhihu.com/p/115166696?utm_source=wechat_session&utm_medium=social&utm_oi=36958118084608) [github](https://github.com/fidler-lab/curve-gcn)
+4. [PyG\] 1.如何使用GCN完成一个最基本的训练过程(含GCN实现)_sooner高的博客-CSDN博客_gcn训练过程](https://blog.csdn.net/g11d111/article/details/105505642)
+5. [使用PyG进行图神经网络的节点分类、链路预测和异常检测 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/571718979)
+6. [图神经网络(GNN)计算平台整理 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1261439658493956096)
 
 ###  TSP
 
@@ -1163,9 +1173,11 @@
 19. FBA_Matting    [github](https://github.com/MarcoForte/FBA_Matting)
 20. MMNet  [github](https://github.com/hyperconnect/MMNet)
 21. SkyAR   天空变换 [github](https://github.com/jiupinjia/SkyAR)
-22.  animal-matting   [github](https://github.com/JizhiziLi/animal-matting/)
+22. animal-matting   [github](https://github.com/JizhiziLi/animal-matting/)
 23. MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting [github](https://github.com/ZHKKKe/MODNet)
-23. [pymatting/pymatting: A Python library for alpha matting (github.com)](https://github.com/pymatting/pymatting)
+24. [pymatting/pymatting: A Python library for alpha matting (github.com)](https://github.com/pymatting/pymatting)
+25. ![img](assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW95ZWK5ZWK5ZWK5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16.png)
+26. ![img](assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW95ZWK5ZWK5ZWK5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16-16677990003813.png)
 
 ### 行人检测
 
@@ -1359,6 +1371,8 @@
 6.  熊猫不定长验证码识别   [github](https://github.com/yuzhiyizhan/Bearcat_captcha)
 
 ## 深度学习框架
+
+### [modelscope](https://www.modelscope.cn/home)
 
 ### [MatrixSlow  纯python实现](https://github.com/zackchen/MatrixSlow)
 
