@@ -619,6 +619,7 @@
 5. U-2-Net   2020  [github](https://github.com/NathanUA/U-2-Net)
 6. 用于显著性检测的边缘引导网络   [github](https://github.com/JXingZhao/EGNet/)
 7. SOD100K 仅有 100k [参数的高效显著性目标检测方法](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247522116&idx=1&sn=450bcc68831fd8a96c205a20bb069b68&chksm=96f0e510a1876c062e31c64147118341659705fa3a2d474036f3b9565379c96daf5161613b51&mpshare=1&scene=1&srcid=0720ZxFpj5BLti0MlbGC63vF&sharer_sharetime=1595203511465&sharer_shareid=770516eaa6b19453e9b047a542970e15&key=54ce6b15dc70fa94200666394c2e51fe3b54a664c3c70d99fed9035f87e96b09ff6341ef76ebe6cadba12248d746b055b9f5abca9eb36ac4bdec11076e95d970d2ad64c71a6512aeb38e1a85ba87c7cd&ascene=1&uin=MzU3NTExNzc1&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASYYh8HQSW0%2FuXumivUU6F0%3D&pass_ticket=FEqVO4y5%2B7dTQpfdUNHLbhE2%2FfTbZ0f8jvBCatOWnyFSLRqZtrY4lKwlGrCLiRnX)  [github](https://github.com/MCG-NKU/SOD100K)
+8. [danielgatis/rembg: Rembg is a tool to remove images background. (github.com)](https://github.com/danielgatis/rembg)
 
 ### 细粒度识别
 
@@ -712,7 +713,8 @@
 - [ZPdesu/II2S: Improved StyleGAN Embedding: Where are the Good Latents? (github.com)](https://github.com/ZPdesu/II2S)
 - latent-transformer
 - pixel2style2pixel
-- GAN:     stylegan2--->pixel2style2pixel---> interfacegan--->HFGI、latent-transformer---->GPEN和BeautifyBasedOnGAN
+- GAN:     stylegan2--->pixel2style2pixel---> interfacegan--->HFGI、latent-transformer---->GPEN和BeautifyBasedOnGAN、GFPGAN
+- [TencentARC/GFPGAN: GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (github.com)](https://github.com/TencentARC/GFPGAN)
 
 ###  人脸检测和特征点定位
 
@@ -847,7 +849,8 @@
     获得一个旋转矩阵
     ```
 
-    
+
+​					[xinntao/facexlib: FaceXlib aims at providing ready-to-use face-related functions based on current STOA open-source methods. (github.com)](https://github.com/xinntao/facexlib)
 
 ###  人脸识别
 
