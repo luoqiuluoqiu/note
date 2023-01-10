@@ -4,6 +4,10 @@
 
 0. 算法竞赛课件分享 [github](https://github.com/hzwer/shareOI)
 
+#### 矩阵乘法
+
+- [how-to-optimize-gemm/README_ZH_CN.md at master · tpoisonooo/how-to-optimize-gemm (github.com)](https://github.com/tpoisonooo/how-to-optimize-gemm/blob/master/README_ZH_CN.md)
+
 # 机器学习
 
 0. 算法在岗一年的工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
@@ -342,6 +346,11 @@
 6. 在目标检测中如何解决小目标的问题？  [link](https://mp.weixin.qq.com/s/KwxsVF0RNaudMR7Yt3HiXQ)
 
 ![image](https://pic1.zhimg.com/80/v2-65010b2a73d8100258a0d2134eb410d0_hd.jpg)
+
+#### yolo系列
+
+- yolov8 [Ultralytics Docs](https://v8docs.ultralytics.com/)   [triple-Mu/YOLOv8-TensorRT: YOLOv8 using TensorRT accelerate ! (github.com)](https://github.com/triple-Mu/YOLOv8-TensorRT)
+- 
 
 #### 视频目标检测
 
